@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Train.py in src", // <-- 我们要用的配置
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/train.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/src" // <-- 确保这里设置了 src
+        }
+    ]
+}

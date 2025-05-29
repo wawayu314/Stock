@@ -1,0 +1,5 @@
+{
+    "window.commandCenter": true,
+    "workbench.colorTheme": "Visual Studio Light",
+    "terminal.integrated.cwd": "${workspaceFolder}/src"
+}
