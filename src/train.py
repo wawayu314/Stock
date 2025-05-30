@@ -28,6 +28,19 @@ alpha = 0.1 # 损失函数中排序损失的权重
 scale_factor = 3 # StockMixer的尺度因子
 activation = 'GELU' # 激活函数名称 (当前未在StockMixer初始化中直接使用，但可以作为参考或未来扩展)
 
+# Transformer Hyperparameters (恢复之前的值)
+transformer_nhead = 4 
+transformer_nlayers = 2 
+transformer_dim_feedforward = 128 
+transformer_dropout = 0.1
+d_model_transformer_value = 16 # Transformer的内部嵌入维度
+
+# GCN Hyperparameters (new)
+gcn_dropout_rate_value = 0.1
+gcn_use_self_loops_value = True
+
+# Memory Augmentation Hyperparameters (保持，以备 MemoryAugmentedStockMixer 使用)
+
 dataset_path = '../dataset/' + market_name # 数据集完整路径
 if market_name == "SP500":
     # SP500数据集的特殊加载和预处理逻辑
@@ -61,8 +74,15 @@ model = StockMixer(
     stocks=stock_num,
     time_steps=lookback_length,
     channels=fea_num,
-    no_graph_mixer_hidden_dim=market_num, # 确保使用正确的参数名和值
-    scale=scale_factor
+    no_graph_mixer_hidden_dim=market_num, 
+    scale=scale_factor, 
+    transformer_nhead=transformer_nhead, # 应为 4
+    transformer_nlayers=transformer_nlayers, # 应为 2
+    transformer_dim_feedforward=transformer_dim_feedforward,
+    transformer_dropout=transformer_dropout,
+    d_model_transformer=d_model_transformer_value,
+    gcn_dropout_rate=gcn_dropout_rate_value, 
+    gcn_use_self_loops=gcn_use_self_loops_value 
 ).to(device)
 
 optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate) # 定义优化器
