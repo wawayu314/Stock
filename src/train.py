@@ -13,13 +13,13 @@ torch.random.manual_seed(12345678)
 device = torch.device("cuda") if torch.cuda.is_available() else 'cpu' # 如果CUDA可用则使用GPU，否则使用CPU
 
 data_path = '../dataset' # 数据路径
-market_name = 'SP500' # 市场名称
+market_name = 'NASDAQ' # 设置市场为NASDAQ
 relation_name = 'wikidata' # 关系名称 (似乎未使用)
-stock_num = 1026 # 股票数量
+stock_num = 1026 # NASDAQ的股票数量
 lookback_length = 16 # 回溯期长度
 epochs = 100 # 训练轮数
-valid_index = 756 # 验证集起始索引
-test_index = 1008 # 测试集起始索引
+valid_index = 756 # 论文中NASDAQ的训练集天数，即验证集起始索引
+test_index = 1008 # 论文中NASDAQ的训练+验证集天数，即测试集起始索引
 fea_num = 5 # 特征数量
 market_num = 20 # 市场相关参数 (似乎用于NoGraphMixer的hidden_dim，但StockMixer初始化时未使用此变量名)
 steps = 1 # 预测步长
@@ -61,10 +61,8 @@ model = StockMixer(
     stocks=stock_num,
     time_steps=lookback_length,
     channels=fea_num,
-    market=market_name, # 传递市场名称字符串
-    scale=scale_factor,
-    feature_weighting_hidden_dim=None, # 特征加权网络的隐藏维度，None表示不使用
-    feature_weighting_conv_kernel_size=5 # 特征加权网络卷积核大小
+    no_graph_mixer_hidden_dim=market_num, # 确保使用正确的参数名和值
+    scale=scale_factor
 ).to(device)
 
 optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate) # 定义优化器
