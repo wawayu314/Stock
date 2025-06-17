@@ -7,6 +7,23 @@ acv = nn.GELU()
 def get_loss(prediction, ground_truth, base_price, mask, batch_size, alpha):
     device = prediction.device
     all_one = torch.ones(batch_size, 1, dtype=torch.float32).to(device)
+    
+    # 保守的形状检查和修复：只在检测到可能的广播问题时进行修复
+    original_pred_shape = prediction.shape
+    original_base_shape = base_price.shape
+    
+    # 检查是否可能出现广播问题
+    if prediction.ndim == 1 and len(base_price.shape) == 2 and base_price.shape[1] == 1:
+        # 这种情况下会发生 (N,) vs (N,1) 的广播，转换为 (N,1) vs (N,1)
+        prediction = prediction.unsqueeze(1)
+        print(f"信息：检测到潜在的广播问题，已修复预测张量形状: {original_pred_shape} -> {prediction.shape}")
+    elif prediction.ndim == 2 and prediction.shape != base_price.shape:
+        # 其他可能的形状不匹配情况
+        if prediction.shape[0] == base_price.shape[0] and prediction.shape[1] != 1:
+            print(f"警告：预测张量形状异常: {original_pred_shape}，base_price形状: {original_base_shape}")
+            prediction = prediction.squeeze().unsqueeze(1)
+            print(f"已尝试修复为: {prediction.shape}")
+    
     return_ratio = torch.div(torch.sub(prediction, base_price), base_price)
     reg_loss = F.mse_loss(return_ratio * mask, ground_truth * mask)
     pre_pw_dif = torch.sub(
@@ -199,6 +216,55 @@ class NoGraphMixer(nn.Module):
         return x
 
 
+class StockAttentionMixer(nn.Module):
+    def __init__(self, embed_dim, num_heads, hidden_ff_dim, dropout_rate=0.1, activation_fn_class=nn.GELU):
+        super().__init__()
+        self.embed_dim = embed_dim
+        self.num_heads = num_heads
+
+        self.norm1 = nn.LayerNorm(embed_dim)
+        self.attention = nn.MultiheadAttention(embed_dim, num_heads, dropout=dropout_rate, batch_first=False)
+        # batch_first=False because input will be (stock_num, batch_size_is_1, embed_dim)
+
+        self.norm2 = nn.LayerNorm(embed_dim)
+        self.ffn = nn.Sequential(
+            nn.Linear(embed_dim, hidden_ff_dim),
+            activation_fn_class(), 
+            nn.Dropout(dropout_rate),
+            nn.Linear(hidden_ff_dim, embed_dim),
+            nn.Dropout(dropout_rate)
+        )
+
+    def forward(self, x):
+        # Input x: (stock_num, embed_dim)
+        # MultiheadAttention expects (seq_len, batch_size, embed_dim)
+        # Here, stock_num is seq_len, batch_size is 1 (conceptually, as we process all stocks together)
+        
+        # Reshape for attention: (stock_num, 1, embed_dim)
+        x_for_attn = x.unsqueeze(1) 
+        
+        x_norm = self.norm1(x_for_attn)
+        
+        # Self-attention: query, key, value are all x_norm
+        # attn_output shape: (stock_num, 1, embed_dim)
+        attn_output, _ = self.attention(x_norm, x_norm, x_norm)
+        
+        # Add & Norm (first residual connection)
+        x_res1 = x_for_attn + attn_output 
+        
+        # FFN part
+        x_norm2 = self.norm2(x_res1)
+        ffn_output = self.ffn(x_norm2) # Shape: (stock_num, 1, embed_dim)
+        
+        # Add & Norm (second residual connection)
+        # Note: The residual connection should be from before the FFN's norm (x_res1),
+        # which is a common pattern in Transformer blocks (e.g., Vaswani et al., 2017).
+        x_res2 = x_res1 + ffn_output 
+        
+        # Reshape back to (stock_num, embed_dim)
+        return x_res2.squeeze(1)
+
+
 class PermuteForConv1d(nn.Module):
     """Permutes a (batch, time, channel) tensor to (batch, channel, time)."""
     def forward(self, x):
@@ -225,7 +291,7 @@ class PermuteAndApplyTriUNet(nn.Module):
         return processed_x.permute(0, 2, 1)  # (B, T_processed, C)
 
 
-class MultiScaleTimeMixerRevised(nn.Module):
+class MultiScaleTimeMixer(nn.Module):
     def __init__(self, initial_time_steps, channels, scales_config, activation_fn_class=nn.Hardswish):
         super().__init__()
         self.channels = channels
@@ -258,7 +324,7 @@ class MultiScaleTimeMixerRevised(nn.Module):
                 pass 
 
         if concat_time_dim_for_triu == 0:
-            raise ValueError("MultiScaleTimeMixerRevised: concat_time_dim_for_triu is 0. No valid scales.")
+            raise ValueError("MultiScaleTimeMixer: concat_time_dim_for_triu is 0. No valid scales.")
 
         triu_network = nn.Sequential(
             TriU(concat_time_dim_for_triu),
@@ -299,9 +365,10 @@ class MultiScaleTimeMixerRevised(nn.Module):
         return output
 
 
-class StockMixer(nn.Module):
-    def __init__(self, stocks, time_steps, channels, market, scale, activation_fn_class=nn.Hardswish):
-        super(StockMixer, self).__init__()
+class StockPredict(nn.Module):
+    def __init__(self, stocks, time_steps, channels, scale, activation_fn_class=nn.Hardswish, 
+                 attention_num_heads=4, attention_hidden_ff_dim=None, attention_dropout_rate=0.1):
+        super(StockPredict, self).__init__()
 
         current_scales_config_for_mixer = [] 
         calculated_concat_time_dim = 0 
@@ -332,13 +399,13 @@ class StockMixer(nn.Module):
         
         if not current_scales_config_for_mixer or calculated_concat_time_dim == 0:
             raise ValueError(
-                f"StockMixer init: No valid scales generated. "
+                f"StockPredict init: No valid scales generated. "
                 f"Initial time_steps: {time_steps}, requested total scales: {scale}. "
                 f"Resulting concat_time_dim: {calculated_concat_time_dim}. "
                 "Ensure time_steps is large enough for the requested number of scales."
             )
         
-        self.temporal_mixer = MultiScaleTimeMixerRevised(
+        self.temporal_mixer = MultiScaleTimeMixer(
             initial_time_steps=time_steps,
             channels=channels,
             scales_config=current_scales_config_for_mixer,
@@ -347,7 +414,20 @@ class StockMixer(nn.Module):
         
         self.channel_fc = nn.Linear(channels, 1)
         self.time_fc = nn.Linear(calculated_concat_time_dim, 1)
-        self.stock_mixer = NoGraphMixer(stocks, market) 
+        
+        # Determine hidden_ff_dim for StockAttentionMixer if not provided
+        # A common practice is to make it 4 * embed_dim, but can be tuned
+        if attention_hidden_ff_dim is None:
+            attention_hidden_ff_dim = calculated_concat_time_dim * 4 
+
+        self.stock_attention_mixer = StockAttentionMixer(
+            embed_dim=calculated_concat_time_dim,
+            num_heads=attention_num_heads,
+            hidden_ff_dim=attention_hidden_ff_dim,
+            dropout_rate=attention_dropout_rate,
+            activation_fn_class=activation_fn_class
+        )
+        
         self.time_fc_ = nn.Linear(calculated_concat_time_dim, 1)
 
     def forward(self, inputs):
@@ -361,7 +441,7 @@ class StockMixer(nn.Module):
         y_out = self.time_fc(y_channel_processed)
         # y_out: (stock_num, 1)
         
-        z_stock_mixed = self.stock_mixer(y_channel_processed) 
+        z_stock_mixed = self.stock_attention_mixer(y_channel_processed)
         # z_stock_mixed: (stock_num, calculated_concat_time_dim)
         
         z_out = self.time_fc_(z_stock_mixed)

@@ -2,10 +2,14 @@ import random
 import numpy as np
 import os
 import torch as torch
+import torch.nn as nn # Added for activation function classes
 from load_data import load_EOD_data
 from evaluator import evaluate
-from model import get_loss, StockMixer
+from model import get_loss, StockPredict
 import pickle
+import openpyxl # 新增导入
+from openpyxl.utils import get_column_letter # 新增导入
+import math # 新增导入，用于计算分割点
 
 
 np.random.seed(123456789)
@@ -13,28 +17,53 @@ torch.random.manual_seed(12345678)
 device = torch.device("cuda") if torch.cuda.is_available() else 'cpu' # 如果CUDA可用则使用GPU，否则使用CPU
 
 data_path = '../dataset' # 数据路径
-market_name = 'NASDAQ' # 设置市场为NASDAQ
+market_name = 'SP500' # 明确设置为NYSE市场
 relation_name = 'wikidata' # 关系名称 (似乎未使用)
-stock_num = 1026 # NASDAQ的股票数量
-lookback_length = 16 # 回溯期长度
-epochs = 100 # 训练轮数
-valid_index = 756 # 论文中NASDAQ的训练集天数，即验证集起始索引
-test_index = 1008 # 论文中NASDAQ的训练+验证集天数，即测试集起始索引
+stock_num = 1026 # 股票数量 (此值将在数据加载后被动态覆盖)
+
+# --- 模型关键约束：注意力头数设置 ---
+# 警告: 多头注意力机制要求 `embed_dim` 必须能被 `attention_heads` (注意力头数) 整除。
+# 在此模型中, `embed_dim` 是一个根据 `lookback_length` 和 `scale_factor` 动态计算的值
+# (具体计算见本文件下方的 `calculated_concat_time_dim` 部分)。
+#
+# **修改下方参数时，请务必手动验证此约束**
+# 例如: lookback_length=16, scale_factor=4 -> embed_dim=30。 `attention_heads` 必须是30的因子(如 2,3,5,6,10)。
+# ------------------------------------------
+
+lookback_length = 16 # 回看长度，从32调整为16
+epochs = 100 # 保持100轮以便快速迭代
+# valid_index 和 test_index 将在数据加载后动态计算
 fea_num = 5 # 特征数量
-market_num = 20 # 市场相关参数 (似乎用于NoGraphMixer的hidden_dim，但StockMixer初始化时未使用此变量名)
 steps = 1 # 预测步长
-learning_rate = 0.001 # 学习率
-alpha = 0.1 # 损失函数中排序损失的权重
-scale_factor = 3 # StockMixer的尺度因子
-activation = 'GELU' # 激活函数名称 (当前未在StockMixer初始化中直接使用，但可以作为参考或未来扩展)
+learning_rate = 2e-5 # 学习率，从5e-5下调
+alpha = 0.2 # 最终确定的NYSE最佳alpha值
+scale_factor = 4 # 极限简化：不使用多尺度卷积
+activation_str = 'GELU' # 极限简化：采用最经典的激活函数
+attention_heads = 5 # 注意力头数，从4调整为5以匹配embed_dim
+attention_dropout = 0.3 # Dropout率，从0.2上调以增强正则化
+weight_decay = 2e-4 # 权重衰减，从1e-4上调以增强正则化
+
+# Determine activation function class based on the string
+if activation_str == 'GELU':
+    activation_fn_to_pass = nn.GELU
+elif activation_str == 'Hardswish': 
+    activation_fn_to_pass = nn.Hardswish
+elif activation_str == 'ReLU':
+    activation_fn_to_pass = nn.ReLU
+else:
+    # Default to GELU or raise an error if an unsupported activation is specified
+    print(f"Warning: Unsupported activation '{activation_str}', defaulting to GELU.")
+    activation_fn_to_pass = nn.GELU
 
 dataset_path = '../dataset/' + market_name # 数据集完整路径
 if market_name == "SP500":
     # SP500数据集的特殊加载和预处理逻辑
     data = np.load('../dataset/SP500/SP500.npy')
-    data = data[:, 915:, :] # 数据切片
-    stock_num = data.shape[0] # 更新 stock_num 为 SP500 数据集中的实际股票数量
-    print(f"市场为 SP500，实际加载股票数量更新为: {stock_num}")
+    print(f"原始SP500数据形状: {data.shape} (股票数: {data.shape[0]}, 天数: {data.shape[1]}, 特征数: {data.shape[2]})")
+    
+    # 使用全部5年数据，不再进行切片
+    print(f"使用全部5年数据 (2020-2024)，数据形状: {data.shape}")
+    
     price_data = data[:, :, -1] # 价格数据
     mask_data = np.ones((data.shape[0], data.shape[1])) # 掩码数据
     eod_data = data # EOD数据
@@ -43,32 +72,132 @@ if market_name == "SP500":
     for ticket in range(0, data.shape[0]):
         for row in range(1, data.shape[1]):
             gt_data[ticket][row] = (data[ticket][row][-1] - data[ticket][row - steps][-1]) / \
-                                   data[ticket][row - steps][-1]
+                                   (data[ticket][row - steps][-1] + 1e-8) # 添加小值避免除零
 else:
-    # 其他市场 (如NASDAQ) 的数据加载逻辑
-    with open(os.path.join(dataset_path, "eod_data.pkl"), "rb") as f:
-        eod_data = pickle.load(f) # 加载EOD数据
-    with open(os.path.join(dataset_path, "mask_data.pkl"), "rb") as f:
-        mask_data = pickle.load(f) # 加载掩码数据
-    with open(os.path.join(dataset_path, "gt_data.pkl"), "rb") as f:
-        gt_data = pickle.load(f) # 加载真实收益率数据
-    with open(os.path.join(dataset_path, "price_data.pkl"), "rb") as f:
-        price_data = pickle.load(f) # 加载价格数据
+    # 其他市场 (如NASDAQ, NYSE) 的数据加载逻辑
+    try:
+        with open(os.path.join(dataset_path, "eod_data.pkl"), "rb") as f:
+            eod_data = pickle.load(f)
+        with open(os.path.join(dataset_path, "mask_data.pkl"), "rb") as f:
+            mask_data = pickle.load(f)
+        with open(os.path.join(dataset_path, "gt_data.pkl"), "rb") as f:
+            gt_data = pickle.load(f)
+        with open(os.path.join(dataset_path, "price_data.pkl"), "rb") as f:
+            price_data = pickle.load(f)
+    except FileNotFoundError as e:
+        print(f"Error loading data files: {e}")
+        print(f"Please ensure {dataset_path}/ contains eod_data.pkl, mask_data.pkl, gt_data.pkl, price_data.pkl")
+        exit()
 
-trade_dates = mask_data.shape[1] # 交易日数
-# 初始化StockMixer模型
-model = StockMixer(
+# Verify stock_num if data is loaded (e.g., from eod_data shape)
+if eod_data.shape[0] != stock_num:
+    print(f"Warning: stock_num ({stock_num}) does not match eod_data.shape[0] ({eod_data.shape[0]}). Adjusting stock_num.")
+    stock_num = eod_data.shape[0]
+
+trade_dates = mask_data.shape[1]
+
+# --- 通用设置和动态分割 ---
+print(f"市场为 {market_name}，实际加载股票数量更新为: {stock_num}")
+print(f"总交易天数: {trade_dates}")
+
+# 动态计算数据集分割点
+train_ratio = 0.60
+valid_ratio = 0.20
+# 测试集比例由 (1 - train_ratio - valid_ratio) 隐式确定
+
+# 确保最小数据集大小
+min_valid_days = max(50, lookback_length + steps + 10)  # 验证集最少50天或lookback+steps+10天
+min_test_days = max(50, lookback_length + steps + 10)   # 测试集最少50天或lookback+steps+10天
+min_train_days = max(100, lookback_length + steps + 20) # 训练集最少100天或lookback+steps+20天
+
+# 计算分割点
+valid_index = max(min_train_days, math.floor(trade_dates * train_ratio))
+test_index = max(valid_index + min_valid_days, math.floor(trade_dates * (train_ratio + valid_ratio)))
+
+# 确保测试集也有足够的数据
+if trade_dates - test_index < min_test_days:
+    # 如果测试集太小，向前调整
+    test_index = trade_dates - min_test_days
+    if test_index <= valid_index:
+        # 如果还是不够，重新分配
+        available_days = trade_dates - min_train_days
+        if available_days >= min_valid_days + min_test_days:
+            valid_index = min_train_days
+            test_index = trade_dates - min_test_days
+        else:
+            print(f"错误：数据集太小({trade_dates}天)，无法进行有效的训练/验证/测试分割")
+            print(f"最少需要: {min_train_days + min_valid_days + min_test_days}天")
+            exit(1)
+
+print(f"根据 {train_ratio:.0%}/{valid_ratio:.0%}/_ 分割比例 (已调整为满足最小数据集要求):")
+print(f"训练集天数 (0-indexed, up to valid_index-1): {valid_index} (实际比例: {valid_index/trade_dates:.1%})")
+print(f"验证集天数 (valid_index to test_index-1): {test_index - valid_index} (实际比例: {(test_index-valid_index)/trade_dates:.1%})")
+print(f"测试集天数 (test_index to end): {trade_dates - test_index} (实际比例: {(trade_dates-test_index)/trade_dates:.1%})")
+print(f"验证集起始索引 (valid_index): {valid_index}")
+print(f"测试集起始索引 (test_index): {test_index}")
+
+# 最终安全检查
+if valid_index >= test_index or test_index >= trade_dates:
+    print(f"错误：分割索引无效 - valid_index:{valid_index}, test_index:{test_index}, trade_dates:{trade_dates}")
+    exit(1)
+    
+if test_index - valid_index <= 0:
+    print(f"错误：验证集大小为0 - valid_index:{valid_index}, test_index:{test_index}")
+    exit(1)
+    
+if trade_dates - test_index <= 0:
+    print(f"错误：测试集大小为0 - test_index:{test_index}, trade_dates:{trade_dates}")
+    exit(1)
+
+print("✅ 数据集分割检查通过")
+
+# --- 数据标准化 ---
+# 在数据集分割后，使用训练集数据进行标准化
+train_eod_data = eod_data[:, :valid_index, :]
+data_mean = np.mean(train_eod_data, axis=(0, 1), keepdims=True)
+data_std = np.std(train_eod_data, axis=(0, 1), keepdims=True)
+data_std[data_std == 0] = 1.0 # 防止除以零
+eod_data = (eod_data - data_mean) / data_std
+print("✅ EOD数据已使用训练集的均值和标准差进行标准化")
+# --- 结束数据标准化 ---
+
+# --- 结束通用逻辑 ---
+
+
+# Initialize StockMixer model
+calculated_concat_time_dim = 0
+original_time_steps = lookback_length # Assuming lookback_length is initial_time_steps for calc
+calculated_concat_time_dim += original_time_steps
+num_conv_scales_to_add = max(0, scale_factor - 1)
+for i in range(num_conv_scales_to_add):
+    current_stride = 2**(i + 1)
+    ts_after_conv = original_time_steps // current_stride
+    if ts_after_conv >= 1:
+        calculated_concat_time_dim += ts_after_conv
+    else:
+        break
+
+# 定义注意力模块中FFN的维度乘子
+attention_ffn_dim_multiplier = 4 
+attention_ffn_dim_to_pass = calculated_concat_time_dim * attention_ffn_dim_multiplier
+
+model = StockPredict(
     stocks=stock_num,
     time_steps=lookback_length,
     channels=fea_num,
-    no_graph_mixer_hidden_dim=market_num, # 确保使用正确的参数名和值
-    scale=scale_factor
+    scale=scale_factor,
+    activation_fn_class=activation_fn_to_pass,
+    attention_num_heads=attention_heads,
+    attention_hidden_ff_dim=attention_ffn_dim_to_pass,
+    attention_dropout_rate=attention_dropout
 ).to(device)
 
-optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate) # 定义优化器
-best_valid_loss = np.inf # 记录最佳验证损失
+optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate, weight_decay=weight_decay) # 在优化器中应用权重衰减
+scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, mode='max', factor=0.5, patience=5, verbose=True) # 调度器改为监控IC (mode='max')
+best_valid_ic = -np.inf # 记录最佳验证IC
 best_valid_perf = None # 记录最佳验证集性能
-best_test_perf = None # 记录最佳验证损失对应的测试集性能
+best_test_perf = None # 记录最佳验证IC对应的测试集性能
+best_epoch_num = 0 # 记录最佳验证性能对应的轮次数
 batch_offsets = np.arange(start=0, stop=valid_index, dtype=int) # 用于训练时打乱数据批次的偏移量
 
 
@@ -113,21 +242,7 @@ def get_batch(offset=None):
     # 截取EOD数据、掩码数据、价格数据和真实收益率数据
     eod_data_batch = eod_data[:, offset:offset + seq_len, :]
     mask_batch = mask_data[:, offset: offset + seq_len + steps]
-    mask_batch = np.min(mask_batch, axis=1) # 确保整个序列窗口内数据有效
-    
-    # # 计算历史波动率 (移除相关代码)
-    # if fea_num > 0: # 确保有特征数据可以用来计算波动率
-    #     close_prices_seq = eod_data_batch[:, :, -1] # 取最后一个特征作为收盘价序列
-    #     if seq_len > 1:
-    #         # 计算日收益率 ((T_i - T_{i-1}) / T_{i-1})
-    #         daily_returns = (close_prices_seq[:, 1:] - close_prices_seq[:, :-1]) / (close_prices_seq[:, :-1] + 1e-8) # 加epsilon防止除零
-    #         volatility_batch_np = np.std(daily_returns, axis=1) # 计算每个股票在回溯期内的收益率标准差
-    #     else:
-    #         volatility_batch_np = np.zeros(stock_num) # 如果只有一个时间点，波动率为0
-    # else:
-    #     volatility_batch_np = np.zeros(stock_num) # 如果没有特征数据，波动率为0
-        
-    # volatility_batch = np.expand_dims(volatility_batch_np, axis=1) # 扩展维度以匹配损失函数期望
+    mask_batch = np.min(mask_batch, axis=1) # 确保整个序列窗口内数据有效   
 
     return (
         eod_data_batch,
@@ -158,6 +273,7 @@ for epoch in range(epochs):
         cur_loss, cur_reg_loss, cur_rank_loss, _ = get_loss(prediction, gt_batch, price_batch, mask_batch, stock_num, alpha)
         # cur_loss = cur_loss # 这行没有实际作用，可以移除
         cur_loss.backward() # 反向传播
+        torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0) # 添加梯度裁剪防止梯度爆炸
         optimizer.step() # 更新参数
 
         tra_loss += cur_loss.item()
@@ -177,11 +293,15 @@ for epoch in range(epochs):
     test_loss, test_reg_loss, test_rank_loss, test_perf = validate(test_index, trade_dates)
     print('Test: loss:{:.2e}  =  {:.2e} + alpha*{:.2e}'.format(test_loss, test_reg_loss, test_rank_loss))
 
-    # 如果当前验证损失更低，则保存模型性能
-    if val_loss < best_valid_loss:
-        best_valid_loss = val_loss
+    # 学习率调度器步进 (基于验证IC)
+    scheduler.step(val_perf['IC'])
+
+    # 如果当前验证IC更高，则保存模型性能
+    if val_perf['IC'] > best_valid_ic:
+        best_valid_ic = val_perf['IC']
         best_valid_perf = val_perf
         best_test_perf = test_perf # 保存此时对应的测试集性能
+        best_epoch_num = epoch + 1 # 更新最佳轮次数
 
     # 打印验证集和测试集性能指标
     print('Valid performance:\n', 'mse:{:.2e}, IC:{:.2e}, RIC:{:.2e}, prec@10:{:.2e}, SR:{:.2e}'.format(val_perf['mse'], val_perf['IC'],
@@ -191,9 +311,59 @@ for epoch in range(epochs):
 
 # 训练结束后打印最佳验证性能及其对应的测试性能
 print("Training finished.")
-print("Best Validation Performance (based on lowest validation loss):") # 基于最低验证损失的最佳验证性能
+print("Best Validation Performance (based on highest validation IC):") # 基于最高验证IC的最佳验证性能
 print('mse:{:.2e}, IC:{:.2e}, RIC:{:.2e}, prec@10:{:.2e}, SR:{:.2e}'.format(best_valid_perf['mse'], best_valid_perf['IC'],
                                                                             best_valid_perf['RIC'], best_valid_perf['prec_10'], best_valid_perf['sharpe5']))
 print("Corresponding Test Performance:") # 对应的测试性能
 print('mse:{:.2e}, IC:{:.2e}, RIC:{:.2e}, prec@10:{:.2e}, SR:{:.2e}'.format(best_test_perf['mse'], best_test_perf['IC'],
                                                                             best_test_perf['RIC'], best_test_perf['prec_10'], best_test_perf['sharpe5']))
+
+# --- 开始写入Excel的逻辑 ---
+if best_valid_perf and best_test_perf and best_epoch_num > 0:
+    model_name_for_excel = "StockPredict"
+    excel_file_path = '../training_results.xlsx' # 相对于src目录
+    header = ["Model", "Dataset","Best Epoch",
+              "Valid MSE", "Valid IC", "Valid RIC", "Valid Prec@10", "Valid SR",
+              "Test MSE", "Test IC", "Test RIC", "Test Prec@10", "Test SR",
+              "Lookback Length", "Learning Rate", "Alpha", "Scale Factor", "Activation", 
+              "Attention Heads", "Attention Dropout", "Attention FFN Multiplier", "Weight Decay", "Total Epochs"
+              ]
+    
+    data_row = [model_name_for_excel, market_name,                
+                best_epoch_num,
+                best_valid_perf.get('mse', float('nan')), 
+                best_valid_perf.get('IC', float('nan')),
+                best_valid_perf.get('RIC', float('nan')),
+                best_valid_perf.get('prec_10', float('nan')),
+                best_valid_perf.get('sharpe5', float('nan')),
+                best_test_perf.get('mse', float('nan')),
+                best_test_perf.get('IC', 'nan'),
+                best_test_perf.get('RIC', float('nan')),
+                best_test_perf.get('prec_10', float('nan')),
+                best_test_perf.get('sharpe5', float('nan')),
+                lookback_length, learning_rate, alpha, scale_factor, activation_str,
+                attention_heads, attention_dropout, attention_ffn_dim_multiplier, weight_decay, epochs
+               ]
+
+    try:
+        if not os.path.exists(excel_file_path):
+            workbook = openpyxl.Workbook()
+            sheet = workbook.active
+            sheet.title = "Training Results"
+            sheet.append(header)
+            # 自动调整列宽
+            for col_idx, column_cells in enumerate(sheet.columns):
+                length = max(len(str(cell.value)) if cell.value is not None else 0 for cell in column_cells)
+                sheet.column_dimensions[get_column_letter(col_idx + 1)].width = length + 2
+        else:
+            workbook = openpyxl.load_workbook(excel_file_path)
+            sheet = workbook.active
+        
+        sheet.append(data_row)
+        workbook.save(excel_file_path)
+        print(f"Results for {model_name_for_excel} appended to {excel_file_path} (active sheet: {sheet.title})")
+    except Exception as e:
+        print(f"Error writing {model_name_for_excel} results to Excel: {e}")
+else:
+    print(f"No best performance data to write to Excel for {model_name_for_excel}.")
+# --- 结束写入Excel的逻辑 ---
