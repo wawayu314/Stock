@@ -1,0 +1,12 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2023-06-08,0.1887,,1,0.1887,0.0,1,0,1,1,0,0,0,0,1717.0,CNVS
+2023-06-09,0.1606,,1,0.1606,0.0,1,0,1,0,0,0,0,0,1988.0,CNVS
+2023-06-14,0.1415,0.0755,5,0.1415,0.0,0,1,4,0,4,0,1,0,1463.6,CNVS
+2023-06-27,0.1294,,1,0.1294,0.0,0,1,1,0,1,0,0,0,910.0,CNVS
+2023-06-30,0.2305,0.0525,4,0.2305,0.0,2,3,4,0,1,0,0,0,1534.0,CNVS
+2023-07-12,0.2284,,1,0.2284,0.0,0,1,1,0,0,0,1,0,790.0,CNVS
+2023-07-21,0.1991,,1,0.1991,0.0,0,1,1,0,0,0,0,0,661.0,CNVS
+2023-10-04,0.0675,,1,0.0675,0.0,0,1,0,0,0,0,1,0,684.0,CNVS
+2024-02-14,-0.0092,,1,0.0092,0.0,1,0,1,0,1,0,1,0,2151.0,CNVS
+2024-02-15,0.0574,0.0425,2,0.0574,0.0,2,1,0,0,0,0,0,0,1754.0,CNVS
+2024-07-12,0.0,,1,0.0,0.0,0,0,0,0,0,0,0,0,315.0,CNVS

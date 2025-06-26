@@ -1,0 +1,7 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2021-08-30,0.0,,1,0.0,0.0,0,0,0,0,0,1,0,0,74.0,CHW
+2021-10-16,0.3867,,1,0.3867,0.0,0,1,0,0,0,0,0,0,180.0,CHW
+2023-08-09,-0.0167,,1,0.0167,0.0,0,1,1,0,0,0,0,0,5771.0,CHW
+2023-08-10,-0.0164,,1,0.0164,0.0,0,1,1,0,0,0,0,0,5221.0,CHW
+2024-11-01,0.0,,1,0.0,0.0,0,0,0,0,0,0,0,0,389.0,CHW
+2024-12-02,-0.1,0.1414,2,0.1,0.0,0,0,0,0,0,0,1,0,339.0,CHW

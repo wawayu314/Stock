@@ -1,0 +1,13 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2024-02-01,0.25,,1,0.25,0.0,0,0,0,0,0,0,0,0,195.0,AS
+2024-02-06,0.0788,,1,0.0788,0.0,0,0,0,0,0,0,0,0,256.0,AS
+2024-02-15,0.0,,1,0.0,0.0,0,0,0,0,0,0,0,0,160.0,AS
+2024-02-20,0.0703,,1,0.0703,0.0,0,0,0,0,1,0,0,0,1460.0,AS
+2024-02-26,0.15,0.1061,2,0.15,0.0,2,1,1,0,1,0,0,0,1018.0,AS
+2024-03-02,-0.25,,1,0.25,0.0,1,0,0,0,0,0,0,0,190.0,AS
+2024-03-05,0.034,0.0481,2,0.034,0.0,2,0,0,0,0,0,1,0,1343.5,AS
+2024-03-06,0.0,,1,0.0,0.0,0,0,0,0,0,0,0,0,77.0,AS
+2024-05-19,0.0,,1,0.0,0.0,1,0,0,0,0,0,0,0,194.0,AS
+2024-05-21,0.0382,,1,0.0382,0.0,1,0,1,0,0,0,0,0,1104.0,AS
+2024-05-23,-0.0068,,1,0.0068,0.0,0,1,1,0,0,0,0,0,2021.0,AS
+2024-08-20,0.2721,,1,0.2721,0.0,0,0,0,0,0,0,0,0,343.0,AS

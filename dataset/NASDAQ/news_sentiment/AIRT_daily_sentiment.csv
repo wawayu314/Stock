@@ -1,0 +1,6 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2022-09-22,0.3125,,1,0.3125,0.2,0,0,1,0,1,0,1,0,2689.0,AIRT
+2022-09-24,0.0,,1,0.0,0.0,0,0,0,0,0,0,0,0,70.0,AIRT
+2022-10-01,0.0,,1,0.0,0.0,0,1,0,0,0,0,0,0,84.0,AIRT
+2024-05-30,0.125,,1,0.125,0.0,0,1,0,0,0,0,0,0,256.0,AIRT
+2024-06-27,0.0,,1,0.0,0.0,1,0,0,0,0,0,0,0,151.0,AIRT

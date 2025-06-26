@@ -1,0 +1,12 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2021-05-12,0.1321,0.0051,2,0.1321,0.0,1,2,1,0,1,0,0,0,1953.0,BRID
+2021-05-13,0.1827,,1,0.1827,0.0,1,1,1,0,1,0,0,0,2486.0,BRID
+2021-05-14,0.2001,,1,0.2001,0.0,1,1,0,1,0,0,0,0,2790.0,BRID
+2021-05-15,0.1542,,1,0.1542,0.0,0,0,0,0,0,0,0,0,215.0,BRID
+2021-11-22,0.36,,1,0.36,0.0,0,0,0,0,1,0,1,0,679.0,BRID
+2022-07-14,0.1023,0.0081,2,0.1023,0.0,1,0,2,0,1,0,0,0,1196.5,BRID
+2022-08-01,0.1036,0.0134,2,0.1036,0.1,1,1,2,0,1,0,1,0,2523.0,BRID
+2022-08-02,0.1209,,1,0.1209,0.0,0,1,1,0,1,0,1,0,3597.0,BRID
+2022-11-02,0.3114,,1,0.3114,0.0,0,0,0,0,0,0,1,0,850.0,BRID
+2023-08-02,0.4,,1,0.4,0.0,0,1,0,0,0,0,0,0,217.0,BRID
+2024-10-21,0.0688,,1,0.0688,0.0,0,0,0,0,0,0,0,0,351.0,BRID

@@ -1,0 +1,8 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2021-04-30,0.0136,,1,0.0136,0.0,1,0,0,0,0,0,0,0,2258.0,EEX
+2022-01-04,0.199,,1,0.199,0.0,0,1,0,0,1,0,1,0,1504.0,EEX
+2022-08-11,0.1517,,1,0.1517,0.0,0,1,1,0,0,0,0,0,4131.0,EEX
+2022-11-09,0.1479,,1,0.1479,0.0,0,1,0,0,0,0,1,0,871.0,EEX
+2023-04-27,0.0556,,1,0.0556,0.0,0,1,1,0,0,0,0,0,2286.0,EEX
+2023-07-25,0.031,,1,0.031,0.0,0,1,1,0,0,0,0,0,5885.0,EEX
+2023-11-07,0.2058,,1,0.2058,0.0,0,1,1,0,0,0,0,0,754.0,EEX

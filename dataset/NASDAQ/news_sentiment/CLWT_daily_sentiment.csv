@@ -1,0 +1,11 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2021-04-28,0.5,,1,0.5,0.0,1,0,0,0,0,0,0,0,514.0,CLWT
+2021-05-05,0.0971,,1,0.0971,0.0,1,0,0,0,1,0,0,0,1216.0,CLWT
+2021-05-20,0.0825,,1,0.0825,0.0,0,0,1,0,0,0,0,0,1140.0,CLWT
+2021-05-21,0.2092,0.1433,5,0.2092,0.0,1,1,2,0,1,0,1,0,1457.6,CLWT
+2021-05-24,0.1925,0.0729,2,0.1925,0.0,1,1,1,0,1,0,0,0,1723.5,CLWT
+2021-05-25,0.2572,,1,0.2572,0.0,0,1,1,0,0,1,0,0,2335.0,CLWT
+2022-08-10,0.2002,,1,0.2002,0.0,1,1,1,0,0,0,0,0,3096.0,CLWT
+2022-08-11,0.1517,,1,0.1517,0.0,0,1,1,0,0,0,0,0,4131.0,CLWT
+2022-08-24,0.326,,1,0.326,0.0,0,1,1,0,1,0,1,0,1480.0,CLWT
+2024-07-08,0.065,,1,0.065,0.0,0,0,0,0,0,0,0,0,326.0,CLWT

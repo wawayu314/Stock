@@ -1,0 +1,12 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2021-04-26,0.2455,,1,0.2455,0.0,1,0,0,0,1,0,0,0,2141.0,CREG
+2021-04-27,0.15,,1,0.15,0.0,1,0,1,0,1,0,0,0,853.0,CREG
+2021-05-25,0.0052,,1,0.0052,0.0,0,0,1,0,0,0,0,0,1165.0,CREG
+2021-06-03,0.3841,,1,0.3841,0.0,0,0,0,0,0,0,0,0,582.0,CREG
+2022-04-22,0.0821,,1,0.0821,0.0,0,0,1,0,0,0,0,0,713.0,CREG
+2022-05-24,0.0657,,1,0.0657,0.0,0,0,1,0,0,0,0,0,846.0,CREG
+2022-08-25,-0.0422,,1,0.0422,0.0,0,0,1,0,0,0,0,0,976.0,CREG
+2022-10-13,0.2143,,1,0.2143,0.0,0,0,0,0,0,0,0,0,579.0,CREG
+2023-04-24,0.0821,,1,0.0821,0.0,0,0,1,0,0,0,0,0,711.0,CREG
+2023-05-26,0.0821,,1,0.0821,0.0,0,0,1,0,0,0,0,0,698.0,CREG
+2023-06-26,0.2143,,1,0.2143,0.0,0,0,0,0,0,0,0,0,564.0,CREG

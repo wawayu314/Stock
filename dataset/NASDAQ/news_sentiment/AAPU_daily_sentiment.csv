@@ -1,0 +1,13 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2023-05-23,0.4036,,1,0.4036,0.0,0,0,0,0,0,0,0,0,274.0,AAPU
+2023-07-06,0.175,,1,0.175,0.0,0,0,0,0,0,0,0,0,116.0,AAPU
+2023-08-02,0.0,,1,0.0,0.0,1,0,0,0,1,0,0,0,200.0,AAPU
+2023-08-03,0.5,,1,0.5,0.0,0,0,0,0,0,0,0,0,152.0,AAPU
+2023-09-21,0.5,,1,0.5,0.0,0,0,0,0,0,0,0,0,182.0,AAPU
+2023-09-22,0.5,,1,0.5,0.0,0,0,0,0,0,0,0,0,182.0,AAPU
+2023-11-02,0.1278,,1,0.1278,0.0,1,0,0,0,0,0,0,0,1004.0,AAPU
+2024-03-06,0.0626,,1,0.0626,0.0,0,0,0,0,0,0,0,0,833.0,AAPU
+2024-03-25,0.1113,,1,0.1113,0.0,1,0,0,0,0,0,0,0,1364.0,AAPU
+2024-04-05,0.0696,,1,0.0696,0.0,0,0,0,0,1,0,0,0,829.0,AAPU
+2024-04-15,0.0771,,1,0.0771,0.0,0,0,0,0,0,0,0,0,267.0,AAPU
+2024-06-17,0.25,,1,0.25,0.0,0,0,0,0,0,0,0,0,137.0,AAPU

@@ -1,0 +1,877 @@
+title,description,published_utc,article_url,publisher,sentiment_polarity,sentiment_subjectivity,sentiment_label,sentiment_confidence,keywords_earnings,keywords_acquisition,keywords_regulation,keywords_partnership,keywords_product,keywords_financial,keywords_leadership,keywords_lawsuit,urgency_score,text_length,tickers,ticker,date
+"Earnings Scheduled For May 12, 2021","Companies Reporting Before The Bell
+• PolyPid (NASDAQ:PYPD) is estimated to report earnings for its first quarter.
+• Boyd Gaming (NYSE:BYD) is projected to report quarterly earnings at $1.01 per share on revenue of $570.79 million.
+• Zealand Pharma (NASDAQ:ZEAL) is likely to report quarterly loss at $1.01 per share on revenue of $9.89 million.
+• American Well (NYSE:AMWL) is likely to report quarterly loss at $0.19 per share on revenue of $58.75 million.
+• Crescent Point Energy (NYSE:CPG) is projected to report quarterly earnings at $0.03 per share on revenue of $492.10 million.
+• TORM (NASDAQ:TRMD) is expected to report quarterly loss at $0.21 per share on revenue of $130.30 million.
+• Dream Finders Homes (NASDAQ:DFH) is likely to report quarterly earnings at $0.19 per share on revenue of $350.23 million.
+• Radius Global Infr (NASDAQ:RADI) is estimated to report quarterly loss at $0.29 per share on revenue of $21.18 million.
+• Toyota Motor (NYSE:TM) is likely to report earnings for its fourth quarter.
+• SFL Corp (NYSE:SFL) is projected to report quarterly earnings at $0.13 per share on revenue of $106.92 million.
+• Kamada (NASDAQ:KMDA) is expected to report quarterly earnings at $0.09 per share on revenue of $27.17 million.
+• IMV (NASDAQ:IMV) is likely to report quarterly loss at $0.16 per share on revenue of $40.00 thousand.
+• OneSpaWorld Holdings (NASDAQ:OSW) is likely to report quarterly loss at $0.20 per share on revenue of $3.80 million.
+• Comstock Mining (AMEX:LODE) is likely to report quarterly loss at $0.04 per share on revenue of $310.00 thousand.
+• Strongbridge Biopharma (NASDAQ:SBBP) is expected to report quarterly loss at $0.10 per share on revenue of $8.31 million.
+• Greenland Technologies (NASDAQ:GTEC) is likely to report earnings for its first quarter.
+• Aemetis (NASDAQ:AMTX) is estimated to report quarterly loss at $0.53 per share on revenue of $49.04 million.
+• China Automotive Systems (NASDAQ:CAAS) is estimated to report quarterly earnings at $0.03 per share on revenue of $116.78 million.
+• Arcos Dorados Holdings (NYSE:ARCO) is projected to report quarterly loss at $0.01 per share on revenue of $546.08 million.
+• Lumentum Holdings (NASDAQ:LITE) is estimated to report quarterly earnings at $1.40 per share on revenue of $433.49 million.
+• BRF (NYSE:BRFS) is expected to report quarterly earnings at $0.03 per share on revenue of $1.97 billion.
+• Wendy's (NASDAQ:WEN) is projected to report quarterly earnings at $0.14 per share on revenue of $444.31 million.
+• Wolverine World Wide (NYSE:WWW) is estimated to report quarterly earnings at $0.40 per share on revenue of $511.78 million.
+• Eos Energy Enterprises (NASDAQ:EOSE) is expected to report quarterly loss at $0.16 per share on revenue of $1.31 million.
+• Superior Drilling (AMEX:SDPI) is expected to report quarterly loss at $0.05 per share on revenue of $2.07 million.
+• Dynatrace (NYSE:DT) is estimated to report quarterly earnings at $0.14 per share on revenue of $191.81 million.
+• GEO Group (NYSE:GEO) is estimated to report quarterly earnings at $0.04 per share on revenue of $26.35 million.
+• IT Tech Packaging (AMEX:ITP) is estimated to report quarterly earnings at $0.36 per share on revenue of $314.95 million.
+• Apyx Medical (NASDAQ:APYX) is expected to report earnings for its first quarter.
+• Tower Semiconductor (NASDAQ:TSEM) is estimated to report quarterly earnings at $0.31 per share on revenue of $345.20 million.
+• Veru (NASDAQ:VERU) is projected to report quarterly loss at $0.04 per share on revenue of $14.29 million.
+• HOOKIPA Pharma (NASDAQ:HOOK) is projected to report quarterly loss at $0.53 per share on revenue of $3.97 million.
+• Wix.com (NASDAQ:WIX) is estimated to report quarterly loss at $0.64 per share on revenue of $295.05 million.
+• Summit Wireless (NASDAQ:WISA) is projected to report quarterly loss at $0.30 per share on revenue of $1.26 million.
+• LiqTech International (NASDAQ:LIQT) is estimated to report quarterly loss at $0.14 per share on revenue of $4.19 million.
+• APi Gr (NYSE:APG) is projected to report quarterly earnings at $0.14 per share on revenue of $771.37 million.
+• Sotherly Hotels (NASDAQ:SOHO) is expected to report quarterly loss at $0.78 per share on revenue of $17.10 million.
+• Minerva Neurosciences (NASDAQ:Full story available on Benzinga.com",2021-05-12 08:22:39+00:00,https://www.benzinga.com/news/earnings/21/05/21076023/earnings-scheduled-for-may-12-2021,Benzinga,0.03518518518518518,0.514814814814815,neutral,0.03518518518518518,True,False,False,False,False,False,False,False,0.0,4357,"['APP', 'COMP', 'CHRA', 'MNKD', 'BIOC', 'RADI', 'SFL', 'SBBP', 'AXU', 'PCOM', 'WISA', 'PAAS', 'EVOK', 'TTCF', 'SPG', 'RLMD', 'WISH', 'EAR', 'VIEW', 'PRTH', 'RNWK', 'WIX', 'PLBY', 'TM', 'SSKN', 'GRN', 'WATT', 'MRKR', 'SONO', 'NVEE', 'EOSE', 'TOT', 'GRWG', 'IVA', 'SLRX', 'APYX', 'STKL', 'CCAP', 'MDVL', 'WEN', 'METC', 'PEY', 'LIQT', 'OSW', 'TRMD', 'FLXN', 'PBLA', 'WWW', 'IFS', 'PRN', 'AMTX', 'ZVO', 'TSEM', 'AMRK', 'POSH', 'YPF', 'AREC', 'CAAS', 'STEP', 'YCBD', 'BYD', 'SDPI', 'BTRS', 'BRFS', 'SPB', 'UONEK', 'CRESY', 'MBCN', 'KRMD', 'CIR', 'RESN', 'DFH', 'GTEC', 'VERU', 'CRIS', 'PROF', 'ONEM', 'DOX', 'NERV', 'BMBL', 'LODE', 'ZEAL', 'CYCC', 'ALTO', 'APG', 'DT', 'BOOT', 'ONTF', 'PAM', 'EYEN', 'FOSL', 'TRQ', 'VRM', 'EGY', 'ADMA', 'BVS', 'ARCO', 'CEPU', 'FTEK', 'LAND', 'PYPD', 'GEO', 'BLBD', 'CPNG', 'TDUP', 'CPG', 'EOLS', 'HOOK', 'IMV', 'AFIB', 'ITP', 'MCFT', 'CTOS', 'ASM', 'GOCO', 'ISSC', 'KMDA', 'KBNT', 'MEG', 'SFT', 'EGLX', 'TIG', 'LGO', 'JACK', 'SOHO', 'AMWL', 'MSP', 'LITE']",BVS,2021-05-12
+Will Bioventus (BVS) Continue to Surge Higher?,"As of late, it has definitely been a great time to be an investor of Bioventus (BVS).",2021-05-27 10:44:00+00:00,http://www.zacks.com/stock/news/1613325/will-bioventus-bvs-continue-to-surge-higher?cid=CS-ZC-FT-tale_of_the_tape|20_day_moving_average-1613325,Zacks Investment Research,0.1875,0.5875,positive,0.1875,False,False,False,False,False,False,False,False,0.0,133,['BVS'],BVS,2021-05-27
+Concert (CNCE) Initiates Second Phase III Hair Loss Study,"Concert Pharmaceuticals (CNCE) is developing its lead pipeline candidate, CTP-543, for treating alopecia areata. Two late-stage studies are evaluating the candidate in AA patients to support a potential NDA filing.",2021-05-28 12:58:00+00:00,http://www.zacks.com/stock/news/1619284/concert-cnce-initiates-second-phase-iii-hair-loss-study?cid=CS-ZC-FT-analyst_blog|company_news_-_medical_sector-1619284,Zacks Investment Research,0.0,0.5,neutral,0.0,True,False,True,False,False,False,False,False,0.0,273,"['INCY', 'VRTX', 'CNCE', 'BVS']",BVS,2021-05-28
+Bioventus® Management to Present at Canaccord Genuity Growth Conference and Morgan Stanley Virtual Global Healthcare Conference,"DURHAM, N.C., July  27, 2021  (GLOBE NEWSWIRE) -- Senior management of Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, will present at the Canaccord Genuity 41st Annual Growth Conference on Thursday, August 12 at 3:30 p.m. ET and the Morgan Stanley Virtual Global Healthcare Conference on Friday, September 10 at 9:30 a.m. ET. Both events are virtual conferences.",2021-07-27 20:15:00+00:00,https://www.globenewswire.com/news-release/2021/07/27/2269854/0/en/Bioventus-Management-to-Present-at-Canaccord-Genuity-Growth-Conference-and-Morgan-Stanley-Virtual-Global-Healthcare-Conference.html,GlobeNewswire Inc.,-0.022222222222222223,0.09999999999999999,neutral,0.022222222222222223,False,False,False,False,True,False,True,False,0.0,556,['BVS'],BVS,2021-07-27
+"The Daily Biotech Pulse: Erytech Jumps On Fast Track Designation, GlaxoSmithKline FDA Nod, Alnylam's Clinical Collaboration, 4 IPOs","Here's a roundup of top developments in the biotech space over the last 24 hours.
+Scaling The Peaks
+(Biotech Stocks Hitting 52-week Highs July 29)
+
+AbbVie Inc. (NYSE: ABBV)
+Absci, CORP (NASDAQ: ABSI) (IPOed July 22)
+Alkermes plc (NASDAQ: ALKS)
+Arvinas, Inc. (NASDAQ: ARVN)
+Axonics, Inc. (NASDAQ: AXNX)
+Bio-Rad Laboratories, Inc. (NYSE: BIO)
+Biohaven Pharmaceutical Holding Company Ltd. (NYSE: BHVN)
+Bristol-Myers Squibb Company (NYSE: BMY)
+Bio-Techne Corporation (NASDAQ: TECH)
+BioNTech SE (NASDAQ: BNTX)
+Cassava Sciences, Inc. (NASDAQ: SAVA) (retreated after hitting a high early in the session)
+DexCom, Inc. (NASDAQ: DXCM)
+Edwards Lifesciences Corporation (NYSE: EW)
+Erasca, Inc. (NASDAQ: ERAS) (IPOed July 16)
+Globus Medical, Inc. (NYSE: GMED)
+Horizon Therapeutics Public Limited Company (NASDAQ: HZNP)
+Innoviva, Inc. (NASDAQ: INVA) (reacted to its second-quarter results)
+Ironwood Pharmaceuticals, Inc. (NASDAQ: IRWD)
+Merit Medical Systems, Inc. (NASDAQ: MMSI)
+Protagonist Therapeutics, Inc. (NASDAQ: PTGX) (announced an amended R&D collaboration agreement with Johnson & Johnson's (NYSE: JNJ) Janssen unit)
+ResMed Inc. (NYSE: RMD)
+West Pharmaceutical Services, Inc. (NYSE: WST)
+Translate Bio, Inc. (NASDAQ: TBIO) (announced its second-quarter results)
+Zoetis Inc. (NYSE: ZTS)
+
+Down In The Dumps
+(Biotech Stocks Hitting 52-week Lows July 28)
+
+23andMe Holding Co. (NASDAQ: ME) (reacted to its second-quarter results)
+89bio, Inc. (NASDAQ: ETNB)
+Adicet Bio, Inc. (NASDAQ: ACET)
+Atreca, Inc. (NASDAQ: BCEL) ( announced  initial Phase 1b data from the study evaluating ATRC-101 in select solid tumor types)
+Candel Therapeutics, Inc. Common Stock (NASDAQ: CADL) (IPOed Tuesday)
+Ensysce Biosciences, Inc. (NASDAQ: ENSC)
+ERYTECH Pharma S.A. (NASDAQ: ERYP)
+EyeGate Pharmaceuticals, Inc. (NASDAQ: EYEG)
+Lumos Pharma, Inc. (NASDAQ: LUMO)
+Mersana Therapeutics, Inc. (NASDAQ: MRSN)
+Orchard Therapeutics plc (NASDAQ: ORTX)
+Oyster Point Pharma, Inc. (NASDAQ: OYST)
+Palisade Bio, Inc. (NASDAQ: PALI) (announced topline Phase 2 clinical trial data for LB1148 in accelerating the return of bowel function in patients undergoing elective bowel resection surgery)
+Sophia Genetics SA (NASDAQ: SOPH) (IPOed Friday)
+Taysha Gene Therapies, Inc. (NASDAQ: TSHA)
+
+Stocks In Focus
+Erytech Eryapase Gets Fast Track Designation For Blood Cancer Treatment
+Erytech said the FDA has granted its eryaspase fast track designation for the treatment of acute lymphocytic leukemia patients who have developed hypersensitivity reactions to E. coli-derived pegylated asparaginase.
+The stock was up 57.66% at $6.48 in premarket trading.
+Bioventus to Buy Misonix In a Cash and Stock Deal Valued at $518M
+Bioventus Inc. (NASDAQ: BVS) announced an agreement to buy Misonix, Inc. (NASDAQ: MSON) in a cash-and-stock deal. Under the terms of the agreement, Misonix stockholders will ...",2021-07-30 11:53:56+00:00,https://www.benzinga.com/general/biotech/21/07/22245120/the-daily-biotech-pulse-erytech-jumps-on-fast-track-designation-glaxosmithkline-fda-nod-alnylams-,Benzinga,0.08516754850088185,0.3058377425044092,neutral,0.08516754850088185,False,True,True,False,False,False,False,False,0.0,2976,"['BGNE', 'ACET', 'PALI', 'EW', 'SOPH', 'ALKS', 'BVS', 'JNJ', 'PTGX', 'ALNY', 'ABSI', 'ME', 'BHVN', 'BIIB', 'ENSC', 'RMD', 'MRSN', 'DXCM', 'ERAS', 'WST', 'ERYP', 'GILD', 'IRWD', 'ARVN', 'IBB', 'CADL', 'ORTX', 'IMGN', 'TBIO', 'AXNX', 'LIFE', 'HZNP', 'SAVA', 'LXRX', 'GMED', 'BCEL', 'MMSI', 'INVA', 'BNTX', 'MSON', 'OYST', 'NUVA', 'ABBV', 'ETNB', 'TECH', 'RDHL', 'LUMO', 'BIO', 'EYEG', 'TSHA', 'BMY']",BVS,2021-07-30
+Wall Street Breakfast: The Week Ahead,"Listen on the go! A daily podcast of Wall Street Breakfast will be available by 8:00 a.m. on Seeking Alpha, iTunes, Stitcher and Spotify.",2021-08-08 10:31:27+00:00,https://seekingalpha.com/article/4446745-wall-street-breakfast-week-ahead,Seeking Alpha,0.2,0.2,positive,0.2,False,False,False,False,False,False,False,False,0.0,176,"['BXP', 'RUTH', 'SBUX', 'WW', 'MSFT', 'CSCO', 'HPP', 'ROST', 'RDS.A', 'SPB', 'TTEK', 'PSN', 'MEG', 'J', 'ATCX', 'DKNG', 'JD', 'PINS', 'ZY', 'HOOD', 'SRAC', 'ASTR', 'BA', 'NGC', 'HYZN', 'ELMS', 'GM', 'MLM', 'BR', 'STE', 'CABO', 'NDSN', 'BCEI', 'MRTN', 'WBT', 'VER', 'O', 'BXS', 'CADE', 'TLIS', 'NEXI', 'DBTX', 'LDI', 'BVS', 'APR', 'DSP', 'SGFY', 'BLFY', 'STVN', 'IMGO', 'ERAS', 'BLND', 'SGHT', 'RPID', 'PECO', 'MCG', 'FXLV', 'POWW', 'ERJ', 'WISH', 'DASH', 'ABNB', 'DIS', 'CYBR', 'GDRX', 'TAL', 'BMBL', 'EBAY', 'CPNG', 'NIO', 'WEN', 'PRGO', 'FUBO', 'IMOS', 'SYY', 'NTR', 'USFD', 'TSN', 'F', 'BIDU', 'RIDE', 'COIN', 'AMC']",BVS,2021-08-08
+Wall Street Breakfast: The Week Ahead (Podcast),Inflation watchers are in line for a feast next week with the consumer price index and producer price index reports both due in.,2021-08-08 10:55:48+00:00,https://seekingalpha.com/article/4446752-wall-street-breakfast-the-week-ahead-podcast,Seeking Alpha,-0.0625,0.1875,neutral,0.0625,False,False,False,False,False,False,False,False,0.0,177,"['BXP', 'RUTH', 'SBUX', 'WW', 'MSFT', 'CSCO', 'HPP', 'ROST', 'RDS.A', 'SPB', 'TTEK', 'PSN', 'MEG', 'J', 'ATCX', 'DKNG', 'JD', 'PINS', 'ZY', 'HOOD', 'SRAC', 'ASTR', 'BA', 'NGC', 'HYZN', 'ELMS', 'GM', 'MLM', 'BR', 'STE', 'CABO', 'NDSN', 'BCEI', 'MRTN', 'WBT', 'VER', 'O', 'BXS', 'CADE', 'TLIS', 'NEXI', 'DBTX', 'LDI', 'BVS', 'APR', 'DSP', 'SGFY', 'BLFY', 'STVN', 'IMGO', 'ERAS', 'BLND', 'SGHT', 'RPID', 'PECO', 'MCG', 'FXLV', 'POWW', 'ERJ', 'WISH', 'DASH', 'ABNB', 'DIS', 'CYBR', 'GDRX', 'TAL', 'BMBL', 'EBAY', 'CPNG', 'NIO', 'WEN', 'PRGO', 'FUBO', 'IMOS', 'SYY', 'NTR', 'USFD', 'TSN', 'F', 'BIDU', 'RIDE', 'COIN', 'AMC']",BVS,2021-08-08
+"The Week Ahead In Biotech (Aug. 8-14): Jazz Pharma FDA Decision, Earnings Deluge and IPOs In The Spotlight","Biopharma stocks ended higher for the week ending Aug. 6, as the sector latched on to the optimism that was evident in the broader markets. Earnings continued to flow in, triggering stock-specific moves, while clinical readouts also moved stocks during the week.
+BeyondSpring Inc. (NASDAQ: BYSI) was among the biggest biopharma gainers of the week, with the stock reacting  to a positive late-stage readout for its lung cancer treatment combo. The stock ended the week with a gain of about 128%.
+Dicerna Pharmaceuticals, Inc. (NASDAQ: DRNA), however, was not as fortunate, as the stock lost about one-fifth of its market cap following mixed results from a pivotal trial of its RNAi therapeutic candidate nedosiran in primary hyperoxaluria 1.
+The market reacted negatively to earnings from vaccine companies Moderna, Inc. (NASDAQ: MRNA) and Novavax, Inc. (NASDAQ: NVAX).  Moderna's  results, although outstanding, elicited negative reaction, while a lack of update about U.S. approval of Novavax' vaccine sent its shares tumbling on Friday.
+On the approvals front, the Food and Drug Administration cleared Sanofi (NASDAQ: SNY)'s Nexviazyme (avalglucosidase alfa-ngpt), an enzyme replacement therapy drug for Pompe disease.
+The IPO news flow tapered off, with ABVC BioPharma, Inc. (NASDAQ: ABVC), Indaptus Therapeutics, Inc. (NASDAQ: INDP) and Adagio Therapeutics, Inc. Common Stock (NASDAQ: ADGI) among the companies pricing their offerings and listing during the week.
+Here are the key catalytic events for the unfolding week:
+Conferences:
+BTIG Virtual Biotechnology Conference: Aug. 9-10
+2021 Wedbush Pacgrow Healthcare Virtual Conference: Aug. 10-11
+PDUFA Dates
+The FDA is scheduled to rule on Jazz Pharmaceuticals plc's (NASDAQ: JAZZ)'s supplemental new drug application for Xywav (JZP-258) as a treatment option for idiopathic hypersomnia in adults. The PDUFA goal by date is Thursday, Aug. 12.
+Clinical Readouts
+Pending Mid-2021 Releases 
+F-star Therapeutics, Inc. (NASDAQ: FSTX): update on the progress of SB 11285 in the phase 1 clinical trial
+Crinetics Pharmaceuticals, Inc. (NASDAQ: CRNX): preliminary Phase 1 data for CRN04894 in Cushing's disease and congenital adrenal hyperplasia and CRN04777 in congenital hyperinsulinism
+Praxis Precision Medicines, Inc. (NASDAQ: PRAX): Preliminary topline data from the Phase 2a trial of PRAX-944 in essential tremor and safety, tolerability and PK data from the ongoing Phase 1 trial of PRAX-562
+Kaleido Biosciences, Inc. (NASDAQ: KLDO): Topline Phase 2 data from a clinical study of KB295 in patients with mild-to-moderate ulcerative colitis
+Earnings
+Monday 
+
+Dicerna Pharmaceuticals, Inc. (NASDAQ: DRNA) (before the market open)
+Intra-Cellular Therapies, Inc. (NASDAQ: ITCI) (before the market open)
+Eagle Pharmaceuticals, Inc. (NASDAQ: EGRX) (before the market open)
+Epizyme, Inc. (NASDAQ: EPZM) (before the market open)
+Syneos Health, Inc. (NASDAQ: SYNH) (before the market open)
+ShockWave Medical, Inc. (NASDAQ: SWAV) (before the market open)
+Viatris Inc. (NASDAQ: VTRS) (before the market open)
+Rubius Therapeutics, Inc. (NASDAQ: RUBY) (before the market open)
+Biohaven Pharmaceutical Holding Company Ltd. (NYSE: BHVN) (before the market open)
+bluebird bio, Inc. (NASDAQ: BLUE) (before the market open)
+BioNTech SE (NASDAQ: BNTX) (before the market open)
+Avadel Pharmaceuticals plc (NASDAQ: AVDL) (before the market open)
+Agenus Inc. (NASDAQ: AGEN) (before the market open)
+Amneal Pharmaceuticals, Inc. (NYSE: AMRX) (before the market open)
+Axsome Therapeutics, Inc. (NASDAQ: AXSM) (before the market open)
+Elanco Animal Health Incorporated (NYSE: ELAN) (before the market open)
+Amphastar Pharmaceuticals, Inc. (NASDAQ: AMPH) (after the close)
+Atara Biotherapeutics, Inc. (NASDAQ: ATRA) (after the close)
+Aethlon Medical, Inc. (NASDAQ:",2021-08-08 14:03:32+00:00,https://www.benzinga.com/general/biotech/21/08/22388070/the-week-ahead-in-biotech-aug-8-14-jazz-pharma-fda-decision-earnings-deluge-and-ipos-in-the-spotl,Benzinga,0.051871657754010696,0.46102941176470585,neutral,0.051871657754010696,True,False,True,False,True,False,False,False,0.0,3899,"['EYEN', 'SPPI', 'PBLA', 'CAPR', 'APYX', 'ELAN', 'HCWB', 'PAVM', 'INO', 'RVMD', 'CARA', 'RCKT', 'TPTX', 'ABCL', 'OPGN', 'SWAV', 'NAVB', 'INDP', 'FLGT', 'PTE', 'LYRA', 'EGRX', 'SYNH', 'ZIOP', 'VIRI', 'KMPH', 'DTIL', 'ALT', 'CLPT', 'AGEN', 'NARI', 'REPH', 'EVFM', 'BBI', 'ELDN', 'ADAP', 'PDSB', 'KLDO', 'BYSI', 'ATHX', 'HSTO', 'ADMS', 'BTAI', 'HAE', 'EVAX', 'PEN', 'TRVI', 'CCXI', 'AVDL', 'CLSN', 'FMTX', 'SNDX', 'AMPH', 'MDNA', 'RGC', 'LHDX', 'RGNX', 'CSTL', 'BIOL', 'ADGI', 'CPRX', 'PROG', 'ITCI', 'RUBY', 'SNY', 'BVS', 'RLMD', 'FULC', 'ALPN', 'BHVN', 'CYCC', 'RLAY', 'OCUL', 'APTX', 'TDG', 'NEXI', 'AXSM', 'LCTX', 'VNRX', 'CODX', 'HALO', 'AFIB', 'ATRA', 'TCDA', 'CPIX', 'TLIS', 'HSDT', 'TFFP', 'RPID', 'DARE', 'HOOK', 'HRMY', 'CBAY', 'CRNX', 'AEMD', 'IKNA', 'RETA', 'MRNA', 'AMRX', 'VERU', 'IBB', 'VYNE', 'OGN', 'MRNS', 'ETTX', 'BPTH', 'AKYA', 'ABVC', 'XGN', 'RGLS', 'ACHV', 'ICCC', 'JAZZ', 'AZYO', 'MTNB', 'TCRX', 'APDN', 'NPCE', 'CLSD', 'BNTX', 'EPZM', 'SYBX', 'LIFE', 'PRAX', 'XENE', 'GMDA', 'OCX', 'SERA', 'PLSE', 'TELA', 'IMV', 'CELC', 'MNKD', 'VTRS', 'NVCN', 'DMAC', 'CRMD', 'SGHT', 'VIVE', 'KRMD', 'BLUE', 'GTBP', 'NVAX', 'MRVI', 'FGEN', 'ORGO', 'GOVX', 'ERAS', 'AVIR', 'THMO', 'ONTX', 'OPTN', 'RPRX', 'FSTX', 'ADMA', 'GOSS', 'DYAI', 'IMGO', 'SELB', 'PGEN', 'DRNA', 'APLS']",BVS,2021-08-08
+"The Daily Biotech Pulse: Arcturus Soars On COVID-19 Vaccine Updates, Merck's Keytruda On Track For More Label Expansions, Eliem Debuts","Here's a roundup of top developments in the biotech space over the last 24 hours.
+Scaling The Peaks
+(Biotech Stocks Hitting 52-week Highs Aug. 9)
+
+Adagio Therapeutics, Inc. (NASDAQ: ADGI) (IPOed Friday)
+Alnylam Pharmaceuticals, Inc. (NASDAQ: ALNY)
+Axonics, Inc. (NASDAQ: AXNX)
+BioLife Solutions, Inc. (NASDAQ: BLFS) (announced a deal to buy privately-held Sexton Biotech to expand cell and gene therapy tools portfolio)
+BioNTech SE (NASDAQ: BNTX) (reacted to its quarterly results and raised vaccine sales forecast)
+Caribou Biosciences, Inc. (NASDAQ: CRBU) (IPOed July 23)
+Cortexyme, Inc. (NASDAQ: CRTX) (announced its second-quarter results)
+Cytokinetics, Incorporated (NASDAQ: CYTK)
+Day One Biopharmaceuticals, Inc. (NASDAQ: DAWN)
+Dynavax Technologies Corporation (NASDAQ: DVAX)
+Edwards Lifesciences Corporation (NYSE: EW)
+Eli Lilly and Company (NYSE: LLY)
+Impel NeuroPharma, Inc. (NASDAQ: IMPL) (announced publication of positive Phase 3 data for migraine treatment)
+Intersect ENT, Inc. (NASDAQ: XENT)
+Intuitive Surgical, Inc. (NASDAQ: ISRG)
+Maravai LifeSciences Holdings, Inc. (NASDAQ: MRVI)
+Moderna, Inc. (NASDAQ: MRNA) (reacted to continuing vaccine news flow)
+Monte Rosa Therapeutics, Inc. (NASDAQ: GLUE)
+Oramed Pharmaceuticals Inc. (NASDAQ: ORMP)
+OrthoPediatrics Corp. (NASDAQ: KIDS)
+PAVmed Inc. (NASDAQ: PAVM)
+Pfizer Inc. (NYSE: PFE)
+Repligen Corporation (NASDAQ: RGEN)
+
+Down In The Dumps
+(Biotech Stocks Hitting 52-week Lows Aug. 9)
+
+Adicet Bio, Inc. (NASDAQ: ACET)
+Akero Therapeutics, Inc. (NASDAQ: AKRO)
+Arena Pharmaceuticals, Inc. (NASDAQ: ARNA)
+Atai Life Sciences N.V. (NASDAQ: ATAI)
+AVROBIO, Inc. (NASDAQ: AVRO)
+Axsome Therapeutics, Inc. (NASDAQ: AXSM) (communicated in its earnings release a potential delay in approval of its major depressive disorder treatment)
+Biophytis SA (NASDAQ: BPTS)
+bluebird bio, Inc. (NASDAQ: BLUE) (reacted to  clinical hold  imposed by the FDA on its gene therapy studies)
+CytomX Therapeutics, Inc. (NASDAQ: CTMX)
+Epizyme, Inc. (NASDAQ: EPZM) (announced its second-quarter results)
+Eton Pharmaceuticals, Inc. (NASDAQ: ETON) (reacted to a 3-month delay in the review period for its antiepileptic topiramate oral solution)
+Exicure, Inc. (NASDAQ: XCUR)
+EyeGate Pharmaceuticals, Inc. (NASDAQ: EYEG)
+Flexion Therapeutics, Inc. (NASDAQ: FLXN)
+Freeline Therapeutics Holdings plc (NASDAQ: FRLN)
+Heron Therapeutics, Inc. (NASDAQ: HRTX)
+Incyte Corporation (NASDAQ: INCY)
+Inventiva S.A. (NASDAQ: IVA)
+Itamar Medical Ltd. (NASDAQ: ITMR)
+Kura Oncology, Inc. (NASDAQ: KURA)
+Nektar Therapeutics (NASDAQ: NKTR)
+Pharming Group N.V. (NASDAQ: PHAR)
+Protara Therapeutics, Inc. (NASDAQ: TARA)
+Pulmatrix, Inc. (NASDAQ: PULM)
+Relmada Therapeutics, Inc. (NASDAQ: RLMD)
+Spruce Biosciences, Inc. (NASDAQ: SPRB)
+Teligent, Inc. (NASDAQ: TLGT)
+TherapeuticsMD, Inc. (NASDAQ: TXMD)
+VYNE Therapeutics Inc. (NASDAQ: VYNE)
+ZIVO Bioscience, Inc. (NASDAQ: ZIVO)
+
+Stocks In Focus
+Arcturus' COVID-19 Vaccine Found Effective Against Variants In Animal Studies, to Commence Phase 3 Study
+Arcturus Therapeutics Holdings Inc. (NASDAQ: ARCT) announced updates on its COVID-19 vaccine program, including plans to begin Phase 3 study of its STARR mRNA vaccine candidate codenamed ARCT-154 in Vietnam. The company targets emergency use authorization filing in December,
+ARCT-154 was found to produce robust neutralizing antibody titers ...",2021-08-10 11:55:36+00:00,https://www.benzinga.com/general/biotech/21/08/22418408/the-daily-biotech-pulse-arcturus-soars-on-covid-19-vaccine-updates-mercks-keytruda-on-track-for-m,Benzinga,0.15765610651974288,0.3910009182736456,positive,0.15765610651974288,True,True,True,False,True,False,False,False,0.0,3474,"['RETA', 'LLY', 'BPTS', 'BLFS', 'IVA', 'CLSD', 'MRK', 'MRNA', 'HRTX', 'ACET', 'PAVM', 'PFE', 'FRLN', 'MRNS', 'ALNY', 'FLGT', 'TDG', 'BNTX', 'EYEG', 'ARNA', 'CLPT', 'KIDS', 'TARA', 'MTNB', 'ATAI', 'ADGI', 'CPIX', 'NARI', 'XENT', 'CRTX', 'CYTK', 'BTAI', 'OCX', 'HRMY', 'NVCN', 'DVAX', 'XCUR', 'DAWN', 'VYNE', 'ZIVO', 'HALO', 'APTX', 'ARCT', 'SPRB', 'IBB', 'AVRO', 'PHAR', 'MRVI', 'KMPH', 'INCY', 'ETON', 'ORMP', 'BVS', 'PULM', 'ISRG', 'AXNX', 'TXMD', 'TLIS', 'CTMX', 'LIFE', 'ORGO', 'RGLS', 'AKYA', 'RLMD', 'NKTR', 'ITMR', 'EPZM', 'IMPL', 'AXSM', 'RGEN', 'AKRO', 'BLUE', 'GLUE', 'TLGT', 'EW', 'FULC', 'FLXN', 'CRBU', 'KURA']",BVS,2021-08-10
+Bioventus Inc. (BVS) Q2 2021 Earnings Call Transcript,"BVS earnings call for the period ending June 30, 2021.",2021-08-11 07:01:30+00:00,https://www.fool.com/earnings/call-transcripts/2021/08/11/bioventus-inc-bvs-q2-2021-earnings-call-transcript/,The Motley Fool,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,109,['BVS'],BVS,2021-08-11
+Will a Powerful Acquisition Make This Early 2021 IPO a Buy?,Maybe the equivalent of an extra full quarter of revenue will get the attention of investors.,2021-08-17 11:49:00+00:00,https://www.fool.com/investing/2021/08/17/will-a-powerful-acquisition-make-this-early-2021-i/,The Motley Fool,0.1875,0.48750000000000004,positive,0.1875,True,True,False,False,False,False,False,False,0.0,154,"['BVS', 'SNN', 'MSON']",BVS,2021-08-17
+"Dave Crawford Joins Bioventus as Vice President, Investor Relations and Treasurer","DURHAM, N.C., Aug.  23, 2021  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, has appointed Dave Crawford as its Vice President, Investor Relations and Treasurer. Crawford has more than 20 years of experience across multiple areas of finance and comes to Bioventus from Avanos Medical, Inc. where he served for nearly seven years as its Vice President Treasurer, Investor Relations and Financial Planning and Analysis.",2021-08-23 12:30:00+00:00,https://www.globenewswire.com/news-release/2021/08/23/2284844/0/en/Dave-Crawford-Joins-Bioventus-as-Vice-President-Investor-Relations-and-Treasurer.html,GlobeNewswire Inc.,0.06666666666666667,0.21428571428571427,neutral,0.06666666666666667,False,False,False,False,True,False,False,False,0.0,585,['BVS'],BVS,2021-08-23
+Bioventus Invests in Trice Medical Minimally Invasive Technologies,Bioventus Also Agrees to OUS Distribution and Co-Development Relationships Bioventus Also Agrees to OUS Distribution and Co-Development Relationships,2021-08-25 20:05:00+00:00,https://www.globenewswire.com/news-release/2021/08/25/2286649/0/en/Bioventus-Invests-in-Trice-Medical-Minimally-Invasive-Technologies.html,GlobeNewswire Inc.,-0.05,0.3,neutral,0.05,False,False,False,False,False,False,False,False,0.0,217,['BVS'],BVS,2021-08-25
+Bioventus Proceeds with Option Structure Agreement with CartiHeal,"DURHAM, N.C., Aug.  30, 2021  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, has elected to make a $50 million escrow payment pursuant to its Option and Equity Purchase Agreement with CartiHeal Ltd., signaling its intent to move forward with an acquisition of CartiHeal. The Company’s decision came following its review of a statistical analysis report of the pivotal clinical trial of the Agili™-C implant, reimbursement coding analysis and significant market diligence including surgeon interviews with respect to Agili-C’s commercialization opportunity and ultimate market potential.",2021-08-30 11:30:00+00:00,https://www.globenewswire.com/news-release/2021/08/30/2288194/0/en/Bioventus-Proceeds-with-Option-Structure-Agreement-with-CartiHeal.html,GlobeNewswire Inc.,0.10595238095238095,0.625,positive,0.10595238095238095,False,True,False,False,True,False,False,False,0.0,738,['BVS'],BVS,2021-08-30
+Merger Arbitrage Mondays - Landmark Infrastructure Partners Acquired By Its General Partner At A Significant Premium,M&A and SPAC activity are back on track. Two rumored deals materialize at significant premiums. Click to read more.,2021-08-31 05:32:22+00:00,https://seekingalpha.com/article/4452690-merger-arbitrage-mondays-landmark-infrastructure-partners-acquired-by-its-general-partner-at-a-significant-premium,Seeking Alpha,0.26,0.55,positive,0.26,False,True,False,False,False,False,False,False,0.0,233,"['ACBA', 'ADI', 'BANC', 'BVS', 'DM', 'ELAN', 'ELAT', 'GPX', 'GTS', 'KRG', 'LMRK', 'LMT', 'NGCA', 'NMM', 'NNA', 'OPA', 'PFE', 'PNM', 'SC', 'SHSP', 'TRIL', 'VMC', 'XERS']",BVS,2021-08-31
+3 Small Biotech Stocks in Focus on World Arthritis Day,Here we discuss three drugs or biotech companies with promising candidates in their pipeline for Arthritis indications.,2021-10-12 13:30:00+00:00,https://www.zacks.com/stock/news/1809640/3-small-biotech-stocks-in-focus-on-world-arthritis-day,Zacks Investment Research,-0.024999999999999994,0.45,neutral,0.024999999999999994,False,False,False,False,False,False,False,False,0.0,175,"['JNJ', 'AMGN', 'ABBV', 'ALPN', 'IMAB', 'BVS']",BVS,2021-10-12
+Bioventus and Misonix Stockholders Approve the Acquisition of Misonix by Bioventus,"DURHAM, N.C. and FARMINGDALE, N.Y., Oct.  26, 2021  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, and Misonix, Inc. (Nasdaq: MSON) (“Misonix”), a provider of minimally invasive therapeutic ultrasonic technologies and regenerative medicine that enhance clinical outcomes, today announced that the stockholders of Bioventus approved the issuance of shares of Bioventus class A common stock to the stockholders of Misonix in connection with the previously announced Agreement and Plan of Merger, dated July 29, 2021, by and among Bioventus, Misonix and other parties thereto, pursuant to which Misonix will be acquired by, and become a wholly-owned subsidiary of, Bioventus (the “Merger Agreement”) and the stockholders of Misonix have approved the proposal to adopt the Merger Agreement.",2021-10-26 20:15:00+00:00,https://www.globenewswire.com/news-release/2021/10/26/2321197/0/en/Bioventus-and-Misonix-Stockholders-Approve-the-Acquisition-of-Misonix-by-Bioventus.html,GlobeNewswire Inc.,-0.13749999999999998,0.3736111111111111,negative,0.13749999999999998,False,True,False,False,True,False,False,False,0.0,955,['BVS'],BVS,2021-10-26
+"Bioventus to Release Third Quarter of Fiscal Year 2021 Financial Results on November 9, 2021","DURHAM, N.C., Oct.  27, 2021  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, today announced that third quarter of fiscal year 2021 financial results will be released before the market opens on Tuesday, November 9, 2021.",2021-10-27 20:15:00+00:00,https://www.globenewswire.com/news-release/2021/10/27/2322148/0/en/Bioventus-to-Release-Third-Quarter-of-Fiscal-Year-2021-Financial-Results-on-November-9-2021.html,GlobeNewswire Inc.,-0.022222222222222223,0.09999999999999999,neutral,0.022222222222222223,False,False,False,False,True,False,False,False,0.0,399,['BVS'],BVS,2021-10-27
+Bioventus Completes the Acquisition of Misonix,"DURHAM, N.C., Oct.  29, 2021  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, has completed the acquisition of Misonix, Inc. (“Misonix”), a provider of minimally invasive therapeutic ultrasonic technologies and regenerative medicine that are designed to enhance clinical outcomes, for cash and common stock. Pursuant to the terms of the merger agreement, Misonix has become a wholly owned subsidiary of Bioventus.",2021-10-29 12:25:00+00:00,https://www.globenewswire.com/news-release/2021/10/29/2323649/0/en/Bioventus-Completes-the-Acquisition-of-Misonix.html,GlobeNewswire Inc.,-0.13333333333333333,0.425,negative,0.13333333333333333,False,True,False,False,True,False,False,False,0.0,545,['BVS'],BVS,2021-10-29
+"Sharon Klugewicz Joins Bioventus as Senior Vice President, Quality and Regulatory Affairs","DURHAM, N.C., Nov.  01, 2021  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, has appointed Sharon Klugewicz as Senior Vice President, Quality and Regulatory Affairs. In this role, she will be responsible for all regulatory and quality functions globally, facilitating strong alignment across commercial, operations and R&D teams.",2021-11-01 12:30:00+00:00,https://www.globenewswire.com/news-release/2021/11/01/2324413/0/en/Sharon-Klugewicz-Joins-Bioventus-as-Senior-Vice-President-Quality-and-Regulatory-Affairs.html,GlobeNewswire Inc.,0.08333333333333333,0.3138888888888889,neutral,0.08333333333333333,False,False,True,False,True,False,False,False,0.0,505,['BVS'],BVS,2021-11-01
+Bioventus Inc. (BVS) Q3 2021 Earnings Call Transcript,"BVS earnings call for the period ending September 30, 2021.",2021-11-10 09:02:33+00:00,https://www.fool.com/earnings/call-transcripts/2021/11/10/bioventus-inc-bvs-q3-2021-earnings-call-transcript/,The Motley Fool,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,114,['BVS'],BVS,2021-11-10
+Bioventus to Expand Operations and Manufacturing in Memphis,"MEMPHIS, Tenn., Nov.  18, 2021  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, has signed a lease agreement to double its current operations and manufacturing space and relocate from its current facility in suburban Memphis. Bioventus expects to move its 116 employees into the new space in early Q3 of 2022 and add another 40 jobs in the next five years.",2021-11-18 13:45:00+00:00,https://www.globenewswire.com/news-release/2021/11/18/2337422/0/en/Bioventus-to-Expand-Operations-and-Manufacturing-in-Memphis.html,GlobeNewswire Inc.,0.011447811447811448,0.23939393939393938,neutral,0.011447811447811448,False,False,False,False,True,False,False,False,0.0,501,['BVS'],BVS,2021-11-18
+Bioventus Receives US FDA Clearance for BoneScalpel® Access™,"DURHAM, N.C., Dec.  20, 2021  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, announced the US Food and Drug Administration (FDA) has granted 510(k) clearance for the Company’s neXus® BoneScalpel® Access™ handpiece. The BoneScalpel Access handpiece is powered by the neXus Ultrasonic Surgical Aspirator System, a next-generation integrated ultrasonic surgical platform driven by a proprietary digital algorithm resulting in more power, versatility, and control. The neXus system combines all the features of soft and hard (e.g. bone) tissue removal into a single fully integrated offering.",2021-12-20 13:30:00+00:00,https://www.globenewswire.com/news-release/2021/12/20/2355242/0/en/Bioventus-Receives-US-FDA-Clearance-for-BoneScalpel-Access.html,GlobeNewswire Inc.,0.014795918367346938,0.31513605442176873,neutral,0.014795918367346938,False,False,True,False,True,False,False,False,0.0,735,['BVS'],BVS,2021-12-20
+Bioventus Appoints Michelle McMurry-Heath to Board of Directors,"DURHAM, N.C., Dec.  21, 2021  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, has announced the appointment of Michelle McMurry-Heath, MD, PhD, to the Company’s Board of Directors, effective January 1, 2022.",2021-12-21 14:25:00+00:00,https://www.globenewswire.com/news-release/2021/12/21/2356199/0/en/Bioventus-Appoints-Michelle-McMurry-Heath-to-Board-of-Directors.html,GlobeNewswire Inc.,0.15555555555555556,0.4666666666666666,positive,0.15555555555555556,False,False,False,False,True,False,True,False,0.0,356,['BVS'],BVS,2021-12-21
+Bioventus to Present at the 40th Annual J.P. Morgan Healthcare Conference,"DURHAM, N.C., Dec.  28, 2021  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS), a global leader in innovations for active healing, today announced that Ken Reali, chief executive officer, will present at the 40th Annual J.P. Morgan Healthcare Conference via webcast on Wednesday, January 12, 2022, at 5:15 p.m. ET.",2021-12-28 12:00:00+00:00,https://www.globenewswire.com/news-release/2021/12/28/2358395/0/en/Bioventus-to-Present-at-the-40th-Annual-J-P-Morgan-Healthcare-Conference.html,GlobeNewswire Inc.,-0.03333333333333333,0.15,neutral,0.03333333333333333,False,False,False,False,True,False,False,False,0.0,389,['BVS'],BVS,2021-12-28
+PolarityTE (PTE) Gets FDA Nod to Begin Pivotal Ulcer Study,PolarityTE (PTE) announces removal of clinical hold on a proposed pivotal study to evaluate its SkinTE for chronic cutaneous ulcers. PolarityTE plans to start enrollment in the next few months.,2022-01-19 16:37:00+00:00,https://www.zacks.com/stock/news/1853996/polarityte-pte-gets-fda-nod-to-begin-pivotal-ulcer-study,Zacks Investment Research,0.2,0.42500000000000004,positive,0.2,False,False,True,False,False,False,False,False,0.0,253,"['SPPI', 'PTE', 'AZYO', 'BVS']",BVS,2022-01-19
+Bioventus Appoints Mark Singleton as Chief Financial Officer,"DURHAM, N.C., Feb.  28, 2022  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, today announced that it has appointed Mark Singleton as the Company’s Senior Vice President, Chief Financial Officer and Principal Accounting Officer, effective March 21, 2022.",2022-02-28 12:00:00+00:00,https://www.globenewswire.com/news-release/2022/02/28/2392958/0/en/Bioventus-Appoints-Mark-Singleton-as-Chief-Financial-Officer.html,GlobeNewswire Inc.,0.09333333333333334,0.27999999999999997,neutral,0.09333333333333334,False,False,False,False,True,False,False,False,0.0,400,['BVS'],BVS,2022-02-28
+"Ardelyx (ARDX) Reports Q4 Loss, Misses Revenue Estimates","Ardelyx (ARDX) delivered earnings and revenue surprises of -24% and 48.55%, respectively, for the quarter ended December 2021. Do the numbers hold clues to what lies ahead for the stock?",2022-02-28 22:55:07+00:00,https://www.zacks.com/stock/news/1874814/ardelyx-ardx-reports-q4-loss-misses-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,244,"['ARDX', 'BVS']",BVS,2022-02-28
+Bioventus Receives 510(k) Clearance for StimRouter Pain Management Device,"Industry Leading Peripheral Nerve Stimulator Upgraded to Improve Patient User Experience with Control of their Unique Chronic Pain Condition, Longer Battery Life Industry Leading Peripheral Nerve Stimulator Upgraded to Improve Patient User Experience with Control of their Unique Chronic Pain Condition, Longer Battery Life",2022-03-01 12:00:00+00:00,https://www.globenewswire.com/news-release/2022/03/01/2394061/0/en/Bioventus-Receives-510-k-Clearance-for-StimRouter-Pain-Management-Device.html,GlobeNewswire Inc.,0.375,1.0,positive,0.375,False,False,False,False,False,False,True,False,0.0,398,['BVS'],BVS,2022-03-01
+"ChemoCentryx (CCXI) Reports Q4 Loss, Lags Revenue Estimates","ChemoCentryx (CCXI) delivered earnings and revenue surprises of -1.75% and 33.67%, respectively, for the quarter ended December 2021. Do the numbers hold clues to what lies ahead for the stock?",2022-03-01 22:35:07+00:00,https://www.zacks.com/stock/news/1875577/chemocentryx-ccxi-reports-q4-loss-lags-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,254,"['CCXI', 'BVS']",BVS,2022-03-01
+Bioventus Inc. (BVS) Q4 2021 Earnings Call Transcript,"BVS earnings call for the period ending December 31, 2021.",2022-03-10 17:30:29+00:00,https://www.fool.com/earnings/call-transcripts/2022/03/10/bioventus-inc-bvs-q4-2021-earnings-call-transcript/,The Motley Fool,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,113,['BVS'],BVS,2022-03-10
+"Company News for Mar 11, 2022","Companies in The News Are: CLVT,BVS,KRO,CRWD",2022-03-11 14:43:00+00:00,https://www.zacks.com/stock/news/1880838/company-news-for-mar-11-2022,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,75,"['KRO', 'CRWD', 'CLVT', 'BVS']",BVS,2022-03-11
+"Benzinga's Top Ratings Upgrades, Downgrades For March 15, 2022","Upgrades
+For Turquoise Hill Resources Ltd (NYSE:TRQ), BMO Capital upgraded the previous rating of Underperform to Market Perform. Turquoise Hill Resources earned $0.78 in the fourth quarter, compared to $0.79 in the year-ago quarter. The stock has a 52-week-high of $26.73 and a 52-week-low of $9.75. At the end of the last trading period, Turquoise Hill Resources closed at $26.55.   
+According to BMO Capital, the prior rating for Turquoise Hill Resources Ltd (NYSE:TRQ) was changed from Underperform to Market Perform. In the fourth quarter, Turquoise Hill Resources showed an EPS of $0.78, compared to $0.79 from the year-ago quarter. The current stock performance of Turquoise Hill Resources shows a 52-week-high of $26.73 and a 52-week-low of $9.75. Moreover, at the end of the last trading period, the closing price was at $26.55.   
+According to DA Davidson, the prior rating for Washington Federal Inc (NASDAQ:WAFD) was changed from Neutral to Buy. Washington Federal earned $0.71 in the first quarter, compared to $0.51 in the year-ago quarter. At the moment, the stock has a 52-week-high of $38.06 and a 52-week-low of $29.01. Washington Federal closed at $34.22 at the end of the last trading period.   
+For Realty Income Corp (NYSE:O), Wolfe Research upgraded the previous rating of Peer Perform to Outperform. For the fourth quarter, Realty Income had an EPS of $0.94, compared to year-ago quarter EPS of $0.84. At the moment, the stock has a 52-week-high of $74.60 and a 52-week-low of $61.43. Realty Income closed at $64.88 at the end of the last trading period.   
+According to Wolfe Research, the prior rating for UDR Inc (NYSE:UDR) was changed from Peer Perform to Outperform. In the fourth quarter, UDR showed an EPS of $0.54, compared to $0.49 from the year-ago quarter. The current stock performance of UDR shows a 52-week-high of $61.06 and a 52-week-low of $42.83. Moreover, at the end of the last trading period, the closing price was at $56.02.   
+Barclays upgraded the previous rating for Fortive Corp (NYSE:FTV) from Equal-Weight to Overweight. For the fourth quarter, Fortive had an EPS of $0.79, compared to year-ago quarter EPS of $0.70. The stock has a 52-week-high of $79.87 and a 52-week-low of $56.06. At the end of the last trading period, Fortive closed at $56.96.   
+B of A Securities upgraded the previous rating for Ascendis Pharma A/S (NASDAQ:ASND) from Neutral to Buy. For the fourth quarter, Ascendis Pharma had an EPS of $2.14, compared to year-ago quarter EPS of $3.15. At the moment, the stock has a 52-week-high of $178.71 and a 52-week-low of $96.97. Ascendis Pharma closed at $102.64 at the end of the last trading period.   
+Benchmark upgraded the previous rating for Zoom Video Communications Inc (NASDAQ:ZM) from Hold to Buy. Zoom Video Comms earned $1.29 in the fourth quarter, compared to $1.22 in the year-ago quarter. The current stock performance of Zoom Video Comms shows a 52-week-high of $406.48 and a 52-week-low of $94.51. Moreover, at the end of the last trading period, the closing price was at $94.64.   
+BMO Capital upgraded the previous rating for LiveRamp Holdings Inc (NYSE:RAMP) from Market Perform to Outperform. LiveRamp Holdings earned $0.14 in the third quarter, compared to $0.14 in the year-ago quarter. At the moment, the stock has a 52-week-high of $58.74 and a 52-week-low of $33.42. LiveRamp Holdings closed at $33.84 at the end of the last trading period.   
+According to Goldman Sachs, the prior rating for The Mosaic Co (NYSE:MOS) was changed from Neutral to Buy. In the fourth quarter, Mosaic showed an EPS of $1.95, compared to $0.57 from the year-ago quarter. The current stock performance of Mosaic shows a 52-week-high of $64.71 and a 52-week-low of $28.26. Moreover, at the end of the last trading period, the closing price was at $58.10.   
+According to Baird, the prior rating for GoodRx Holdings Inc (NASDAQ:GDRX) was changed from Neutral to Outperform. For the fourth quarter, GoodRx Holdings had an EPS of $0.09, compared to year-ago quarter EPS of $0.08. The current stock performance of GoodRx Holdings shows a 52-week-high of $48.05 and a 52-week-low of $13.44. Moreover, at the end of the last trading period, the closing price was at $13.62.   
+For Northern Oil & Gas Inc (NYSE:NOG), Johnson Rice upgraded the previous rating of Accumulate to Buy. In the fourth quarter, Northern Oil & Gas showed an EPS of $1.06, compared to $0.64 from the year-ago quarter. The current stock performance of Northern Oil & Gas shows a 52-week-high of $29.10 and a 52-week-low of $11.40. Moreover, at the end of the last trading period, the closing price was at $23.84.   
+Atlantic Equities upgraded the previous rating for W.W. Grainger Inc (NYSE:GWW) from Neutral to Overweight. W.W. Grainger earned $5.44 in the fourth quarter, compared to $3.66 in the year-ago quarter. The stock has a 52-week-high of $527.06 and a 52-week-low of $386.37. At the end of the last trading period, W.W. Grainger closed at $483.40.   
+According to Morgan Stanley, the prior rating for Heartland Express Inc (NASDAQ:HTLD) was changed from Underweight to Equal-Weight. Heartland Express earned $0.26 in ...Full story available on Benzinga.com",2022-03-15 15:16:55+00:00,https://www.benzinga.com/analyst-ratings/upgrades/22/03/26147439/benzingas-top-ratings-upgrades-downgrades-for-march-15-2022,Benzinga,-0.016060606060606056,0.1187878787878788,neutral,0.016060606060606056,False,True,True,False,False,False,False,False,0.0,5270,"['RAMP', 'GDRX', 'NOG', 'TRQ', 'PRLD', 'HTLD', 'BURL', 'CMPX', 'LULU', 'COUP', 'BVS', 'NKTR', 'ASND', 'FYBR', 'CEA', 'EVLV', 'XPOF', 'GWW', 'PLNT', 'TOST', 'HRL', 'FTV', 'PRDS', 'MOS', 'O', 'BIVI', 'TYL', 'ZYME', 'UDR', 'FUV', 'ZNH', 'SFIX', 'AL', 'LEGN', 'HZNP', 'PTON', 'ZNGA', 'ZM', 'WAFD', 'BIGC']",BVS,2022-03-15
+Bioventus to Present at the Canaccord Genuity Musculoskeletal Conference,"DURHAM, N.C., March  16, 2022  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS), a global leader in innovations for active healing, today announced that Ken Reali, chief executive officer, will participate in a fireside chat at the Canaccord Genuity Musculoskeletal Conference on Tuesday, March 22, 2022, at 11:00 a.m. ET.",2022-03-16 11:00:00+00:00,https://www.globenewswire.com/news-release/2022/03/16/2404187/0/en/Bioventus-to-Present-at-the-Canaccord-Genuity-Musculoskeletal-Conference.html,GlobeNewswire Inc.,-0.044444444444444446,0.19999999999999998,neutral,0.044444444444444446,False,False,False,False,True,False,False,False,0.0,396,['BVS'],BVS,2022-03-16
+Why Bioventus Stock Is Sinking Today,Investors aren't happy about the company's acquisition plans.,2022-04-04 15:27:24+00:00,https://www.fool.com/investing/2022/04/04/why-bioventus-stock-is-sinking-today/,The Motley Fool,0.8,1.0,positive,0.8,False,True,False,False,False,False,False,False,0.0,99,['BVS'],BVS,2022-04-04
+Bioventus TheraSkin Coverage Expands to Provide for 17 Million More Covered Lives,"DURHAM, N.C., April  08, 2022  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, announced today that TheraSkin coverage now includes three out of the four largest commercial plans in the U.S. along with Medicare and several regional commercial plans. Bioventus’ TheraSkin is a cellular and tissue-based treatment for difficult to heal chronic wounds and this expanded coverage adds more than 17 million medical lives to the existing coverage.",2022-04-08 13:15:00+00:00,https://www.globenewswire.com/news-release/2022/04/08/2419318/0/en/Bioventus-TheraSkin-Coverage-Expands-to-Provide-for-17-Million-More-Covered-Lives.html,GlobeNewswire Inc.,0.040740740740740744,0.2888888888888889,neutral,0.040740740740740744,False,False,False,False,True,False,False,False,0.0,608,['BVS'],BVS,2022-04-08
+Bioventus Announces $415 Million Offering of Senior Notes,"DURHAM, N.C., April  26, 2022  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, announced today that, subject to market conditions, its subsidiary Bioventus LLC (the “Issuer”) intends to offer for sale $415 million in aggregate principal amount of its senior notes due in 2027 (the “Notes”) in a private offering that is exempt from the registration requirements of the Securities Act of 1933, as amended (the “Securities Act”). The Notes will be guaranteed by each of the Issuer’s domestic restricted subsidiaries that guarantee the Issuer’s obligations under its senior secured credit facilities.",2022-04-26 12:38:00+00:00,https://www.globenewswire.com/news-release/2022/04/26/2429148/0/en/Bioventus-Announces-415-Million-Offering-of-Senior-Notes.html,GlobeNewswire Inc.,-0.07083333333333333,0.2972222222222222,neutral,0.07083333333333333,False,False,True,False,True,False,False,False,0.0,740,['BVS'],BVS,2022-04-26
+Bioventus Announces Preliminary First Quarter Net Sales and Adjusted EBITDA,"DURHAM, N.C., April  26, 2022  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, announced today preliminary financial results for the first quarter ended April 2, 2022.",2022-04-26 13:05:00+00:00,https://www.globenewswire.com/news-release/2022/04/26/2429256/0/en/Bioventus-Announces-Preliminary-First-Quarter-Net-Sales-and-Adjusted-EBITDA.html,GlobeNewswire Inc.,0.061111111111111116,0.2111111111111111,neutral,0.061111111111111116,False,False,False,False,True,False,False,False,0.0,328,['BVS'],BVS,2022-04-26
+Bioventus Cancels Proposed $415 Million Offering of Senior Notes; Reaffirms Full-Year 2022 Financial Guidance,"DURHAM, N.C., May  03, 2022  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, announced today that its subsidiary, Bioventus LLC, has withdrawn its offering of senior notes that was announced on Tuesday, April 26, 2022. The Company believes that current market conditions are not conducive for an offering on terms that would be in the best interests of its stakeholders. The Company is exploring alternative financing options to finance the upfront consideration of its previously announced call option to acquire CartiHeal Ltd.",2022-05-03 21:47:00+00:00,https://www.globenewswire.com/news-release/2022/05/03/2435149/0/en/Bioventus-Cancels-Proposed-415-Million-Offering-of-Senior-Notes-Reaffirms-Full-Year-2022-Financial-Guidance.html,GlobeNewswire Inc.,0.11666666666666668,0.24444444444444446,positive,0.11666666666666668,False,True,False,False,True,False,False,False,0.0,723,['BVS'],BVS,2022-05-03
+Bioventus Inc. (BVS) Q1 2022 Earnings Call Transcript,"BVS earnings call for the period ending March 31, 2022.",2022-05-10 17:00:42+00:00,https://www.fool.com/earnings/call-transcripts/2022/05/10/bioventus-inc-bvs-q1-2022-earnings-call-transcript/,The Motley Fool,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,110,['BVS'],BVS,2022-05-10
+Implied Volatility Surging for Bioventus (BVS) Stock Options,Investors need to pay close attention to Bioventus (BVS) stock based on the movements in the options market lately.,2022-06-15 12:33:00+00:00,https://www.zacks.com/stock/news/1939241/implied-volatility-surging-for-bioventus-bvs-stock-options,Zacks Investment Research,-0.3,0.6,negative,0.3,False,False,False,False,False,False,False,False,0.0,177,['BVS'],BVS,2022-06-15
+Bioventus Amends CartiHeal Acquisition Structure,"DURHAM, N.C., June  21, 2022  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, announced today that it has entered into an amendment to the Option and Equity Purchase Agreement for its pending acquisition of CartiHeal (“Amended Acquisition Agreement”).",2022-06-21 11:30:00+00:00,https://www.globenewswire.com/news-release/2022/06/21/2466017/0/en/Bioventus-Amends-CartiHeal-Acquisition-Structure.html,GlobeNewswire Inc.,-0.06666666666666667,0.3,neutral,0.06666666666666667,False,True,False,False,True,False,False,False,0.0,385,['BVS'],BVS,2022-06-21
+Bioventus Completes CartiHeal Acquisition,"DURHAM, N.C., July  12, 2022  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, announced today that it has completed its acquisition of CartiHeal.",2022-07-12 12:30:00+00:00,https://www.globenewswire.com/news-release/2022/07/12/2478080/0/en/Bioventus-Completes-CartiHeal-Acquisition.html,GlobeNewswire Inc.,-0.06666666666666667,0.3,neutral,0.06666666666666667,False,True,False,False,True,False,False,False,0.0,272,['BVS'],BVS,2022-07-12
+"Twitter Shares Surge Around 8%, Here's 66 Biggest Movers From Yesterday","Gainers
+
+Qurate Retail, Inc. (NASDAQ: QRTEB) shares climbed 71.1% to close at $5.20. Qurate Retail will host a conference call to discuss Q2 results on Friday, August 5th.
+Liberty TripAdvisor Holdings, Inc. (NASDAQ: LTRPB) gained 48.9% to close at $14.00
+XORTX Therapeutics Inc. (NASDAQ: XRTX) jumped 47.2% to close at $1.81 after the company announced topline results from Part 1 of the 3 part Pharmacokinetics Bridging Study showed a substantial increase in oral bioavailability of two versions of its proprietary oxypurinol formulation.
+ironSource Ltd. (NYSE: IS) rose 47.1% to close at $3.28 after the company announced an all-stock merger agreement with Unity Software at an approximate $4.4 billion.
+TDH Holdings, Inc. (NASDAQ: PETZ) jumped 42.2% to close at $2.93. TDH Holdings reported in SEC filing that the company withdraws of registration statement.
+NuCana plc (NASDAQ: NCNA) gained 41.4% to close at $1.37. The Regional Court of Dusseldorf recently ruled in favor of the company, stating that Gilead infringed NuCana's composition of matter claims in European Patent 2955190.
+Gossamer Bio, Inc. (NASDAQ: GOSS) gained 31.9% to close at $9.51 after the company announced $120 million in private placement financing.
+Rhythm Pharmaceuticals, Inc. (NASDAQ: RYTM) rose 31.5% to close at $8.77 after Goldman Sachs maintained a Neutral rating on the stock and raised its price target from $4 to $6.
+Powerbridge Technologies Co., Ltd. (NASDAQ: PBTS) gained 24.3% to close at $0.83.
+The OLB Group, Inc. (NASDAQ: OLB) jumped 23.9% to close at $1.15. OLB Group authorized share repurchase program of up to 1 million shares.
+Minim, Inc. (NASDAQ: MINM) gained 23% to close at $0.4480. Minim recently said Nicole Hayward Zheng will be transitioning from her role as President and Chief Marketing Officer to pursue a new career opportunity with a privately-held company in a new field.
+Velo3D, Inc. (NYSE: VLD) rose 22.2% to settle at $2.31.
+CinCor Pharma, Inc. (NASDAQ: CINC) gained 21.1% to close at $24.65.
+Pulse Biosciences, Inc. (NASDAQ: PLSE) gained 19.7% to close at $2.13.
+Natuzzi S.p.A. (NYSE: NTZ) climbed 18.1% to settle at $7.71.
+Verona Pharma plc (NASDAQ: VRNA) gained 17.4% to close at $4.86.
+PhaseBio Pharmaceuticals, Inc. (NASDAQ: PHAS) jumped 16.8% to close at $1.01.
+Adial Pharmaceuticals, Inc. (NASDAQ: ADIL) gained 16.7% to close at $1.75.
+Sonim Technologies, Inc. (NASDAQ: SONM) rose 16.4% to settle at $0.6395 as the company announced completion of first closing of growth equity transaction.
+Sentage Holdings Inc. (NASDAQ: SNTG) gained 16.3% to close at $0.57.
+Boxed, Inc. (NYSE: BOXD) surged 16% to close at $1.89 after Wells Fargo initiated coverage on the stock with an ...",2022-07-14 09:58:12+00:00,https://www.benzinga.com/news/22/07/28061253/twitter-shares-surge-around-8-heres-66-biggest-movers-from-yesterday,Benzinga,0.18636363636363637,0.5474941724941724,positive,0.18636363636363637,False,True,True,False,False,False,False,True,0.0,2769,"['SFIX', 'SSY', 'KAL', 'TWTR', 'SVRE', 'AREB', 'WYY', 'KSPN', 'ABEV', 'USEA', 'ADIL', 'FAST', 'YSG', 'AGTC', 'BTAI', 'XRTX', 'NCPL', 'TEDU', 'QRTEB', 'CE', 'MINM', 'ATRA', 'MGTA', 'DAL', 'RMO', 'COE', 'TBLT', 'GWW', 'LHDX', 'RYTM', 'MDJH', 'NTZ', 'BVS', 'LTRPB', 'PHAS', 'AMBO', 'MYMD', 'HSDT', 'WTRH', 'NA', 'SNTG', 'PLSE', 'SONM', 'TH', 'BOXD', 'APEN', 'GOSS', 'U', 'VLD', 'VRNA', 'PBTS', 'STAF', 'GFAI', 'HGEN', 'KLR', 'TXMD', 'SISI', 'NCNA', 'ZM', 'IS', 'CINC', 'PETZ', 'OLB', 'AXDX', 'ACON', 'ALNA']",BVS,2022-07-14
+"Bioventus to Report Second Quarter of Fiscal Year 2022 Financial Results on August 11, 2022","DURHAM, N.C., July  26, 2022  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, today announced that it will report financial results for the second quarter of fiscal year 2022 before the market opens on Thursday, August 11, 2022. The Company’s management will host a conference call at 8:30 a.m. Eastern Time that same day to discuss the results and provide a business update.",2022-07-26 11:00:00+00:00,https://www.globenewswire.com/news-release/2022/07/26/2485719/0/en/Bioventus-to-Report-Second-Quarter-of-Fiscal-Year-2022-Financial-Results-on-August-11-2022.html,GlobeNewswire Inc.,-0.019047619047619046,0.10357142857142856,neutral,0.019047619047619046,False,False,True,False,True,False,True,False,0.0,552,['BVS'],BVS,2022-07-26
+"Aerie Pharmaceuticals (AERI) Reports Q2 Loss, Tops Revenue Estimates","Aerie (AERI) delivered earnings and revenue surprises of 38.46% and 2.59%, respectively, for the quarter ended June 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-08-04 21:45:14+00:00,https://www.zacks.com/stock/news/1964264/aerie-pharmaceuticals-aeri-reports-q2-loss-tops-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,251,"['AERI', 'BVS']",BVS,2022-08-04
+Bioventus Inc. (BVS) Q2 2022 Earnings Call Transcript,"BVS earnings call for the period ending June 30, 2022.",2022-08-12 06:32:35+00:00,https://www.fool.com/earnings/call-transcripts/2022/08/12/bioventus-inc-bvs-q2-2022-earnings-call-transcript/,The Motley Fool,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,109,['BVS'],BVS,2022-08-12
+"Bioventus to Report Third Quarter of Fiscal Year 2022 Financial Results on November 8, 2022","DURHAM, N.C., Oct.  31, 2022  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, today announced that it will report financial results for the third quarter of fiscal year 2022 before the market opens on Tuesday, November 8, 2022. The Company’s management will host a conference call at 8:30 a.m. Eastern Time that same day to discuss the results and provide a business update.",2022-10-31 11:00:00+00:00,https://www.globenewswire.com/news-release/2022/10/31/2544426/0/en/Bioventus-to-Report-Third-Quarter-of-Fiscal-Year-2022-Financial-Results-on-November-8-2022.html,GlobeNewswire Inc.,-0.019047619047619046,0.10357142857142856,neutral,0.019047619047619046,False,False,False,False,True,False,True,False,0.0,551,['BVS'],BVS,2022-10-31
+"Perrigo, Tripadvisor, Lyft, And Some Other Big Stocks Moving Lower On Tuesday","U.S. stocks traded higher, with the Dow Jones gaining more than 400 points on Tuesday. Here are some big stocks recording losses in today’s session.
+
+NanoString Technologies, Inc.  (NASDAQ: NSTG) shares tumbled 47.5% to $4.84 after the company reported worse-than-expected Q3 results.
+Bioventus Inc(NASDAQ: BVS) fell 45.1% to $3.8750 after the company reported downbeat Q3 results and lowered FY22 guidance.
+R1 RCM Inc.  (NASDAQ: RCM) dropped 44.2% to $8.23 after the company reported worse-than-expected Q3 EPS and sales results and cut FY22 revenue guidance below estimates.
+Unisys Corporation (NYSE: UIS) fell 41.2% to $5.27 following downbeat quarterly sales.
+The Pennant Group, Inc. (NASDAQ: PNTG) fell 27.2% to $9.87 following downbeat quarterly earnings.
+Clarus Corporation (NASDAQ: CLAR) dropped 24.9% to $8.27 after the company reported worse-than-expected Q3 results and issued FY22 guidance below estimates.
+Tripadvisor, Inc.  (NASDAQ: TRIP) shares fell 21.8% to $18.61 after the company reported worse-than-expected Q3 EPS results.
+Lyft, Inc.  (NASDAQ: LYFT) shares fell ...",2022-11-08 16:30:39+00:00,https://www.benzinga.com/news/22/11/29619525/perrigo-tripadvisor-lyft-and-some-other-big-stocks-moving-lower-on-tuesday,Benzinga,0.08928571428571429,0.2535714285714286,neutral,0.08928571428571429,True,False,False,False,False,False,False,False,0.0,1165,"['LITE', 'COIN', 'LYFT', 'MLNK', 'METC', 'MSTR', 'RCM', 'PRGO', 'SWAV', 'TTWO', 'PNTG', 'JHX', 'BVS', 'SI', 'DOCN', 'UIS', 'AKYA', 'SBRA', 'HOOD', 'TRIP', 'AUR', 'SIBN', 'CLAR', 'NSTG', 'OCUL', 'MRNS', 'FGEN']",BVS,2022-11-08
+Nasdaq Jumps 150 Points; Gold Rises Over 2%,"U.S. stocks traded extended gains midway through trading, with the Nasdaq Composite gaining around 150 points on Tuesday.
+The Dow traded up 1.50% to 33,318.55 while the NASDAQ rose 1.46% to 10,718.77. The S&P 500 also rose, gaining, 1.3% to 3,856.88.
+Also check this: Wall Street's Most Accurate Analysts Reshuffled Their Best Gaming Picks, Here They Are 
+
+Leading and Lagging Sectors
+
+Materials shares gained 2.6% on Tuesday. Leading the sector was strength from  McEwen Mining Inc. (NYSE: MUX) and  Equinox Gold Corp. (NYSE: EQX).
+
+In trading on Tuesday, energy shares fell by 0.3%.
+
+Top Headline
+ 
+The NFIB Small Business Optimism Index dropped to a three-month low level of 91.3 in October from 92.1 in the previous month.
+
+Equities Trading UP
+ 
+
+TaskUs, Inc.  (NASDAQ: TASK) shares shot up 31% to $21.00 after the company reported better-than-expected Q3 results. The company also issued Q4 and FY22 sales guidance above analyst estimates.
+Shares of  SkyWater Technology, Inc. (NASDAQ: SKYT) got a boost, shooting 33% to $11.48 after the company reported better-than-expected Q3 EPS and sales results.
+GrowGeneration Corp. (NASDAQ: GRWG) shares were also up, gaining 37% to $4.52 after the company reported better-than-expected ...",2022-11-08 17:06:40+00:00,https://www.benzinga.com/news/earnings/22/11/29620221/nasdaq-jumps-150-points-gold-rises-over-2,Benzinga,0.31833333333333336,0.48,positive,0.31833333333333336,False,False,True,False,False,False,False,False,0.0,1281,"['UIS', 'SKYT', 'MUX', 'GRWG', 'RCM', 'EQX', 'BVS', 'TASK']",BVS,2022-11-08
+Why TaskUs Shares Are Trading Higher By 37%? Here Are 77 Stocks Moving In Tuesday's Mid-Day Session,"Gainers
+
+IceCure Medical Ltd (NASDAQ: ICCM) shares jumped 39.4% to $1.4529 after the company announced a payment assignment from the Centers for Medicare & Medicaid Services for the ProSense breast cancer cryoablation procedures.
+TaskUs, Inc.  (NASDAQ: TASK) shares climbed 37.1% to $21.99 after the company reported better-than-expected Q3 results. The company also issued Q4 and FY22 sales guidance above analyst estimates.
+Oportun Financial Corporation (NASDAQ: OPRT) gained 36.1% to $5.65 after the company announced upbeat Q3 results.
+GrowGeneration Corp. (NASDAQ: GRWG) shares climbed 29.9% to $4.30 after the company reported better-than-expected Q3 sales.
+SkyWater Technology, Inc. (NASDAQ: SKYT) gained 25.8% to $10.87 after the company reported better-than-expected Q3 EPS and sales results.
+Exela Technologies, Inc. (NASDAQ: XELA) rose 25% to $0.2161.
+Allakos Inc. (NASDAQ: ALLK) jumped 25% to $7.65 following a narrower-than-expected Q3 loss.
+Triumph Group, Inc. (NYSE: TGI) surged 23.7% to $11.77 after the company reported upbeat quarterly sales and raised FY23 earnings guidance.
+Unique Fabricating, Inc. (NYSE: UFAB) surged 23.4% to $0.6480.
+eHealth, Inc. (NASDAQ: EHTH) gained 22.6% to $3.90 following strong Q3 results.
+Rover Group, Inc. (NASDAQ: ROVR) jumped 22.3% to $5.04 after the company posted a narrower quarterly loss and issued strong sales forecast.
+NeoGenomics, Inc. (NASDAQ: NEO) gained 21.5% to $8.63 following better-than-expected Q3 results.
+Y-mAbs Therapeutics, Inc. (NASDAQ: YMAB) jumped 19.3% to $3.9950 following Q3 results.
+Avalon GloboCare Corp. (NASDAQ: AVCO) rose 19.2% to $0.6695. Avalon Globocare reported a deal to buy 60% interest in Laboratory Services MSO for $31 million in cash and preferred shares.
+AAON, Inc. (NASDAQ: AAON) gained 19.2% to $78.13 following upbeat Q3 resulst.
+Hims & Hers Health, Inc. (NYSE: HIMS) rose 19% to $5.50 after the company reported better-than-expected Q3 results. The company also issued Q4 and FY22 sales guidance above analyst estimates.
+Loyalty Ventures Inc. (NASDAQ: LYLT) jumped 18.6% to $1.7200 following Q3 results.
+Bit Brother Limited (NASDAQ: BTB) gained 18.1% to $0.1520.
+SolarEdge Technologies, Inc.  (NASDAQ: SEDG) rose 17.7% to $248.77 after the company reported better-than-expected Q3 sales results and issued Q4 sales guidance with a midpoint above analyst estimates..
+First Advantage Corporation (NASDAQ: FA) gained 17% to $12.14 following Q3 results.
+Ocuphire Pharma, Inc.  (NASDAQ: OCUP) shares rose 16.5% to $2.4350. Ocuphire Pharma entered into a global license agreement for development and commercialization of Nyxol Eye Drops for reversal of mydriasis, presbyopia and night vision disturbances.
+CTI BioPharma Corp.  (NASDAQ: CTIC) rose 16.4% to $5.78 after the company reported better-than-expected Q3 EPS and sales results.
+Five9, Inc. (NASDAQ: FIVN) gained 16.4% to $54.71 following Q3 results.
+Veritiv Corporation (NYSE: VRTV) gained 16.1% to $126.27 after the company posted upbeat Q3 results and raised FY22 EPS guidance.
+Reata Pharmaceuticals, Inc. (NASDAQ: RETA) jumped 16% ...",2022-11-08 17:51:49+00:00,https://www.benzinga.com/news/22/11/29620939/why-taskus-shares-are-trading-higher-by-37-here-are-77-stocks-moving-in-tuesdays-mid-day-session,Benzinga,0.20270146520146518,0.39395604395604383,positive,0.20270146520146518,True,True,False,False,False,False,False,False,0.0,3188,"['AAON', 'MAPS', 'FA', 'AKYA', 'VRTV', 'ATHX', 'ALLK', 'SPWR', 'DBGI', 'PRTY', 'COIN', 'YMAB', 'SKYT', 'TASK', 'UFAB', 'FGEN', 'CTIC', 'KLR', 'TRIP', 'ATIP', 'LTRPA', 'EHTH', 'PNTG', 'SIBN', 'BTB', 'SEDG', 'HAIN', 'OPRT', 'CLAR', 'TNYA', 'PLNT', 'LPSN', 'BRMK', 'NRBO', 'ICCM', 'LITE', 'MLNK', 'UCL', 'ALTO', 'CGTX', 'LYFT', 'MSTR', 'RIDE', 'NCLH', 'LYLT', 'RETA', 'PRGO', 'OCUP', 'NEO', 'VORB', 'GRWG', 'TTWO', 'EOSE', 'NSTG', 'FSRD', 'AVCO', 'IGT', 'ARVL', 'FIVN', 'HOLO', 'METC', 'SI', 'HIMS', 'AGRX', 'SLNA', 'RCM', 'TGI', 'BVS', 'TWOU', 'XELA', 'UIS', 'ROVR', 'OCUL', 'VS', 'CDXC', 'DOCN', 'MRNS']",BVS,2022-11-08
+Nasdaq Turns Lower; Expeditors International Posts Upbeat Q3 Results,"U.S. stocks pared gains toward the end of trading, with the S&P and the Nasdaq Composite turning lower on Tuesday.
+The Dow traded up 0.43% to 32,967.31 while the NASDAQ fell 0.36% to 10,526.28. The S&P 500 also fell, dropping, 0.06% to 3,804.43.
+Also check this: Wall Street's Most Accurate Analysts Reshuffled Their Best Gaming Picks, Here They Are 
+
+Leading and Lagging Sectors
+
+Materials shares gained 2.5% on Tuesday. Leading the sector was strength from  Pactiv Evergreen Inc. (NASDAQ: PTVE) and  Equinox Gold Corp. (NYSE: EQX).
+
+In trading on Tuesday, energy shares fell by 0.1%.
+
+Top Headline
+ 
+Expeditors International of Washington, Inc. (NASDAQ: EXPD) reported better-than-expected Q3 EPS and sales results.
+Expeditors International posted quarterly earnings of $2.54 per share, beating analysts’ estimates of $1.95 per share. The company’s quarterly sales came in at $4.36 billion, versus expectations of $4.29 billion.
+ 
+
+Equities Trading UP
+ 
+
+TaskUs, Inc.  (NASDAQ: TASK) shares shot up 34% to $21.47 after the company reported better-than-expected Q3 results. The company also issued Q4 and FY22 sales guidance above analyst estimates.
+Shares of  SkyWater Technology, Inc. (NASDAQ: SKYT) got a boost, shooting 31% to $11.35 after the company reported better-than-expected Q3 EPS and sales results.
+GrowGeneration Corp. ...",2022-11-08 19:26:21+00:00,https://www.benzinga.com/news/earnings/22/11/29622429/nasdaq-turns-lower-expeditors-international-posts-upbeat-q3-results,Benzinga,0.30000000000000004,0.25416666666666665,positive,0.30000000000000004,True,False,True,False,False,False,False,False,0.0,1407,"['EXPD', 'UIS', 'SKYT', 'GRWG', 'RCM', 'EQX', 'PTVE', 'BVS', 'TASK']",BVS,2022-11-08
+Why Party City Holdco Shares Tumbled Over 40%; Here Are 98 Biggest Movers From Yesterday,"Gainers
+
+Unique Fabricating, Inc. (NYSE: UFAB) jumped 56.3% to close at $0.8205 on Tuesday. Unique Fabricating posted a Q3 loss of $0.90 per share after the closing bell on Tuesday.
+TaskUs, Inc.  (NASDAQ: TASK) shares jumped 37.2% to settle at $22.01 on Tuesday after the company reported better-than-expected Q3 results. The company also issued Q4 and FY22 sales guidance above analyst estimates.
+GrowGeneration Corp. (NASDAQ: GRWG) shares jumped 35.1% to close at $4.47 after the company reported better-than-expected Q3 sales.
+SkyWater Technology, Inc. (NASDAQ: SKYT) gained 31.6% to close at $11.37 after the company reported better-than-expected Q3 EPS and sales results.
+Groupon, Inc. (NASDAQ: GRPN) gained 27.4% to settle at $8.97 following Q3 results.
+Oportun Financial Corporation (NASDAQ: OPRT) climbed 26.8% to close at $5.26 after the company announced upbeat Q3 results.
+National CineMedia, Inc. (NASDAQ: NCMI) gained 26.2% to settle at $0.5451 after the company reported Q3 results.
+NeoGenomics, Inc. (NASDAQ: NEO) jumped 25.4% to close at $8.90 following better-than-expected Q3 results.
+Adaptimmune Therapeutics plc (NASDAQ: ADAP) gained 25.3% to settle at $2.08 following strong quarterly sales.
+Arqit Quantum Inc. (NASDAQ: ARQQ) jumped 25% to close at $10.26.
+Gaia, Inc. (NASDAQ: GAIA) gained 24.5% to close at $2.85 following Q3 results.
+LivePerson, Inc. (NASDAQ: LPSN) rose 24.2% to close at $12.57 after the company reported better-than-expected Q3 EPS and sales results. The company also issued FY22 sales guidance above analyst estimates.
+OmniAb, Inc. (NASDAQ: OABI) jumped 22.6% to close at $2.50.
+International Game Technology PLC (NYSE: IGT) gained 22.4% to close at $24.41. International Game Technology reported third-quarter FY22 revenue growth of 14% year-on-year to $1.06 billion (at constant currency), beating the consensus of $1.01 billion.
+Hims & Hers Health, Inc. (NYSE: HIMS) gained 19.7% to close at $5.53 after the company reported better-than-expected Q3 results. The company also issued Q4 and FY22 sales guidance above analyst estimates.
+SolarEdge Technologies, Inc.  (NASDAQ: SEDG) climbed 19.1% to close at $251.73 after the company reported better-than-expected Q3 sales results and issued Q4 sales guidance with a midpoint above analyst estimates..
+Ocuphire Pharma, Inc.  (NASDAQ: OCUP) shares gained 19.1% to close at $2.49. Ocuphire Pharma entered into a global license agreement for development and commercialization of Nyxol Eye Drops for reversal of mydriasis, presbyopia and night vision disturbances.
+eHealth, Inc. (NASDAQ: EHTH) climbed 18.9% to close at $3.78 following strong Q3 results.
+Oncolytics Biotech Inc. (NASDAQ: ONCY) gained 18.7% to settle at $1.78.
+First Advantage Corporation (NASDAQ: FA) climbed 18.6% to close at $12.30 following Q3 results.
+Triumph Group, Inc. (NYSE: TGI) jumped 17.7% to settle at $11.19 after the company reported upbeat quarterly sales and raised FY23 earnings guidance.
+CTI BioPharma Corp.  (NASDAQ: CTIC) gained 16.9% to close at $5.81 after the company reported better-than-expected Q3 EPS and sales results.
+Tactile Systems Technology, Inc. (NASDAQ: TCMD) jumped 16.8% to settle at $8.13 following strong Q3 sales.
+Oak Street Health, Inc. (NYSE: OSH) rose 16.2% to settle at $21.69 after the company reported better-than-expected Q3 EPS and sales results.
+Y-mAbs Therapeutics, Inc. (NASDAQ: YMAB) gained 16.1% to close at $3.89 following Q3 results.
+Fangdd Network Group Ltd. (NASDAQ: DUO) rose 15.6% to settle at $1.56.
+Allakos Inc. (NASDAQ: ALLK) climbed 15.5% to close at $7.07 following a narrower-than-expected Q3 loss.
+Reata Pharmaceuticals, Inc. (NASDAQ: RETA) gained 15.4% to close at $40.29 following Q3 results.
+Five9, Inc. (NASDAQ: FIVN) jumped 15.1% to close at $54.10 following Q3 results.
+AAON, Inc. (NASDAQ: AAON) jumped 14% to close at $74.75 following upbeat Q3 results.
+Rover Group, Inc. (NASDAQ: ROVR) gained 13.6% to close ...",2022-11-09 10:08:43+00:00,https://www.benzinga.com/news/22/11/29631241/why-party-city-holdco-shares-tumbled-over-40-here-are-98-biggest-movers-from-yesterday,Benzinga,0.103125,0.3161458333333332,positive,0.103125,True,False,False,False,False,False,False,False,0.0,4031,"['NRBO', 'DOCN', 'AAON', 'ADAP', 'OABI', 'IGT', 'KLR', 'ALTO', 'AKYA', 'ATHX', 'PLNT', 'PKBO', 'SI', 'ZVO', 'PNTG', 'NCLH', 'DBGI', 'ATRO', 'LITE', 'SSP', 'OPRT', 'NEO', 'TASK', 'COIN', 'LYFT', 'TGI', 'DUO', 'NSTG', 'ATIP', 'CTIC', 'RETA', 'UIS', 'BRMK', 'FIVN', 'BTB', 'EHTH', 'TCMD', 'GRPN', 'UCL', 'AGRX', 'HOOD', 'GAIA', 'GRWG', 'CDXC', 'MPLN', 'TRUE', 'ICCM', 'HAIN', 'AVCO', 'ONCS', 'FA', 'OCUP', 'OCUL', 'ARQQ', 'LPSN', 'METC', 'SPWR', 'EOSE', 'MRNS', 'CGTX', 'MLNK', 'LPTX', 'SKYT', 'ARVL', 'VRTV', 'LYLT', 'MSTR', 'RCM', 'TRIP', 'APPH', 'PRTY', 'VORB', 'NCMI', 'XELA', 'OSH', 'HIMS', 'UFAB', 'FSRD', 'ONCY', 'VS', 'SIBN', 'HUDI', 'FGEN', 'GSUN', 'PRGO', 'MAPS', 'CLAR', 'BVS', 'LTRPA', 'HOLO', 'TTWO', 'ALLK', 'XXII', 'ROVR', 'SEDG', 'SLNA', 'AEL', 'YMAB']",BVS,2022-11-09
+"Benzinga's Top Ratings Upgrades, Downgrades For November 9, 2022","Upgrades
+Janney Montgomery Scott upgraded the previous rating for First Bancshares Inc (NASDAQ:FBMS) from Neutral to Buy. First Bancshares earned $0.85 in the third quarter, compared to $0.76 in the year-ago quarter. At the moment, the stock has a 52-week-high of $40.81 and a 52-week-low of $26.95. First Bancshares closed at $32.40 at the end of the last trading period.   
+For Allscripts Healthcare Solutions Inc (NASDAQ:MDRX), Goldman Sachs upgraded the previous rating of Neutral to Buy. Allscripts Healthcare earned $0.23 in the third quarter, compared to $0.27 in the year-ago quarter. The current stock performance of Allscripts Healthcare shows a 52-week-high of $23.25 and a 52-week-low of $13.59. Moreover, at the end of the last trading period, the closing price was at $16.89.   
+Credit Suisse upgraded the previous rating for NiSource Inc (NYSE:NI) from Neutral to Outperform. NiSource earned $0.10 in the third quarter, compared to $0.11 in the year-ago quarter. The current stock performance of NiSource shows a 52-week-high of $32.59 and a 52-week-low of $23.78. Moreover, at the end of the last trading period, the closing price was at $24.93.   
+According to Evercore ISI Group, the prior rating for The Kroger Co (NYSE:KR) was changed from In-Line to Outperform. Kroger earned $0.90 in the second quarter, compared to $0.80 in the year-ago quarter. The stock has a 52-week-high of $62.78 and a 52-week-low of $41.81. At the end of the last trading period, Kroger closed at $47.12.   
+According to B of A Securities, the prior rating for Icon PLC (NASDAQ:ICLR) was changed from Neutral to Buy. For the third quarter, Icon had an EPS of $3.00, compared to year-ago quarter EPS of $2.55. The current stock performance of Icon shows a 52-week-high of $312.28 and a 52-week-low of $171.43. Moreover, at the end of the last trading period, the closing price was at $195.07.   
+B of A Securities upgraded the previous rating for Kite Realty Group Trust (NYSE:KRG) from Neutral to Buy. For the third quarter, Kite Realty Gr Trust had an EPS of $0.48, compared to year-ago quarter EPS of $0.33. The stock has a 52-week-high of $23.35 and a 52-week-low of $16.42. At the end of the last trading period, Kite Realty Gr Trust closed at $20.81.   
+According to Mizuho, the prior rating for Adaptimmune Therapeutics PLC (NASDAQ:ADAP) was changed from Neutral to Buy. In the third quarter, Adaptimmune Therapeutics showed an EPS of $0.24, compared to $0.30 from the year-ago quarter. The current stock performance of Adaptimmune Therapeutics shows a 52-week-high of $4.12 and a 52-week-low of $1.01. Moreover, at the end of the last trading period, the closing price was at $2.08.   
+For CNH Industrial NV (NYSE:CNHI), Oppenheimer upgraded the previous rating of Perform to Outperform. For the third quarter, CNH Industrial had an EPS of $0.41, compared to year-ago quarter EPS of $0.34. At the moment, the stock has a 52-week-high of $17.13 and a 52-week-low of $10.60. CNH Industrial closed at $14.19 at the end of the last trading period.   
+According to Rosenblatt, the prior rating for Quotient Technology Inc (NYSE:QUOT) was changed from Neutral to Buy. For the third quarter, Quotient Technology had an EPS of $0.07, compared to year-ago quarter EPS of $0.08. The stock has a 52-week-high of $7.92 and a 52-week-low of $1.68. At the end of the last trading period, Quotient Technology closed at $2.63.   
+For TrueCar Inc (NASDAQ:TRUE), BTIG upgraded the previous rating of Neutral to Buy. For the third quarter, TrueCar had an EPS of $0.19, compared to year-ago quarter EPS of $0.07. At the moment, the stock has a 52-week-high of $4.08 and a 52-week-low of $1.30. TrueCar closed at $1.74 at the end of the last trading period.   
+See all analyst ratings upgrades.
+Downgrades
+For Lumentum Holdings Inc (NASDAQ:LITE), Northland Capital Markets downgraded the previous rating of Outperform to Market Perform. In the first quarter, Lumentum Holdings showed an EPS of $1.69, compared to $1.79 from the year-ago quarter. The stock has a 52-week-high of $108.90 and a 52-week-low of $58.73. At the end of the last trading period, Lumentum Holdings closed at $59.00.   
+According to JP Morgan, the prior rating for Porch Group Inc (NASDAQ:PRCH) was changed from Overweight to Neutral. For the third quarter, Porch Group had an EPS of $0.30, compared to year-ago quarter EPS of $0.08. The current stock performance of Porch Group ...Full story available on Benzinga.com",2022-11-09 15:05:35+00:00,https://www.benzinga.com/analyst-ratings/upgrades/22/11/29636979/benzingas-top-ratings-upgrades-downgrades-for-november-9-2022,Benzinga,0.0006410256410256494,0.13141025641025642,neutral,0.0006410256410256494,False,True,True,False,False,False,False,False,0.0,4539,"['IAA', 'ADCT', 'RDN', 'TSHA', 'BLDR', 'RE', 'BVS', 'FBMS', 'SSP', 'NRXP', 'GRMN', 'TSN', 'ICLR', 'UIS', 'LOGI', 'AMRS', 'MDRX', 'REAL', 'NXST', 'SKIN', 'D', 'PRCH', 'GTN', 'CNHI', 'IFF', 'TRUE', 'MQ', 'IHS', 'ADAP', 'KR', 'LITE', 'KRG', 'QUOT', 'MTG', 'LYFT', 'NI']",BVS,2022-11-09
+Why Shares of Bioventus Fell 14% on Wednesday,The company's reduced guidance concerned investors.,2022-11-09 23:18:05+00:00,https://www.fool.com/investing/2022/11/09/why-shares-of-bioventus-fell-14-on-wednesday/,The Motley Fool,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,98,['BVS'],BVS,2022-11-09
+Where Bioventus Stands With Analysts,"Over the past 3 months, 3 analysts have published their opinion on Bioventus (NASDAQ:BVS) stock. These analysts are typically employed by large Wall Street banks and tasked with understanding a company's business to predict how a stock will trade over the upcoming year.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+2
+1
+0
+0
+
+
+Last 30D
+0
+1
+0
+0
+0
+
+
+1M Ago
+0
+1
+0
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+0
+0
+1
+0
+0
+
+
+
+According to 3 analyst offering 12-month price targets in the last 3 months, Bioventus has an average price target of $9.67 with a high of $13.00 and a low of $5.00. 
+Below is a summary of how ...Full story available on Benzinga.com",2022-11-10 17:17:24+00:00,https://www.benzinga.com/analyst-ratings/22/11/29661261/where-bioventus-stands-with-analysts,Benzinga,0.020761904761904766,0.3701904761904762,neutral,0.020761904761904766,False,False,False,False,False,False,False,False,0.0,716,['BVS'],BVS,2022-11-10
+3 Analysts Have This to Say About Bioventus,"Analysts have provided the following ratings for Bioventus (NASDAQ:BVS) within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+2
+1
+0
+0
+
+
+Last 30D
+0
+1
+0
+0
+0
+
+
+1M Ago
+0
+1
+0
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+0
+0
+1
+0
+0
+
+
+
+According to 3 analyst offering 12-month price targets in the last 3 months, Bioventus has an average price target of $9.67 with a high of $13.00 and a low of $5.00. 
+Below is a summary of how these 3 analysts rated Bioventus over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock and the greater the number of bearish ratings, the more negative ...Full story available on Benzinga.com",2022-11-10 21:32:29+00:00,https://www.benzinga.com/analyst-ratings/22/11/29668681/3-analysts-have-this-to-say-about-bioventus,Benzinga,0.13045454545454546,0.3678409090909091,positive,0.13045454545454546,False,False,False,False,False,False,False,False,0.0,759,['BVS'],BVS,2022-11-10
+"Bioventus Files for Extension to File Form 10-Q for the Period Ended October 1, 2022","DURHAM, N.C., Nov.  16, 2022  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, announced today the Company has filed a Form 12b-25, Notification of Late Filing for its Quarterly Report on Form 10-Q for the period ended October 1, 2022.",2022-11-16 22:15:00+00:00,https://www.globenewswire.com/news-release/2022/11/16/2557717/0/en/Bioventus-Files-for-Extension-to-File-Form-10-Q-for-the-Period-Ended-October-1-2022.html,GlobeNewswire Inc.,-0.14444444444444446,0.39999999999999997,negative,0.14444444444444446,False,False,False,False,True,False,False,False,0.0,404,['BVS'],BVS,2022-11-16
+Why Inotiv Shares Dipped 57%; Here Are 76 Biggest Movers From Yesterday,"Gainers
+
+Satixfy Communications Ltd. (NYSE: SATX) jumped 96.4% to settle at $51.70 on Thursday.
+Elevate Credit, Inc. (NYSE: ELVT) shares jumped 68.9% to close at $1.79 on Thursday after the company agreed to be acquired by Park Cities Asset Management in an all-cash transaction at an implied value of $67 million.
+Ardelyx Inc (NASDAQ: ARDX) shares climbed 41% to close at $1.72 as the company said the FDA Advisory Committee voted 9-To-4 that the benefits of XPHOZAH outweigh its risks for the control of serum phosphorus in adult patients with chronic kidney disease on dialysis.
+CytomX Therapeutics, Inc. (NASDAQ: CTMX) gained 32.2% to close at $1.60 after the company and Regeneron announced a strategic research collaboration in the field of conditional bispecific therapeutics for the treatment of cancer.
+Atour Lifestyle Holdings Limited (NASDAQ: ATAT) climbed 31% to close at $14.92.
+NWTN Inc. (NASDAQ: NWTN) gained 29.8% to settle at $4.10.
+Cuentas Inc. (NASDAQ: CUEN) jumped 28% to close at $0.32 after dropping 28% on Wednesday. Cuentas authorized a share repurchase program.
+GoHealth, Inc. (NASDAQ: GOCO) gained 26.5% to close at $0.62. GoHealth recently posted a Q3 loss of $0.23 per share.
+Conformis, Inc. (NASDAQ: CFMS) rose 26.4% to settle at $1.58. Conformis recently announced settlement of Medacta patent litigation.
+Bath & Body Works, Inc. (NYSE: BBWI) jumped 25.2% to settle at $38.97 after the company reported better-than-expected Q3 results and raised FY22 earnings forecast.
+Lixiang Education Holding Co., Ltd. (NASDAQ: LXEH) gained 24.3% to close at $3.2330.
+Biodesix, Inc. (NASDAQ: BDSX) gained 23.5% to close at $1.42. Biodesix announced pricing of $35.1 million upsized public offering of 30.5 million shares of common stock at a price of $1.15 per share.
+Stryve Foods, Inc. (NASDAQ: SNAX) rose 22.7% to close at $0.50. Stryve Foods recently reported worse-than-expected Q3 sales results.
+Holley Inc. (NYSE: HLLY) gained 21.3% to settle at $2.91. Holley recently reported a third-quarter FY22 sales decline of 3.1% year-on-year to $154.78 million.
+Cartesian Growth Corporation (NASDAQ: GLBL) shares climbed 20.9% to close at $10.41 after dropping over 15% on Wednesday.
+Gaotu Techedu Inc. (NYSE: GOTU) gained 20.4% to close at $1.10.
+RLX Technology Inc. (NYSE: RLX) rose 20.1% to close at $1.73 after the company reported Q3 financial results.
+Charah Solutions, Inc. (NYSE: CHRA) gained 18.9% to close at $0.69. Charah Solutions recently reported mixed Q3 results.
+Compugen Ltd. (NASDAQ: CGEN) rose 17.9% to close at $1.05.
+LexinFintech Holdings Ltd. (NASDAQ: LX) climbed 17.2% to close at $1.84. LexinFintech Holdings posted Q3 operating revenue of RMB2,690 million.
+Upexi, Inc. (NASDAQ: UPXI) gained 16.8% to settle at $4.530. Upexi recently posted a Q1 loss of $0.16 per share.
+uCloudlink Group Inc. (NYSE: UCL) climbed 16.7% to close at $2.24. UCLOUDLINK regained Nasdaq ...",2022-11-18 10:14:05+00:00,https://www.benzinga.com/news/22/11/29780959/why-inotiv-shares-dipped-57-here-are-76-biggest-movers-from-yesterday,Benzinga,0.13303571428571428,0.40997023809523814,positive,0.13303571428571428,True,True,True,False,False,False,True,True,0.0,2980,"['RCKT', 'AHPI', 'LXEH', 'OTIC', 'BBWI', 'TME', 'CGEN', 'TTCF', 'AFMD', 'TNYA', 'TDCX', 'DXF', 'CSCO', 'BDSX', 'LX', 'BNOX', 'GOCO', 'EZPW', 'KNTE', 'CFMS', 'SGLY', 'CHRA', 'FOSL', 'ZEV', 'CTMX', 'FSRD', 'CUEN', 'GLBL', 'MSGM', 'ELVT', 'SKYX', 'INBX', 'M', 'RLX', 'EDIT', 'GSUN', 'BCEL', 'ORA', 'BVS', 'MCG', 'FPAY', 'UPXI', 'IGMS', 'AUD', 'NOTV', 'GMBL', 'SATX', 'THTX', 'CDXS', 'BTCM', 'DZSI', 'OABI', 'VERO', 'NA', 'VACC', 'ACIU', 'NWTN', 'PALT', 'OSH', 'GOTU', 'SNES', 'UCL', 'BV', 'GLBE', 'HLLY', 'LGHL', 'SNAX', 'NRXP', 'MYO', 'BTBD', 'TPHS', 'ATAT', 'FRSX', 'SOBR', 'ARDX', 'DPRO']",BVS,2022-11-18
+Bioventus Issues Revised Third Quarter Results; Updates Full-Year 2022 Financial Guidance,"DURHAM, N.C., Nov.  21, 2022  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (""Bioventus"" or ""the Company""), a global leader in innovations for active healing, today amended its previously announced financial results for the three and nine months ended October 1, 2022.",2022-11-21 22:15:00+00:00,https://www.globenewswire.com/news-release/2022/11/21/2560355/0/en/Bioventus-Issues-Revised-Third-Quarter-Results-Updates-Full-Year-2022-Financial-Guidance.html,GlobeNewswire Inc.,-0.049999999999999996,0.12777777777777777,neutral,0.049999999999999996,False,False,False,False,True,False,False,False,0.0,362,['BVS'],BVS,2022-11-21
+Why Coupa Software Shares Jumped Around 29%; Here Are 72 Biggest Movers From Wednesday,"Gainers
+
+Kalera Public Limited Company (NASDAQ: KAL) jumped 76.9% to close at $0.1610 on Wednesday after gaining 9% on Tuesday. Kalera recently posted a Q3 loss of $0.05 per share.
+Venus Concept Inc. (NASDAQ: VERO) shares jumped 60% to close at $0.35 on Wednesday after climbing over 9% on Tuesday. Venus Concept recently announced completion of $6.72 million private placement financing.
+Porch Group, Inc. (NASDAQ: PRCH) climbed 40.9% to close at $2.10. Porch Group Director, CEO, CHAIRMAN AND FOUNDER Matt Ehrlichman acquired a total of 256,949 shares at an average price of $1.59.
+Perfect Corp.  (NYSE: PERF) shares gained 39.3% to close at $7.34 after dropping 39% on Tuesday. Goldman Sachs, on Monday, initiated coverage on Perfect with a Neutral rating and announced a price target of $7.8.
+NLS Pharmaceutics AG (NASDAQ: NLSP) jumped 38.5% to close at $0.72. NLS Pharmaceutics announced the launch of paid for named patient program with Mazindol ER for idiopathic hypersomnia, a serious sleep disorder with no approved treatment options in Europe.
+NeuroBo Pharmaceuticals, Inc. (NASDAQ: NRBO) gained 35.8% to close at $1.63.
+NeuroOne Medical Technologies Corporation (NASDAQ: NMTC) gained 34.6% to close at $1.75 after gaining over 8% on Tuesday.
+TeraWulf Inc. (NASDAQ: WULF) gained 33.6% to close at $0.9274. The company recently posted a decline in quarterly sales.
+Exagen Inc. (NASDAQ: XGN) gained 32.8% to settle at $3.40.
+The Very Good Food Company Inc. (NASDAQ: VGFC) jumped 31.9% to close at $0.1029. The Very Good Food Company announced U.S. retail expansion with Wegmans Food Markets and significant distribution points gains across North America.
+Cyclo Therapeutics, Inc. (NASDAQ: CYTH) jumped 30.5% to close at $1.24. Cyclo Therapeutics recently posted a Q3 net loss of $4.2 million.
+JE Cleantech Holdings Limited (NASDAQ: JCSE) gained 29.6% to close at $0.7660.
+Addentax Group Corp. (NASDAQ: ATXG) surged 29.4% to close at $1.98.
+Coupa Software Incorporated (NASDAQ: COUP) gained 28.9% to close at $58.93 following a report suggesting Vista is said to explore a deal to acquire the company.
+Latham Group, Inc. (NASDAQ: SWIM) climbed 27% to close at $3.62. The company recently posted downbeat quarterly results.
+Manchester United plc (NYSE: MANU) jumped 25.8% to close at $18.80 after the company announced a process to explore strategic alternatives.
+COMSovereign Holding Corp. (NASDAQ: COMS) shares gained 24.4% to close at $0.0840 on Wednesday after gaining more than 16% on Tuesday.
+Loyalty Ventures Inc. (NASDAQ: LYLT) climbed 23.7% to close at $2.35. Loyalty Ventures recently posted a Q3 loss of $0.01 per share.
+Digital Brands Group, Inc. (NASDAQ: DBGI) rose 23.4% to close at $5.28.
+Apyx Medical Corporation (NASDAQ: APYX) gained 22.8% to close at $1.72. ...",2022-11-25 09:52:36+00:00,https://www.benzinga.com/news/22/11/29855752/why-coupa-software-shares-jumped-around-29-here-are-72-biggest-movers-from-wednesday,Benzinga,0.18675238095238092,0.4011619047619048,positive,0.18675238095238092,True,True,False,False,True,False,True,False,0.0,2873,"['PAGS', 'ADSK', 'MSGM', 'NRBO', 'WAVD', 'SLN', 'ANGO', 'OIG', 'PRCH', 'CORZ', 'WISA', 'COMS', 'RLX', 'OM', 'NRGV', 'CUEN', 'OPEN', 'BVS', 'SPCB', 'JCSE', 'APYX', 'PERF', 'IDBA', 'QURE', 'JFBR', 'XGN', 'SWIM', 'IFBD', 'COUP', 'FOXO', 'KAL', 'TIGR', 'MMAT', 'TWOU', 'GRND', 'VERO', 'CNK', 'DBGI', 'MICT', 'ASAP', 'MFH', 'CS', 'YMM', 'VBLT', 'PRFX', 'JWN', 'ENSC', 'NVTA', 'GLSI', 'PRE', 'CELU', 'GMBL', 'MPLN', 'CLIR', 'VGFC', 'ATXG', 'JUPW', 'BIOL', 'XLO', 'CVNA', 'AENZ', 'SYM', 'FLNC', 'SNMP', 'NMTC', 'NLSP', 'MANU', 'LYLT', 'MAXR', 'CYTH', 'CCCC', 'WULF']",BVS,2022-11-25
+"US Stocks Start Week On Lower Note, Dow Drops Over 100 Points","U.S. stocks traded lower this morning, with the Dow Jones dropping more than 100 points on Monday.
+Following the market opening Monday, the Dow traded down 0.39% to 34,213.93 while the NASDAQ fell 0.44% to 11,175.95. The S&P 500 also fell, dropping, 0.52% to 4,005.11.
+Also check this: Investor Optimism Eases Despite Dow Recording Gains
+
+Leading and Lagging Sectors
+
+Consumer discretionary shares rose by 0.5% on Monday. Leading the sector was strength from  Studio City International Holdings Limited  (NYSE: MSC) and  Pinduoduo Inc.  (NASDAQ: PDD).
+
+In trading on Monday, energy shares fell by 2.1%.
+
+Top Headline
+ 
+Pinduoduo Inc  (NASDAQ: PDD) reported better-than-expected Q3 results.
+
+Pinduoduo reported third-quarter FY22 revenue growth of 65% year-on-year to $4.99 billion, beating the consensus of $4.31 billion. Non-GAAP earnings per ADS of $1.21 beat the consensus of $0.65.
+ 
+Equities Trading UP
+ 
+
+Digital Brands Group, Inc. (NASDAQ: DBGI) shares shot up 37% to $8.17. The company recently posted a rise in Q3 revenue.
+Shares of  Axsome Therapeutics, Inc.  (NASDAQ: AXSM) got a boost, shooting 31% to $74.25 after the company announced AXS-05 achieved its primary endpoint in the ACCORD Phase ...",2022-11-28 15:27:50+00:00,https://www.benzinga.com/news/earnings/22/11/29871855/us-stocks-start-week-on-lower-note-dow-drops-over-100-points,Benzinga,0.1773015873015873,0.32317460317460317,positive,0.1773015873015873,True,False,True,False,False,False,False,False,0.0,1272,"['PDD', 'BMY', 'ONCS', 'AXSM', 'MSC', 'KTRA', 'BVS', 'DBGI', 'CINC']",BVS,2022-11-28
+Why Taboola Shares Are Trading Higher By Around 53%? Here Are 53 Stocks Moving In Monday's Mid-Day Session,"Gainers
+
+Taboola.com Ltd. (NASDAQ: TBLA) shares gained 52.5% to $2.8050 after the company announced it entered into a 30-year exclusive commercial agreement with Yahoo.
+Digital Brands Group, Inc. (NASDAQ: DBGI) shares jumped 47.8% to $8.81. The company recently posted a rise in Q3 revenue.
+NanoVibronix, Inc. (NASDAQ: NAOV) gained 39% to $0.3599. NanoVibronix recently announced interim results of its U.K. clinical study for UroShield, a disposable ultrasound device that reduces biofilm contaminating the catheter surface.
+Talkspace, Inc. (NASDAQ: TALK) shares climbed 34.3% to $0.8055. Talkspace recently named Jon Cohen as CEO.
+Studio City International Holdings Limited (NYSE: MSC) gained 33% to $2.70.
+Helbiz, Inc. (NASDAQ: HLBZ) rose 31.8% to $0.3032 after gaining more than 21% on Friday.
+Axsome Therapeutics, Inc.  (NASDAQ: AXSM) climbed 31.4% to $74.71 after the company announced AXS-05 achieved its primary endpoint in the ACCORD Phase 3 trial in Alzheimer's disease agitation.
+Tricida, Inc.  (NASDAQ: TCDA) rose 25.3% to $0.2577 after gaining over 6% on Friday.
+Kintara Therapeutics, Inc. (NASDAQ: KTRA) shares gained 23% to $4.5375 after the company announced it was granted Fast Track Designation from the FDA for REM-001 for cutaneous Metastatic Breast Cancer.
+So-Young International Inc. (NASDAQ: SY) jumped 21% to $0.7705. The company recently posted downbeat quarterly sales.
+Bit Brother Limited (NASDAQ: BTB) gained 19.2% to $0.26.
+Katapult Holdings, Inc. (NASDAQ: KPLT) gained 18.8% to $1.14. Katapult recently appointed Nancy Walsh as new CFO.
+Cosmos Holdings Inc. (NASDAQ: COSM) surged 18.4% to $0.5077.
+Recruiter.com Group, Inc. (NASDAQ: RCRT) rose 17.4% to $0.4345. Recruiter.com Group, on November 18th, said it received a notification letter from the Nasdaq Listing Qualifications Staff of the Nasdaq Stock Market LLC.
+Biophytis S.A. (NASDAQ:",2022-11-28 18:01:49+00:00,https://www.benzinga.com/news/22/11/29874809/why-taboola-shares-are-trading-higher-by-around-53-here-are-53-stocks-moving-in-mondays-mid-day-sess,Benzinga,0.1654477101845523,0.36527682843472314,positive,0.1654477101845523,True,False,True,False,False,False,True,False,0.0,1978,"['PDD', 'PSNY', 'NAOV', 'BVS', 'HAIN', 'SATX', 'COSM', 'TRKA', 'BMY', 'PKBO', 'SNMP', 'HLBZ', 'CYH', 'GRND', 'AREB', 'RNAZ', 'LAB', 'EUDA', 'TME', 'DBGI', 'SY', 'NAMS', 'TCDA', 'KPLT', 'SCLX', 'MSC', 'BTB', 'AVXL', 'RCRT', 'CYXT', 'ONCS', 'BPTS', 'FLNC', 'UNVR', 'CNTG', 'PRSO', 'DADA', 'PHGE', 'CINC', 'TCBP', 'TALK', 'DKNG', 'XPON', 'CHEK', 'LGHL', 'MICS', 'AXSM', 'KTRA', 'BNRG', 'HCM', 'ABCM', 'GSUN', 'PRME', 'TBLA']",BVS,2022-11-28
+What 4 Analyst Ratings Have To Say About Bioventus,"Analysts have provided the following ratings for Bioventus (NASDAQ:BVS) within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+2
+2
+0
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+0
+1
+0
+0
+0
+
+
+2M Ago
+0
+1
+0
+0
+0
+
+
+3M Ago
+0
+0
+1
+0
+0
+
+
+
+According to 4 analyst offering 12-month price targets in the last 3 months, Bioventus has an average price target of $7.88 with a high of $13.00 and a low of $2.50. 
+Below is a summary of how these 4 analysts rated Bioventus over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock and ...Full story available on Benzinga.com",2022-11-30 14:05:40+00:00,https://www.benzinga.com/analyst-ratings/22/11/29905654/what-4-analyst-ratings-have-to-say-about-bioventus,Benzinga,0.10671328671328671,0.345034965034965,positive,0.10671328671328671,False,False,False,False,False,False,False,False,0.0,705,['BVS'],BVS,2022-11-30
+Bioventus to Present at the 41st Annual J.P. Morgan Healthcare Conference,"DURHAM, N.C., Jan.  04, 2023  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS), a global leader in innovations for active healing, today announced that Ken Reali, chief executive officer, will present at the 41st Annual J.P. Morgan Healthcare Conference on Wednesday, January 11, 2023, at 5:15 p.m. PT (8:15 p.m. ET).",2023-01-04 12:00:00+00:00,https://www.globenewswire.com/news-release/2023/01/04/2582746/0/en/Bioventus-to-Present-at-the-41st-Annual-J-P-Morgan-Healthcare-Conference.html,GlobeNewswire Inc.,-0.03333333333333333,0.15,neutral,0.03333333333333333,False,False,False,False,True,False,False,False,0.0,392,['BVS'],BVS,2023-01-04
+"Xencor (XNCR) Reports Q4 Loss, Tops Revenue Estimates","Xencor (XNCR) delivered earnings and revenue surprises of 75.90% and 8.61%, respectively, for the quarter ended December 2022. Do the numbers hold clues to what lies ahead for the stock?",2023-02-23 22:25:12+00:00,https://www.zacks.com/stock/news/2058370/xencor-xncr-reports-q4-loss-tops-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,241,"['XNCR', 'BVS']",BVS,2023-02-23
+Bioventus Enters into Settlement Agreement to Preserve Maximum Optionality – Up To $350mm of Potential Liability Reduction and a Release of Future Claims related to the CartiHeal Acquisition,"DURHAM, N.C., Feb.  28, 2023  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, announced today that it has entered into a Settlement Agreement (the “Settlement Agreement”) with the former CartiHeal shareholders (the “CartiHeal Sellers”) regarding the Company’s obligations under the amended Option and Equity Purchase Agreement for its prior acquisition of CartiHeal (the “Amended Acquisition Agreement”).",2023-02-28 12:30:00+00:00,https://www.globenewswire.com/news-release/2023/02/28/2616924/0/en/Bioventus-Enters-into-Settlement-Agreement-to-Preserve-Maximum-Optionality-Up-To-350mm-of-Potential-Liability-Reduction-and-a-Release-of-Future-Claims-related-to-the-CartiHeal-Acqu.html,GlobeNewswire Inc.,-0.019047619047619046,0.30357142857142855,neutral,0.019047619047619046,False,True,False,False,True,False,False,True,0.0,680,['BVS'],BVS,2023-02-28
+Crude Oil Rises Over 2%; Consolidated Communications Shares Plummet,"U.S. stocks traded mixed midway through trading, with the Dow Jones dropping around 100 points on Tuesday.
+The Dow traded down 0.33% to 32,782.04 while the NASDAQ rose 0.19% to 11,488.27. The S&P 500 also rose, gaining, 0.05% to 3,984.36.
+Check This Out:  HP All Set To Announce Earnings Today; Here's A Look At Recent Price Target Changes By The Most Accurate Analysts
+ 
+Leading and Lagging Sectors
+
+Real estate shares rose 1.1% on Tuesday. Meanwhile, top gainers in the sector included  Innovative Industrial Properties, Inc. (NYSE: IIPR), up 7%, and  Green Giant Inc. (NASDAQ: GGE), up 11%.
+In trading on Tuesday, energy shares fell by 0.6%.
+
+ 
+Top Headline
+Wholesale inventories dropped by 0.4% from a month ago to $929.7 billion in January.
+ 
+Equities Trading UP
+
+Bioventus Inc (NASDAQ: BVS) shares shot up 61% to $2.35. Bioventus entered into settlement agreement with former CartiHeal shareholders regarding obligations under amended option & equity purchase agreement for prior acquisition of CartiHeal.
+Shares of  Chico's FAS, Inc. (NYSE: CHS) got a boost, shooting 24% to $6.14 after the company reported better-than-expected Q4 sales results.
+Cardio Diagnostics Holdings, Inc. (NASDAQ: CDIO) shares were also up, gaining 165% to $3.39 after the company announced the launch of PrecisionCHD, an integrated epigenetic-genetic blood test for the early detection ...",2023-02-28 17:01:58+00:00,https://www.benzinga.com/news/earnings/23/02/31097066/crude-oil-rises-over-2-consolidated-communications-shares-plummet,Benzinga,0.19135802469135801,0.5373456790123458,positive,0.19135802469135801,True,True,True,False,True,False,False,True,0.0,1442,"['CNSL', 'CHS', 'GGE', 'CFRX', 'IIPR', 'APTX', 'BVS', 'CDIO']",BVS,2023-02-28
+Why Titan International Shares Are Trading Lower By Around 22%? Here Are Other Stocks Moving In Tuesday's Mid-Day Session,"Gainers
+
+Cardio Diagnostics Holdings, Inc. (NASDAQ: CDIO) shares jumped 153% to $3.24 after the company announced the launch of PrecisionCHD, an integrated epigenetic-genetic blood test for the early detection of coronary heart disease.
+Bioventus Inc. (NASDAQ: BVS) gained 73% to $2.53. Bioventus entered into settlement agreement with former CartiHeal shareholders regarding obligations under amended option & equity purchase agreement for prior acquisition of CartiHeal.
+Mount Rainier Acquisition Corp (NASDAQ: RNER) rose 25.2% to $6.32. Mount Rainier Acquisition shares dropped 46% on Monday possibly after the company's general meeting was cancelled on Sunday.
+Yoshiharu Global Co. (NASDAQ: YOSH) gained 25% to $2.20.
+Catalyst Biosciences Inc (NASDAQ: CBIO) jumped 24% to $0.2975. South Korea's GC Biopharma said it has signed an asset purchase agreement with Catalyst Biosciences to acquire 3 programs related to the orphan hematology disorders.
+Chico's FAS, Inc. (NYSE: CHS) gained 21.8% to $6.03 after reporting Q4 results.
+Hyster-Yale Materials Handling, Inc. (NYSE: HY) jumped 21.8% to $39.28 following strong quarterly results.
+Obseva SA (NASDAQ: OBSV) shares rose 20.3% to $0.1160 after gaining over 16% on Monday. ObsEva announced strategic reorganization to consolidate operations in Switzerland.
+Bullfrog AI Holdings, Inc. (NASDAQ: BFRG) gained 19.8% to $3.2697. Bullfrog AI recently priced its IPO at $6.50 per share.
+MMTec, Inc. (NASDAQ: MTC) jumped 18.8% to $0.9744.
+Hims & Hers Health, Inc. (NASDAQ: HIMS) rose 18% to $11.40 after the company reported better-than-expected Q4 results and issued strong guidance.
+SI-BONE, Inc. (NASDAQ: SIBN) gained 17.7% to $19.93 after the company reported better-than-expected Q4 EPS and sales results.
+Kontoor Brands, Inc. (NYSE: KTB) jumped 17.7% to $51.18 after the company reported better-than-expected Q4 adjusted EPS and sales results.
+Dawson Geophysical Company (NASDAQ: DWSN) gained 17.5% to $1.68.
+CareDx, Inc (NASDAQ: CDNA) gained 17.1% ...",2023-02-28 17:54:30+00:00,https://www.benzinga.com/news/23/02/31098288/why-titan-international-shares-are-trading-lower-by-around-22-here-are-other-stocks-moving-in-tuesda,Benzinga,0.16822916666666665,0.4526041666666667,positive,0.16822916666666665,False,True,False,False,True,False,False,True,0.0,2126,"['EVER', 'OBSV', 'ILAG', 'SIBN', 'MTC', 'YOSH', 'SKIN', 'APTX', 'API', 'LUNR', 'VTNR', 'SINT', 'AAON', 'VGAS', 'RNER', 'KTB', 'CNSL', 'CDIO', 'HY', 'CNSP', 'COMS', 'BFRG', 'NCLH', 'XPEL', 'DWSN', 'HHRS', 'IPDN', 'PGNY', 'HSII', 'CFRX', 'AHCO', 'LPSN', 'CDNA', 'CLOV', 'NEWT', 'CVEO', 'HIMS', 'TTEC', 'LIND', 'BVS', 'CHS', 'CBIO', 'TASK', 'OMI', 'NH', 'BHG', 'TWI', 'ASST', 'GWAV', 'NFE', 'TPIC', 'BCAN', 'AMRC']",BVS,2023-02-28
+Nasdaq Gains 80 Points; Chico's FAS Shares Spike Higher,"U.S. stocks traded mixed toward the end of trading, with the Nasdaq Composite gaining around 80 points on Tuesday.
+The Dow traded down 0.30% to 32,791.45 while the NASDAQ rose 0.70% to 11,547.21. The S&P 500 also rose, gaining, 0.32% to 3,994.86.
+Check This Out:  HP All Set To Announce Earnings Today; Here's A Look At Recent Price Target Changes By The Most Accurate Analysts
+ 
+Leading and Lagging Sectors
+
+Real estate shares rose 1.2% on Tuesday. Meanwhile, top gainers in the sector included  Innovative Industrial Properties, Inc. (NYSE: IIPR), up 7%, and  Green Giant Inc. (NASDAQ: GGE), up 14%.
+In trading on Tuesday, energy shares fell by 0.9%.
+
+ 
+Top Headline
+Wholesale inventories dropped by 0.4% from a month ago to $929.7 billion in January.
+ 
+Equities Trading UP
+
+Bioventus Inc (NASDAQ: BVS) shares shot up 64% to $2.40. Bioventus entered into settlement agreement with former CartiHeal shareholders regarding obligations under amended option & equity purchase agreement for prior acquisition of CartiHeal.
+Shares of  Chico's FAS, Inc. (NYSE: CHS) got a boost, shooting 21% to $5.99 after the company reported better-than-expected Q4 sales results.
+Cardio Diagnostics Holdings, Inc. (NASDAQ: CDIO) shares were also up, gaining 142% to $3.1006 after the company announced the launch of PrecisionCHD, an integrated epigenetic-genetic blood test for the ...",2023-02-28 19:21:37+00:00,https://www.benzinga.com/news/earnings/23/02/31100435/nasdaq-gains-80-points-chicos-fas-shares-spike-higher,Benzinga,0.2526143790849673,0.5218954248366013,positive,0.2526143790849673,True,True,True,False,True,False,False,True,0.0,1424,"['CNSL', 'CHS', 'GGE', 'CFRX', 'IIPR', 'APTX', 'BVS', 'CDIO']",BVS,2023-02-28
+"Jazz Pharmaceuticals (JAZZ) Reports Q4 Loss, Misses Revenue Estimates","Jazz (JAZZ) delivered earnings and revenue surprises of -113.73% and 0.06%, respectively, for the quarter ended December 2022. Do the numbers hold clues to what lies ahead for the stock?",2023-03-01 22:35:08+00:00,https://www.zacks.com/stock/news/2060634/jazz-pharmaceuticals-jazz-reports-q4-loss-misses-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,257,"['JAZZ', 'BVS']",BVS,2023-03-01
+"4D Molecular Therapeutics, Inc. (FDMT) Reports Q4 Loss, Lags Revenue Estimates","4D Molecular Therapeutics, Inc. (FDMT) delivered earnings and revenue surprises of -12% and 74.90%, respectively, for the quarter ended December 2022. Do the numbers hold clues to what lies ahead for the stock?",2023-03-15 21:45:03+00:00,https://www.zacks.com/stock/news/2066388/4d-molecular-therapeutics-inc-fdmt-reports-q4-loss-lags-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,290,"['FDMT', 'BVS']",BVS,2023-03-15
+"Bioventus to Report Fourth Quarter of Fiscal Year 2022 Financial Results on March 30, 2023","DURHAM, N.C., March  16, 2023  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, today announced that it will report financial results for the fourth quarter of fiscal year 2022 before the market opens on Thursday, March 30, 2023. The Company’s management will host a conference call at 8:30 a.m. Eastern Time that same day to discuss the results and provide a business update.",2023-03-16 12:30:00+00:00,https://www.globenewswire.com/news-release/2023/03/16/2628679/0/en/Bioventus-to-Report-Fourth-Quarter-of-Fiscal-Year-2022-Financial-Results-on-March-30-2023.html,GlobeNewswire Inc.,-0.019047619047619046,0.10357142857142856,neutral,0.019047619047619046,False,False,False,False,True,False,True,False,0.0,551,['BVS'],BVS,2023-03-16
+Are Options Traders Betting on a Big Move in Bioventus (BVS) Stock?,Investors need to pay close attention to Bioventus (BVS) stock based on the movements in the options market lately.,2023-03-20 14:16:00+00:00,https://www.zacks.com/stock/news/2067994/are-options-traders-betting-on-a-big-move-in-bioventus-bvs-stock,Zacks Investment Research,-0.15,0.35,negative,0.15,False,False,False,False,False,False,False,False,0.0,184,['BVS'],BVS,2023-03-20
+"Alpine Immune Sciences, Inc. (ALPN) Reports Q4 Loss, Lags Revenue Estimates","Alpine Immune Sciences, Inc. (ALPN) delivered earnings and revenue surprises of -51.85% and 73.36%, respectively, for the quarter ended December 2022. Do the numbers hold clues to what lies ahead for the stock?",2023-03-23 21:35:04+00:00,https://www.zacks.com/stock/news/2069847/alpine-immune-sciences-inc-alpn-reports-q4-loss-lags-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,287,"['ALPN', 'BVS']",BVS,2023-03-23
+"ProPhase Labs, Inc. (PRPH) Reports Q4 Loss, Tops Revenue Estimates","ProPhase Labs, Inc. (PRPH) delivered earnings and revenue surprises of -500% and 6.30%, respectively, for the quarter ended December 2022. Do the numbers hold clues to what lies ahead for the stock?",2023-03-28 13:35:02+00:00,https://www.zacks.com/stock/news/2071298/prophase-labs-inc-prph-reports-q4-loss-tops-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,266,"['PRPH', 'BVS']",BVS,2023-03-28
+"Bioventus Reschedules Reporting of Fourth Quarter Fiscal Year 2022 Financial Results to March 31, 2023","DURHAM, N.C., March  29, 2023  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, today announced that it will now report financial results for the fourth quarter of fiscal year 2022 before the market opens on Friday, March 31, 2023, rather than as previously announced to allow additional time to complete its financial statements. The Company’s management will host a conference call at 8:30 a.m. Eastern Time that same day to discuss the results and provide a business update.",2023-03-29 12:55:00+00:00,https://www.globenewswire.com/news-release/2023/03/29/2636699/0/en/Bioventus-Reschedules-Reporting-of-Fourth-Quarter-Fiscal-Year-2022-Financial-Results-to-March-31-2023.html,GlobeNewswire Inc.,-0.019999999999999997,0.12916666666666665,neutral,0.019999999999999997,False,False,False,False,True,False,True,False,0.0,664,['BVS'],BVS,2023-03-29
+"Journey Medical Corporation (DERM) Reports Q4 Loss, Misses Revenue Estimates","Journey Medical Corporation (DERM) delivered earnings and revenue surprises of -62.16% and 4.20%, respectively, for the quarter ended December 2022. Do the numbers hold clues to what lies ahead for the stock?",2023-03-29 21:15:05+00:00,https://www.zacks.com/stock/news/2072066/journey-medical-corporation-derm-reports-q4-loss-misses-revenue-estimates,Zacks Investment Research,0.0,0.03333333333333333,neutral,0.0,True,False,False,False,False,False,False,False,0.0,286,"['DERM', 'BVS']",BVS,2023-03-29
+Bioventus Enters into an Amendment with its Credit Agreement Lenders to Enhance Financial and Operational Flexibility,"DURHAM, N.C., March  31, 2023  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, announced today that it has entered into an Amendment No. 4 (the “Amendment”) to the Credit and Guaranty Agreement, between the Company, Wells Fargo Bank, National Association as Administrative Agent and Collateral Agent, and the Lenders from time to time party thereto, dated as of December 6, 2019 and as amended on August 29, 2021, October 29, 2021 and July 11, 2022 (the “Credit Agreement”).",2023-03-31 11:00:00+00:00,https://www.globenewswire.com/news-release/2023/03/31/2638515/0/en/Bioventus-Enters-into-an-Amendment-with-its-Credit-Agreement-Lenders-to-Enhance-Financial-and-Operational-Flexibility.html,GlobeNewswire Inc.,-0.044444444444444446,0.19999999999999998,neutral,0.044444444444444446,False,False,False,False,True,False,False,False,0.0,677,['BVS'],BVS,2023-03-31
+Bioventus Reports Fourth Quarter and Full-Year 2022 Financial Results,"DURHAM, N.C., March  31, 2023  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (""Bioventus"" or ""the Company""), a global leader in innovations for active healing, today reported financial results for the year ended December 31, 2022.",2023-03-31 11:30:00+00:00,https://www.globenewswire.com/news-release/2023/03/31/2638551/0/en/Bioventus-Reports-Fourth-Quarter-and-Full-Year-2022-Financial-Results.html,GlobeNewswire Inc.,-0.026666666666666665,0.12,neutral,0.026666666666666665,False,False,False,False,True,False,False,False,0.0,304,['BVS'],BVS,2023-03-31
+Why Y-mAbs Therapeutics Shares Are Trading Higher By 50%? Here Are Other Stocks Moving In Friday's Mid-Day Session,"Gainers
+
+Y-mAbs Therapeutics, Inc (NASDAQ: YMAB) climbed 49.9% to $4.93 after the company posted a profit for the fourth quarter.
+Inpixon (NASDAQ: INPX) jumped 37.9% to $0.5101. Inpixon reported a 21% growth in revenue to $19.4 million for the 2022 fiscal year.
+Toro Corp. (NASDAQ: TORO) surged 31.6% to $3.12.
+Guardforce AI Co., Limited (NASDAQ: GFAI) gained 27% to $6.00.
+IonQ, Inc. (NYSE: IONQ) rose 25.8% to $6.39 after clocking upbeat fourth-quarter results.
+FOXO Technologies Inc. (NASDAQ: FOXO) gained 24.4% to $0.4612 following full year 2022 results.
+Metropolitan Bank Holding Corp. (NYSE: MCB) gained 23% to $31.18 after the company issued updated financial information.
+Palisade Bio, Inc. (NASDAQ: PALI) gained 22% to $3.23. Maxim Group upgraded the stock from Hold to Buy and announced a $50 price target.
+Ault Alliance, Inc. (NASDAQ: AULT) surged 20% to $0.1126 after the company announced a share buyback of up to 333,333,333 shares of common stock at $0.15 per sare through an exchange offer for a new class of preferred stock.
+Brainstorm Cell Therapeutics Inc. (NASDAQ: BCLI) gained 19.2% to $2.98. BrainStorm Cell Therapeutics recently posted a 2022 net loss per share of $0.66.
+GT Biopharma, Inc. (NASDAQ: GTBP) gained 19% to $0.55. GT Biopharma posted a FY22 loss of $0.66 per share.
+ASP Isotopes Inc. (NASDAQ: ASPI) surged 18% to $1.05.
+Rigetti Computing, Inc. (NASDAQ: RGTI) surged 17.8% to $0.7070. Rigetti Computing recently posted a Q1 loss of $0.19 per share.
+D-Wave Quantum Inc. (NYSE: QBTS) climbed 15.5% to $0.60. D-Wave Quantum announced earnings report date change for Q4 and FY22 results to the week of April 10, 2023.
+Cabaletta Bio, Inc. (NASDAQ: CABA) gained 14.7% to $8.15. Cabaletta Bio received FDA clearance of IND application for CABA-201 for treatment of systemic lupus erythematosus.
+Paratek Pharmaceuticals, Inc. (NASDAQ: PRTK) jumped 14% to $2.4195.
+BlackBerry Limited (NYSE: BB) gained 13.8% to $4.5550 after the ...",2023-03-31 16:47:51+00:00,https://www.benzinga.com/news/23/03/31613067/why-y-mabs-therapeutics-shares-are-trading-higher-by-50-here-are-other-stocks-moving-in-fridays-mid,Benzinga,0.05489332096474953,0.3010899814471243,neutral,0.05489332096474953,True,True,True,False,False,True,False,False,0.0,2075,"['CFRX', 'CURI', 'GRRR', 'PRTK', 'ASPI', 'FAZE', 'MQ', 'PALI', 'GAN', 'QBTS', 'CKPT', 'BVS', 'MCB', 'NOGN', 'INPX', 'ASTS', 'AEHR', 'FOXO', 'CSSE', 'IONQ', 'ANGO', 'RUM', 'GTBP', 'EJH', 'DGLY', 'SHFS', 'CHRA', 'BTB', 'TRMD', 'BDRX', 'YMAB', 'ENSC', 'ADN', 'IRON', 'GMVD', 'SHPW', 'BCLI', 'AULT', 'ZURA', 'IGMS', 'DWAC', 'BB', 'APLM', 'CABA', 'GFAI', 'NAVB', 'ANPC', 'PYXS', 'CANO', 'NKLA', 'TROO', 'ANVS', 'INZY', 'VORB', 'TORO', 'SYTA', 'RGTI', 'IPDN']",BVS,2023-03-31
+New Strong Sell Stocks for April 5th,"BVS, BFAM and ESTE have been added to the Zacks Rank #5 (Strong Sell) List on April 5, 2023.",2023-04-05 11:38:00+00:00,https://www.zacks.com/stock/news/2074752/new-strong-sell-stocks-for-april-5th,Zacks Investment Research,0.05075757575757571,0.7053030303030303,neutral,0.05075757575757571,False,False,False,False,False,False,False,False,0.0,130,"['BFAM', 'ESTE', 'BVS']",BVS,2023-04-05
+Bioventus Announces CEO Leadership Change,"DURHAM, N.C., April  05, 2023  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, announced that Ken M. Reali has stepped down as Chief Executive Officer (CEO) and as a member of the Board of Directors (board). The board has initiated a comprehensive search process to identify a permanent CEO.",2023-04-05 12:00:00+00:00,https://www.globenewswire.com/news-release/2023/04/05/2641609/0/en/Bioventus-Announces-CEO-Leadership-Change.html,GlobeNewswire Inc.,-0.09629629629629631,0.2962962962962963,neutral,0.09629629629629631,False,False,False,False,True,False,True,False,0.0,418,['BVS'],BVS,2023-04-05
+"Durect (DRRX) Reports Q1 Loss, Misses Revenue Estimates","Durect (DRRX) delivered earnings and revenue surprises of -4% and 41.81%, respectively, for the quarter ended March 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-05-08 21:25:12+00:00,https://www.zacks.com/stock/news/2091786/durect-drrx-reports-q1-loss-misses-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,238,"['DRRX', 'BVS']",BVS,2023-05-08
+AcelRx Pharmaceuticals (ACRX) Reports Break-Even Earnings for Q1,"AcelRx Pharmaceuticals (ACRX) delivered earnings and revenue surprises of 100% and 100%, respectively, for the quarter ended March 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-05-10 22:25:11+00:00,https://www.zacks.com/stock/news/2093839/acelrx-pharmaceuticals-acrx-reports-break-even-earnings-for-q1,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,262,"['ACRX', 'BVS']",BVS,2023-05-10
+"Bioventus Reschedules Reporting of First Quarter Fiscal Year 2023 Financial Results to After Market Close on May 16, 2023","DURHAM, N.C., May  15, 2023  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, today announced that it will now report financial results for the first quarter of fiscal year 2023 after the market closes on Tuesday, May 16, 2023. The Company’s management will host a conference call at 5:00 p.m. Eastern Time that same day to discuss the results and provide a business update.",2023-05-15 21:33:00+00:00,https://www.globenewswire.com/news-release/2023/05/15/2669422/0/en/Bioventus-Reschedules-Reporting-of-First-Quarter-Fiscal-Year-2023-Financial-Results-to-After-Market-Close-on-May-16-2023.html,GlobeNewswire Inc.,0.05238095238095238,0.1988095238095238,neutral,0.05238095238095238,False,False,False,False,True,False,True,False,0.0,580,['BVS'],BVS,2023-05-15
+"Zevra Therapeutics (ZVRA) Reports Q1 Loss, Tops Revenue Estimates","Zevra Therapeutics (ZVRA) delivered earnings and revenue surprises of -30.77% and 3.94%, respectively, for the quarter ended March 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-05-15 21:55:09+00:00,https://www.zacks.com/stock/news/2095528/zevra-therapeutics-zvra-reports-q1-loss-tops-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,263,"['ZVRA', 'BVS']",BVS,2023-05-15
+Bioventus Reports First Quarter Financial Results,"DURHAM, N.C., May  16, 2023  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (""Bioventus"" or ""the Company""), a global leader in innovations for active healing, today reported financial results for the three months ended April 1, 2023.",2023-05-16 20:15:00+00:00,https://www.globenewswire.com/news-release/2023/05/16/2670437/0/en/Bioventus-Reports-First-Quarter-Financial-Results.html,GlobeNewswire Inc.,0.023333333333333334,0.18666666666666668,neutral,0.023333333333333334,False,False,False,False,True,False,False,False,0.0,286,['BVS'],BVS,2023-05-16
+"Penny Stock Investing, 3 High-Growth Industries to Watch","Take a look at these 3 industries to find penny stocks in
+The post Penny Stock Investing, 3 High-Growth Industries to Watch appeared first on Penny Stocks to Buy, Picks, News and Information | PennyStocks.com.",2023-05-21 10:00:00+00:00,https://pennystocks.com/featured/2023/05/21/penny-stock-investing-3-high-growth-industries-watch/,PennyStocks,0.25,0.3333333333333333,positive,0.25,False,True,False,False,False,False,False,False,0.0,267,"['ATNF', 'BVS', 'NBY']",BVS,2023-05-21
+Looking for Undervalued Penny Stocks? Use These Tips ,"Use these tips to find undervalued penny stocks
+The post Looking for Undervalued Penny Stocks? Use These Tips  appeared first on Penny Stocks to Buy, Picks, News and Information | PennyStocks.com.",2023-05-22 10:35:00+00:00,https://pennystocks.com/featured/2023/05/22/looking-undervalued-penny-stocks-use-tips/,PennyStocks,0.25,0.3333333333333333,positive,0.25,False,True,False,False,False,False,False,False,0.0,251,"['BVS', 'GOEV', 'NBY']",BVS,2023-05-22
+Bioventus Completes Divestiture of its Wound Business,"DURHAM, N.C., May  23, 2023  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, announced today that it has successfully completed the divestiture of its Wound business, including the skin substitutes TheraSkin and TheraGenesis, to LifeNet Health. The transaction, announced earlier this month, enables Bioventus’ improved focus on execution and delivers approximately $30 million of net closing proceeds, which will be used for debt repayment.",2023-05-23 11:30:00+00:00,https://www.globenewswire.com/news-release/2023/05/23/2674191/0/en/Bioventus-Completes-Divestiture-of-its-Wound-Business.html,GlobeNewswire Inc.,0.036111111111111115,0.44166666666666665,neutral,0.036111111111111115,False,False,False,False,True,True,False,False,0.0,580,['BVS'],BVS,2023-05-23
+Over $2.5M Bet On This Healthcare Stock? Check Out These 3 Penny Stocks Insiders Are Aggressively Buying,"The Dow Jones closed lower by over 200 points on Tuesday. When insiders purchase or sell shares, it indicates their confidence or concern around the company's prospects. Investors and traders interested in penny stocks can consider this a factor in their overall investment or trading decision.
+Below is a look at a few recent notable insider transactions for penny stocks. For more, check out  Benzinga's insider transactions  platform.
+Bioventus 
+
+The Trade:  Bioventus Inc.  (NASDAQ: BVS) Director John Bartholdson  acquired a total 1,315,673 shares  an average price of $1.96. To acquire these shares, it cost around $2.57 million.
+What’s Happening: Bioventus posted better-than-expected first-quarter sales.
+What Bioventus Does: ...",2023-05-24 11:39:57+00:00,https://www.benzinga.com/trading-ideas/long-ideas/23/05/32548546/over-2-5m-bet-on-this-healthcare-stock-check-out-these-3-penny-stocks-insiders-are-aggre,Benzinga,0.08888888888888888,0.34444444444444444,neutral,0.08888888888888888,False,True,False,False,False,False,True,False,0.0,843,"['CRON', 'BVS', 'VWE']",BVS,2023-05-24
+Best Penny Stocks Today? 3 Under $1 To Watch Now,"Penny stocks under $1 to watch before next week.
+The post Best Penny Stocks Today? 3 Under $1 To Watch Now appeared first on Penny Stocks to Buy, Picks, News and Information | PennyStocks.com.",2023-05-24 14:16:32+00:00,https://pennystocks.com/featured/2023/05/24/best-penny-stocks-today-3-under-1-to-watch-now/,PennyStocks,0.5625,0.23333333333333334,positive,0.5625,False,True,False,False,False,False,False,False,0.0,242,"['BVS', 'CYTO', 'GCT', 'GETR', 'UTRS']",BVS,2023-05-24
+$25M Bet On This Consumer Cyclical Stock? Check Out These 4 Penny Stocks Insiders Are Aggressively Buying,"The Dow Jones closed lower by over 250 points on Wednesday. When insiders purchase or sell shares, it indicates their confidence or concern around the company's prospects. Investors and traders interested in penny stocks can consider this a factor in their overall investment or trading decision.
+Below is a look at a few recent notable insider transactions for penny stocks. For more, check out  Benzinga's insider transactions  platform.
+EVgo 
+
+The Trade:  EVgo, Inc.  (NASDAQ: EVGO) Director David Nanus  acquired a total 5,882,352 shares  an average price of $4.25. To acquire these shares, it cost ...",2023-05-25 11:11:30+00:00,https://www.benzinga.com/trading-ideas/long-ideas/23/05/32570181/25m-bet-on-this-consumer-cyclical-stock-check-out-these-4-penny-stocks-insiders-are-aggr,Benzinga,0.08888888888888888,0.34444444444444444,neutral,0.08888888888888888,False,True,False,False,False,False,True,False,0.0,713,"['EVGO', 'BVS', 'HCWB']",BVS,2023-05-25
+Barnwell Industries And 3 Other Stocks Under $3 Insiders Are Aggressively Buying,"The Dow Jones closed higher by over 300 points on Friday. When insiders purchase or sell shares, it indicates their confidence or concern around the company's prospects. Investors and traders interested in penny stocks can consider this a factor in their overall investment or trading decision.
+Below is a look at a few recent notable insider transactions for penny stocks. For more, check out  Benzinga's insider transactions  platform.
+Barnwell Industries 
+
+The Trade:  Barnwell Industries, Inc.  (AMEX:BRN) 10% owner Ned L Sherwood Revocable Trust  acquired a total 169,632 shares  an average price of $2.64. To acquire these shares, it cost around $447.25 thousand.
+What’s Happening: Barnwell recently reported results for its second quarter and six months ended March 31, 2023.
+What Barnwell Industries ...",2023-05-30 11:19:29+00:00,https://www.benzinga.com/trading-ideas/long-ideas/23/05/32621056/barnwell-industries-and-3-other-stocks-under-3-insiders-are-aggressively-buying,Benzinga,0.07115384615384615,0.32499999999999996,neutral,0.07115384615384615,False,True,True,False,False,False,False,False,0.0,893,"['BRN', 'NIR', 'SVRA', 'BVS']",BVS,2023-05-30
+Why Bluejay Diagnostics Shares Are Trading Lower By 12%; Here Are 20 Stocks Moving Premarket,"Gainers
+
+Visionary Education Technology Holdings Group Inc.  (NASDAQ: VEDU) shares rose 85.8% to $0.7985 in pre-market trading.
+Chijet Motor Company, Inc. (NASDAQ: TTOO) shares surged 51.3% to $0.1060 in pre-market trading after dipping around 31% on Monday. T2 Biosystems reported submission for the FDA breakthrough device designation for candida auris diagnostic test.
+Secoo Holding Limited  (NASDAQ: SECO) gained 35.8% to $1.100 in pre-market trading.
+Zura Bio Limited (NASDAQ: ZURA) shares gained 35.4% to $8.79 in pre-market trading after the company completed approximately $80 million financing with the focus on advancing ZB-106, a potential first-in-class anti-IL-17 and anti-BAFF dual antagonist.
+Greenlane Holdings, Inc. (NASDAQ: GNLN) gained 29.5% to $0.36 in pre-market trading. Greenlane reported effectiveness of previously announced reverse stock split.
+GitLab Inc. (NASDAQ: GTLB) shares rose 27.6% to $45.18 in pre-market trading following better-than-expected first-quarter results.
+Regional Health Properties, Inc. (NYSE: RHE) shares climbed ...",2023-06-06 12:36:13+00:00,https://www.benzinga.com/news/23/06/32735888/why-bluejay-diagnostics-shares-are-trading-lower-by-12-here-are-20-stocks-moving-premarket,Benzinga,0.061309523809523814,0.5065476190476189,neutral,0.061309523809523814,False,False,True,False,False,True,False,False,0.0,1159,"['KTTA', 'GTLB', 'BJDX', 'ACMR', 'VEDU', 'UK', 'COYA', 'SEV', 'ZURA', 'VIEW', 'MREO', 'TTOO', 'HTGM', 'SECO', 'RHE', 'GNLN', 'TMBR', 'AYRO', 'BVS', 'AGRI']",BVS,2023-06-06
+Over $1M Bet On Bioventus? Check Out These 4 Penny Stocks Insiders Are Aggressively Buying,"The Dow Jones closed lower by over 200 points on Wednesday. When insiders purchase or sell shares, it indicates their confidence or concern around the company's prospects. Investors and traders interested in penny stocks can consider this a factor in their overall investment or trading decision.
+Below is a look at a few recent notable insider transactions for penny stocks. For more, check out  Benzinga's insider transactions  platform.
+Diversified Healthcare Trust 
+
+The Trade:  Diversified Healthcare Trust (NASDAQ: DHC) Director Adam D Portnoy  acquired a total 6,003,515 shares  an average price of $2.99. To acquire these shares, it cost around $17.94 million.
+What’s Happening: D. E. Shaw Galvanic Portfolios, in 13D Filing, said on May 12, sent letter to Diversified Healthcare ...",2023-06-15 12:56:46+00:00,https://www.benzinga.com/trading-ideas/long-ideas/23/06/32873002/over-1m-bet-on-bioventus-check-out-these-4-penny-stocks-insiders-are-aggressively-buying,Benzinga,0.08888888888888888,0.34444444444444444,neutral,0.08888888888888888,False,True,False,False,False,False,True,False,0.0,883,"['BLIN', 'DHC', 'BNGO', 'BVS']",BVS,2023-06-15
+"Bioventus to Report Second Quarter of Fiscal Year 2023 Financial Results on August 8, 2023","DURHAM, N.C., Aug.  01, 2023  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, today announced that it will report financial results for the second quarter of fiscal year 2023 before the market opens on Tuesday, August 8, 2023. The Company’s management will host a conference call at 8:30 a.m. Eastern Time that same day to discuss the results and provide a business update.",2023-08-01 21:35:00+00:00,https://www.globenewswire.com/news-release/2023/08/01/2716466/0/en/Bioventus-to-Report-Second-Quarter-of-Fiscal-Year-2023-Financial-Results-on-August-8-2023.html,GlobeNewswire Inc.,-0.019047619047619046,0.10357142857142856,neutral,0.019047619047619046,False,False,True,False,True,False,True,False,0.0,549,['BVS'],BVS,2023-08-01
+Bioventus to Present at the Canaccord Genuity 43rd Annual Global Growth Conference,"DURHAM, N.C., Aug.  04, 2023  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS), a global leader in innovations for active healing, today announced that Mark Singleton, senior vice president and chief financial officer, will present at the Canaccord Genuity Global Growth Conference on Thursday, August 10, 2023, at 8:00 a.m. ET.",2023-08-04 12:30:00+00:00,https://www.globenewswire.com/news-release/2023/08/04/2718941/0/en/Bioventus-to-Present-at-the-Canaccord-Genuity-43rd-Annual-Global-Growth-Conference.html,GlobeNewswire Inc.,-0.019047619047619046,0.08571428571428572,neutral,0.019047619047619046,False,False,False,False,True,False,False,False,0.0,412,['BVS'],BVS,2023-08-04
+Bioventus Reports Second Quarter Financial Results; Introduces Full Year 2023 Financial Guidance,"DURHAM, N.C., Aug.  08, 2023  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (""Bioventus"" or ""the Company""), a global leader in innovations for active healing, today reported financial results for the three and six months ended July 1, 2023.",2023-08-08 11:30:00+00:00,https://www.globenewswire.com/news-release/2023/08/08/2720504/0/en/Bioventus-Reports-Second-Quarter-Financial-Results-Introduces-Full-Year-2023-Financial-Guidance.html,GlobeNewswire Inc.,0.03095238095238095,0.16428571428571428,neutral,0.03095238095238095,False,False,True,False,True,False,False,False,0.0,341,['BVS'],BVS,2023-08-08
+4 Penny Stocks To Buy According To Insiders In August,"Best penny stocks to buy? Here's what insiders are picking up in August.
+The post 4 Penny Stocks To Buy According To Insiders In August appeared first on Penny Stocks to Buy, Picks, News and Information | PennyStocks.com.",2023-08-15 18:26:44+00:00,https://pennystocks.com/featured/2023/08/15/4-penny-stocks-to-buy-according-to-insiders-in-august/,PennyStocks,0.625,0.31666666666666665,positive,0.625,False,True,False,False,False,False,False,False,0.0,276,"['BVS', 'COMM', 'GCI', 'TFFP']",BVS,2023-08-15
+7 Penny Stocks To Buy According To Insiders In August,"Penny stocks insiders decided to buy in August. Are they worth it?
+The post 7 Penny Stocks To Buy According To Insiders In August appeared first on Penny Stocks to Buy, Picks, News and Information | PennyStocks.com.",2023-08-16 16:25:55+00:00,https://pennystocks.com/featured/2023/08/16/7-penny-stocks-to-buy-according-to-insiders-in-august/,PennyStocks,0.275,0.21666666666666667,positive,0.275,False,True,False,False,False,False,False,False,0.0,270,"['BVS', 'COMM', 'EFSH', 'GCI', 'REAL', 'RXT', 'TFFP']",BVS,2023-08-16
+10 Top Penny Stocks To Buy According To Insiders In August,"Penny stocks to buy according to these insiders this month.
+The post 10 Top Penny Stocks To Buy According To Insiders In August appeared first on Penny Stocks to Buy, Picks, News and Information | PennyStocks.com.",2023-08-17 16:16:09+00:00,https://pennystocks.com/featured/2023/08/17/10-top-penny-stocks-to-buy-according-to-insiders-in-august/,PennyStocks,0.4166666666666667,0.4444444444444444,positive,0.4166666666666667,False,True,False,False,False,False,False,False,0.0,273,"['AMRN', 'BVS', 'COMM', 'EFSH', 'GCI', 'NOTE', 'PGEN', 'REAL', 'RXT', 'TFFP']",BVS,2023-08-17
+Bioventus And 3 Other Stocks Under $5 Insiders Are Buying,"The Dow Jones closed lower by 175 points on Tuesday. When insiders purchase or sell shares, it indicates their confidence or concern around the company's prospects. Investors and traders interested in penny stocks can consider this a factor in their overall investment or trading decision.
+Below is a look at a few recent notable insider transactions for penny stocks. For more, check out  Benzinga's insider transactions  platform.
+Matterport 
+
+The Trade:  Matterport, Inc. (NASDAQ: MTTR) Director Jason Krikorian acquired a total of 100,000 shares  an average price of $2.46. To acquire these shares, it cost around 245,940.
+What’s Happening: Matterport joined LOT Network, the world's largest patent licensing platform and non-profit community of global companies committed to protecting themselves against ...",2023-08-23 13:23:06+00:00,https://www.benzinga.com/trading-ideas/long-ideas/23/08/34004126/bioventus-and-3-other-stocks-under-5-insiders-are-buying,Benzinga,0.061363636363636356,0.3159090909090909,neutral,0.061363636363636356,True,True,False,False,False,False,True,False,0.0,872,"['SWIM', 'ENTX', 'BVS', 'MTTR']",BVS,2023-08-23
+Bioventus to Present at the Morgan Stanley 21st Annual Global Healthcare Conference,"DURHAM, N.C., Sept.  06, 2023  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS), a global leader in innovations for active healing, today announced that Tony Bihl, interim chief executive officer, will participate in a fireside chat at the Morgan Stanley Global Healthcare Conference on Wednesday, September 13, 2023, at 8:50 a.m. ET.",2023-09-06 20:30:00+00:00,https://www.globenewswire.com/news-release/2023/09/06/2738873/0/en/Bioventus-to-Present-at-the-Morgan-Stanley-21st-Annual-Global-Healthcare-Conference.html,GlobeNewswire Inc.,-0.022222222222222223,0.09999999999999999,neutral,0.022222222222222223,False,False,False,False,True,False,False,False,0.0,419,['BVS'],BVS,2023-09-06
+Bioventus to Present at the Cantor Global Healthcare Conference,"DURHAM, N.C., Sept.  19, 2023  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS), a global leader in innovations for active healing, today announced that Mark Singleton, senior vice president and chief financial officer, will participate in a fireside chat at the Cantor Global Healthcare Conference on Thursday, September 28, 2023, at 1:50 p.m. ET.",2023-09-20 01:52:00+00:00,https://www.globenewswire.com/news-release/2023/09/20/2746085/0/en/Bioventus-to-Present-at-the-Cantor-Global-Healthcare-Conference.html,GlobeNewswire Inc.,-0.022222222222222223,0.09999999999999999,neutral,0.022222222222222223,False,False,False,False,True,False,False,False,0.0,413,['BVS'],BVS,2023-09-20
+3 Value Medical Stocks to Buy for Safety Amid Market Volatility,"We have narrowed our search to three value stocks from the Medical sector. These are PHG, RDNT and BVS.",2023-09-28 11:43:00+00:00,https://www.zacks.com/stock/news/2156948/3-value-medical-stocks-to-buy-for-safety-amid-market-volatility,Zacks Investment Research,0.0,0.0,neutral,0.0,False,True,True,False,False,False,False,False,0.0,168,"['PHG', 'RDNT', 'BVS']",BVS,2023-09-28
+Bioventus (BVS) to Report Q3 Earnings: What's in the Cards?,"On Bioventus' (BVS) third-quarter 2023 earnings call, investors' focus is likely to be on the sales numbers of its three business units - pain treatments, restorative therapies and surgical solutions.",2023-10-25 14:48:00+00:00,https://www.zacks.com/stock/news/2171824/bioventus-bvs-to-report-q3-earnings-whats-in-the-cards,Zacks Investment Research,0.0,1.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,261,"['VRTX', 'ACAD', 'APLS', 'BVS']",BVS,2023-10-25
+Bioventus Agrees to Nationwide Contract with Aetna™ Medicare Advantage Plans for DUROLANE® for Knee Osteoarthritis,"DURHAM, N.C., Dec.  06, 2023  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, has agreed to a nationwide contract with Aetna™ Medicare Advantage plans. Beginning January 1, 2024, over 3 million Aetna™ Medicare Advantage plan members will have access to DUROLANE to treat knee osteoarthritis (OA) pain. DUROLANE, is a single-injection hyaluronic acid (HA)-based joint-fluid treatment for patients. DUROLANE will be one of two single-injection HA products under contract.",2023-12-06 13:00:00+00:00,https://www.globenewswire.com/news-release/2023/12/06/2791711/0/en/Bioventus-Agrees-to-Nationwide-Contract-with-Aetna-Medicare-Advantage-Plans-for-DUROLANE-for-Knee-Osteoarthritis.html,GlobeNewswire Inc.,-0.06666666666666667,0.3,neutral,0.06666666666666667,False,False,False,True,True,False,False,False,0.0,669,['BVS'],BVS,2023-12-06
+"MedTech Bioventus' Stabilization Sparks Analyst Confidence, Earns Upgrade And Price Target Boost","Canaccord Genuity has upgraded Biomedical Devices and Services company Bioventus Inc (NASDAQ: BVS), highlighting greater insight into the progress of the turnaround and plans for future investment and growth.
+The analyst notes that the business is now stabilized, and management is discussing strategic investments in the existing business to drive future growth. 
+Management expects that the worst of challenges are likely behind the company.
+Canaccord indicates that the management anticipates that the continual investments made in its Exogen business during the past few years will enhance the quality of the product. 
+They foresee that the effectiveness of the ...Full story available on Benzinga.com",2023-12-07 20:35:14+00:00,https://www.benzinga.com/news/23/12/36139444/medtech-bioventus-stabilization-sparks-analyst-confidence-earns-upgrade-and-price-target-boost,Benzinga,-0.10555555555555554,0.4666666666666667,negative,0.10555555555555554,False,False,False,False,True,False,True,False,0.0,803,['BVS'],BVS,2023-12-07
+Bioventus Names Robert Claypoole as President and Chief Executive Officer,Seasoned Leader Brings More than Two Decades of Medical Device Experience and Proven Track Record of Driving Revenue and Operating Margin Growth Seasoned Leader Brings More than Two Decades of Medical Device Experience and Proven Track Record of Driving Revenue and Operating Margin Growth,2023-12-19 21:30:00+00:00,https://www.globenewswire.com/news-release/2023/12/19/2798909/0/en/Bioventus-Names-Robert-Claypoole-as-President-and-Chief-Executive-Officer.html,GlobeNewswire Inc.,0.25,0.25,positive,0.25,True,False,False,False,False,False,False,False,0.0,364,['BVS'],BVS,2023-12-19
+Bioventus Announces Inducement Equity to President and Chief Executive Officer Robert Claypoole,"DURHAM, N.C., Jan.  12, 2024  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, announced today the issuance on January 11, 2024 of previously disclosed inducement equity awards to Robert (Rob) Claypoole in connection with this appointment as President and Chief Executive Officer, and Principle Executive Officer of the Company.",2024-01-12 21:15:00+00:00,https://www.globenewswire.com/news-release/2024/01/12/2808807/0/en/Bioventus-Announces-Inducement-Equity-to-President-and-Chief-Executive-Officer-Robert-Claypoole.html,GlobeNewswire Inc.,-0.09999999999999999,0.25555555555555554,neutral,0.09999999999999999,False,False,False,False,True,False,False,False,0.0,508,['BVS'],BVS,2024-01-12
+Bioventus Enters into an Amendment with its Credit Agreement Lenders to Enhance Financial and Operational Flexibility,"DURHAM, N.C., Jan.  18, 2024  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, today announced that it has entered into an Amendment No. 5 (the “Amendment”) to the Credit and Guaranty Agreement, between the Company, Wells Fargo Bank, National Association as Administrative Agent and Collateral Agent, and the Lenders from time to time party thereto, dated as of December 6, 2019 and as amended on August 29, 2021, October 29, 2021, July 11, 2022 and March 31, 2023 (the “Credit Agreement”).",2024-01-18 21:15:00+00:00,https://www.globenewswire.com/news-release/2024/01/18/2811965/0/en/Bioventus-Enters-into-an-Amendment-with-its-Credit-Agreement-Lenders-to-Enhance-Financial-and-Operational-Flexibility.html,GlobeNewswire Inc.,-0.044444444444444446,0.19999999999999998,neutral,0.044444444444444446,False,False,False,False,True,False,False,False,0.0,692,['BVS'],BVS,2024-01-18
+"PTC Therapeutics (PTCT) Reports Q4 Loss, Lags Revenue Estimates","PTC Therapeutics (PTCT) delivered earnings and revenue surprises of -182.76% and 2.80%, respectively, for the quarter ended December 2023. Do the numbers hold clues to what lies ahead for the stock?",2024-02-29 22:20:07+00:00,https://www.zacks.com/stock/news/2234185/ptc-therapeutics-ptct-reports-q4-loss-lags-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,263,"['PTCT', 'BVS']",BVS,2024-02-29
+"Bioventus Reports Upbeat Earnings, Joins Ranpak, Beachbody And Other Big Stocks Moving Higher On Tuesday","U.S. stocks were higher, with the Dow Jones index surging more than 200 points on Tuesday.
+Shares of  Bioventus Inc. (NASDAQ: BVS) rose sharply during Tuesday’s session after the company reported better-than-expected quarterly financial results and issued FY24 net sales guidance above estimates.
+Bioventus posted adjusted earnings of 7 cents per share, beating market estimates of 2 cents per share. The company’s quarterly sales came in at $135.42 million, versus expectations of $123.96 million, according to data from Benzinga Pro.
+Bioventus shares surged 10.8% to $5.88 on Tuesday.
+Here are some other big stocks recording gains in today’s session.
+
+Ranpak Holdings Corp. (NASDAQ: PACK) shares climbed 40.1% to $6.12 after the company reported better-than-expected fourth-quarter revenue results and issued FY24 guidance. Also, Baird maintained an Outperform rating on the stock and raised its price target from $5 ...",2024-03-12 14:37:08+00:00,https://www.benzinga.com/news/24/03/37622405/bioventus-reports-upbeat-earnings-joins-ranpak-beachbody-and-other-big-stocks-moving-higher-on-tuesd,Benzinga,0.10208333333333335,0.3541666666666667,positive,0.10208333333333335,True,False,False,False,False,False,False,False,0.0,1029,"['BWMN', 'SMR', 'UVE', 'RUM', 'ORCL', 'BODI', 'SIGA', 'ADM', 'BZ', 'AVO', 'HRTG', 'GCT', 'NUKK', 'FANH', 'PACK', 'MNSO', 'BVS']",BVS,2024-03-12
+Why Asana Shares Are Trading Lower By 11%? Here Are Other Stocks Moving In Tuesday's Mid-Day Session,"Shares of Asana, Inc. (NYSE: ASAN) fell sharply during Tuesday’s session following soft FY25 revenue guidance.
+Asana reported quarterly losses of 4 cents per share which beat the analyst consensus estimate of losses of 10 cents by 60%. Quarterly sales came in at $171.1 million, beating the analyst consensus estimate of $167.676 million by 2.04%.
+The company expects fiscal year 2025 adjusted losses of between 22 cents and 19 cents per share, versus the losses of 22 cents estimate and fiscal year revenues of between $716 million and $722 million, versus the $724.75 estimate.
+Asana shares dipped 11% to $16.72 on Tuesday.
+Here are some other stocks moving in today's mid-day session.
+Gainers
+
+ClearOne, Inc.  (NASDAQ: CLRO) rose 168.4% to $2.4299. ClearOne announced a special one-time cash dividend of 50 cents per share.
+Regulus Therapeutics Inc.  (NASDAQ: RGLS) climbed 74.3% to $2.4050 after the company announced topline results from the second cohort of patients in its Phase 1b MAD study of RGLS8429 for the treatment of ADPKD. The company announced an oversubscribed $100 million private placement of equity.
+Assure Holdings Corp.  (NASDAQ: IONM) gained 49% to $0.4880. Assure Holdings entered into an agreement to sell certain of its assets to MPOWERHealth for up to $4.5 million.
+Ranpak Holdings Corp. (NASDAQ: PACK) shares gained 40.1% to $6.12 after the company reported better-than-expected fourth-quarter revenue results and issued FY24 guidance. Also, Baird maintained an Outperform rating on the stock and raised its price target from $5 to $7.
+Singularity Future Technology Ltd. (NASDAQ: SGLY) climbed 37.6% to $4.3321 after gaining over 6% on Monday.
+Li-Cycle Holdings Corp. (NASDAQ: LICY) gained 27.4% to $0.5111 after the company entered an agreement to issue a senior secured convertible note in an aggregate principal amount of $75 million to an affiliate of Glencore.
+Nukkleus Inc. (NASDAQ: NUKK) shares rose 22.5% to $1.41 after surging over 43% on Monday.
+ATRenew Inc. (NYSE: RERE) gained 17.7% to $1.4003 after the company ...",2024-03-12 18:07:31+00:00,https://www.benzinga.com/news/24/03/37630303/why-asana-shares-are-trading-lower-by-11-here-are-other-stocks-moving-in-tuesdays-mid-day-session,Benzinga,0.06703296703296703,0.49945054945054945,neutral,0.06703296703296703,True,False,True,False,False,True,False,False,0.0,2158,"['BVS', 'LGCL', 'HRTG', 'AEVA', 'SPPL', 'OCUL', 'FNCH', 'PBM', 'SGD', 'TALK', 'BWMN', 'ACAD', 'BODI', 'CTMX', 'NRXP', 'CLRO', 'NUKK', 'JANX', 'GERN', 'DTSS', 'RERE', 'ORCL', 'ESGL', 'CRBU', 'PRST', 'ASRT', 'LICY', 'ADM', 'SMXT', 'ONON', 'BZ', 'PACK', 'IONM', 'LUV', 'RNLX', 'PIK', 'STI', 'MNSO', 'SGLY', 'ASAN', 'GOEV', 'BCAN', 'ENPH', 'BLDE', 'JFBR', 'AVO', 'VINC', 'KITT', 'RGLS', 'LEXX']",BVS,2024-03-12
+"Blend Labs Reports Q4 Results, Joins Alta Equipment, Despegar.com And Other Big Stocks Moving Higher On Friday","U.S. stocks were lower, with the Dow Jones index falling around 100 points on Friday.
+Shares of  Blend Labs, Inc. (NASDAQ: BLND) rose sharply during Friday’s session after the company reported fourth-quarter financial results.
+Blend Labs posted quarterly loss of 9 cents per share, in-line with market estimates of 9 cents per share. The company’s quarterly sales came in at $36.10 million versus estimates of $36.93 million, according to data from Benzinga Pro.
+Blend Labs shares jumped 24.3% to $2.92 on Friday.
+Here are some other big stocks recording gains in today’s session.
+
+Cardlytics, Inc. (NASDAQ: CDLX) jumped 57.1% to $12.86 after the company reported better-than-expected fourth-quarter earnings.
+American Vanguard Corporation  (NYSE: AVD) rose 25.8% to $13.32 following fourth-quarter financial results.
+Tredegar Corporation (NYSE:",2024-03-15 14:25:26+00:00,https://www.benzinga.com/news/24/03/37748602/blend-labs-reports-q4-results-joins-alta-equipment-despegar-com-and-other-big-stocks-moving-higher-o,Benzinga,0.08958333333333333,0.3499999999999999,neutral,0.08958333333333333,True,False,False,False,False,False,False,False,0.0,957,"['LAW', 'TNYA', 'AVD', 'DRCT', 'BKE', 'BTDR', 'TG', 'CRGX', 'LAC', 'BLND', 'COMM', 'EH', 'MDGL', 'DESP', 'SLDB', 'CDLX', 'ALTG', 'BVS', 'ACHR']",BVS,2024-03-15
+"Bioventus to Report First Quarter of Fiscal Year 2024 Financial Results on May 7, 2024","DURHAM, N.C., April  29, 2024  (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (“Bioventus” or the “Company”), a global leader in innovations for active healing, today announced that it will report financial results for the first quarter of fiscal year 2024 before the market opens on Tuesday, May 7, 2024. The Company’s management will host a conference call at 8:30 a.m. Eastern Time that same day to discuss the results and provide a business update.",2024-04-29 11:30:00+00:00,https://www.globenewswire.com/news-release/2024/04/29/2871130/0/en/Bioventus-to-Report-First-Quarter-of-Fiscal-Year-2024-Financial-Results-on-May-7-2024.html,GlobeNewswire Inc.,0.05238095238095238,0.1988095238095238,neutral,0.05238095238095238,False,False,False,False,True,False,True,False,0.0,542,['BVS'],BVS,2024-04-29
+Here's Why You Should Retain Centene (CNC) Stock for Now,"Centene (CNC) remains well-poised for growth on the back of sound growth in membership, divestitures and a growing cash balance.",2024-05-14 16:12:00+00:00,https://www.zacks.com/stock/news/2273733/heres-why-you-should-retain-centene-cnc-stock-for-now,Zacks Investment Research,0.2,0.2,positive,0.2,False,False,False,False,False,False,False,False,0.0,186,"['ALC', 'CNC', 'EHC', 'BVS']",BVS,2024-05-14
+5 Small Drug Stocks to Buy From a Recovering Industry,"Innovation is expected to continue to drive the growth of the Zacks Medical-Drugs industry. HRTX, BVS, AQST, ACRV and CRDL may prove to be good additions to one's portfolio.",2024-05-24 12:59:00+00:00,https://www.zacks.com/commentary/2278351/5-small-drug-stocks-to-buy-from-a-recovering-industry,Zacks Investment Research,0.11666666666666665,0.46666666666666673,positive,0.11666666666666665,False,True,False,False,True,False,False,False,0.0,228,"['HRTX', 'AQST', 'BVS', 'CRDL', 'ACRV']",BVS,2024-05-24
+Here's Why You Should Buy Acrivon Therapeutics (ACRV) Stock,"Here, we discuss some reasons why buying Acrivon Therapeutics (ACRV) stock now may turn out to be a prudent move.",2024-05-28 13:47:00+00:00,https://www.zacks.com/stock/news/2280020/heres-why-you-should-buy-acrivon-therapeutics-acrv-stock,Zacks Investment Research,0.0,0.0,neutral,0.0,False,True,False,False,False,False,False,False,0.0,174,"['HRTX', 'PMVP', 'BVS', 'ACRV']",BVS,2024-05-28
+J&J (JNJ) to Buy Rights to Novel Atopic Dermatitis Candidate,"J&J (JNJ) is set to acquire Yellow Jersey Therapeutics, which holds NM26 rights, from Numab's shareholder, for a purchase price of $1.25 billion in cash.",2024-05-29 12:21:00+00:00,https://www.zacks.com/stock/news/2280409/jj-jnj-to-buy-rights-to-novel-atopic-dermatitis-candidate,Zacks Investment Research,0.0,0.0,neutral,0.0,False,True,False,False,False,False,False,False,0.0,215,"['REGN', 'SNY', 'JNJ', 'BVS']",BVS,2024-05-29
+Merck (MRK) to Buy Private Ophthalmology Company EyeBio,"Merck's (MRK) acquisition of EyeBio is set to add the latter's lead pipeline candidate, Restoret, a novel Wnt agonist antibody being developed for treating retinal diseases.",2024-05-30 16:24:00+00:00,https://www.zacks.com/stock/news/2281600/merck-mrk-to-buy-private-ophthalmology-company-eyebio,Zacks Investment Research,0.03333333333333333,0.225,neutral,0.03333333333333333,False,True,False,False,False,False,False,False,0.0,230,"['JNJ', 'MRK', 'HRTX', 'BVS']",BVS,2024-05-30
+Biogen (BIIB) Gets EU Approval for Rare Disease Drug Qalsody,Biogen's (BIIB) Qalsody is the first therapy approved to treat a rare genetic form of ALS in Europe,2024-05-31 14:17:00+00:00,https://www.zacks.com/stock/news/2282063/biogen-biib-gets-eu-approval-for-rare-disease-drug-qalsody,Zacks Investment Research,0.2833333333333334,0.7111111111111111,positive,0.2833333333333334,False,False,False,False,False,False,False,False,0.0,161,"['BIIB', 'HRTX', 'IONS', 'BVS']",BVS,2024-05-31
+Humana (HUM) Partners With UAB to Boost Care for MA Members,"Humana (HUM) expands its Medicare Advantage network in Alabama through a new partnership with UAB Health System, offering greater access to enhanced healthcare services.",2024-06-04 19:02:00+00:00,https://www.zacks.com/stock/news/2283596/humana-hum-partners-with-uab-to-boost-care-for-ma-members,Zacks Investment Research,0.3181818181818182,0.4772727272727273,positive,0.3181818181818182,False,False,False,True,False,False,False,False,0.0,230,"['HUM', 'ALC', 'EHC', 'BVS']",BVS,2024-06-04
+J&J (JNJ) Seeks Expanded Use of HIV Drug in US and Europe,"J&J (JNJ) seeks expanded use of its HIV-1 therapy, Prezcobix, for younger kids in the United States and Europe.",2024-06-05 13:47:00+00:00,https://www.zacks.com/stock/news/2283972/jj-jnj-seeks-expanded-use-of-hiv-drug-in-us-and-europe,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,170,"['GSK', 'JNJ', 'GILD', 'BVS']",BVS,2024-06-05
+Compelling Reasons to Hold on to Cigna (CI) Stock for Now,Cigna (CI) remains well-poised for growth on the back of improved pharmacy revenues in its Evernorth unit. Solid cash-generating abilities also enable it to tactically deploy capital.,2024-06-17 17:19:00+00:00,https://www.zacks.com/stock/news/2289411/compelling-reasons-to-hold-on-to-cigna-ci-stock-for-now,Zacks Investment Research,0.09999999999999999,0.2333333333333333,neutral,0.09999999999999999,True,False,False,False,False,False,False,False,0.0,242,"['CI', 'LNTH', 'EHC', 'BVS']",BVS,2024-06-17
+Here's Why Investors Must Hold on to Centene (CNC) Stock Now,"Centene (CNC) is expected to benefit from expanding margins in the Marketplace business, contract wins in Medicaid, and improved Medicare Advantage Star ratings.",2024-06-24 14:05:00+00:00,https://www.zacks.com/stock/news/2292276/heres-why-investors-must-hold-on-to-centene-cnc-stock-now,Zacks Investment Research,0.09999999999999999,0.30000000000000004,neutral,0.09999999999999999,False,False,False,False,False,False,False,False,0.0,223,"['CNC', 'LNTH', 'EHC', 'BVS']",BVS,2024-06-24
+Encompass Health (EHC) Expands in Louisville With New Rehab Unit,"Encompass Health (EHC) and Baptist Health inaugurate a 40-bed inpatient rehabilitation hospital in Louisville, enhancing regional care and expanding EHC's network to 163 facilities.",2024-06-26 17:29:00+00:00,https://www.zacks.com/stock/news/2293878/encompass-health-ehc-expands-in-louisville-with-new-rehab-unit,Zacks Investment Research,0.13636363636363635,0.45454545454545453,positive,0.13636363636363635,False,False,False,False,False,False,False,False,0.0,247,"['THC', 'LMAT', 'EHC', 'BVS']",BVS,2024-06-26
+Merck (MRK) Gets Exclusive Rights to Opevesostat From Partner,Merck (MRK) exercises the option that will convert the collaboration deal with partner Orion for prostate cancer candidate opevesostat into a license agreement.,2024-07-02 12:43:00+00:00,https://www.zacks.com/stock/news/2296123/merck-mrk-gets-exclusive-rights-to-opevesostat-from-partner,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,223,"['MRK', 'HRTX', 'BVS']",BVS,2024-07-02
+"U.S. Autoimmune Disease Diagnostics (Systemic, Localized) Market Size, Share & Trends Analysis Report 2024-2030 - GlobeNewswire","The U.S. autoimmune disease diagnostics market is expected to reach $3.01 billion by 2030, driven by the rising incidence of autoimmune diseases and advancements in diagnostic technologies. Localized autoimmune disease diagnostics and antinuclear antibody tests are expected to dominate the market.",2024-07-11 08:20:13+00:00,https://www.globenewswire.com/news-release/2024/07/11/2911583/0/en/U-S-Autoimmune-Disease-Diagnostics-Systemic-Localized-Market-Size-Share-Trends-Analysis-Report-2024-2030.html,GlobeNewswire Inc.,-0.1,0.4,neutral,0.1,False,False,False,False,False,False,False,False,0.0,427,"['MDT', 'BSX', 'JNJ', 'ANGO', 'BVS', 'EDAP']",BVS,2024-07-11
+Corcept Shares Rise More Than 45% in Six Months: Here's Why,"Corcept Therapeutics' (CORT) shares have gained over 45% in the past six months, driven by strong performance of its sole-marketed drug Korlym and progress in the development of its lead pipeline candidate relacorilant for treating Cushing's syndrome.",2024-09-03 20:29:03+00:00,https://www.benzinga.com/general/biotech/24/09/40692557/corcept-shares-rise-more-than-45-in-six-months-heres-why,Benzinga,0.22777777777777777,0.49444444444444446,positive,0.22777777777777777,False,False,False,False,False,False,False,False,0.0,312,"['CORT', 'ILMN', 'BVS', 'FULC']",BVS,2024-09-03
+Pseudarthrosis Treatment Market is Projected to Reach $1.37 Billion at a CAGR 4.6% by 2034 | Fact.MR Report,"The global pseudarthrosis treatment market is expected to grow at a CAGR of 4.6% from 2024 to 2034, driven by advancements in biocompatible materials and positive government reimbursement programs. North America and South Asia & Pacific are the key regions driving market growth.",2024-09-05 10:00:00+00:00,https://www.globenewswire.com/news-release/2024/09/05/2941138/0/en/Pseudarthrosis-Treatment-Market-is-Projected-to-Reach-1-37-Billion-at-a-CAGR-4-6-by-2034-Fact-MR-Report.html,GlobeNewswire Inc.,0.031818181818181815,0.48636363636363633,neutral,0.031818181818181815,False,False,False,False,False,False,False,False,0.0,388,"['ABBV', 'AMGN', 'ALPMY', 'AZN', 'BAYRY', 'BVS', 'DSNKY', 'LLY', 'FSNUY', 'JNJ', 'MDT', 'NVS', 'OFIX', 'RHHBY', 'SNY', 'SYK', 'TAK', 'TEVA', 'UCBJY', 'ZBH']",BVS,2024-09-05
+First September Gains in 5 Years? Buy 3 Breakout Stocks Now,"The article discusses how September has historically been a weak month for the stock market, but this year the S&P 500, Dow, and Nasdaq have gained over 1% so far, breaking a 5-year trend. The author recommends buying three breakout stocks that could take advantage of the broader market's upward movement: Bioventus (BVS), Great Lakes Dredge & Dock (GLDD), and AxoGen (AXGN).",2024-09-24 16:23:24+00:00,https://www.benzinga.com/news/earnings/24/09/40991128/first-september-gains-in-5-years-buy-3-breakout-stocks-now,Benzinga,0.155,0.5416666666666666,positive,0.155,False,True,False,False,False,False,False,False,0.2,437,"['BVS', 'AXGN']",BVS,2024-09-24
+U.S. Osteoarthritis Injectables Market Analysis 2024-2030: Rising Prevalence of Osteoarthritis & Increase in R&D Activities for Injectable Drug Developments Spurs Growth,"The U.S. osteoarthritis injectables market is expected to grow significantly due to the rising prevalence of osteoarthritis, the growing geriatric population, and increased R&D activities for injectable drug development.",2024-10-04 09:52:00+00:00,https://www.globenewswire.com/news-release/2024/10/04/2958185/28124/en/U-S-Osteoarthritis-Injectables-Market-Analysis-2024-2030-Rising-Prevalence-of-Osteoarthritis-Increase-in-R-D-Activities-for-Injectable-Drug-Developments-Spurs-Growth.html,GlobeNewswire Inc.,-0.1125,0.3875,negative,0.1125,False,False,False,False,False,False,False,False,0.0,391,['BVS'],BVS,2024-10-04
+Osteoarthritis Therapeutics Market Size to Reach USD 24.34 Bn by 2034,"The global osteoarthritis therapeutics market is expected to grow from USD 9.91 billion in 2024 to USD 24.34 billion by 2034, driven by the rising prevalence of osteoarthritis and technological advancements in surgical treatments. Europe and Asia Pacific are the key regional markets.",2024-11-26 16:00:00+00:00,https://www.globenewswire.com/news-release/2024/11/26/2987655/0/en/Osteoarthritis-Therapeutics-Market-Size-to-Reach-USD-24-34-Bn-by-2034.html,GlobeNewswire Inc.,-0.03333333333333333,0.4666666666666666,neutral,0.03333333333333333,False,False,False,False,False,False,False,False,0.0,355,"['ABT', 'ANIK', 'BVS', 'JNJ', 'NVS', 'REGN']",BVS,2024-11-26

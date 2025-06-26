@@ -1,0 +1,10 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2021-06-18,0.2276,0.1848,2,0.2276,0.0,0,0,0,0,0,0,0,0,242.5,CYD
+2021-07-01,0.2667,,1,0.2667,0.0,1,0,0,0,0,0,0,0,269.0,CYD
+2021-08-11,-0.0357,,1,0.0357,0.0,1,0,0,0,0,0,0,0,129.0,CYD
+2021-10-20,0.5,,1,0.5,0.0,0,0,0,0,0,0,0,0,149.0,CYD
+2022-03-02,0.0406,,1,0.0406,0.0,0,0,0,0,0,0,0,0,129.0,CYD
+2022-03-27,0.0,,1,0.0,0.0,0,0,0,0,0,1,0,0,168.0,CYD
+2023-12-19,0.194,,1,0.194,0.0,0,1,1,0,0,0,0,0,781.0,CYD
+2024-09-06,0.0388,,1,0.0388,0.0,1,1,0,0,0,0,0,0,294.0,CYD
+2024-10-10,0.1854,,1,0.1854,0.0,1,1,0,0,0,0,0,0,278.0,CYD

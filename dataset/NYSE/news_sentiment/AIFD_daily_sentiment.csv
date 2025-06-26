@@ -1,0 +1,14 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2024-08-06,-0.0333,,1,0.0333,0.0,0,0,1,0,0,0,0,0,283.0,AIFD
+2024-08-08,-0.02,,1,0.02,0.0,0,0,1,0,0,0,0,0,265.0,AIFD
+2024-10-14,-0.1167,,1,0.1167,0.0,0,0,1,0,0,0,0,0,252.0,AIFD
+2024-11-06,-0.1167,,1,0.1167,0.0,0,0,1,0,0,0,0,0,258.0,AIFD
+2024-11-07,-0.14,,1,0.14,0.0,0,0,0,0,0,0,0,0,248.0,AIFD
+2024-11-08,-0.1167,,1,0.1167,0.0,0,0,1,0,0,0,0,0,255.0,AIFD
+2024-11-11,-0.1167,,1,0.1167,0.0,0,0,1,0,0,0,0,0,255.0,AIFD
+2024-11-21,-0.1167,,1,0.1167,0.0,0,0,1,0,0,0,0,0,256.0,AIFD
+2024-12-04,-0.1167,,1,0.1167,0.0,0,0,1,0,0,0,0,0,258.0,AIFD
+2024-12-09,-0.0333,,1,0.0333,0.0,0,0,1,0,0,0,0,0,261.0,AIFD
+2024-12-24,-0.1167,,1,0.1167,0.0,0,0,1,0,0,0,0,0,259.0,AIFD
+2024-12-27,-0.1167,,1,0.1167,0.0,0,0,1,0,0,0,0,0,256.0,AIFD
+2024-12-30,0.5,,1,0.5,0.0,0,0,0,0,0,0,0,0,242.0,AIFD

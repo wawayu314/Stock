@@ -1,0 +1,13 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2021-05-31,0.075,,1,0.075,0.0,0,0,0,0,0,0,0,0,90.0,DFEN
+2022-03-01,0.0594,,1,0.0594,0.0,1,0,1,0,0,0,0,0,277.0,DFEN
+2022-03-30,0.1667,,1,0.1667,0.0,0,0,0,0,0,0,0,0,183.0,DFEN
+2022-03-31,0.0,,1,0.0,0.0,0,0,1,0,0,0,0,0,522.0,DFEN
+2022-10-24,0.275,,1,0.275,0.0,0,0,0,0,0,0,0,0,132.0,DFEN
+2022-11-08,0.1667,,1,0.1667,0.0,0,0,0,0,1,0,0,0,175.0,DFEN
+2023-10-10,0.0,,1,0.0,0.0,0,0,0,0,0,0,0,0,126.0,DFEN
+2023-10-11,0.5,,1,0.5,0.0,0,0,0,0,0,0,0,0,132.0,DFEN
+2023-10-16,0.2111,,1,0.2111,0.0,0,0,0,0,0,0,0,0,194.0,DFEN
+2023-11-27,0.46,,1,0.46,0.0,0,0,0,0,0,0,0,0,103.0,DFEN
+2024-03-26,0.0284,,1,0.0284,0.0,0,0,1,0,0,0,1,0,890.0,DFEN
+2024-06-03,0.0731,,1,0.0731,0.0,0,0,0,0,0,0,0,0,970.0,DFEN

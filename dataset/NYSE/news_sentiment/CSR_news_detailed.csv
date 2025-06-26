@@ -1,0 +1,976 @@
+title,description,published_utc,article_url,publisher,sentiment_polarity,sentiment_subjectivity,sentiment_label,sentiment_confidence,keywords_earnings,keywords_acquisition,keywords_regulation,keywords_partnership,keywords_product,keywords_financial,keywords_leadership,keywords_lawsuit,urgency_score,text_length,tickers,ticker,date
+"Earnings Scheduled For May 3, 2021","Companies Reporting Before The Bell
+• Scienjoy Holding (NASDAQ:SJ) is estimated to report quarterly earnings at $0.58 per share on revenue of $540.11 million.
+• DZS (NASDAQ:DZSI) is estimated to report quarterly loss at $0.22 per share on revenue of $71.90 million.
+• Enel Americas (NYSE:ENIA) is projected to report quarterly earnings at $0.18 per share on revenue of $2.99 billion.
+• loanDepot (NYSE:LDI) is likely to report quarterly earnings at $0.58 per share on revenue of $1.02 billion.
+• ON Semiconductor (NASDAQ:ON) is expected to report quarterly earnings at $0.33 per share on revenue of $1.46 billion.
+• Enterprise Prods Partners (NYSE:EPD) is likely to report quarterly earnings at $0.48 per share on revenue of $7.18 billion.
+• Estee Lauder Cos (NYSE:EL) is projected to report quarterly earnings at $1.31 per share on revenue of $3.93 billion.
+• CNA Financial (NYSE:CNA) is estimated to report quarterly earnings at $0.88 per share on revenue of $2.85 billion.
+• Green Plains (NASDAQ:GPRE) is likely to report quarterly loss at $0.64 per share on revenue of $625.22 million.
+• Bel Fuse (NASDAQ:BELFB) is expected to report quarterly earnings at $0.06 per share on revenue of $108.00 million.
+• Ceragon Networks (NASDAQ:CRNT) is expected to report quarterly loss at $0.03 per share on revenue of $64.55 million.
+• Bel Fuse (NASDAQ:BELFA) is likely to report quarterly earnings at $0.02 per share on revenue of $108.00 million.
+• Akoustis Technologies (NASDAQ:AKTS) is estimated to report quarterly loss at $0.28 per share on revenue of $2.25 million.
+• WEC Energy Gr (NYSE:WEC) is likely to report quarterly earnings at $1.47 per share on revenue of $2.31 billion.
+• Itron (NASDAQ:ITRI) is expected to report quarterly earnings at $0.42 per share on revenue of $535.25 million.
+• Karyopharm Therapeutics (NASDAQ:KPTI) is projected to report quarterly loss at $0.71 per share on revenue of $25.17 million.
+• Alexander's (NYSE:ALX) is likely to report earnings for its first quarter.
+• PetMed Express (NASDAQ:PETS) is expected to report quarterly earnings at $0.40 per share on revenue of $74.03 million.
+• DSP Group (NASDAQ:DSPG) is likely to report quarterly earnings at $0.05 per share on revenue of $31.90 million.
+• Green Plains Partners (NASDAQ:GPP) is likely to report quarterly earnings at $0.47 per share on revenue of $21.55 million.
+• GlycoMimetics (NASDAQ:GLYC) is expected to report earnings for its first quarter.
+• Enable Midstream Partners (NYSE:ENBL) is likely to report quarterly earnings at $0.17 per share on revenue of $764.21 million.
+• Sterling Bancorp (NASDAQ:SBT) is likely to report quarterly earnings at $0.02 per share on revenue of $25.13 million.
+• Loews (NYSE:L) is projected to report earnings for its first quarter.
+ 
+Companies Reporting After The Bell
+• Centerspace (NYSE:CSR) is projected to report quarterly loss at $0.38 per share on revenue of $46.03 million.
+• Maxar Technologies (NYSE:MAXR) is estimated to report quarterly earnings at $1.06 per share on revenue of $560.30 million.
+• Livent (NYSE:LTHM) is projected to report quarterly earnings at $0.01 per share on revenue of $82.13 million.
+• Essential Props Realty (NYSE:EPRT) is estimated to report quarterly earnings at $0.10 per share on revenue of $46.49 million.
+• CVR Partners (NYSE:UAN) is likely to report earnings for its first quarter.
+• SeaSpine Holdings (NASDAQ:SPNE) is projected to report quarterly loss at $0.33 per share on revenue of $40.23 million.
+• Ballard Power Systems (NASDAQ:BLDP) is estimated to report earnings for its first quarter.
+• Suncor Energy (NYSE:SU) is estimated to report quarterly earnings at $0.35 per share on revenue of $8.51 billion.
+• ZoomInfo Technologies (NASDAQ:ZI) is expected to report quarterly earnings at $0.10 per share on revenue of $145.50 million.
+• TravelCenters Of America (NASDAQ:TA) is likely to report quarterly loss at $0.72 per share on revenue of $1.41 billion.
+• trivago (NASDAQ:TRVG) is likely to report quarterly loss at $0.03 per ...Full story available on Benzinga.com",2021-05-03 08:13:04+00:00,https://www.benzinga.com/news/earnings/21/05/20909065/earnings-scheduled-for-may-3-2021,Benzinga,0.018333333333333337,0.6255555555555556,neutral,0.018333333333333337,True,False,False,False,False,False,False,False,0.0,4079,"['O', 'ELVT', 'JKHY', 'WWD', 'EPRT', 'CBT', 'GLYC', 'TA', 'OHI', 'CINR', 'KFRC', 'HNRG', 'LTHM', 'CNA', 'BRX', 'XPO', 'PKI', 'AGR', 'LGND', 'NSP', 'LTRN', 'CR', 'KPTI', 'ATCO', 'RBC', 'LDI', 'MYGN', 'REGI', 'CSR', 'OGS', 'BELFA', 'RIG', 'ENIA', 'NWPX', 'SHLS', 'CVI', 'VRNS', 'BELFB', 'SCI', 'TCMD', 'OTTR', 'SJ', 'EL', 'ENBL', 'BLDP', 'CRNT', 'SHO', 'DZSI', 'PETS', 'HBP', 'EPD', 'VNOM', 'DSPG', 'SU', 'TRVG', 'QGEN', 'BCEI', 'FLS', 'SOI', 'FRPT', 'VNO', 'ZI', 'RMBS', 'EVER', 'IAG', 'UE', 'FSTR', 'WEC', 'NCSM', 'SANM', 'ON', 'IPI', 'SEDG', 'BSM', 'GAIA', 'WMB', 'XELA', 'STRL', 'SIBN', 'ITUB', 'GPP', 'GPRE', 'CC', 'MAXR', 'ADC', 'MFIN', 'KMT', 'BWXT', 'HLIT', 'ADUS', 'SBT', 'ALX', 'FANG', 'L', 'RILY', 'IRBT', 'FN', 'CURO', 'AWK', 'EARN', 'LEG', 'SPNE', 'ITRI', 'PLOW', 'NTR', 'AWR', 'CPTA', 'MOS', 'AKTS', 'IVAC', 'UAN', 'ARGO', 'CAR', 'CHGG', 'MWA']",CSR,2021-05-03
+Centerspace (CSR) Beats Q1 FFO and Revenue Estimates,"Centerspace (CSR) delivered FFO and revenue surprises of 7.95% and 1.69%, respectively, for the quarter ended March 2021. Do the numbers hold clues to what lies ahead for the stock?",2021-05-03 21:55:05+00:00,http://www.zacks.com/stock/news/1495427/centerspace-csr-beats-q1-ffo-and-revenue-estimates?cid=CS-ZC-FT-tale_of_the_tape|yseop_template_4-1495427,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,235,['CSR'],CSR,2021-05-03
+Rents Are Surging Again,"Driven by an intensifying housing shortage as robust demand clashes with historically low supply, data this week showed that home values and rents are both rising at historic rates.",2021-05-29 18:00:00+00:00,https://seekingalpha.com/article/4432051-rents-are-surging-again?source=feed,Seeking Alpha,0.0,0.15,neutral,0.0,False,False,False,False,False,False,False,False,0.0,206,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AIW', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMC', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BPYU', 'BPYUP', 'BRG', 'BRMK', 'BRT', 'BRX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLNC', 'CLNY', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DEA', 'DEI', 'DHC', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GME', 'GMRE', 'GNL', 'GOOD', 'GOODM', 'GOODN', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HD', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDO', 'LFT', 'LOW', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NXRT', 'NYC', 'NYMT', 'NYMTM', 'NYMTN', 'NYMTO', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'OPINI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'QQQ', 'QTS', 'RC', 'RCA', 'RDFN', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SNR', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SPGS', 'SPGS.U', 'SPY', 'SQFT', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TOL', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WRI', 'WSR', 'WY', 'XHB', 'XHR', 'XLB', 'XLE', 'XLI', 'XLRE']",CSR,2021-05-29
+"Benzinga's Top Ratings Upgrades, Downgrades For June 3, 2021","Upgrades
+
+According to B of A Securities, the prior rating for Bloom Energy Corp (NYSE:BE) was changed from Underperform to Neutral. For the first quarter, Bloom Energy had an EPS of $0.07, compared to year-ago quarter EPS of $0.34. The stock has a 52-week-high of $44.95 and a 52-week-low of $7.71. At the end of the last trading period, Bloom Energy closed at $24.66.
+Stephens & Co. upgraded the previous rating for Redfin Corp (NASDAQ:RDFN) from Equal-Weight to Overweight. Redfin earned $0.37 in the first quarter, compared to $0.64 in the year-ago quarter. The stock has a 52-week-high of $98.44 and a 52-week-low of $29.70. At the end of the last trading period, Redfin closed at $58.71.
+Barclays upgraded the previous rating for Ovintiv Inc (NYSE:OVV) from Underweight to Overweight. Ovintiv earned $1.10 in the first quarter. At the moment, the stock has a 52-week-high of $30.02 and a 52-week-low of $6.81. Ovintiv closed at $29.61 at the end of the last trading period.
+For Occidental Petroleum Corp (NYSE:OXY), Barclays upgraded the previous rating of Equal-Weight to Overweight. For the first quarter, Occidental Petroleum had an EPS of $0.15, compared to year-ago quarter EPS of $0.52. The current stock performance of Occidental Petroleum shows a 52-week-high of $32.52 and a 52-week-low of $8.52. Moreover, at the end of the last trading period, the closing price was at $29.23.
+For EOG Resources Inc (NYSE:EOG), Barclays upgraded the previous rating of Equal-Weight to Overweight. EOG Resources earned $1.62 in the first quarter, compared to $0.55 in the year-ago quarter. The stock has a 52-week-high of $86.60 and a 52-week-low of $31.22. At the end of the last trading period, EOG Resources closed at $85.27.
+For MorphoSys AG (NASDAQ:MOR), SVB Leerink upgraded the previous rating of Market Perform to Outperform. MorphoSys earned $1.53 in the first quarter, compared to $6.74 in the year-ago quarter. The current stock performance of MorphoSys shows a 52-week-high of $35.73 and a 52-week-low of $18.55. Moreover, at the end of the last trading period, the closing price was at $19.20.
+For AvalonBay Communities Inc (NYSE:AVB), Mizuho upgraded the previous rating of Neutral to Buy. AvalonBay Communities earned $1.95 in the first quarter, compared to $2.39 in the year-ago quarter. At the moment, the stock has a 52-week-high of $213.67 and a 52-week-low of $131.38. AvalonBay Communities closed at $212.75 at the end of the last trading period.
+According to Mizuho, the prior rating for Douglas Emmett Inc (NYSE:DEI) was changed from Neutral to Buy. In the first quarter, Douglas Emmett showed an EPS of $0.44, compared to $0.48 from the year-ago quarter. The stock has a 52-week-high of $36.78 and a 52-week-low of $22.88. At the end of the last trading period, Douglas Emmett closed at $36.77.
+Roth Capital upgraded the previous rating for Semtech Corp (NASDAQ:SMTC) from Neutral to Buy. In the first quarter, Semtech showed an EPS of $0.53, compared to $0.35 from the year-ago quarter. The current stock performance of Semtech shows a 52-week-high of $83.94 and a 52-week-low of $48.50. Moreover, at the end of the last trading period, the closing price was at $61.93.
+Stifel upgraded the previous rating for Criteo SA (NASDAQ:CRTO) from Hold to Buy. For the first quarter, Criteo had an EPS of $0.67, compared to year-ago quarter EPS of $0.52. The stock has a 52-week-high of $42.50 and a 52-week-low of $10.28. At the end of the last trading period, Criteo closed at $37.37.
+Jefferies upgraded the previous rating for Take-Two Interactive Software Inc (NASDAQ:TTWO) from Hold to Buy. In the fourth quarter, Take-Two Interactive showed an EPS of $1.40, compared to $1.50 from the year-ago quarter. At the moment, the stock has a 52-week-high of $214.91 and a 52-week-low of $124.86. Take-Two Interactive closed at $176.91 at the end of the last trading period.
+
+See all analyst ratings upgrades.
+ 
+Downgrades
+
+MKM Partners downgraded the previous rating for Continental Resources Inc (NYSE:CLR) from Buy to Neutral. For the first quarter, Continental Resources had an EPS of $0.77, compared to year-ago quarter EPS of $0.08. At the moment, the stock has a 52-week-high of $36.45 and a 52-week-low of $11.09. Continental Resources closed at $35.84 at the end of the last trading period.
+For MorphoSys AG (NASDAQ:MOR), Bryan Garnier downgraded the previous rating of Buy to Neutral. MorphoSys earned $1.53 in the first quarter, compared to $6.74 in the year-ago quarter. At the moment, the stock has a 52-week-high of $35.73 and a 52-week-low of $18.55. MorphoSys closed at $19.20 at the end of the last trading period.
+Cowen & Co. downgraded the previous rating for Constellation Pharmaceuticals Inc (NASDAQ:CNST) from Outperform to Market Perform. Constellation earned $0.84 in the first quarter, compared to $0.61 in the year-ago quarter. The current stock performance of Constellation shows a 52-week-high of $40.84 and a 52-week-low of $17.00. Moreover, at the end ...Full story available on Benzinga.com",2021-06-03 14:09:31+00:00,https://www.benzinga.com/analyst-ratings/upgrades/21/06/21410800/benzingas-top-ratings-upgrades-downgrades-for-june-3-2021,Benzinga,0.020175438596491242,0.18771929824561398,neutral,0.020175438596491242,False,True,True,False,False,False,False,False,0.0,5095,"['MOR', 'VNT', 'DEI', 'QTNT', 'CNSL', 'AIRC', 'EOG', 'CDNA', 'EXAS', 'ARVL', 'EQR', 'GH', 'BMTX', 'ESS', 'NVTA', 'MYGN', 'FRT', 'SEDG', 'NOVA', 'VMEO', 'HIW', 'GTX', 'QGEN', 'LTC', 'BE', 'SMTC', 'O', 'WOW', 'SPNS', 'OXY', 'RDFN', 'TTWO', 'XEC', 'AMTB', 'ADC', 'GNRC', 'OVV', 'ALL', 'CNST', 'PROG', 'APA', 'ENPH', 'VERX', 'AVB', 'NEO', 'THRY', 'CLR', 'BNFT', 'FTOC', 'CSR', 'CRTO']",CSR,2021-06-03
+REITs Getting Short Squeezed,"Real estate equities led the gains for the second-straight week. REITs were active participants in ""meme mania,"" led by heavily-shorted retail and hotel REITs. Click to read more...",2021-06-05 17:00:00+00:00,https://seekingalpha.com/article/4433243-reits-getting-short-squeezed,Seeking Alpha,0.14166666666666666,0.42500000000000004,positive,0.14166666666666666,False,False,True,False,False,False,False,False,0.0,211,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AIW', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BPYU', 'BPYUP', 'BRG', 'BRMK', 'BRT', 'BRX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLNC', 'CLNY', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DEA', 'DEI', 'DHC', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODM', 'GOODN', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDO', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDRR', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NXRT', 'NYC', 'NYMT', 'NYMTM', 'NYMTN', 'NYMTO', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'OPINI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'QTS', 'RC', 'RCA', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SNR', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SQFT', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TOL', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'W', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WRI', 'WSR', 'WY', 'XHB', 'XHR', 'XLB', 'XLRE', 'XLY', 'Z', 'ZG', 'EEM']",CSR,2021-06-05
+Inflation Is Worse Than It Looks,U.S. equity markets rallied to fresh record highs this past week as long-term interest rates retreated despite inflation data showing the highest annual rise in consumer prices in decades.,2021-06-12 15:00:00+00:00,https://seekingalpha.com/article/4434464-inflation-is-worse-looks,Seeking Alpha,-0.11666666666666668,0.45,negative,0.11666666666666668,False,False,False,False,False,False,False,False,0.0,222,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AIW', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMC', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BB', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BPYU', 'BPYUP', 'BRG', 'BRMK', 'BRT', 'BRX', 'BX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLNC', 'CLNY', 'CLOV', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DEA', 'DEI', 'DHC', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EEM', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODM', 'GOODN', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDO', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NXRT', 'NYC', 'NYMT', 'NYMTM', 'NYMTN', 'NYMTO', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'OPINI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'QTS', 'RC', 'RCA', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SNR', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SPY', 'SQFT', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USO', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'WELL', 'WEN', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WRI', 'WSR', 'WY', 'XHB', 'XHR', 'XLE', 'XLRE']",CSR,2021-06-12
+Fed Sparks Sell-Off As Shortages Worsen,U.S. equity markets slid to their worst week since February. Click here to read why REITs are now the top-performing asset class.,2021-06-19 14:00:00+00:00,https://seekingalpha.com/article/4435627-fed-sparks-sell-off-shortages-worsen,Seeking Alpha,-1.0,1.0,negative,1.0,False,False,False,False,False,False,False,False,0.0,170,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AIW', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMH', 'AMT', 'AMZN', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BAM', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BPYU', 'BPYUP', 'BRG', 'BRMK', 'BRT', 'BRX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLNC', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DEA', 'DEI', 'DHC', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EEM', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLD', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODM', 'GOODN', 'GOOG', 'GOOGL', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDO', 'LEN', 'LEN.B', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'MSFT', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NXRT', 'NYC', 'NYMT', 'NYMTM', 'NYMTN', 'NYMTO', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'QTS', 'RC', 'RCA', 'RDFN', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SNR', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SQFT', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USD', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WRI', 'WSR', 'WY', 'XHB', 'XHR', 'XLB', 'XLE', 'XLF', 'XLRE']",CSR,2021-06-19
+Walking An Inflation Tightrope,The wave of REIT dividend boosts continued this week with mall REIT Simon Property and shopping center REIT Saul Centers joining 65 other REITs that have raised payouts this year.,2021-06-26 15:00:00+00:00,https://seekingalpha.com/article/4436700-walking-inflation-tightrope,Seeking Alpha,-0.1125,0.2375,negative,0.1125,False,False,False,False,False,True,False,False,0.0,211,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AIW', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BPYU', 'BPYUP', 'BRG', 'BRMK', 'BRT', 'BRX', 'BX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'BRSP', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DBRG', 'DEA', 'DEI', 'DHC', 'DISH', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EEM', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODM', 'GOODN', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBWY', 'KIM', 'KKR', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDO', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NXRT', 'NYC', 'NYMT', 'NYMTM', 'NYMTN', 'NYMTO', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'QTS', 'RC', 'RCA', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SNR', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SPY', 'SQFT', 'SQFTP', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'T', 'TBB', 'TBC', 'THC', 'TIP', 'TMUS', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'VZ', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WRI', 'WSR', 'WY', 'XHB', 'XHR', 'XLE', 'XLF', 'XLI', 'XLRE']",CSR,2021-06-26
+Wall Street Breakfast: Eviction Friction,"Listen on the go! A daily podcast of Wall Street Breakfast will be available by 8:00 a.m. on Seeking Alpha, iTunes, Stitcher and Spotify.",2021-06-30 11:10:27+00:00,https://seekingalpha.com/article/4437198-wall-street-breakfast-eviction-friction,Seeking Alpha,0.2,0.2,positive,0.2,False,False,False,False,False,False,False,False,0.0,179,"['ICE', 'EQR', 'AVB', 'AMH', 'UDR', 'AIV', 'ESS', 'CPT', 'MAA', 'INVH', 'BRG', 'NXRT', 'APTS', 'SUI', 'CLPR', 'CSR', 'ELS', 'DIDI', 'UBER', 'BABA', 'AAPL', 'TSLA', 'TM', 'MRNA', 'SHOP', 'FB', 'BODY', 'RDS.A', 'INTC']",CSR,2021-06-30
+Wall Street Breakfast: Eviction Friction (Podcast),Our top stories today: Eviction friction; speaking of housing; and end of the first half.,2021-06-30 12:02:32+00:00,https://seekingalpha.com/article/4437212-wall-street-breakfast-eviction-friction-podcast,Seeking Alpha,0.19444444444444445,0.3333333333333333,positive,0.19444444444444445,False,False,False,False,False,False,False,False,0.0,141,"['ICE', 'EQR', 'AVB', 'AMH', 'UDR', 'AIV', 'ESS', 'CPT', 'MAA', 'INVH', 'BRG', 'NXRT', 'APTS', 'SUI', 'CLPR', 'CSR', 'ELS', 'DIDI', 'UBER', 'BABA', 'AAPL', 'TSLA', 'TM', 'MRNA', 'SHOP', 'FB', 'BODY', 'RDS.A', 'INTC']",CSR,2021-06-30
+Wall Street Breakfast: What Moved Markets,"Listen on the go! A daily podcast of Wall Street Breakfast will be available by 8:00 a.m. on Seeking Alpha, iTunes, Stitcher and Spotify.",2021-07-03 18:19:40+00:00,https://seekingalpha.com/article/4437738-wall-street-breakfast-what-moved-markets,Seeking Alpha,0.2,0.2,positive,0.2,False,False,False,False,False,False,False,False,0.0,180,"['NTLA', 'BEAM', 'EDIT', 'CRSP', 'REGN', 'EQR', 'AVB', 'AMH', 'UDR', 'AIV', 'ESS', 'CPT', 'MAA', 'INVH', 'BRG', 'NXRT', 'APTS', 'SUI', 'CLPR', 'CSR', 'ELS', 'FB', 'GOOG', 'GOOGL', 'TWTR', 'SPCE', 'MRIN', 'BLIN', 'CUEN', 'NEGG', 'CVM', 'KRBP', 'CTXR', 'DMAC', 'ALT']",CSR,2021-07-03
+Centerspace (CSR) Upgraded to Buy: Here's Why,"Centerspace (CSR) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",2021-07-21 16:00:05+00:00,https://www.zacks.com/stock/news/1765215/centerspace-csr-upgraded-to-buy-heres-why,Zacks Investment Research,-0.275,0.7,negative,0.275,True,True,False,False,False,False,False,False,0.0,192,['CSR'],CSR,2021-07-21
+Should You Buy Investors Real Estate Trust (CSR) Ahead of Earnings?,Investors Real Estate Trust (CSR) is seeing favorable earnings estimate revision activity and has a positive Zacks Earnings ESP heading into earnings season.,2021-07-30 12:40:00+00:00,https://www.zacks.com/stock/news/1771568/should-you-buy-investors-real-estate-trust-csr-ahead-of-earnings,Zacks Investment Research,0.2090909090909091,0.38181818181818183,positive,0.2090909090909091,True,True,False,False,False,False,False,False,0.0,226,['CSR'],CSR,2021-07-30
+Centerspace (CSR) Q2 FFO Beat Estimates,"Centerspace (CSR) delivered FFO and revenue surprises of 2.15% and -0.16%, respectively, for the quarter ended June 2021. Do the numbers hold clues to what lies ahead for the stock?",2021-08-02 22:15:07+00:00,https://www.zacks.com/stock/news/1772945/centerspace-csr-q2-ffo-beat-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,222,['CSR'],CSR,2021-08-02
+"The Latest Barron's Picks And Pans Include General Electric, Netflix, Reddit And More","This weekend's Barron's reveals what market strategists recommend for a stock market that likely will struggle this fall.
+
+Other featured articles discuss biotech stocks that could lead a revival, how to combine ESG investing with dividends and who Chinese authorities are coming for now.
+
+Also, see the prospects for a lagging home builder, a video streaming leader, a social media giant that may go public, an old-school industrial and more.
+
+
+""The S&P 500 Could Struggle This Fall, Market Strategists Say. Buy Quality"" by Nicholas Jasinski reveals that a Barron's panel sees muted gains for stocks as the Federal Reserve starts to taper and earnings growth peaks. Stick with quality companies like AbbVie Inc (NYSE: ABBV) and Cisco Systems Inc (NASDAQ: CSCO) and keep an eye on rising bond yields, says the article.
+In ""This Home Builder Stock Could Soar 65%,"" Daren Fonda discusses how, with demand for new homes very strong and prices rising, Scottsdale, Arizona-based Taylor Morrison Home Corp (NYSE: TMHC) has promised margin improvements, which should boost its lagging shares. Find out why Barron's believes the stock is a value.
+Josh Nathan-Kazis's ""5 Biotech Stocks That Could Lead a Revival"" suggests that the rich premiums being paid for biotech M&A targets point to the substantial value that is hiding among ...",2021-09-04 20:04:26+00:00,https://www.benzinga.com/news/small-cap/21/09/22809823/the-latest-barrons-picks-and-pans-include-general-electric-netflix-reddit-and-more,Benzinga,0.19484848484848485,0.5435547785547785,positive,0.19484848484848485,True,True,False,False,False,True,False,False,0.0,1413,"['CSCO', 'INTC', 'NFLX', 'BRC', 'CSR', 'GE', 'HD', 'PEP', 'VZ', 'SRPT', 'ABBV', 'TMHC', 'BLUE', 'WB', 'IQ', 'HOOD']",CSR,2021-09-04
+Home Sweet Home,"Housing Starts, Building Permits, Existing Home Sales, New Home Sales, and Homebuilder Sentiment all topped expectations. Follow here for more.",2021-09-25 15:30:00+00:00,https://seekingalpha.com/article/4457062-home-sweet-home,Seeking Alpha,0.3287878787878788,0.5348484848484848,positive,0.3287878787878788,False,False,False,False,False,False,False,False,0.0,160,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BRG', 'BRMK', 'BRT', 'BRX', 'BX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DBRG', 'DEA', 'DEI', 'DHC', 'DHI', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EEM', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODN', 'GOODO', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBH', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDM', 'LANDO', 'LEN', 'LEN.B', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'MTH', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NVR', 'NXRT', 'NYC', 'NYMT', 'NYMTL', 'NYMTM', 'NYMTN', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PECO', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'RC', 'RCA', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RMRM', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SQFT', 'SQFTP', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TOL', 'TPH', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USD', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WSR', 'WY', 'XHB', 'XHR', 'XLE', 'XLF', 'XLRE', 'XLU']",CSR,2021-09-25
+These top-scoring stocks enable you to tap into the surging housing market and stay ahead of inflation,"Low housing inventory suggests a continued rise in prices and rents for years to come, a tailwind for residential REITs.",2021-10-02 15:26:00+00:00,https://www.marketwatch.com/story/these-top-scoring-stocks-enable-you-to-tap-into-the-surging-housing-market-and-stay-ahead-of-inflation-11633092120,MarketWatch,0.0,0.3,neutral,0.0,False,False,False,False,False,False,False,False,0.0,224,"['JRE', 'PLD', 'REXR', 'AMH', 'MAA', 'SUI', 'ELS', 'INVH', 'CPT', 'IRT', 'NXRT', 'AVB', 'ESS', 'UDR', 'DEI', 'UMH', 'EQR', 'AIRC', 'CSR', 'APTS']",CSR,2021-10-02
+Help Wanted: Shortages Intensify,U.S. equity markets bounced back following the worst week since February. The Equity REIT Index declined 0.4% while Mortgage REITs gained 0.7%. Read to know more.,2021-10-09 14:00:00+00:00,https://seekingalpha.com/article/4459157-help-wanted-shortages-intensify,Seeking Alpha,-0.125,0.4,negative,0.125,False,False,False,False,False,False,False,False,0.0,196,"['AAIC', 'AAIN', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BRG', 'BRMK', 'BRT', 'BRX', 'BX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DBRG', 'DEA', 'DEI', 'DHC', 'DHI', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EEM', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODN', 'GOODO', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBH', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDM', 'LANDO', 'LEN', 'LEN.B', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'MRK', 'MS', 'MTH', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NVR', 'NXRT', 'NYC', 'NYMT', 'NYMTL', 'NYMTM', 'NYMTN', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PECO', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'RC', 'RCA', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SEVN', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SQFT', 'SQFTP', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TOL', 'TPH', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPS', 'WRE', 'WSR', 'WY', 'XHB', 'XHR', 'XLRE', 'Z', 'ZG', 'SPY', 'XLE']",CSR,2021-10-09
+Centerspace (CSR) Q3 FFO and Revenues Top Estimates,"Centerspace (CSR) delivered FFO and revenue surprises of 2.08% and 4.03%, respectively, for the quarter ended September 2021. Do the numbers hold clues to what lies ahead for the stock?",2021-11-01 22:25:03+00:00,https://www.zacks.com/stock/news/1821326/centerspace-csr-q3-ffo-and-revenues-top-estimates,Zacks Investment Research,0.25,0.3,positive,0.25,True,False,False,False,False,False,False,False,0.0,238,['CSR'],CSR,2021-11-01
+Centerspace (CSR) Upgraded to Buy: Here's What You Should Know,"Centerspace (CSR) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",2021-11-17 17:00:06+00:00,https://www.zacks.com/stock/news/1829055/centerspace-csr-upgraded-to-buy-heres-what-you-should-know,Zacks Investment Research,-0.275,0.7,negative,0.275,True,True,False,False,False,False,False,False,0.0,209,['CSR'],CSR,2021-11-17
+"Centerspace (CSR): Strong Industry, Solid Earnings Estimate Revisions","Centerspace (CSR) has seen solid earnings estimate revision activity over the past month, and belongs to a strong industry as well.",2021-12-03 14:19:00+00:00,https://www.zacks.com/stock/news/1835031/centerspace-csr-strong-industry-solid-earnings-estimate-revisions,Zacks Investment Research,0.12333333333333332,0.3833333333333333,positive,0.12333333333333332,True,False,False,False,False,False,False,False,0.0,202,['CSR'],CSR,2021-12-03
+Here's Why You Should Add UDR Stock to Your Portfolio Now,"UDR is well poised to benefit from its diversified portfolio and technological initiatives, though the portfolio's high exposure to urban residential assets is concerning.",2022-01-19 22:00:00+00:00,https://www.zacks.com/stock/news/1854213/heres-why-you-should-add-udr-stock-to-your-portfolio-now,Zacks Investment Research,0.08,0.26999999999999996,neutral,0.08,False,False,False,False,False,False,False,False,0.0,230,"['UDR', 'MAA', 'CPT', 'CSR']",CSR,2022-01-19
+Why You Should Hold Mid-America Apartment (MAA) Stock Now,"Mid-America Apartment (MAA) to gain traction from a Sun Belt-focused portfolio, strategic redevelopment efforts and a robust balance sheet, though higher supply in the urban submarkets is a bane.",2022-01-19 22:04:00+00:00,https://www.zacks.com/stock/news/1854214/why-you-should-hold-mid-america-apartment-maa-stock-now,Zacks Investment Research,0.125,0.25,positive,0.125,False,False,False,False,False,False,False,False,0.0,254,"['UDR', 'MAA', 'CPT', 'CSR']",CSR,2022-01-19
+Armada Hoffler Properties (AHH) Q4 FFO Beat Estimates,"Armada Hoffler Properties (AHH) delivered FFO and revenue surprises of 3.85% and 0.28%, respectively, for the quarter ended December 2021. Do the numbers hold clues to what lies ahead for the stock?",2022-02-10 12:15:03+00:00,https://www.zacks.com/stock/news/1865467/armada-hoffler-properties-ahh-q4-ffo-beat-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,253,"['AHH', 'CSR']",CSR,2022-02-10
+Independence Realty Trust (IRT) Beats Q4 FFO and Revenue Estimates,"Independence Realty Trust (IRT) delivered FFO and revenue surprises of 4.35% and 10.21%, respectively, for the quarter ended December 2021. Do the numbers hold clues to what lies ahead for the stock?",2022-02-16 23:35:08+00:00,https://www.zacks.com/stock/news/1868803/independence-realty-trust-irt-beats-q4-ffo-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,267,"['IRT', 'CSR']",CSR,2022-02-16
+LXP Industrial (LXP) Lags Q4 FFO Estimates,"LXP Industrial (LXP) delivered FFO and revenue surprises of -5.26% and 3.92%, respectively, for the quarter ended December 2021. Do the numbers hold clues to what lies ahead for the stock?",2022-02-24 12:15:07+00:00,https://www.zacks.com/stock/news/1872361/lxp-industrial-lxp-lags-q4-ffo-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,232,"['LXP', 'CSR']",CSR,2022-02-24
+Centerspace (CSR) Q4 FFO and Revenues Surpass Estimates,"Centerspace (CSR) delivered FFO and revenue surprises of 4.85% and 4.28%, respectively, for the quarter ended December 2021. Do the numbers hold clues to what lies ahead for the stock?",2022-03-01 01:05:03+00:00,https://www.zacks.com/stock/news/1874880/centerspace-csr-q4-ffo-and-revenues-surpass-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,241,"['CSR', 'BRG']",CSR,2022-03-01
+"Benzinga's Top Ratings Upgrades, Downgrades For March 11, 2022","Upgrades
+According to B of A Securities, the prior rating for Sabra Health Care REIT Inc (NASDAQ:SBRA) was changed from Underperform to Neutral. In the fourth quarter, Sabra Health Care REIT showed an EPS of $0.39, compared to $0.42 from the year-ago quarter. The current stock performance of Sabra Health Care REIT shows a 52-week-high of $19.02 and a 52-week-low of $12.31. Moreover, at the end of the last trading period, the closing price was at $13.87.   
+CLSA upgraded the previous rating for Gaotu Techedu Inc (NYSE:GOTU) from Sell to Underperform. For the fourth quarter, Gaotu Techedu had an EPS of $0.19, compared to year-ago quarter EPS of $0.39. The current stock performance of Gaotu Techedu shows a 52-week-high of $93.33 and a 52-week-low of $1.39. Moreover, at the end of the last trading period, the closing price was at $1.70.   
+B of A Securities upgraded the previous rating for XPO Logistics Inc (NYSE:XPO) from Neutral to Buy. In the fourth quarter, XPO Logistics showed an EPS of $1.34, compared to $1.19 from the year-ago quarter. The stock has a 52-week-high of $153.45 and a 52-week-low of $59.22. At the end of the last trading period, XPO Logistics closed at $72.39.   
+B of A Securities upgraded the previous rating for Chart Industries Inc (NYSE:GTLS) from Neutral to Buy. In the fourth quarter, Chart Industries showed an EPS of $0.73, compared to $1.27 from the year-ago quarter. At the moment, the stock has a 52-week-high of $206.29 and a 52-week-low of $108.29. Chart Industries closed at $169.88 at the end of the last trading period.   
+According to B of A Securities, the prior rating for Liberty Oilfield Services Inc (NYSE:LBRT) was changed from Neutral to Buy. In the fourth quarter, Liberty Oilfield Services showed an EPS of $0.31, compared to $0.41 from the year-ago quarter. The current stock performance of Liberty Oilfield Services shows a 52-week-high of $17.78 and a 52-week-low of $8.50. Moreover, at the end of the last trading period, the closing price was at $14.95.   
+For Ternium SA (NYSE:TX), Wolfe Research upgraded the previous rating of Underperform to Peer Perform. In the fourth quarter, Ternium showed an EPS of $5.08, compared to $2.11 from the year-ago quarter. NoneThe stock has a 52-week-high of $56.86 and a 52-week-low of $32.46. At the end of the last trading period, Ternium closed at $40.40.   
+According to Guggenheim, the prior rating for Shoals Technologies Group Inc (NASDAQ:SHLS) was changed from Neutral to Buy. In the fourth quarter, Shoals Technologies Gr showed an EPS of $0.01, compared to $0.07 from the year-ago quarter. The current stock performance of Shoals Technologies Gr shows a 52-week-high of $39.98 and a 52-week-low of $11.19. Moreover, at the end of the last trading period, the closing price was at $15.64.   
+B of A Securities upgraded the previous rating for Parsons Corp (NYSE:PSN) from Underperform to Neutral. In the fourth quarter, Parsons Corp showed an EPS of $0.55, compared to $0.51 from the year-ago quarter. The current stock performance of Parsons Corp shows a 52-week-high of $44.94 and a 52-week-low of $29.25. Moreover, at the end of the last trading period, the closing price was at $36.56.   
+According to B of A Securities, the prior rating for Booz Allen Hamilton Holding Corp (NYSE:BAH) was changed from Underperform to Neutral. For the third quarter, Booz Allen Hamilton had an EPS of $1.02, compared to year-ago quarter EPS of $1.04. The current stock performance of Booz Allen Hamilton shows a 52-week-high of $91.00 and a 52-week-low of $69.68. Moreover, at the end of the last trading period, the closing price was at $83.82.   
+According to BMO Capital, the prior rating for Ventas Inc (NYSE:VTR) was changed from Market Perform to Outperform. In the fourth quarter, Ventas showed an EPS of $0.73, compared to $0.83 from the year-ago quarter. The stock has a 52-week-high of $61.09 and a 52-week-low of $45.44. At the end of the last trading period, Ventas closed at $58.86.   
+Deutsche Bank upgraded the previous rating for Keysight Technologies Inc (NYSE:KEYS) from Hold to Buy. Keysight Technologies earned $1.65 in the first quarter, compared to $1.43 in the year-ago quarter. The current stock performance of Keysight Technologies shows a 52-week-high of $209.08 and a 52-week-low of $133.68. Moreover, at the end of the last trading period, the closing price was at $146.49.   
+Mizuho upgraded the previous rating for Exelon Corp (NASDAQ:EXC) from Neutral to Buy. For the fourth quarter, Exelon had an EPS of $0.90, compared to year-ago quarter EPS of $0.76. At the moment, the stock has a 52-week-high of $58.21 and a 52-week-low of $40.11. Exelon closed at $43.60 at the end of the last trading period.   
+Stifel upgraded the previous rating for Texas Roadhouse Inc (NASDAQ:TXRH) from Hold to Buy. In the fourth quarter, Texas Roadhouse showed an EPS of $0.76, compared to $0.28 from the year-ago quarter. The current stock performance of Texas Roadhouse shows a 52-week-high of $110.75 and a 52-week-low of $69.53. Moreover, at the end of the last trading period, the closing price was at $78.59.   
+See all analyst ratings upgrades.
+Downgrades
+For ChampionX Corp (NASDAQ:CHX), B of A Securities downgraded the previous rating of Buy to Neutral. ChampionX earned $0.26 in the fourth quarter, compared to $0.07 in the year-ago quarter. The stock has a 52-week-high of $30.48 and a 52-week-low of $18.26. At the end of the last trading period, ChampionX closed at $25.67.   
+B of A Securities downgraded the previous rating for Cactus Inc (NYSE:WHD) from Buy to Neutral. Cactus earned $0.25 in the fourth quarter, compared to $0.08 in the year-ago quarter. At the moment, the stock has a 52-week-high of $64.18 and a 52-week-low of $27.26. Cactus closed at $59.60 at the end of the last trading period.   
+For Weibo Corp (NASDAQ:WB), UBS downgraded the previous rating of Buy to Neutral. In the fourth quarter, Weibo showed an EPS of $0.83, compared to $0.92 from the year-ago quarter. The current stock performance of Weibo shows a 52-week-high of $64.70 and a 52-week-low of $23.66. Moreover, at the end of the last trading period, the closing price was at $24.46.   
+B of A Securities downgraded the previous rating for Medical Properties Trust Inc (NYSE:MPW) from Buy to Neutral. In the fourth quarter, Medical Properties Trust showed an EPS of $0.47, compared to $0.41 from the year-ago quarter. The current stock performance of Medical Properties Trust shows a 52-week-high of $24.13 and a 52-week-low of $19.39. Moreover, at the end of the last trading period, the closing price was at $20.61.   
+For Marketwise Inc (NASDAQ:MKTW), Wedbush downgraded the previous rating of Outperform to Neutral. The stock has a 52-week-high of $16.97 and a 52-week-low of $4.34. At the end of the last trading period, Marketwise closed at $4.74.   
+For Pinnacle West Capital Corp (NYSE:PNW), Evercore ISI Group downgraded the previous rating of In-Line to Underperform. For the fourth quarter, Pinnacle West Capital had an EPS of $0.24, compared to year-ago quarter EPS of $0.17. At the ...Full story available on Benzinga.com",2022-03-11 15:28:32+00:00,https://www.benzinga.com/analyst-ratings/upgrades/22/03/26101799/benzingas-top-ratings-upgrades-downgrades-for-march-11-2022,Benzinga,-0.025427350427350427,0.12264957264957263,neutral,0.025427350427350427,False,True,True,False,False,False,False,False,0.0,7210,"['LBRT', 'XPO', 'SPOT', 'MTW', 'MTCH', 'AMZN', 'DOCU', 'OSK', 'TWTR', 'EXPE', 'CHWY', 'PNW', 'SYY', 'WB', 'GOOG', 'ABNB', 'TEX', 'CHX', 'GTLS', 'RBLX', 'TX', 'CTRE', 'HEES', 'BMBL', 'URI', 'KEYS', 'ORCL', 'GMTX', 'VTR', 'ETSY', 'ROLL', 'GOTU', 'WMG', 'UBER', 'TXRH', 'MKTW', 'SBRA', 'LYFT', 'AGCO', 'NVEI', 'BAH', 'USFD', 'CAT', 'PFGC', 'PSN', 'CSR', 'SHLS', 'HRI', 'CVX', 'FB', 'SNAP', 'DE', 'TLYS', 'WHD', 'EXC', 'SKIN', 'BKNG', 'MPW']",CSR,2022-03-11
+Why Centerspace (CSR) Stock Might be a Great Pick,"Centerspace (CSR) has seen solid earnings estimate revision activity over the past two months, and belongs to a strong industry as well.",2022-03-23 12:50:00+00:00,https://www.zacks.com/stock/news/1886094/why-centerspace-csr-stock-might-be-a-great-pick,Zacks Investment Research,0.24583333333333335,0.45833333333333337,positive,0.24583333333333335,True,False,False,False,False,False,False,False,0.0,187,['CSR'],CSR,2022-03-23
+Strength Seen in Centerspace (CSR): Can Its 3.4% Jump Turn into More Strength?,Centerspace (CSR) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might help the stock continue moving higher in the near term.,2022-04-04 12:11:00+00:00,https://www.zacks.com/stock/news/1892155/strength-seen-in-centerspace-csr-can-its-34-jump-turn-into-more-strength,Zacks Investment Research,0.225,0.41111111111111104,positive,0.225,True,False,False,False,False,False,False,False,0.0,275,"['CSR', 'UMH']",CSR,2022-04-04
+6 Small-Cap REITs That Scream 'Buy Me',"In this article, I discuss about six small-cap REITs by filtering the constituents with the highest FFO per share growth forecasted in 2022. Read more here.",2022-04-05 11:00:00+00:00,https://seekingalpha.com/article/4499706-6-small-cap-reits-to-buy,Seeking Alpha,0.5,0.5,positive,0.5,False,True,False,False,False,False,False,False,0.0,196,"['ABR', 'CHCT', 'CIO', 'CLDT', 'CLPR', 'CSR', 'CTO', 'IIPR', 'NTST', 'O', 'ONL', 'PINE', 'PW', 'VNQ', 'WPC']",CSR,2022-04-05
+What to Expect From Synchrony Financial's (SYF) Q1 Earnings,Synchrony Financial's (SYF) first-quarter results are likely to reflect increased marketing and business development costs.,2022-04-13 15:41:00+00:00,https://www.zacks.com/stock/news/1898712/what-to-expect-from-synchrony-financials-syf-q1-earnings,Zacks Investment Research,0.0,0.3333333333333333,neutral,0.0,True,False,False,False,False,False,False,False,0.0,184,"['PRA', 'SYF', 'SSB', 'CSR']",CSR,2022-04-13
+Synchrony Financial (SYF) Q1 Earnings Beat on Purchase Volume,"Synchrony Financial (SYF) currently has a share buyback authorization of $3.1 billion, thanks to the approval of a new $2.8-billion repurchase program.",2022-04-18 16:40:00+00:00,https://www.zacks.com/stock/news/1901784/synchrony-financial-syf-q1-earnings-beat-on-purchase-volume,Zacks Investment Research,0.06727272727272728,0.21090909090909093,neutral,0.06727272727272728,True,True,False,False,False,True,False,False,0.0,214,"['PRA', 'SYF', 'SSB', 'CSR']",CSR,2022-04-18
+"MarketAxess' (MKTX) Q1 Earnings Beat Estimates, Down Y/Y","MarketAxess' (MKTX) Q1 earnings reflect better trading volumes and decent revenue stream. It witnessed record U.S. Treasury, emerging markets and municipal bond revenues.",2022-04-20 13:11:00+00:00,https://www.zacks.com/stock/news/1903278/marketaxess-mktx-q1-earnings-beat-estimates-down-yy,Zacks Investment Research,0.17037037037037037,0.4851851851851852,positive,0.17037037037037037,True,False,False,False,False,False,False,False,0.0,228,"['PRA', 'MKTX', 'SSB', 'CSR']",CSR,2022-04-20
+American Express (AXP) Q1 Earnings Beat on Higher Revenues,"American Express' (AXP) Q1 results reflect higher revenues owing to better card member spending, globally.",2022-04-22 19:14:00+00:00,https://www.zacks.com/stock/news/1905683/american-express-axp-q1-earnings-beat-on-higher-revenues,Zacks Investment Research,0.16666666666666666,0.25,positive,0.16666666666666666,True,False,False,False,False,False,False,False,0.0,166,"['AXP', 'PRA', 'SSB', 'CSR']",CSR,2022-04-22
+Provident Financial (PFS) Tops Q1 Earnings Estimates,"Provident Financial (PFS) delivered earnings and revenue surprises of 23.40% and 0.34%, respectively, for the quarter ended March 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-04-29 13:15:04+00:00,https://www.zacks.com/stock/news/1911520/provident-financial-pfs-tops-q1-earnings-estimates,Zacks Investment Research,0.0,0.03333333333333333,neutral,0.0,True,False,False,False,False,False,False,False,0.0,249,"['PFS', 'CSR']",CSR,2022-04-29
+Centerspace (CSR) Misses Q1 FFO Estimates,"Centerspace (CSR) delivered FFO and revenue surprises of -7.55% and 2.13%, respectively, for the quarter ended March 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-05-02 21:55:08+00:00,https://www.zacks.com/stock/news/1913835/centerspace-csr-misses-q1-ffo-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,225,"['CSR', 'UMH']",CSR,2022-05-02
+What 4 Analyst Ratings Have To Say About Centerspace,"Over the past 3 months, 4 analysts have published their opinion on Centerspace (NYSE:CSR) stock. These analysts are typically employed by large Wall Street banks and tasked with understanding a company's business to predict how a stock will trade over the upcoming year.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+3
+1
+0
+0
+
+
+Last 30D
+0
+1
+0
+0
+0
+
+
+1M Ago
+0
+1
+0
+0
+0
+
+
+2M Ago
+0
+1
+0
+0
+0
+
+
+3M Ago
+0
+0
+1
+0
+0
+
+
+
+In the last 3 months, 4 analysts have offered 12-month price targets for Centerspace. The company has an average price target of $97.25 with a high of $102.00 and a low of $92.00. 
+Below is a summary of how these 4 analysts rated Centerspace over the past 3 months. The greater the ...Full story available on Benzinga.com",2022-07-20 17:05:09+00:00,https://www.benzinga.com/analyst-ratings/22/07/28138004/what-4-analyst-ratings-have-to-say-about-centerspace,Benzinga,0.03813492063492064,0.37099206349206354,neutral,0.03813492063492064,False,False,False,False,False,False,False,False,0.0,821,['CSR'],CSR,2022-07-20
+2 Cigar-Butt REITs: 1 That's Hot And 1 That's Not,"In this article, I will explore two cigar butt REITs, one that's hot and one that's not. Check out which stock is a speculative buy and which one to stay away.",2022-07-27 11:00:00+00:00,https://seekingalpha.com/article/4526069-2-cigar-butt-reits-1-thats-hot-and-1-thats-not,Seeking Alpha,0.25,0.8500000000000001,positive,0.25,False,True,False,False,False,False,False,False,0.0,210,"['CLPR', 'CORR', 'NXRT', 'IRT', 'CPT', 'MAA', 'ACC', 'AVB', 'UDR', 'ESS', 'EQR', 'CSR', 'AIRC', 'BRT', 'EPD', 'MMP']",CSR,2022-07-27
+Centerspace (CSR) Q2 FFO and Revenues Top Estimates,"Centerspace (CSR) delivered FFO and revenue surprises of 1.82% and 1.39%, respectively, for the quarter ended June 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-08-01 22:45:10+00:00,https://www.zacks.com/stock/news/1961754/centerspace-csr-q2-ffo-and-revenues-top-estimates,Zacks Investment Research,0.25,0.3,positive,0.25,True,False,False,False,False,False,False,False,0.0,233,"['CSR', 'AHH']",CSR,2022-08-01
+"Benzinga's Top Ratings Upgrades, Downgrades For August 4, 2022","Upgrades
+UBS upgraded the previous rating for Southern Co (NYSE:SO) from Neutral to Buy. In the second quarter, Southern showed an EPS of $1.07, compared to $0.84 from the year-ago quarter. The current stock performance of Southern shows a 52-week-high of $77.61 and a 52-week-low of $61.77. Moreover, at the end of the last trading period, the closing price was at $77.26.   
+For Essex Property Trust Inc (NYSE:ESS), Raymond James upgraded the previous rating of Market Perform to Outperform. For the second quarter, Essex Property Trust had an EPS of $3.68, compared to year-ago quarter EPS of $3.04. At the moment, the stock has a 52-week-high of $363.36 and a 52-week-low of $250.62. Essex Property Trust closed at $275.47 at the end of the last trading period.   
+For Autohome Inc (NYSE:ATHM), B of A Securities upgraded the previous rating of Underperform to Neutral. For the second quarter, Autohome had an EPS of $0.56, compared to year-ago quarter EPS of $0.97. At the moment, the stock has a 52-week-high of $39.99 and a 52-week-low of $20.49. Autohome closed at $39.74 at the end of the last trading period.   
+For America Movil SAB de CV (NYSE:AMX), Citigroup upgraded the previous rating of Neutral to Buy. For the second quarter, America Movil had an EPS of $0.21, compared to year-ago quarter EPS of $0.64. The stock has a 52-week-high of $22.65 and a 52-week-low of $17.14. At the end of the last trading period, America Movil closed at $18.09.   
+SVB Leerink upgraded the previous rating for Horizon Therapeutics PLC (NASDAQ:HZNP) from Market Perform to Outperform. In the second quarter, Horizon Therapeutics showed an EPS of $1.07, compared to $1.62 from the year-ago quarter. The current stock performance of Horizon Therapeutics shows a 52-week-high of $117.49 and a 52-week-low of $60.76. Moreover, at the end of the last trading period, the closing price was at $66.96.   
+See all analyst ratings upgrades.
+Downgrades
+SMBC Nikko downgraded the previous rating for Boston Properties Inc (NYSE:BXP) from Outperform to Neutral. For the second quarter, Boston Properties had an EPS of $1.94, compared to year-ago quarter EPS of $1.72. The stock has a 52-week-high of $133.11 and a 52-week-low of $84.86. At the end of the last trading period, Boston Properties closed at $88.40.   
+For Under Armour Inc (NYSE:UAA), William Blair downgraded the previous rating of Hold to Sell. In the second quarter, Under Armour showed an EPS of $0.03, compared to $0.24 from the year-ago quarter. The stock has a 52-week-high of $22.01 and a 52-week-low of $8.10. At the end of the last trading period, Under Armour closed at $9.33.   
+Truist Securities downgraded the previous rating for Ball Corp (NYSE:BALL) from Buy to Hold. The stock has a 52-week-high of $75.32 and a 52-week-low of $62.90. At the end of the last trading period, Ball closed at $72.81.   
+Loop Capital downgraded the previous rating for Weave Communications Inc (NYSE:WEAV) from Buy to Hold. The current stock performance of Weave Communications shows a 52-week-high of $15.65 and a 52-week-low of $2.91. Moreover, at the end of the last trading period, the closing price was at $5.22.   
+According to Goldman Sachs, the prior rating for Paymentus Holdings Inc (NYSE:PAY) was changed from Buy to Neutral. For the second quarter, Paymentus Holdings had an EPS of $0.00, compared to year-ago quarter EPS of $0.02. The stock has a 52-week-high of $35.00 and a 52-week-low of $11.57. At the end of the last trading period, Paymentus Holdings closed at $18.11.   
+For Camden National Corp (NASDAQ:CAC), Stephens & Co. downgraded the previous rating of Overweight to Equal-Weight. In the second quarter, Camden National showed an EPS of $1.02, compared to $1.21 from the year-ago quarter. The stock has a 52-week-high of $52.16 and a 52-week-low of $41.48. At the end of the last trading period, Camden National closed at $45.16.   
+According to Stephens & Co., the prior rating for Ping Identity Holding Corp (NYSE:PING) was changed from Overweight to Equal-Weight. In the second quarter, Ping Identity Holding showed an EPS of $0.34, compared to $0.11 from the year-ago quarter. At the moment, the stock has a 52-week-high of $30.40 and a 52-week-low of $15.85. Ping Identity Holding closed at $28.08 at the end of the last trading period.   
+For Dana Inc (NYSE:DAN), Deutsche Bank downgraded the previous rating of Buy to Hold. Dana earned $0.08 in the second quarter, compared to $0.59 in the year-ago quarter. The stock ...Full story available on Benzinga.com",2022-08-04 14:30:26+00:00,https://www.benzinga.com/analyst-ratings/upgrades/22/08/28355684/benzingas-top-ratings-upgrades-downgrades-for-august-4-2022,Benzinga,-0.034591194968553465,0.10628930817610062,neutral,0.034591194968553465,False,True,True,False,False,False,False,False,0.0,4599,"['WEAV', 'CAC', 'VLY', 'BALL', 'EGHT', 'HSBC', 'AMX', 'HZNP', 'BXP', 'RNG', 'CRL', 'ATHM', 'CSR', 'TRUP', 'DAN', 'VAPO', 'EDR', 'NXRT', 'ESS', 'FBIO', 'HCC', 'DLTH', 'KSS', 'PING', 'MAA', 'UAA', 'MED', 'RVLV', 'PAY', 'LEVI', 'ZM', 'SI', 'SKLZ', 'SO']",CSR,2022-08-04
+"Down 12.8% in 4 Weeks, Here's Why You Should You Buy the Dip in Centerspace (CSR)","Centerspace (CSR) is technically in oversold territory now, so the heavy selling pressure might have exhausted. This along with strong agreement among Wall Street analysts in raising earnings estimates could lead to a trend reversal for the stock.",2022-08-31 13:35:04+00:00,https://www.zacks.com/stock/news/1974498/down-128-in-4-weeks-heres-why-you-should-you-buy-the-dip-in-centerspace-csr,Zacks Investment Research,-0.06444444444444447,0.4644444444444445,neutral,0.06444444444444447,True,True,False,False,False,False,False,False,0.0,330,['CSR'],CSR,2022-08-31
+The Bancorp (TBBK) Q3 Earnings and Revenues Lag Estimates,"The Bancorp (TBBK) delivered earnings and revenue surprises of -8.47% and 0.41%, respectively, for the quarter ended September 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-10-27 22:15:11+00:00,https://www.zacks.com/stock/news/1999214/the-bancorp-tbbk-q3-earnings-and-revenues-lag-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,251,"['TBBK', 'CSR']",CSR,2022-10-27
+Centerspace (CSR) Q3 FFO Miss Estimates,"Centerspace (CSR) delivered FFO and revenue surprises of -1.71% and 1.14%, respectively, for the quarter ended September 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-10-31 22:15:08+00:00,https://www.zacks.com/stock/news/2011457/centerspace-csr-q3-ffo-miss-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,227,"['CSR', 'AHH']",CSR,2022-10-31
+"Benzinga's Top Ratings Upgrades, Downgrades For November 1, 2022","Upgrades
+
+For AnaptysBio Inc (NASDAQ:ANAB), Guggenheim upgraded the previous rating of Neutral to Buy. AnaptysBio earned $1.15 in the second quarter, compared to $0.02 in the year-ago quarter. The stock has a 52-week-high of $36.06 and a 52-week-low of $18.20. At the end of the last trading period, AnaptysBio closed at $28.85.
+According to Barclays, the prior rating for First Solar Inc (NASDAQ:FSLR) was changed from Underweight to Equal-Weight. In the third quarter, First Solar showed an EPS of $0.46, compared to $0.42 from the year-ago quarter. At the moment, the stock has a 52-week-high of $148.20 and a 52-week-low of $59.60. First Solar closed at $145.57 at the end of the last trading period.
+According to Morgan Stanley, the prior rating for Gogo Inc (NASDAQ:GOGO) was changed from Underweight to Equal-Weight. For the second quarter, Gogo had an EPS of $0.17, compared to year-ago quarter EPS of $0.12. The stock has a 52-week-high of $23.69 and a 52-week-low of $11.57. At the end of the last trading period, Gogo closed at $14.22.
+RBC Capital upgraded the previous rating for Norfolk Southern Corp (NYSE:NSC) from Underperform to Sector Perform. Norfolk Southern earned $3.80 in the third quarter, compared to $3.06 in the year-ago quarter. The stock has a 52-week-high of $298.99 and a 52-week-low of $203.65. At the end of the last trading period, Norfolk Southern closed at $228.07.
+JP Morgan upgraded the previous rating for Lennox International Inc (NYSE:LII) from Underweight to Neutral. Lennox International earned $4.10 in the third quarter, compared to $3.40 in the year-ago quarter. The stock has a 52-week-high of $324.04 and a 52-week-low of $182.85. At the end of the last trading period, Lennox International closed at $233.57.
+JP Morgan upgraded the previous rating for Carvana Co (NYSE:CVNA) from Underweight to Neutral. Carvana earned $2.35 in the second quarter, compared to $0.26 in the year-ago quarter. At the moment, the stock has a 52-week-high of $240.58 and a 52-week-low of $12.90. Carvana closed at $13.53 at the end of the last trading period.
+According to JP Morgan, the prior rating for Monster Beverage Corp (NASDAQ:MNST) was changed from Neutral to Overweight. For the second quarter, Monster Beverage had an EPS of $0.51, compared to year-ago quarter EPS of $0.75. The stock has a 52-week-high of $99.81 and a 52-week-low of $71.78. At the end of the last trading period, Monster Beverage closed at $93.72.
+
+See all analyst ratings upgrades.
+ 
+Downgrades
+
+For Abiomed Inc (NASDAQ:ABMD), Piper Sandler downgraded the previous rating of Overweight to Neutral. For the second quarter, Abiomed had an EPS of $1.30, compared to year-ago quarter EPS of $1.03. The current stock performance of Abiomed shows a 52-week-high of $368.97 and a 52-week-low of $219.84. Moreover, at the end of the last trading period, the closing price was at $252.08.
+For Varonis Systems Inc (NASDAQ:VRNS), Craig-Hallum downgraded the previous rating of Buy to Hold. Varonis Systems earned $0.05 in the third quarter, compared to $0.05 in the year-ago quarter. The stock has a 52-week-high of $51.60 and a 52-week-low of $22.92. At the end of the last trading period, Varonis Systems closed at $26.77.
+B of A Securities downgraded the previous rating for Inovio Pharmaceuticals Inc (NASDAQ:INO) from Neutral to Underperform. In the second quarter, Inovio Pharmaceuticals showed an EPS of $0.46, compared to $0.39 from the year-ago quarter. The current stock performance of Inovio Pharmaceuticals shows a 52-week-high of $5.27 and a 52-week-low of $1.38. Moreover, at the end of the last trading period, the closing price was at $2.16.
+According to Argus Research, the prior rating for Skechers USA Inc (NYSE:SKX) was changed from Buy to Hold. For the third quarter, Skechers USA had an EPS of $0.55, compared to year-ago quarter EPS of $0.66. At the moment, the stock has a 52-week-high of $49.89 and a 52-week-low of $31.28. Skechers USA closed at $34.43 at the end of the last trading period.
+Oppenheimer downgraded the previous rating for TuSimple Holdings Inc (NASDAQ:TSP) from Outperform to Perform. For the third quarter, TuSimple Hldgs had an EPS of $0.50, compared to year-ago quarter EPS of $0.54. The current stock performance of TuSimple Hldgs shows a 52-week-high of $37.24 and a 52-week-low of $3.21. Moreover, at the end of the last trading period, the closing price was at $3.43.
+For Ventas Inc (NYSE:VTR), Raymond James downgraded the previous rating of Strong Buy to Outperform. In the second quarter, Ventas showed an EPS of $0.72, compared to $0.73 from the year-ago quarter. At the moment, the stock has a 52-week-high of $64.02 and a 52-week-low of $35.33. Ventas closed at $39.13 at the end of the last trading period.
+For Steven Madden Ltd (NASDAQ:SHOO), Wedbush downgraded the previous rating of Outperform to Neutral. In the second quarter, Steven Madden showed an EPS of $0.63, compared to $0.48 from the year-ago quarter. The stock has a 52-week-high of $49.84 and a 52-week-low of $26.36. At the end of the last trading period, Steven Madden closed at $29.87.
+According to Barclays, the prior rating for Principal Financial Group Inc (NASDAQ:PFG) was changed from Overweight to Equal-Weight. Principal Finl Gr earned $1.69 in the third quarter, compared to $1.69 in the year-ago quarter. The stock has a 52-week-high of $88.52 and a 52-week-low of $61.05. At the end of the last trading period, Principal Finl Gr closed at $88.13.
+Canaccord ...Full story available on Benzinga.com",2022-11-01 14:27:52+00:00,https://www.benzinga.com/analyst-ratings/upgrades/22/11/29502491/benzingas-top-ratings-upgrades-downgrades-for-november-1-2022,Benzinga,-0.010730593607305933,0.10547945205479452,neutral,0.010730593607305933,False,True,True,False,False,False,False,False,0.0,5595,"['EVH', 'INO', 'GNLN', 'NWE', 'GOGO', 'ABMD', 'KRTX', 'PFG', 'AMC', 'ACAD', 'RPT', 'SKX', 'SYK', 'VRNS', 'ATAI', 'LTRN', 'TSP', 'SAGE', 'ATCO', 'UNP', 'GH', 'EDAP', 'BMEA', 'VTR', 'ANAB', 'EXEL', 'ARBK', 'BSBR', 'AKTX', 'FSLR', 'JSPR', 'CC', 'AXSM', 'REGN', 'BNOX', 'OPRX', 'NTLA', 'SCHW', 'CORZ', 'HZNP', 'TIL', 'SHOO', 'TROX', 'CVNA', 'CLW', 'MNST', 'ZYME', 'CSR', 'CERE', 'RCKT', 'EMR', 'WELL', 'LEGN', 'LII', 'CMPS', 'PDSB', 'NSC']",CSR,2022-11-01
+"Benzinga's Top Ratings Upgrades, Downgrades For November 2, 2022","Upgrades
+
+According to Evercore ISI Group, the prior rating for BioCryst Pharmaceuticals Inc (NASDAQ:BCRX) was changed from In-Line to Outperform. In the third quarter, BioCryst Pharmaceuticals showed an EPS of $0.23, compared to $0.33 from the year-ago quarter. The current stock performance of BioCryst Pharmaceuticals shows a 52-week-high of $19.99 and a 52-week-low of $7.61. Moreover, at the end of the last trading period, the closing price was at $11.86.
+According to B of A Securities, the prior rating for KKR & Co Inc (NYSE:KKR) was changed from Neutral to Buy. In the third quarter, KKR & Co showed an EPS of $0.93, compared to $1.05 from the year-ago quarter. At the moment, the stock has a 52-week-high of $75.19 and a 52-week-low of $41.77. KKR & Co closed at $49.47 at the end of the last trading period.
+Baird upgraded the previous rating for Premier Inc (NASDAQ:PINC) from Neutral to Outperform. For the first quarter, Premier had an EPS of $0.52, compared to year-ago quarter EPS of $0.64. At the moment, the stock has a 52-week-high of $41.42 and a 52-week-low of $31.00. Premier closed at $31.77 at the end of the last trading period.
+According to Morgan Stanley, the prior rating for Abiomed Inc (NASDAQ:ABMD) was changed from Underweight to Equal-Weight. For the second quarter, Abiomed had an EPS of $1.30, compared to year-ago quarter EPS of $1.03. At the moment, the stock has a 52-week-high of $381.99 and a 52-week-low of $219.84. Abiomed closed at $377.82 at the end of the last trading period.
+Raymond James upgraded the previous rating for IPG Photonics Corp (NASDAQ:IPGP) from Underperform to Market Perform. In the third quarter, IPG Photonics showed an EPS of $1.47, compared to $1.40 from the year-ago quarter. At the moment, the stock has a 52-week-high of $176.63 and a 52-week-low of $79.88. IPG Photonics closed at $85.48 at the end of the last trading period.
+
+See all analyst ratings upgrades.
+ 
+Downgrades
+
+According to B of A Securities, the prior rating for Catalent Inc (NYSE:CTLT) was changed from Buy to Neutral. In the first quarter, Catalent showed an EPS of $0.34, compared to $0.71 from the year-ago quarter. The stock has a 52-week-high of $128.26 and a 52-week-low of $47.60. At the end of the last trading period, Catalent closed at $49.53.
+For Twilio Inc (NYSE:TWLO), B of A Securities downgraded the previous rating of Buy to Underperform. For the second quarter, Twilio had an EPS of $0.11, compared to year-ago quarter EPS of $0.11. The current stock performance of Twilio shows a 52-week-high of $266.74 and a 52-week-low of $62.10. Moreover, at the end of the last trading period, the closing price was at $75.08.
+Compass Point downgraded the previous rating for Centerspace (NYSE:CSR) from Buy to Neutral. Centerspace earned $1.15 in the third quarter, compared to $0.98 in the year-ago quarter. The current stock performance of Centerspace shows a 52-week-high of $111.48 and a 52-week-low of $62.79. Moreover, at the end of the last trading period, the closing price was at $67.06.
+According to Mizuho, the prior rating for Avista Corp (NYSE:AVA) was changed from Buy to Neutral. In the third quarter, Avista showed an EPS of $0.08, compared to $0.20 from the year-ago quarter. The current stock performance of Avista shows a 52-week-high of $46.90 and a 52-week-low of $36.32. Moreover, at the end of the last trading period, the closing price was at $37.66.
+According to Oppenheimer, the prior rating for Blueprint Medicines Corp (NASDAQ:BPMC) was changed from Outperform to Perform. For the third quarter, Blueprint Medicines had an EPS of $2.23, compared to year-ago quarter EPS of $2.00. The current stock performance of Blueprint Medicines shows a 52-week-high of $110.23 and a 52-week-low of $43.46. Moreover, at the end of the last trading period, the closing price was at $48.24.
+Credit Suisse downgraded the previous rating for Nasdaq Inc (NASDAQ:NDAQ) from Outperform to Neutral. In the third quarter, Nasdaq showed an EPS of $0.68, compared to $0.59 from the year-ago quarter. The current stock performance of Nasdaq shows a 52-week-high of $70.29 and a 52-week-low of $46.77. Moreover, at the end of the last trading period, the closing price was at ...Full story available on Benzinga.com",2022-11-02 14:06:35+00:00,https://www.benzinga.com/analyst-ratings/upgrades/22/11/29523602/benzingas-top-ratings-upgrades-downgrades-for-november-2-2022,Benzinga,0.0014492753623188438,0.1311594202898551,neutral,0.0014492753623188438,False,True,True,False,False,False,False,False,0.0,4330,"['TLRY', 'ABMD', 'PANW', 'LEGN', 'BCRX', 'WDAY', 'REZI', 'CHKP', 'PINC', 'OSW', 'IPGP', 'SNOW', 'CRWD', 'MSFT', 'SMLR', 'LCTX', 'NDAQ', 'CTLT', 'NET', 'AVA', 'HUBS', 'DDOG', 'CLF', 'SRNE', 'BPMC', 'FREQ', 'CSR', 'SPNE', 'BALY', 'DT', 'OKTA', 'LAZR', 'ECL', 'ULH', 'AEVA', 'RBA', 'TWLO', 'OUST', 'CGC', 'DNLI', 'LIDR', 'KKR', 'ZS', 'INVZ', 'ARCT', 'CRON', 'TRTX']",CSR,2022-11-02
+4 Analysts Have This to Say About Centerspace,"Within the last quarter, Centerspace (NYSE:CSR) has observed the following analyst ratings:
+
+
+
+ 
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+1
+3
+0
+0
+
+
+Last 30D
+0
+0
+2
+0
+0
+
+
+1M Ago
+0
+1
+1
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+0
+0
+0
+0
+0
+
+
+
+In the last 3 months, 4 analysts have offered 12-month price targets for Centerspace. The company has an average price target of $74.75 with a high of $85.00 and a low of $69.00.
+Below is a summary of how these 4 analysts rated Centerspace over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on ...Full story available on Benzinga.com",2022-11-02 15:18:00+00:00,https://www.benzinga.com/analyst-ratings/22/11/29525211/4-analysts-have-this-to-say-about-centerspace,Benzinga,0.10671328671328671,0.345034965034965,positive,0.10671328671328671,False,False,False,False,False,False,False,False,0.0,695,['CSR'],CSR,2022-11-02
+What 4 Analyst Ratings Have To Say About Centerspace,"Within the last quarter, Centerspace (NYSE:CSR) has observed the following analyst ratings: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+1
+3
+0
+0
+
+
+Last 30D
+0
+0
+2
+0
+0
+
+
+1M Ago
+0
+1
+1
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+0
+0
+0
+0
+0
+
+
+
+According to 4 analyst offering 12-month price targets in the last 3 months, Centerspace has an average price target of $74.75 with a high of $85.00 and a low of $69.00. 
+Below is a summary of how these 4 analysts rated Centerspace over the past 3 months. The greater the number of bullish ratings, the ...Full story available on Benzinga.com",2022-11-02 19:16:32+00:00,https://www.benzinga.com/analyst-ratings/22/11/29530898/what-4-analyst-ratings-have-to-say-about-centerspace,Benzinga,0.060000000000000005,0.3127272727272727,neutral,0.060000000000000005,False,False,False,False,False,False,False,False,0.0,664,['CSR'],CSR,2022-11-02
+4 Analysts Have This to Say About Centerspace,"Over the past 3 months, 4 analysts have published their opinion on Centerspace (NYSE:CSR) stock. These analysts are typically employed by large Wall Street banks and tasked with understanding a company's business to predict how a stock will trade over the upcoming year.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+1
+3
+0
+0
+
+
+Last 30D
+0
+0
+0
+0
+0
+
+
+1M Ago
+0
+0
+3
+0
+0
+
+
+2M Ago
+0
+1
+0
+0
+0
+
+
+3M Ago
+0
+0
+0
+0
+0
+
+
+
+In the last 3 months, 4 analysts have offered 12-month price targets for Centerspace. The company has an average price target of $74.75 with a high of $85.00 and a low of $69.00. 
+Below is a summary ...Full story available on Benzinga.com",2022-11-23 12:08:30+00:00,https://www.benzinga.com/analyst-ratings/22/11/29837126/4-analysts-have-this-to-say-about-centerspace,Benzinga,0.020761904761904766,0.3701904761904762,neutral,0.020761904761904766,False,False,False,False,False,False,False,False,0.0,731,['CSR'],CSR,2022-11-23
+"Benzinga's Top Ratings Upgrades, Downgrades For December 14, 2022","Upgrades
+Wolfe Research upgraded the previous rating for EQT Corp (NYSE:EQT) from Peer Perform to Outperform. EQT earned $1.04 in the third quarter, compared to $0.12 in the year-ago quarter. At the moment, the stock has a 52-week-high of $51.97 and a 52-week-low of $19.20. EQT closed at $37.11 at the end of the last trading period.   
+For Lennar Corp (NYSE:LEN), Barclays upgraded the previous rating of Equal-Weight to Overweight. At the moment, the stock has a 52-week-high of $117.54 and a 52-week-low of $62.54. Lennar closed at $90.59 at the end of the last trading period.   
+According to Barclays, the prior rating for PulteGroup Inc (NYSE:PHM) was changed from Equal-Weight to Overweight. For the third quarter, PulteGroup had an EPS of $2.69, compared to year-ago quarter EPS of $1.82. The stock has a 52-week-high of $58.09 and a 52-week-low of $35.03. At the end of the last trading period, PulteGroup closed at $45.79.   
+For SolarEdge Technologies Inc (NASDAQ:SEDG), Barclays upgraded the previous rating of Equal-Weight to Overweight. In the third quarter, SolarEdge Technologies showed an EPS of $0.91, compared to $1.45 from the year-ago quarter. The stock has a 52-week-high of $375.90 and a 52-week-low of $190.15. At the end of the last trading period, SolarEdge Technologies closed at $327.64.   
+For RingCentral Inc (NYSE:RNG), Morgan Stanley upgraded the previous rating of Equal-Weight to Overweight. In the third quarter, RingCentral showed an EPS of $0.55, compared to $0.36 from the year-ago quarter. At the moment, the stock has a 52-week-high of $198.79 and a 52-week-low of $28.00. RingCentral closed at $38.95 at the end of the last trading period.   
+Morgan Stanley upgraded the previous rating for PACCAR Inc (NASDAQ:PCAR) from Equal-Weight to Overweight. In the third quarter, PACCAR showed an EPS of $2.21, compared to $1.08 from the year-ago quarter. The current stock performance of PACCAR shows a 52-week-high of $107.18 and a 52-week-low of $77.00. Moreover, at the end of the last trading period, the closing price was at $102.22.   
+For Datadog Inc (NASDAQ:DDOG), Oppenheimer upgraded the previous rating of Perform to Outperform. For the third quarter, Datadog had an EPS of $0.23, compared to year-ago quarter EPS of $0.13. At the moment, the stock has a 52-week-high of $186.28 and a 52-week-low of $66.45. Datadog closed at $79.71 at the end of the last trading period.   
+Wells Fargo upgraded the previous rating for Fortis Inc (NYSE:FTS) from Underweight to Equal-Weight. For the third quarter, Fortis had an EPS of $0.54, compared to year-ago quarter EPS of $0.64. The stock has a 52-week-high of $51.66 and a 52-week-low of $34.76. At the end of the last trading period, Fortis closed at $40.99.   
+For Playa Hotels & Resorts NV (NASDAQ:PLYA), Citigroup upgraded the previous rating of Neutral to Buy. In the third quarter, Playa Hotels & Resorts showed an EPS of $0.04, compared to $0.09 from the year-ago quarter. The current stock performance of Playa Hotels & Resorts shows a 52-week-high of $9.81 and a 52-week-low of $5.34. Moreover, at the end of the last trading period, the closing price was at $6.12.   
+According to Wedbush, the prior rating for Darden Restaurants Inc (NYSE:DRI) was changed from Neutral to Outperform. In the first quarter, Darden Restaurants showed an EPS of $1.56, compared to $1.76 from the year-ago quarter. The current stock performance of Darden Restaurants shows a 52-week-high of $155.25 and a 52-week-low of $110.96. Moreover, at the end of the last trading period, the closing price was at $145.03.   
+For Gentex Corp (NASDAQ:GNTX), Goldman Sachs upgraded the previous rating of Sell to Neutral. Gentex earned $0.31 in the third quarter, compared to $0.32 in the year-ago quarter. The stock has a 52-week-high of $36.65 and a 52-week-low of $23.28. At the end of the last trading period, Gentex closed at $27.43.   
+For Ncino Inc (NASDAQ:NCNO), Baird upgraded the previous rating of Neutral to Outperform. For the third quarter, Ncino had an EPS of $0.01, compared to year-ago quarter EPS of $0.04. The stock has a 52-week-high of $58.71 and a 52-week-low of $22.97. At the end of the last trading period, Ncino closed at $26.67.   
+Baird upgraded the previous rating for Ansys Inc (NASDAQ:ANSS) from Neutral to Outperform. Ansys earned $1.77 in the third quarter, compared to $1.59 in the year-ago quarter. At the moment, the stock has a 52-week-high of $413.22 and a 52-week-low of $194.23. Ansys closed at $254.54 at the end of the last trading period.   
+Keybanc upgraded the previous rating for EastGroup Properties Inc (NYSE:EGP) from Sector Weight to Overweight. In the third quarter, EastGroup Props showed an EPS of $1.77, compared to $1.55 from the year-ago quarter. At the moment, the stock has a 52-week-high of $229.84 and a 52-week-low of $137.47. EastGroup Props closed at $156.84 at the end of the last trading period.   
+Keybanc upgraded the previous rating for Physicians Realty Trust (NYSE:DOC) from Sector Weight to Overweight. In the third quarter, Physicians Realty Trust showed an EPS of $0.26, compared to $0.26 from the year-ago quarter. The current stock performance of Physicians Realty Trust shows a 52-week-high of $19.12 and a 52-week-low of $13.42. Moreover, at the end of the last trading period, the closing price was at $15.00.   
+See all analyst ratings upgrades.
+Downgrades
+According to Chardan Capital, the prior rating for Moderna Inc (NASDAQ:MRNA) was changed from Buy to Neutral. For the third quarter, Moderna had an EPS of $2.53, compared to year-ago quarter EPS of $7.70. The current stock performance of Moderna shows a 52-week-high of $321.31 and a 52-week-low of $115.03. Moreover, at the end of the last trading period, the closing price was at $197.54.   
+According to Citigroup, the prior rating for Grupo Aeroportuario del Centro Norte SAB de CV (NASDAQ:OMAB) was changed from Neutral to Sell. In the third quarter, Central North Airport Gr showed an EPS of $1.13, compared to $0.81 from the year-ago quarter. The current stock performance of Central North Airport Gr shows a 52-week-high of $71.86 and a 52-week-low of $46.53. Moreover, at the end of the last trading period, the closing price was at $66.26.   
+B of A Securities downgraded the previous rating for PENN Entertainment Inc (NASDAQ:PENN) from Buy to Neutral. In the third quarter, PENN Entertainment showed an EPS of $0.72, compared to $0.52 from the year-ago quarter. The stock has a 52-week-high of $53.36 and a 52-week-low of $25.49. At the end of the last trading period, PENN Entertainment closed at $35.04.   
+For Stock Yards Bancorp Inc (NASDAQ:SYBT), Piper Sandler downgraded the previous rating of Neutral to Underweight. Stock Yards Bancorp earned $0.89 in the third quarter, compared to $0.87 in the year-ago quarter. The current stock performance of Stock Yards Bancorp shows a 52-week-high of $78.71 and a 52-week-low of $50.83. Moreover, at the end of the last trading period, the closing price was at $72.22.   
+Barclays downgraded the previous rating for Skyline Champion Corp (NYSE:SKY) from Overweight to Equal-Weight. In the second quarter, Skyline Champion showed an EPS of $2.51, compared to $0.89 from the year-ago quarter. The current stock performance of Skyline Champion shows a 52-week-high of $83.49 and a 52-week-low of $43.04. Moreover, at the end of the last trading period, the closing price was at $55.72.   
+Citigroup downgraded the previous rating for SL Green Realty Corp (NYSE:SLG) from Neutral to Sell. For the third quarter, SL Green Realty had an EPS of $1.66, compared to year-ago quarter EPS of $1.78. At the moment, the stock has a 52-week-high of $83.96 and a 52-week-low of $34.21. SL Green Realty closed at $36.35 at the end of the last trading period.   
+For Coupa Software Inc (NASDAQ:COUP), Citigroup downgraded the previous rating of Buy to Neutral. For the third quarter, Coupa Software had an EPS of $0.15, compared to year-ago quarter EPS of $0.31. The current stock performance of Coupa Software shows a 52-week-high of $166.21 and a 52-week-low of $40.30. Moreover, at the end of the last trading period, the closing price was at $78.60.   
+For Caesars Entertainment Inc (NASDAQ:CZR), B of A Securities downgraded the previous rating of Buy to Neutral. In the third quarter, Caesars Entertainment showed an EPS of $0.24, compared to $0.53 from the year-ago quarter. The stock has a 52-week-high of $97.39 and a 52-week-low of $31.31. At the end of the last trading period, Caesars Entertainment closed at $52.55.   
+For Best Buy Co Inc (NYSE:BBY), B of A Securities downgraded the previous rating of Neutral to Underperform. Best Buy Co earned $1.38 in the third quarter, compared to $2.08 in the year-ago quarter. The current stock performance of Best Buy Co shows a 52-week-high of $112.96 and a 52-week-low of $60.78. Moreover, at the end of the last trading period, the closing price was at $84.07.   
+B of A Securities downgraded the previous rating for AutoZone Inc (NYSE:AZO) from Neutral to Underperform. In the first quarter, AutoZone showed an EPS of $27.45, compared to $25.69 from the year-ago quarter. The current stock performance of AutoZone shows a 52-week-high of $2610.05 and a 52-week-low of $1703.32. Moreover, at the end of the last trading period, the closing price was at $2393.46.   
+According to Daiwa Capital, the prior rating for XPeng Inc (NYSE:XPEV) was changed from Buy to Sell. XPeng earned $0.36 in the third quarter, compared to $0.27 in the year-ago quarter. At the moment, the stock has a 52-week-high of $51.50 and a 52-week-low of $6.18. XPeng closed at $10.31 at the end of the last trading period.   
+For Centerspace (NYSE:CSR), Janney Montgomery Scott downgraded the previous rating of Buy to Neutral. In the third quarter, Centerspace showed an EPS of $1.15, compared to $0.98 from the year-ago quarter. At the moment, the stock has a 52-week-high of $112.27 and a 52-week-low of $60.52. Centerspace closed at $66.15 at the end of the last trading period.   
+Janney Montgomery Scott downgraded the previous rating for Essex Property Trust Inc (NYSE:ESS) from Buy to Neutral. In the third quarter, Essex Property Trust showed an EPS of $3.69, compared to $3.12 from the year-ago quarter. At the moment, the stock has a 52-week-high of $363.36 and a 52-week-low of $205.76. Essex Property Trust closed at $223.21 at the end of the last trading period.   
+According to Truist Securities, the prior rating for Harpoon Therapeutics Inc (NASDAQ:HARP) was changed from Buy to Hold. In the third quarter, Harpoon Therapeutics showed an EPS of $0.35, compared to $0.51 from the year-ago quarter. The stock has a 52-week-high of $8.20 and a 52-week-low of $0.66. At the end of the last trading period, Harpoon Therapeutics closed at $0.89.   
+For Vornado Realty Trust (NYSE:VNO), Citigroup downgraded the previous rating of Neutral to Sell. Vornado Realty earned $0.81 in the third quarter, compared to $0.71 in the year-ago quarter. The stock has a 52-week-high of $47.26 and a 52-week-low of $20.03. At the end of the last trading period, Vornado Realty closed at $23.06.   
+According to Citigroup, the prior rating for Acadia Realty Trust (NYSE:AKR) was changed from Buy to Neutral. Acadia Realty Trust earned $0.28 in the third quarter, compared to $0.27 in the year-ago quarter. At the moment, the stock has a 52-week-high of $22.64 and a 52-week-low of $12.28. Acadia Realty Trust closed at $14.98 at the end of the last trading period.   
+For Latham Group Inc (NASDAQ:SWIM), Barclays downgraded the previous rating of Overweight to Equal-Weight. In the third quarter, Latham Group showed an EPS of $0.10, compared to $0.10 from the year-ago quarter. The stock has a 52-week-high of $27.25 and a 52-week-low of $2.75. At the end of the last trading period, Latham Group closed at $3.16.   
+Morgan Stanley downgraded the previous rating for Martin Marietta Materials Inc (NYSE:MLM) from Overweight to Equal-Weight. For the third quarter, Martin ...Full story available on Benzinga.com",2022-12-14 15:01:40+00:00,https://www.benzinga.com/analyst-ratings/upgrades/22/12/30076891/benzingas-top-ratings-upgrades-downgrades-for-december-14-2022,Benzinga,-0.018944844124700242,0.12110311750599517,neutral,0.018944844124700242,False,True,True,False,False,False,False,False,0.0,12146,"['MNTK', 'SYBT', 'HLT', 'EGP', 'SYNH', 'WAT', 'OLK', 'TECH', 'COUP', 'EQT', 'ZH', 'WST', 'SPSC', 'ARBK', 'THRX', 'COUP', 'ESS', 'HARP', 'ANSS', 'CZR', 'SLDP', 'ADM', 'SMPL', 'HR', 'OSW', 'AVTR', 'AGRO', 'PGY', 'AKR', 'XENE', 'LEA', 'DDOG', 'CLMT', 'GEVO', 'AWI', 'TXG', 'LEN', 'MRNA', 'CLNE', 'DAWN', 'AZO', 'DEA', 'LTC', 'BRBR', 'COGT', 'FTS', 'BBY', 'SEDG', 'MAR', 'RVMD', 'FCEL', 'GNTX', 'PEAK', 'BDN', 'BPMC', 'MGA', 'PLRX', 'GPRE', 'AMTX', 'BG', 'ACRS', 'MLM', 'NCNO', 'OMAB', 'VTNR', 'BR', 'PNT', 'PHM', 'NTST', 'PCAR', 'PTCT', 'CSR', 'BE', 'RPM', 'XPEV', 'ABCM', 'PENN', 'DOC', 'DAR', 'PLYA', 'SKY', 'MRVI', 'PLUG', 'DOC', 'DHR', 'QS', 'SLG', 'TVTX', 'RGEN', 'RNG', 'DLR', 'VICI', 'TMO', 'CERT', 'SWIM', 'MRTX', 'DRI', 'CMPO', 'VNO']",CSR,2022-12-14
+What 4 Analyst Ratings Have To Say About Centerspace,"Within the last quarter, Centerspace (NYSE:CSR) has observed the following analyst ratings: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+1
+3
+0
+0
+
+
+Last 30D
+0
+0
+0
+0
+0
+
+
+1M Ago
+0
+0
+0
+0
+0
+
+
+2M Ago
+0
+0
+3
+0
+0
+
+
+3M Ago
+0
+1
+0
+0
+0
+
+
+
+According to 4 analyst offering 12-month price targets in the last 3 months, Centerspace has an average price target of $74.75 with a high of $85.00 and a low of $69.00. 
+Below is a summary of how these 4 analysts rated Centerspace over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on ...Full story available on Benzinga.com",2022-12-14 17:01:48+00:00,https://www.benzinga.com/analyst-ratings/22/12/30079281/what-4-analyst-ratings-have-to-say-about-centerspace,Benzinga,0.10671328671328671,0.345034965034965,positive,0.10671328671328671,False,False,False,False,False,False,False,False,0.0,694,['CSR'],CSR,2022-12-14
+Where Centerspace Stands With Analysts,"Over the past 3 months, 4 analysts have published their opinion on Centerspace (NYSE:CSR) stock. These analysts are typically employed by large Wall Street banks and tasked with understanding a company's business to predict how a stock will trade over the upcoming year.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+1
+3
+0
+0
+
+
+Last 30D
+0
+0
+0
+0
+0
+
+
+1M Ago
+0
+0
+0
+0
+0
+
+
+2M Ago
+0
+0
+3
+0
+0
+
+
+3M Ago
+0
+1
+0
+0
+0
+
+
+
+In the last 3 months, 4 analysts have offered 12-month price targets for Centerspace. The company has an average price target of $74.75 with a high of $85.00 and a low of $69.00. 
+Below is ...Full story available on Benzinga.com",2022-12-14 21:05:28+00:00,https://www.benzinga.com/analyst-ratings/22/12/30082634/where-centerspace-stands-with-analysts,Benzinga,0.020761904761904766,0.3701904761904762,neutral,0.020761904761904766,False,False,False,False,False,False,False,False,0.0,714,['CSR'],CSR,2022-12-14
+Centerspace (CSR) Q4 FFO and Revenues Beat Estimates,"Centerspace (CSR) delivered FFO and revenue surprises of 0.86% and 0.50%, respectively, for the quarter ended December 2022. Do the numbers hold clues to what lies ahead for the stock?",2023-02-22 00:15:04+00:00,https://www.zacks.com/stock/news/2057185/centerspace-csr-q4-ffo-and-revenues-beat-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,238,"['CSR', 'BRT']",CSR,2023-02-22
+Centerspace (CSR) Q4 FFO and Revenues Beat Estimates,"Centerspace (CSR) delivered FFO and revenue surprises of 0.86% and 0.50%, respectively, for the quarter ended December 2022. Do the numbers hold clues to what lies ahead for the stock?",2023-02-22 00:15:04+00:00,https://www.zacks.com/stock/news/2057185/centerspace-csr-q4-ffo-and-revenues-beat-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,238,"['CSR', 'BRT']",CSR,2023-02-22
+Around $3M Bet On This Communication Services Stock? Check Out These 3 Stocks Insiders Are Buying,"Although US stocks closed higher on Friday, there were a few notable insider trades.
+When insiders purchase shares, it indicates their confidence in the company's prospects or that they view the stock as a bargain. Either way, this signals an opportunity to go long on the stock. Insider purchases should not be taken as the only indicator for making an investment or trading decision. At best, it can lend conviction to a buying decision.
+Below is a look at a few recent notable insider purchases. For more, check out  Benzinga's insider transactions  platform.
+GameStop 
+
+The Trade:  GameStop Corp. (NYSE: GME) Director Lawrence Cheng  acquired a total of 5,000 shares ...",2023-04-03 13:22:42+00:00,https://www.benzinga.com/trading-ideas/long-ideas/23/04/31633482/around-3m-bet-on-this-communication-services-stock-check-out-these-3-stocks-insiders-are,Benzinga,0.18333333333333335,0.4166666666666667,positive,0.18333333333333335,False,True,False,False,False,False,True,False,0.0,773,"['CSR', 'GME', 'FYBR']",CSR,2023-04-03
+Sun Communities (SUI) Q1 FFO and Revenues Top Estimates,"Sun Communities (SUI) delivered FFO and revenue surprises of 5.13% and 14.50%, respectively, for the quarter ended March 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-04-26 23:05:11+00:00,https://www.zacks.com/stock/news/2085537/sun-communities-sui-q1-ffo-and-revenues-top-estimates,Zacks Investment Research,0.25,0.3,positive,0.25,True,False,False,False,False,False,False,False,0.0,243,"['SUI', 'CSR']",CSR,2023-04-26
+The First of Long Island (FLIC) Q1 Earnings and Revenues Miss Estimates,"The First of Long Island (FLIC) delivered earnings and revenue surprises of -32.56% and 21.64%, respectively, for the quarter ended March 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-04-27 22:45:16+00:00,https://www.zacks.com/stock/news/2086578/the-first-of-long-island-flic-q1-earnings-and-revenues-miss-estimates,Zacks Investment Research,0.08,0.31333333333333335,neutral,0.08,True,False,False,False,False,False,False,False,0.0,276,"['FLIC', 'CSR']",CSR,2023-04-27
+Centerspace (CSR) Q1 FFO Meet Estimates,"Centerspace (CSR) delivered FFO and revenue surprises of 0% and 2.49%, respectively, for the quarter ended March 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-05-01 22:25:05+00:00,https://www.zacks.com/stock/news/2087759/centerspace-csr-q1-ffo-meet-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,219,"['CSR', 'UMH']",CSR,2023-05-01
+"Benzinga's Top Ratings Upgrades, Downgrades For May 2, 2023","Upgrades
+According to Colliers Securities, the prior rating for Centerspace (NYSE:CSR) was changed from Neutral to Buy. In the first quarter, Centerspace showed an EPS of $1.07, compared to $0.98 from the year-ago quarter. The stock has a 52-week-high of $96.84 and a 52-week-low of $51.26. At the end of the last trading period, Centerspace closed at $56.87.   
+According to Bernstein, the prior rating for Roper Technologies Inc (NYSE:ROP) was changed from Market Perform to Outperform. Roper Techs earned $3.90 in the first quarter, compared to $3.77 in the year-ago quarter. At the moment, the stock has a 52-week-high of $481.65 and a 52-week-low of $357.25. Roper Techs closed at $458.63 at the end of the last trading period.   
+For Okta Inc (NASDAQ:OKTA), OTR Global upgraded the previous rating of Negative to Mixed. For the fourth quarter, Okta had an EPS of $0.30, compared to year-ago quarter EPS of $0.18. The current stock performance of Okta shows a 52-week-high of $131.00 and a 52-week-low of $44.13. Moreover, at the end of the last trading period, the closing price was at $68.64.   
+For Annaly Capital Management Inc (NYSE:NLY), Piper Sandler upgraded the previous rating of Neutral to Overweight. For the first quarter, Annaly Capital Management had an EPS of $0.81, compared to year-ago quarter EPS of $1.12. At the moment, the stock has a 52-week-high of $27.94 and a 52-week-low of $15.11. Annaly Capital Management closed at $19.32 at the end of the last trading period.   
+According to RBC Capital, the prior rating for VSE Corp (NASDAQ:VSEC) was changed from Sector Perform to Outperform. VSE earned $0.83 in the first quarter, compared to $0.72 in the year-ago quarter. At the moment, the stock has a 52-week-high of $59.15 and a 52-week-low of $32.28. VSE closed at $42.98 at the end of the last trading period.   
+For PENN Entertainment Inc (NASDAQ:PENN), Roth MKM upgraded the previous rating of Neutral to Buy. For the fourth quarter, PENN Entertainment had an EPS of $0.13, compared to year-ago quarter EPS of $0.26. The stock has a 52-week-high of $39.35 and a 52-week-low of $25.49. At the end of the last trading period, PENN Entertainment closed at $30.53.   
+Morgan Stanley upgraded the previous rating for HP Inc (NYSE:HPQ) from Underweight to Equal-Weight. HP earned $0.75 in the first quarter, compared to $1.10 in the year-ago quarter. The stock has a 52-week-high of $40.74 and a 52-week-low of $24.08. At the end of the last trading period, HP closed at $29.96.   
+According to Morgan Stanley, the prior rating for Dell Technologies Inc (NYSE:DELL) was changed from Equal-Weight to Overweight. In the fourth quarter, Dell Technologies showed an EPS of $1.80, compared to $1.72 from the year-ago quarter. The stock has a 52-week-high of $52.56 and a 52-week-low of $32.90. At the end of the last trading period, Dell Technologies closed at $43.82.   
+According to Goldman Sachs, the prior rating for Genuine Parts Co (NYSE:GPC) was changed from Sell to Neutral. In the first quarter, Genuine Parts showed an EPS of $2.14, compared to $1.86 from the year-ago quarter. The current stock performance of Genuine Parts shows a 52-week-high of $187.61 and a 52-week-low of $125.58. Moreover, at the end of the last trading period, the closing price was at $170.92.   
+See all analyst ratings upgrades.
+Downgrades
+Northland Capital Markets downgraded the previous rating for Chegg Inc (NYSE:CHGG) from Outperform to Market Perform. Chegg earned $0.27 in the first quarter, compared to $0.32 in the year-ago quarter. The stock has a 52-week-high of $30.05 and a 52-week-low of $15.25. At the end of the last trading period, Chegg closed at $17.60.   
+Argus Research downgraded the previous rating for PACCAR Inc (NASDAQ:PCAR) from Buy to Hold. In the first quarter, PACCAR showed an EPS of $2.25, compared to $1.15 from the year-ago quarter. At the moment, the stock has a 52-week-high of $76.72 and a 52-week-low of $51.33. PACCAR closed at $74.79 at the end of the last trading period.   
+For E2open Parent Holdings Inc (NYSE:ETWO), Craig-Hallum downgraded the previous rating of Buy to Hold. In the fourth quarter, E2open Parent Holdings showed an EPS of $0.07, compared to $0.08 from the year-ago quarter. The current stock performance of E2open Parent Holdings shows a 52-week-high of $9.18 and a 52-week-low of $4.90. Moreover, at the end of the last trading period, the closing price was at $6.24.   
+Barclays downgraded the previous rating for Capri Holdings Ltd (NYSE:CPRI) from Overweight to Equal-Weight. For the third quarter, Capri Holdings had an EPS of $1.84, compared to year-ago quarter EPS of $2.22. At the moment, the ...Full story available on Benzinga.com",2023-05-02 15:00:40+00:00,https://www.benzinga.com/analyst-ratings/upgrades/23/05/32163412/benzingas-top-ratings-upgrades-downgrades-for-may-2-2023,Benzinga,0.02701149425287356,0.171551724137931,neutral,0.02701149425287356,False,True,True,False,False,False,True,False,0.0,4772,"['ROP', 'GOOS', 'TDC', 'ZS', 'FTNT', 'CPRI', 'ALTI', 'WD', 'ISEE', 'COIN', 'AMRC', 'CRWD', 'DELL', 'SHLS', 'ETWO', 'PCAR', 'EYE', 'SANA', 'PENN', 'CHPT', 'FIGS', 'VSEC', 'PANW', 'VSCO', 'CSR', 'DGX', 'CHGG', 'EAT', 'EVGN', 'GIL', 'CYBR', 'GPC', 'HPQ', 'OKTA', 'NLY', 'SOFI', 'PL', 'UAA']",CSR,2023-05-02
+Analyst Ratings for Centerspace,"Within the last quarter, Centerspace (NYSE:CSR) has observed the following analyst ratings: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+1
+0
+3
+0
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+1
+0
+1
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+0
+0
+1
+0
+0
+
+
+
+According to 4 analyst offering 12-month price targets in the last 3 months, Centerspace has an average price target of $64.5 with a high of $70.00 and a low of $62.00. 
+Below is a summary of how these 4 analysts rated Centerspace over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock and the greater the number ...Full story available on Benzinga.com",2023-05-03 16:01:26+00:00,https://www.benzinga.com/analyst-ratings/23/05/32191805/analyst-ratings-for-centerspace,Benzinga,0.1348051948051948,0.3561038961038961,positive,0.1348051948051948,False,False,False,False,False,False,False,False,0.0,709,['CSR'],CSR,2023-05-03
+"Benzinga's Top Ratings Upgrades, Downgrades For May 26, 2023","Upgrades
+RBC Capital upgraded the previous rating for New Relic Inc (NYSE:NEWR) from Sector Perform to Outperform. For the fourth quarter, New Relic had an EPS of $0.42, compared to year-ago quarter EPS of $0.24. The current stock performance of New Relic shows a 52-week-high of $86.00 and a 52-week-low of $42.41. Moreover, at the end of the last trading period, the closing price was at $78.24.   
+OTR Global upgraded the previous rating for Dollar General Corp (NYSE:DG) from Mixed to Positive. In the fourth quarter, Dollar Gen showed an EPS of $2.96, compared to $2.57 from the year-ago quarter. The current stock performance of Dollar Gen shows a 52-week-high of $261.57 and a 52-week-low of $193.74. Moreover, at the end of the last trading period, the closing price was at $203.61.   
+According to B of A Securities, the prior rating for Pinnacle West Capital Corp (NYSE:PNW) was changed from Underperform to Neutral. In the first quarter, Pinnacle West Capital showed an EPS of $0.03, compared to $0.15 from the year-ago quarter. The stock has a 52-week-high of $81.63 and a 52-week-low of $59.07. At the end of the last trading period, Pinnacle West Capital closed at $76.39.   
+According to Loop Capital, the prior rating for Paramount Global (NASDAQ:PARA) was changed from Sell to Hold. For the first quarter, Paramount Global had an EPS of $0.09, compared to year-ago quarter EPS of $0.60. At the moment, the stock has a 52-week-high of $34.50 and a 52-week-low of $13.80. Paramount Global closed at $14.08 at the end of the last trading period.   
+For Hamilton Lane Inc (NASDAQ:HLNE), Oppenheimer upgraded the previous rating of Perform to Outperform. In the fourth quarter, Hamilton Lane showed an EPS of $0.96, compared to $0.89 from the year-ago quarter. At the moment, the stock has a 52-week-high of $81.23 and a 52-week-low of $56.08. Hamilton Lane closed at $65.87 at the end of the last trading period.   
+For Guardant Health Inc (NASDAQ:GH), Citigroup upgraded the previous rating of Neutral to Buy. Guardant Health earned $1.06 in the first quarter, compared to $0.91 in the year-ago quarter. The current stock performance of Guardant Health shows a 52-week-high of $62.55 and a 52-week-low of $20.67. Moreover, at the end of the last trading period, the closing price was at $27.87.   
+Stifel upgraded the previous rating for eFFECTOR Therapeutics Inc (NASDAQ:EFTR) from Hold to Buy. eFFECTOR Therapeutics earned $0.24 in the first quarter, compared to $0.07 in the year-ago quarter. The stock has a 52-week-high of $2.97 and a 52-week-low of $0.34. At the end of the last trading period, eFFECTOR Therapeutics closed at $0.53.   
+For Centerspace (NYSE:CSR), Raymond James upgraded the previous rating of Underperform to Market Perform. Centerspace earned $1.07 in the first quarter, compared to $0.98 in the year-ago quarter. At the moment, the stock has a 52-week-high of $89.73 and a 52-week-low of $51.26. Centerspace closed at $57.80 at the end of the last trading period.   
+According to ...Full story available on Benzinga.com",2023-05-26 15:00:37+00:00,https://www.benzinga.com/analyst-ratings/upgrades/23/05/32596592/benzingas-top-ratings-upgrades-downgrades-for-may-26-2023,Benzinga,0.030371900826446283,0.19225206611570245,neutral,0.030371900826446283,False,True,True,False,False,False,False,False,0.0,3121,"['GH', 'NEWR', 'HLNE', 'APEI', 'MDB', 'HIBB', 'MSGE', 'STRA', 'ANNX', 'CSR', 'UWMC', 'CVS', 'EFTR', 'EQR', 'LLAP', 'PNW', 'OPAL', 'UNH', 'DG', 'PARA', 'DOC', 'DOC', 'RNG', 'SNOW']",CSR,2023-05-26
+Here's Why Equity Residential (EQR) is an Apt Portfolio Pick,"Equity Residential (EQR) is poised to benefit from the healthy demand for its properties, technology initiatives and a solid balance sheet. However, elevated supply and high interest rates are concerns.",2023-07-14 15:55:00+00:00,https://www.zacks.com/stock/news/2121473/heres-why-equity-residential-eqr-is-an-apt-portfolio-pick,Zacks Investment Research,0.315,0.535,positive,0.315,False,False,False,False,False,False,False,False,0.0,264,"['AVB', 'EQR', 'CSR']",CSR,2023-07-14
+American Homes 4 Rent (AMH) Surpasses Q2 FFO and Revenue Estimates,"American Homes 4 Rent (AMH) delivered FFO and revenue surprises of 2.50% and 2.58%, respectively, for the quarter ended June 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-07-27 22:05:14+00:00,https://www.zacks.com/stock/news/2129085/american-homes-4-rent-amh-surpasses-q2-ffo-and-revenue-estimates,Zacks Investment Research,0.0,0.03333333333333333,neutral,0.0,True,False,False,False,False,False,False,False,0.0,258,"['AMH', 'CSR']",CSR,2023-07-27
+Centerspace (CSR) Q2 FFO Beat Estimates,"Centerspace (CSR) delivered FFO and revenue surprises of 20.75% and 0.50%, respectively, for the quarter ended June 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-07-31 22:35:09+00:00,https://www.zacks.com/stock/news/2130128/centerspace-csr-q2-ffo-beat-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,222,"['CSR', 'BRT']",CSR,2023-07-31
+Best Income Stocks to Buy for August 25th,"NTB, CSR and AKZOY made it to the Zacks Rank #1 (Strong Buy) income stocks list on August 25, 2023.",2023-08-25 09:50:00+00:00,https://www.zacks.com/commentary/2140608/best-income-stocks-to-buy-for-august-25th,Zacks Investment Research,0.2111111111111111,0.6444444444444444,positive,0.2111111111111111,False,True,False,False,False,False,False,False,0.0,142,"['NTB', 'CSR']",CSR,2023-08-25
+Bet On These 3 Residential REITs as the Industry Looks Radiant,"The Zacks Equity REIT - Residential industry constituents are poised to benefit from the healthy demand amid the high cost of homeownership and a focus on technology, aiding Invitation Homes Inc. (INVH), American Homes 4 Rent (AMH) and Centerspace (CSR).",2023-08-30 14:29:00+00:00,https://www.zacks.com/commentary/2142310/bet-on-these-3-residential-reits-as-the-industry-looks-radiant,Zacks Investment Research,0.22,0.3466666666666667,positive,0.22,False,False,False,False,False,False,False,False,0.0,318,"['INVH', 'AMH', 'CSR']",CSR,2023-08-30
+"Zacks Industry Outlook Highlights Invitation Homes, American Homes 4 Rent and Centerspace","Invitation Homes, American Homes 4 Rent and Centerspace are part of the Zacks Industry Outlook article.",2023-08-31 12:40:00+00:00,https://www.zacks.com/stock/news/2142945/zacks-industry-outlook-highlights-invitation-homes-american-homes-4-rent-and-centerspace,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,194,"['AMH', 'INVH', 'CSR']",CSR,2023-08-31
+"After a Sour August, Expect a Weak September: 5 Safe Picks","Amid a dreary September, investors must buy stocks such as Centerspace (CSR), Magellan Midstream Partners (MMP), Invitation Home (INVH), Trinity Capital (TRIN) and Runway Growth Finance (RWAY) for a steady income.",2023-09-01 11:56:00+00:00,https://www.zacks.com/stock/news/2143478/after-a-sour-august-expect-a-weak-september-5-safe-picks,Zacks Investment Research,0.02833333333333333,0.445,neutral,0.02833333333333333,False,True,False,False,False,False,False,False,0.0,273,"['MMP', 'NVDA', 'INVH', 'CSR', 'TRIN', 'RWAY']",CSR,2023-09-01
+Are Finance Stocks Lagging  Banco Do Brasil (BDORY) This Year?,Here is how Banco Do Brasil SA (BDORY) and Centerspace (CSR) have performed compared to their sector so far this year.,2023-09-01 13:40:09+00:00,https://www.zacks.com/stock/news/2143581/are-finance-stocks-lagging-banco-do-brasil-bdory-this-year,Zacks Investment Research,0.1,1.0,neutral,0.1,False,False,True,False,False,False,False,False,0.0,182,['CSR'],CSR,2023-09-01
+"The Zacks Analyst Blog Highlights NVIDIA, Centerspace, Magellan Midstream Partners, Invitation Home, Trinity Capital and Runway Growth Finance","NVIDIA, Centerspace, Magellan Midstream Partners, Invitation Home, Trinity Capital and Runway Growth Finance are part of the Zacks top Analyst Blog.",2023-09-05 12:07:00+00:00,https://www.zacks.com/stock/news/2144753/the-zacks-analyst-blog-highlights-nvidia-centerspace-magellan-midstream-partners-invitation-home-trinity-capital-and-runway-growth-finance,Zacks Investment Research,0.5,0.5,positive,0.5,False,False,False,False,False,False,False,False,0.0,292,"['MMP', 'NVDA', 'INVH', 'CSR', 'TRIN', 'RWAY']",CSR,2023-09-05
+3 Top Inflation-Beating REITs You'll Regret Not Buying Soon,"Amid inflationary pressure, one should consider investing in REITs such as Invitation Home (INVH), American Homes 4 Rent (AMH) and Centerspace (CSR).",2023-09-14 12:28:00+00:00,https://www.zacks.com/stock/news/2148833/3-top-inflation-beating-reits-youll-regret-not-buying-soon,Zacks Investment Research,0.16666666666666666,0.3333333333333333,positive,0.16666666666666666,False,True,False,False,False,False,False,False,0.0,210,"['AMH', 'INVH', 'CSR']",CSR,2023-09-14
+"The Zacks Analyst Blog Highlights Invitation Home, American Homes 4 Rent and Centerspace","Invitation Home, American Homes 4 Rent and Centerspace are included in this Analyst Blog.",2023-09-15 09:06:00+00:00,https://www.zacks.com/stock/news/2149275/the-zacks-analyst-blog-highlights-invitation-home-american-homes-4-rent-and-centerspace,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,179,"['AMH', 'INVH', 'CSR']",CSR,2023-09-15
+5 Reasons That Make AvalonBay (AVB) Stock a Solid Portfolio Pick,AvalonBay (AVB) is poised to benefit from high-quality assets in premium markets and portfolio diversification. It has a healthy balance sheet and is leveraging technology and scale to drive margins.,2023-09-19 15:14:00+00:00,https://www.zacks.com/stock/news/2152602/5-reasons-that-make-avalonbay-avb-stock-a-solid-portfolio-pick,Zacks Investment Research,0.25,0.3,positive,0.25,False,False,False,False,False,False,False,False,0.0,265,"['AVB', 'AMH', 'CSR']",CSR,2023-09-19
+Is Mid-America Apartment (MAA) an Apt Portfolio Pick Right Now?,"Mid-America Apartment (MAA) to gain from a well-diversified Sun Belt-focused portfolio, and redevelopment and technology initiatives despite high interest rates.",2023-09-20 15:02:00+00:00,https://www.zacks.com/stock/news/2153166/is-mid-america-apartment-maa-an-apt-portfolio-pick-right-now,Zacks Investment Research,0.34857142857142853,0.6919047619047619,positive,0.34857142857142853,False,False,False,False,False,False,False,False,0.0,226,"['AVB', 'MAA', 'AMH', 'CSR']",CSR,2023-09-20
+Centerspace (CSR) Q3 FFO Top Estimates,"Centerspace (CSR) delivered FFO and revenue surprises of 6.19% and 1.20%, respectively, for the quarter ended September 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-10-30 23:05:08+00:00,https://www.zacks.com/stock/news/2174932/centerspace-csr-q3-ffo-top-estimates,Zacks Investment Research,0.25,0.3,positive,0.25,True,False,False,False,False,False,False,False,0.0,225,"['CSR', 'BNL']",CSR,2023-10-30
+Analyst Ratings for Centerspace,"Centerspace (NYSE:CSR) has observed the following analyst ratings within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+2
+0
+2
+0
+0
+
+
+Last 30D
+1
+0
+0
+0
+0
+
+
+1M Ago
+0
+0
+2
+0
+0
+
+
+2M Ago
+1
+0
+0
+0
+0
+
+
+3M Ago
+0
+0
+0
+0
+0
+
+
+
+These 4 analysts have an average price target of $64.0 versus the current price of Centerspace at $50.83, implying  upside.
+Below is a summary of how these 4 analysts rated Centerspace over the past 3 months. The greater the number of ...Full story available on Benzinga.com",2023-11-06 18:00:11+00:00,https://www.benzinga.com/analyst-ratings/23/11/35626244/analyst-ratings-for-centerspace,Benzinga,0.05555555555555555,0.3259259259259259,neutral,0.05555555555555555,False,False,False,False,False,False,False,False,0.0,574,['CSR'],CSR,2023-11-06
+CSR or AMH: Which Is the Better Value Stock Right Now?,CSR vs. AMH: Which Stock Is the Better Value Option?,2023-11-08 16:40:07+00:00,https://www.zacks.com/stock/news/2181012/csr-or-amh-which-is-the-better-value-stock-right-now,Zacks Investment Research,0.42857142857142855,0.5119047619047619,positive,0.42857142857142855,False,False,False,False,False,False,False,False,0.0,108,"['CSR', 'AMH']",CSR,2023-11-08
+CSR or AMH: Which Is the Better Value Stock Right Now?,CSR vs. AMH: Which Stock Is the Better Value Option?,2023-11-24 16:40:06+00:00,https://www.zacks.com/stock/news/2189206/csr-or-amh-which-is-the-better-value-stock-right-now,Zacks Investment Research,0.42857142857142855,0.5119047619047619,positive,0.42857142857142855,False,False,False,False,False,False,False,False,0.0,108,"['CSR', 'AMH']",CSR,2023-11-24
+5 Valuable Low Price-to-Sales Stocks With Potential to Grow,"The price-to-sales ratio is a convenient tool to gauge the value of stocks incurring losses or in an early development cycle. Stocks like BTU, TXT, PBF, TITN and CSR hold promise.",2023-11-27 13:08:00+00:00,https://www.zacks.com/stock/news/2189554/5-valuable-low-price-to-sales-stocks-with-potential-to-grow,Zacks Investment Research,0.03333333333333333,0.5333333333333333,neutral,0.03333333333333333,True,False,False,False,False,False,False,False,0.0,240,"['TXT', 'BTU', 'TITN', 'PBF', 'CSR']",CSR,2023-11-27
+"Zacks.com featured highlights Peabody Energy, Textron, PBF Energy, Titan Machinery and Centerspace","Peabody Energy, Textron, PBF Energy, Titan Machinery and Centerspace have been highlighted in this Screen of The Week article.",2023-11-28 08:26:00+00:00,https://www.zacks.com/stock/news/2190042/zackscom-featured-highlights-peabody-energy-textron-pbf-energy-titan-machinery-and-centerspace,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,226,"['BTU', 'TITN', 'PBF', 'CSR']",CSR,2023-11-28
+Is it Wise to Retain Equity Residential (EQR) Stock for Now?,"Healthy demand for residential properties and technological initiatives bode well for Equity Residential (EQR). However, the elevated supply of rental units and high interest rates are key woes.",2023-11-29 15:09:00+00:00,https://www.zacks.com/stock/news/2190936/is-it-wise-to-retain-equity-residential-eqr-stock-for-now,Zacks Investment Research,0.33999999999999997,0.735,positive,0.33999999999999997,False,False,False,False,False,False,False,False,0.0,256,"['EQR', 'AMH', 'INVH', 'CSR']",CSR,2023-11-29
+Should Investors Hold on to Essex Property (ESS) Stock Now?,"Essex Property (ESS) is poised to gain from the healthy demand for residential properties and technological initiatives. Yet, the elevated supply of rental units and high interest rates are key woes.",2023-12-05 15:10:00+00:00,https://www.zacks.com/stock/news/2193653/should-investors-hold-on-to-essex-property-ess-stock-now,Zacks Investment Research,0.22,0.68,positive,0.22,False,False,False,False,False,False,False,False,0.0,260,"['ESS', 'AMH', 'INVH', 'CSR']",CSR,2023-12-05
+4 Low Price-to-Sales Stocks to Win in the Current Market,"The price-to-sales ratio is a convenient tool to gauge the value of stocks incurring losses or in an early development cycle. Stocks like JAKK, BKH, BBSI and CSR hold promise.",2023-12-11 11:54:00+00:00,https://www.zacks.com/stock/news/2195961/4-low-price-to-sales-stocks-to-win-in-the-current-market,Zacks Investment Research,0.225,0.35000000000000003,positive,0.225,True,False,False,False,False,False,False,False,0.0,233,"['JAKK', 'BKH', 'BBSI', 'CSR']",CSR,2023-12-11
+CSR vs. AMH: Which Stock Is the Better Value Option?,CSR vs. AMH: Which Stock Is the Better Value Option?,2023-12-11 16:40:12+00:00,https://www.zacks.com/stock/news/2196291/csr-vs-amh-which-stock-is-the-better-value-option,Zacks Investment Research,0.5,0.5,positive,0.5,False,False,False,False,False,False,False,False,0.0,106,"['CSR', 'AMH']",CSR,2023-12-11
+5 Value Stocks With Impressive EV-to-EBITDA Ratios to Snap Up,"We have screened value stocks JAKK, JKS, CNC, ADT and CSR based on the EV-to-EBITDA ratio, which offers a clearer picture of valuation and earnings potential.",2023-12-12 10:52:00+00:00,https://www.zacks.com/stock/news/2196525/5-value-stocks-with-impressive-ev-to-ebitda-ratios-to-snap-up,Zacks Investment Research,0.3666666666666667,0.6666666666666666,positive,0.3666666666666667,True,False,False,False,False,False,False,False,0.0,221,"['JKS', 'JAKK', 'CNC', 'ADT', 'CSR']",CSR,2023-12-12
+Should You Hold Mid-America Apartment (MAA) in Your Portfolio?,Mid-America Apartment (MAA) is set to gain from a well-diversified portfolio and redevelopment and technology initiatives despite high supply and elevated interest rates.,2023-12-12 14:30:00+00:00,https://www.zacks.com/stock/news/2196751/should-you-hold-mid-america-apartment-maa-in-your-portfolio,Zacks Investment Research,0.16,0.5399999999999999,positive,0.16,False,False,False,False,False,False,False,False,0.0,234,"['MAA', 'UMH', 'CSR']",CSR,2023-12-12
+"Zacks.com featured highlights include JAKKS Pacific, JinkoSolar Holding, Centene, ADT and Centerspace","JAKKS Pacific, JinkoSolar Holding, Centene, ADT and Centerspace are part of the Zacks Screen of the Week article.",2023-12-13 13:32:00+00:00,https://www.zacks.com/stock/news/2197225/zackscom-featured-highlights-include-jakks-pacific-jinkosolar-holding-centene-adt-and-centerspace,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,216,"['JKS', 'JAKK', 'CNC', 'ADT', 'CSR']",CSR,2023-12-13
+A Closer Look at 4 Analyst Recommendations For Centerspace,"Centerspace (NYSE:CSR) has been analyzed by 4 analysts in the last three months, revealing a diverse range of perspectives from bullish to bearish.
+The table below summarizes their recent ratings, showcasing the evolving sentiments within the past 30 days and comparing them to the preceding months.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+1
+1
+2
+0
+0
+
+
+Last 30D
+0
+1
+0
+0
+0
+
+
+1M Ago
+0
+0
+0
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+1
+0
+2
+0
+0
+
+
+
+In the assessment of 12-month price targets, analysts unveil insights for Centerspace, presenting an average target of $60.75, a high estimate of $65.00, and a low estimate of $57.00. This current average has decreased by 0.41% from the previous average price target of $61.00. 
+
+Understanding Analyst Ratings: A Comprehensive Breakdown
+In examining recent analyst actions, we gain insights into how financial experts perceive Centerspace. The following summary outlines key analysts, their recent evaluations, and adjustments to ratings and price targets.
+
+
+
+Analyst
+Analyst Firm
+Action Taken
+Rating
+Current Price Target
+Prior Price Target
+
+
+
+
+Brad Heffern
+RBC Capital
+Raises
+Outperform
+$63.00
+$58.00
+
+
+Alexander Goldfarb
+Piper Sandler
+Lowers
+Neutral
+$57.00
+$65.00
+
+
+Merrill Ross
+Compass Point
+Announces
+Buy
+$65.00
+-
+
+
+Brad Heffern
+RBC Capital
+Lowers
+Sector Perform
+$58.00
+$60.00
+
+
+
+Key Insights:
+
+Action Taken: Analysts frequently update their recommendations based on evolving market conditions and company performance. Whether they 'Maintain', 'Raise' or 'Lower' their stance, it reflects their reaction to recent developments related to Centerspace. This ...Full story available on Benzinga.com",2024-01-16 13:00:28+00:00,https://www.benzinga.com/analyst-ratings/24/01/36638462/a-closer-look-at-4-analyst-recommendations-for-centerspace,Benzinga,-0.021666666666666657,0.34428571428571436,neutral,0.021666666666666657,False,True,True,False,False,False,False,False,0.0,1734,['CSR'],CSR,2024-01-16
+Centerspace (CSR) Q4 FFO Top Estimates,"Centerspace (CSR) delivered FFO and revenue surprises of 9.91% and 1.05%, respectively, for the quarter ended December 2023. Do the numbers hold clues to what lies ahead for the stock?",2024-02-20 23:30:03+00:00,https://www.zacks.com/stock/news/2228921/centerspace-csr-q4-ffo-top-estimates,Zacks Investment Research,0.25,0.3,positive,0.25,True,False,False,False,False,False,False,False,0.0,224,"['CSR', 'MDV']",CSR,2024-02-20
+CSR or ESS: Which Is the Better Value Stock Right Now?,CSR vs. ESS: Which Stock Is the Better Value Option?,2024-03-12 15:40:10+00:00,https://www.zacks.com/stock/news/2239397/csr-or-ess-which-is-the-better-value-stock-right-now,Zacks Investment Research,0.42857142857142855,0.5119047619047619,positive,0.42857142857142855,False,False,False,False,False,False,False,False,0.0,108,"['CSR', 'ESS']",CSR,2024-03-12
+All You Need to Know About Centerspace (CSR) Rating Upgrade to Buy,"Centerspace (CSR) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",2024-03-12 16:00:09+00:00,https://www.zacks.com/stock/news/2239428/all-you-need-to-know-about-centerspace-csr-rating-upgrade-to-buy,Zacks Investment Research,-0.275,0.7,negative,0.275,True,True,False,False,False,False,False,False,0.0,213,['CSR'],CSR,2024-03-12
+Cracking The Code: Understanding Analyst Reviews For Center,"Throughout the last three months, 4 analysts have evaluated Center (NYSE:CSR), offering a diverse set of opinions from bullish to bearish.
+The following table provides a quick overview of their recent ratings, highlighting the changing sentiments over the past 30 days and comparing them to the preceding months.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+2
+2
+0
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+0
+1
+1
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+0
+1
+0
+0
+0
+
+
+
+Analysts' evaluations of 12-month price targets offer additional insights, showcasing an average target of $62.0, with a high estimate of $63.00 and a low estimate of $59.00. This upward trend is apparent, with the current average reflecting a 4.5% increase from the previous average price target of $59.33.
+
+Breaking Down Analyst Ratings: A Detailed Examination
+An in-depth analysis of recent analyst actions unveils how financial experts perceive Center. The following summary outlines key analysts, their recent evaluations, and adjustments to ratings and price targets.
+
+
+
+Analyst
+Analyst Firm
+Action Taken
+Rating
+Current Price Target
+Prior Price Target
+
+
+
+
+Alexander Goldfarb
+Piper Sandler
+Maintains
+Neutral
+$63.00
+$63.00
+
+
+Brad Heffern
+RBC Capital
+Maintains
+Outperform
+$63.00
+-
+
+
+Wesley Golladay
+Baird
+Raises
+Neutral
+$59.00
+$57.00
+
+
+Brad Heffern
+RBC Capital
+Raises
+Outperform
+$63.00
+$58.00
+
+
+
+Key Insights:
+
+Action Taken: Responding to changing market dynamics and company performance, analysts update their recommendations. Whether they 'Maintain', 'Raise', or 'Lower' their stance, it signifies their response to recent ...Full story available on Benzinga.com",2024-03-26 13:00:37+00:00,https://www.benzinga.com/insights/analyst-ratings/24/03/37933273/cracking-the-code-understanding-analyst-reviews-for-center,Benzinga,0.0006397306397306355,0.3190572390572391,neutral,0.0006397306397306355,False,False,False,False,False,False,False,False,0.2,1716,['CSR'],CSR,2024-03-26
+Essex Property (ESS) Buys JV Partner's Stake in BEXAEW Portfolio,"Essex Property (ESS) acquires its joint venture partner's 49.9% stake in the BEXAEW portfolio, which comprises four properties and generated an 11.4% IRR.",2024-03-26 15:00:00+00:00,https://www.zacks.com/stock/news/2246135/essex-property-ess-buys-jv-partners-stake-in-bexaew-portfolio,Zacks Investment Research,0.0,0.0,neutral,0.0,False,True,False,True,False,False,False,False,0.0,220,"['ESS', 'UMH', 'CSR']",CSR,2024-03-26
+CSR vs. AMH: Which Stock Should Value Investors Buy Now?,CSR vs. AMH: Which Stock Is the Better Value Option?,2024-03-28 15:40:04+00:00,https://www.zacks.com/stock/news/2247546/csr-vs-amh-which-stock-should-value-investors-buy-now,Zacks Investment Research,0.5,0.5,positive,0.5,False,True,False,False,False,False,False,False,0.0,110,"['CSR', 'AMH']",CSR,2024-03-28
+3 Residential REITs to Consider Despite Industry Challenges,"Despite the elevated supply of new units, high homeownership costs and tech-enabled features are likely to draw healthy rental demand, poising the Zacks Equity REIT - Residential industry players like INVH, UMH and CSR well for growth.",2024-04-04 14:22:00+00:00,https://www.zacks.com/commentary/2250330/3-residential-reits-to-consider-despite-industry-challenges,Zacks Investment Research,0.1990909090909091,0.6236363636363635,positive,0.1990909090909091,False,False,False,False,False,False,False,False,0.0,296,"['INVH', 'UMH', 'CSR']",CSR,2024-04-04
+"Zacks Industry Outlook Highlights Invitation Homes, UMH Properties and Centerspace","Invitation Homes, UMH Properties and Centerspace have been highlighted in this Industry Outlook article.",2024-04-05 09:01:00+00:00,https://www.zacks.com/stock/news/2250845/zacks-industry-outlook-highlights-invitation-homes-umh-properties-and-centerspace,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,188,"['UMH', 'INVH', 'CSR']",CSR,2024-04-05
+Here We Go Again,"US equity markets declined for a second-straight week, while benchmark interest rates surged to the highest levels of the year. Read more here.",2024-04-14 13:00:00+00:00,https://seekingalpha.com/article/4683649-here-we-go-again,Seeking Alpha,0.5,0.5,positive,0.5,False,False,True,False,False,False,False,False,0.0,161,"['AIRC', 'BX', 'AIV', 'IRT', 'CSR', 'BRT', 'TCN', 'MPW', 'AHT', 'BHR', 'SHO', 'H', 'INVH', 'AMH', 'CCI', 'AMT', 'SKT', 'ADC', 'RMR', 'OPI', 'ILPT', 'DHC', 'SVC', 'O', 'GOOD', 'STAG', 'REM', 'AOMR', 'ORC', 'SACH', 'EARN', 'EFC', 'AGNC', 'SEVN', 'VNQ', 'RQI', 'RNP', 'IYR', 'XLRE', 'RFI', 'KBWY', 'SCHH', 'NRO', 'FREL', 'SRVR', 'JRS', 'DRN', 'USRT', 'ICF', 'RWR', 'DRV', 'URE', 'SRS', 'FRI', 'REK', 'PSR', 'BBRE', 'PPTY', 'VRAI', 'REIT']",CSR,2024-04-14
+CSR vs. ESS: Which Stock Is the Better Value Option?,CSR vs. ESS: Which Stock Is the Better Value Option?,2024-04-15 15:40:11+00:00,https://www.zacks.com/stock/news/2255478/csr-vs-ess-which-stock-is-the-better-value-option,Zacks Investment Research,0.5,0.5,positive,0.5,False,False,False,False,False,False,False,False,0.0,106,"['CSR', 'ESS']",CSR,2024-04-15
+Sticky Inflation a Boon for These Top 3 REITs,"Amid inflationary pressure, one should consider investing in REITs such as Centerspace (CSR), Ellington Residential Mortgage REIT (EARN) and Iron Mountain (IRM).",2024-04-17 12:05:00+00:00,https://www.zacks.com/stock/news/2256682/sticky-inflation-a-boon-for-these-top-3-reits,Zacks Investment Research,0.25,0.5,positive,0.25,False,False,False,False,False,False,False,False,0.0,208,"['IRM', 'EARN', 'CSR']",CSR,2024-04-17
+The Geo Group and Academy Sports and Outdoors have been highlighted as Zacks Bull and Bear of the Day,The Geo Group and Academy Sports and Outdoors have been highlighted as Zacks Bull and Bear of the Day.,2024-04-18 12:19:00+00:00,https://www.zacks.com/stock/news/2257412/the-geo-group-and-academy-sports-and-outdoors-have-been-highlighted-as-zacks-bull-and-bear-of-the-day,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,205,"['IRM', 'GEO', 'EARN', 'ASO', 'CSR']",CSR,2024-04-18
+Centerspace (CSR) Beats Q1 FFO Estimates,"Centerspace (CSR) delivered FFO and revenue surprises of 9.82% and 1.22%, respectively, for the quarter ended March 2024. Do the numbers hold clues to what lies ahead for the stock?",2024-04-29 21:45:03+00:00,https://www.zacks.com/stock/news/2264508/centerspace-csr-beats-q1-ffo-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,223,"['CSR', 'ELME']",CSR,2024-04-29
+Billionaire Investors Say 'Buy REITs',"Blackstone, led by self-made billionaires, is on a remarkable REIT buying spree as valuations hit a decade-low. Click for my top REIT picks.",2024-05-04 11:30:00+00:00,https://seekingalpha.com/article/4688183-billionaire-investors-say-buy-reits,Seeking Alpha,0.625,0.625,positive,0.625,False,True,False,False,False,False,False,False,0.0,179,"['AIRC', 'AMH', 'BSRTF', 'BX', 'CPT', 'CSR', 'DLR', 'INVH', 'IRM', 'IRT', 'MAA', 'WELL']",CSR,2024-05-04
+Are Finance Stocks Lagging  Brown & Brown (BRO) This Year?,Here is how Brown & Brown (BRO) and Centerspace (CSR) have performed compared to their sector so far this year.,2024-05-17 13:40:12+00:00,https://www.zacks.com/stock/news/2275366/are-finance-stocks-lagging-brown-brown-bro-this-year,Zacks Investment Research,0.1,1.0,neutral,0.1,False,False,True,False,False,False,False,False,0.0,171,"['BRO', 'CSR']",CSR,2024-05-17
+3 Residential Stocks to Buy as the Housing Sector Recovers,"M/I Homes (MHO), KB Home (KBH) and Centerspace (CSR) are three residential stocks that you can look into as the housing sector stays on a recovery path.",2024-05-27 12:02:00+00:00,https://www.zacks.com/stock/news/2279339/3-residential-stocks-to-buy-as-the-housing-sector-recovers,Zacks Investment Research,0.0,0.0,neutral,0.0,False,True,True,False,False,False,False,False,0.0,212,"['KBH', 'MHO', 'CSR']",CSR,2024-05-27
+AvalonBay (AVB) Rises 13.4% in 3 Months: Will the Trend Last?,"Healthy demand for residential properties and efforts to leverage technology and scale are likely to drive AvalonBay's (AVB) performance. However, the elevated supply of rental units is a concern.",2024-07-02 16:17:00+00:00,https://www.zacks.com/stock/news/2296312/avalonbay-avb-rises-134-in-3-months-will-the-trend-last,Zacks Investment Research,0.16666666666666666,0.5222222222222223,positive,0.16666666666666666,False,False,False,False,False,False,False,False,0.0,259,"['AVB', 'ESS', 'CSR']",CSR,2024-07-02
+CENTERSPACE ANNOUNCES QUARTERLY DIVIDEND,"Centerspace, a real estate investment trust, announced a regular quarterly dividend of $0.75 per share/unit, payable on January 13, 2025, to common shareholders and unitholders of record at the close of business on December 30, 2024.",2024-12-02 21:30:00+00:00,https://www.benzinga.com/pressreleases/24/12/n42277576/centerspace-announces-quarterly-dividend,Benzinga,-0.033333333333333326,0.2923076923076923,neutral,0.033333333333333326,False,False,False,False,False,True,False,False,0.0,275,"['CSR', 'IRET']",CSR,2024-12-02

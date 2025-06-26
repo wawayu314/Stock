@@ -1,0 +1,9 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2024-07-13,-0.05,,1,0.05,0.0,0,0,0,0,0,0,0,0,318.0,BCpA
+2024-07-17,0.0,,1,0.0,0.2,0,0,0,0,0,0,0,0,411.0,BCpA
+2024-09-13,0.0,,1,0.0,0.0,0,1,0,0,0,0,0,0,471.0,BCpA
+2024-09-16,0.0,,1,0.0,0.0,0,1,0,0,0,0,0,0,353.0,BCpA
+2024-09-23,0.2354,,1,0.2354,0.0,0,0,0,0,1,0,0,0,381.0,BCpA
+2024-10-03,0.0,,1,0.0,0.0,1,0,0,0,0,0,0,0,254.0,BCpA
+2024-10-15,0.0,,1,0.0,0.0,0,0,0,0,0,1,0,0,202.0,BCpA
+2024-10-29,0.0979,,1,0.0979,0.0,0,0,0,0,0,0,0,0,483.0,BCpA

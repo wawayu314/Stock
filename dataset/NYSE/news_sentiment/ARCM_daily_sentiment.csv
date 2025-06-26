@@ -1,0 +1,6 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2022-08-26,0.0,,1,0.0,0.0,0,1,0,0,0,0,0,0,120.0,ARCM
+2023-01-03,0.1177,,1,0.1177,0.0,0,0,0,0,0,0,0,0,118.0,ARCM
+2023-08-03,0.15,,1,0.15,0.0,0,0,0,0,0,0,0,0,193.0,ARCM
+2023-12-28,0.2181,,1,0.2181,0.0,0,0,0,0,0,0,0,0,280.0,ARCM
+2024-08-30,0.225,,1,0.225,0.0,1,0,0,0,0,0,1,0,376.0,ARCM

@@ -1,0 +1,9 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2024-01-05,0.0,,1,0.0,0.0,0,0,0,0,0,0,1,0,392.0,CRVO
+2024-02-12,0.0777,,1,0.0777,0.0,0,0,0,0,0,0,0,0,430.0,CRVO
+2024-03-05,0.2083,,1,0.2083,0.0,0,0,0,0,0,0,0,0,305.0,CRVO
+2024-03-28,0.1645,,1,0.1645,0.0,0,0,0,0,0,0,1,0,231.0,CRVO
+2024-04-01,0.0867,,1,0.0867,0.0,0,0,0,0,0,0,1,0,380.0,CRVO
+2024-04-08,0.1815,,1,0.1815,0.0,0,1,1,0,0,0,0,0,1128.0,CRVO
+2024-06-11,-0.1,,1,0.1,0.0,0,0,0,0,0,0,0,0,201.0,CRVO
+2024-10-02,0.0,,1,0.0,0.0,0,0,0,0,0,0,1,0,328.0,CRVO

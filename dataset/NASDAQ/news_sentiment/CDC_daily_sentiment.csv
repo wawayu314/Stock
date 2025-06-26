@@ -1,0 +1,5 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2021-05-25,0.0758,,1,0.0758,0.0,0,0,0,0,0,0,0,0,159.0,CDC
+2021-09-20,0.1833,,1,0.1833,0.0,0,0,0,0,0,0,0,0,262.0,CDC
+2021-12-01,0.1486,,1,0.1486,0.0,0,1,0,0,0,0,0,0,284.0,CDC
+2022-12-18,-0.125,,1,0.125,0.0,0,0,0,0,0,0,0,0,154.0,CDC

@@ -1,0 +1,8 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2024-07-23,0.0,,1,0.0,0.0,0,0,1,0,0,0,0,0,285.0,ARRpC
+2024-08-29,-0.3,,1,0.3,0.0,0,0,0,0,0,1,0,0,274.0,ARRpC
+2024-09-24,-0.1625,,1,0.1625,0.0,0,0,0,0,0,1,0,0,376.0,ARRpC
+2024-10-01,0.0125,,1,0.0125,0.0,0,0,0,0,0,1,0,0,323.0,ARRpC
+2024-11-27,-0.3,,1,0.3,0.0,0,0,0,0,0,1,0,0,216.0,ARRpC
+2024-12-06,0.08,,1,0.08,0.0,0,0,0,0,0,1,0,0,247.0,ARRpC
+2024-12-26,-0.2833,,1,0.2833,0.0,0,0,0,0,0,1,0,0,327.0,ARRpC

@@ -1,0 +1,1760 @@
+title,description,published_utc,article_url,publisher,sentiment_polarity,sentiment_subjectivity,sentiment_label,sentiment_confidence,keywords_earnings,keywords_acquisition,keywords_regulation,keywords_partnership,keywords_product,keywords_financial,keywords_leadership,keywords_lawsuit,urgency_score,text_length,tickers,ticker,date
+"Earnings Scheduled For May 3, 2021","Companies Reporting Before The Bell
+• Scienjoy Holding (NASDAQ:SJ) is estimated to report quarterly earnings at $0.58 per share on revenue of $540.11 million.
+• DZS (NASDAQ:DZSI) is estimated to report quarterly loss at $0.22 per share on revenue of $71.90 million.
+• Enel Americas (NYSE:ENIA) is projected to report quarterly earnings at $0.18 per share on revenue of $2.99 billion.
+• loanDepot (NYSE:LDI) is likely to report quarterly earnings at $0.58 per share on revenue of $1.02 billion.
+• ON Semiconductor (NASDAQ:ON) is expected to report quarterly earnings at $0.33 per share on revenue of $1.46 billion.
+• Enterprise Prods Partners (NYSE:EPD) is likely to report quarterly earnings at $0.48 per share on revenue of $7.18 billion.
+• Estee Lauder Cos (NYSE:EL) is projected to report quarterly earnings at $1.31 per share on revenue of $3.93 billion.
+• CNA Financial (NYSE:CNA) is estimated to report quarterly earnings at $0.88 per share on revenue of $2.85 billion.
+• Green Plains (NASDAQ:GPRE) is likely to report quarterly loss at $0.64 per share on revenue of $625.22 million.
+• Bel Fuse (NASDAQ:BELFB) is expected to report quarterly earnings at $0.06 per share on revenue of $108.00 million.
+• Ceragon Networks (NASDAQ:CRNT) is expected to report quarterly loss at $0.03 per share on revenue of $64.55 million.
+• Bel Fuse (NASDAQ:BELFA) is likely to report quarterly earnings at $0.02 per share on revenue of $108.00 million.
+• Akoustis Technologies (NASDAQ:AKTS) is estimated to report quarterly loss at $0.28 per share on revenue of $2.25 million.
+• WEC Energy Gr (NYSE:WEC) is likely to report quarterly earnings at $1.47 per share on revenue of $2.31 billion.
+• Itron (NASDAQ:ITRI) is expected to report quarterly earnings at $0.42 per share on revenue of $535.25 million.
+• Karyopharm Therapeutics (NASDAQ:KPTI) is projected to report quarterly loss at $0.71 per share on revenue of $25.17 million.
+• Alexander's (NYSE:ALX) is likely to report earnings for its first quarter.
+• PetMed Express (NASDAQ:PETS) is expected to report quarterly earnings at $0.40 per share on revenue of $74.03 million.
+• DSP Group (NASDAQ:DSPG) is likely to report quarterly earnings at $0.05 per share on revenue of $31.90 million.
+• Green Plains Partners (NASDAQ:GPP) is likely to report quarterly earnings at $0.47 per share on revenue of $21.55 million.
+• GlycoMimetics (NASDAQ:GLYC) is expected to report earnings for its first quarter.
+• Enable Midstream Partners (NYSE:ENBL) is likely to report quarterly earnings at $0.17 per share on revenue of $764.21 million.
+• Sterling Bancorp (NASDAQ:SBT) is likely to report quarterly earnings at $0.02 per share on revenue of $25.13 million.
+• Loews (NYSE:L) is projected to report earnings for its first quarter.
+ 
+Companies Reporting After The Bell
+• Centerspace (NYSE:CSR) is projected to report quarterly loss at $0.38 per share on revenue of $46.03 million.
+• Maxar Technologies (NYSE:MAXR) is estimated to report quarterly earnings at $1.06 per share on revenue of $560.30 million.
+• Livent (NYSE:LTHM) is projected to report quarterly earnings at $0.01 per share on revenue of $82.13 million.
+• Essential Props Realty (NYSE:EPRT) is estimated to report quarterly earnings at $0.10 per share on revenue of $46.49 million.
+• CVR Partners (NYSE:UAN) is likely to report earnings for its first quarter.
+• SeaSpine Holdings (NASDAQ:SPNE) is projected to report quarterly loss at $0.33 per share on revenue of $40.23 million.
+• Ballard Power Systems (NASDAQ:BLDP) is estimated to report earnings for its first quarter.
+• Suncor Energy (NYSE:SU) is estimated to report quarterly earnings at $0.35 per share on revenue of $8.51 billion.
+• ZoomInfo Technologies (NASDAQ:ZI) is expected to report quarterly earnings at $0.10 per share on revenue of $145.50 million.
+• TravelCenters Of America (NASDAQ:TA) is likely to report quarterly loss at $0.72 per share on revenue of $1.41 billion.
+• trivago (NASDAQ:TRVG) is likely to report quarterly loss at $0.03 per ...Full story available on Benzinga.com",2021-05-03 08:13:04+00:00,https://www.benzinga.com/news/earnings/21/05/20909065/earnings-scheduled-for-may-3-2021,Benzinga,0.018333333333333337,0.6255555555555556,neutral,0.018333333333333337,True,False,False,False,False,False,False,False,0.0,4079,"['O', 'ELVT', 'JKHY', 'WWD', 'EPRT', 'CBT', 'GLYC', 'TA', 'OHI', 'CINR', 'KFRC', 'HNRG', 'LTHM', 'CNA', 'BRX', 'XPO', 'PKI', 'AGR', 'LGND', 'NSP', 'LTRN', 'CR', 'KPTI', 'ATCO', 'RBC', 'LDI', 'MYGN', 'REGI', 'CSR', 'OGS', 'BELFA', 'RIG', 'ENIA', 'NWPX', 'SHLS', 'CVI', 'VRNS', 'BELFB', 'SCI', 'TCMD', 'OTTR', 'SJ', 'EL', 'ENBL', 'BLDP', 'CRNT', 'SHO', 'DZSI', 'PETS', 'HBP', 'EPD', 'VNOM', 'DSPG', 'SU', 'TRVG', 'QGEN', 'BCEI', 'FLS', 'SOI', 'FRPT', 'VNO', 'ZI', 'RMBS', 'EVER', 'IAG', 'UE', 'FSTR', 'WEC', 'NCSM', 'SANM', 'ON', 'IPI', 'SEDG', 'BSM', 'GAIA', 'WMB', 'XELA', 'STRL', 'SIBN', 'ITUB', 'GPP', 'GPRE', 'CC', 'MAXR', 'ADC', 'MFIN', 'KMT', 'BWXT', 'HLIT', 'ADUS', 'SBT', 'ALX', 'FANG', 'L', 'RILY', 'IRBT', 'FN', 'CURO', 'AWK', 'EARN', 'LEG', 'SPNE', 'ITRI', 'PLOW', 'NTR', 'AWR', 'CPTA', 'MOS', 'AKTS', 'IVAC', 'UAN', 'ARGO', 'CAR', 'CHGG', 'MWA']",BRX,2021-05-03
+Brixmor Property (BRX) Q1 FFO and Revenues Top Estimates,"Brixmor (BRX) delivered FFO and revenue surprises of 10.00% and 4.05%, respectively, for the quarter ended March 2021. Do the numbers hold clues to what lies ahead for the stock?",2021-05-03 21:35:07+00:00,http://www.zacks.com/stock/news/1495342/brixmor-property-brx-q1-ffo-and-revenues-top-estimates?cid=CS-ZC-FT-tale_of_the_tape|yseop_template_4-1495342,Zacks Investment Research,0.25,0.3,positive,0.25,True,False,False,False,False,False,False,False,0.0,236,['BRX'],BRX,2021-05-03
+Brixmor Property Group Inc (BRX) Q1 2021 Earnings Call Transcript,"BRX earnings call for the period ending March 31, 2021.",2021-05-05 02:00:46+00:00,https://www.fool.com/earnings/call-transcripts/2021/05/04/brixmor-property-group-inc-brx-q1-2021-earnings-ca/?source=iedfolrf0000001,The Motley Fool,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,122,['BRX'],BRX,2021-05-05
+Shortages Of Everything,Real estate equities were mixed amid the busiest week of earnings with 100 REITs reporting results. Seven REITs boosted their dividends this past week while earnings continue to impress.,2021-05-08 17:00:00+00:00,https://seekingalpha.com/article/4425948-shortages-of-everything?source=feed,Seeking Alpha,-0.016666666666666663,0.26666666666666666,neutral,0.016666666666666663,True,False,False,False,False,True,False,False,0.0,211,"['EQC', 'MNR', 'AMH', 'CPLG', 'APLE', 'PEB', 'HST', 'PK', 'REG', 'BRX', 'FRT', 'RPT', 'DHC', 'VTR', 'LXP', 'PLYM', 'TRNO', 'COLD', 'NNN', 'EPR', 'SRC', 'STOR', 'O', 'PEI', 'SKT', 'LSI', 'NSA', 'LAMR', 'OUT', 'SPG', 'MAC', 'NHI', 'GEO', 'BRG', 'APTS', 'AFCG', 'BRMK', 'CLNC', 'AJX', 'ABR', 'EARN', 'CIM', 'ACRE', 'ACR', 'TRTX', 'TWO', 'IVR', 'HASI', 'PFFR', 'RC', 'EQIX', 'EXR', 'ADC', 'PEAK']",BRX,2021-05-08
+Stocks That Hit 52-Week Highs On Monday,"This morning 792 companies reached new 52-week highs.
+Points of Interest:
+
+JPMorgan Chase (NYSE: JPM) was the largest company by market cap to set a new 52-week high.
+The smallest company when looking at market cap to set a new 52-week high was Tortoise Energy (NYSE: NDP).
+Protagenic Therapeutics (NASDAQ: PTIX)'s stock gained the most, trading up 48.0% to reach a new 52-week high.
+
+The stocks that set new 52-week highs during the first half-hour of trading on Monday:
+
+JPMorgan Chase (NYSE: JPM) shares hit $163.60 on Monday morning, setting a new 52-week high for a change of up 1.27%.
+UnitedHealth Group (NYSE: UNH) shares were up 1.25% for the day, having made a 52-week high of $424.24.
+Home Depot (NYSE: HD) shares were up 1.15% for the day, having made a 52-week high of $344.55.
+Bank of America (NYSE: BAC) stock made a new 52-week high of $42.94 Monday. The stock was up 1.39% for the day.
+Comcast (NASDAQ: CMCSA) shares reached a new 52-week high of $59.11 on Monday morning, moving up 0.82%.
+Exxon Mobil (NYSE: XOM) shares hit a yearly high of $64.02. The stock traded up 1.24% on the session.
+Coca-Cola (NYSE: KO) shares set a new 52-week high of $55.49 on Monday, moving up 1.44%.
+Cisco Systems (NASDAQ: CSCO) shares reached a new 52-week high of $54.14 on Monday morning, moving up 0.7%.
+Chevron (NYSE: CVX) shares hit $113.10 on Monday morning, setting a new 52-week high for a change of up 1.0%.
+AbbVie (NYSE: ABBV) shares achieved a new 52-week high on Monday morning, hitting $117.18 with a daily change of up 0.53%.
+BHP Group (NYSE: BHP) shares hit a new 52-week high of $82.07. The stock traded up 2.19% on the session.
+Wells Fargo (NYSE: WFC) shares hit a new 52-week high of $47.35. The stock traded up 1.14% on the session.
+United Parcel Service (NYSE: UPS) stock hit a yearly high price of $219.57. The stock was up 0.84% for the day.
+Novo Nordisk (NYSE: NVO) shares set a new 52-week high of $76.65 on Monday, moving up 0.85%.
+BHP Gr (NYSE: BBL) shares reached a new 52-week high of $68.05 on Monday morning, moving up 1.8%.
+Morgan Stanley (NYSE: MS) shares reached a new 52-week high of $88.87 on Monday morning, moving down 0.21%.
+Citigroup (NYSE: C) shares hit a yearly high of $76.78. The stock traded up 1.93% on the session.
+Linde (NYSE: LIN) shares set a new yearly high of $303.73 this morning. The stock was up 0.88% on the session.
+Rio Tinto (NYSE: RIO) shares were up 2.2% on Monday to hit a new 52-week high of $95.97 for a change of up 2.2%.
+Philip Morris Intl (NYSE: PM) shares reached a new 52-week high of $98.62 on Monday morning, moving up 1.0%.
+Union Pacific (NYSE: UNP) shares hit a new 52-week high of $231.26. The stock traded up 0.29% on the session.
+Lowe's Companies (NYSE: LOW) stock made a new 52-week high of $213.43 Monday. The stock was up 2.03% for the day.
+Royal Bank of Canada (NYSE: RY) stock made a new 52-week high of $100.33 Monday. The stock was up 1.15% for the day.
+Charles Schwab (NYSE: SCHW) shares were up 0.92% for the day, having made a 52-week high of $72.53.
+BlackRock (NYSE: BLK) shares broke to a new 52-week high of $880.67 on Monday. Shares of the company traded up 0.55%.
+Caterpillar (NYSE: CAT) shares were up 1.48% on Monday morning to hit a new 52-week high of $245.75.
+Charter Communications (NASDAQ: CHTR) shares were up 0.88% for the day, having made a 52-week high of $700.97.
+Raytheon Technologies (NYSE: RTX) shares achieved a new 52-week high on Monday morning, hitting $87.04 with a daily change of up 0.95%.
+HSBC Holdings (NYSE: HSBC) shares were up 1.41% on Monday to hit a new 52-week high of $32.17 for a change of up 1.41%.
+Toronto-Dominion Bank (NYSE: TD) shares hit a new 52-week high of $71.67. The stock traded up 0.84% on the session.
+American Express (NYSE: AXP) stock hit a yearly high price of $160.68. The stock was up 0.6% for the day.
+Goldman Sachs Group (NYSE: GS) shares broke to $376.95 on Monday, setting a new 52-week high with a change of up 1.02%.
+Deere (NYSE: DE) shares broke to a new 52-week high of $400.34 on Monday. Shares of the company traded up 0.67%.
+3M (NYSE: MMM) stock made a new 52-week high of $208.30 Monday. The stock was up 2.37% for the day.
+Vale (NYSE: VALE) stock made a new 52-week high of $23.02 Monday. The stock was up 2.6% for the day.
+CVS Health (NYSE: CVS) shares set a new yearly high of $86.98 this morning. The stock was up 1.95% on the session.
+Diageo (NYSE: DEO) stock hit a yearly high price of $184.66. The stock was up 0.51% for the day.
+Target (NYSE: TGT) shares hit $216.90 on Monday morning, setting a new 52-week high for a change of up 0.73%.
+Anthem (NYSE: ANTM) shares broke to $405.23 on Monday, setting a new 52-week high with a change of up 1.43%.
+Cigna (NYSE: CI) shares were up 3.91% for the day, having made a 52-week high of $271.74.
+U.S. Bancorp (NYSE: USB) shares were up 1.21% on Monday to hit a new 52-week high of $62.26 for a change of up 1.21%.
+TJX Companies (NYSE: TJX) stock on Monday broke to a yearly high of $74.64. Shares traded up 0.93%.
+Mondelez International (NASDAQ: MDLZ) shares achieved a new 52-week high on Monday morning, hitting $62.67 with a daily change of up 0.89%.
+Prologis (NYSE: PLD) stock on Monday broke to a yearly high of $117.48. Shares traded up 1.24%.
+PNC Financial Services Gr (NYSE: PNC) shares hit a yearly high of $203.88. The stock traded up 1.42% on the session.
+FedEx (NYSE: FDX) shares broke to $317.00 on Monday, setting a new 52-week high with a change of up 0.25%.
+Truist Financial (NYSE: TFC) stock set a new 52-week high of $62.10 Monday morning. Over the session, the stock traded up 0.35%.
+Enbridge (NYSE: ENB) shares hit a new 52-week high of $40.35. The stock traded up 1.17% on the session.
+Bank of Nova Scotia (NYSE: BNS) shares hit $66.12 on Monday morning, setting a new 52-week high for a change of up 0.83%.
+Duke Energy (NYSE: DUK) shares were up 1.84% on Monday to hit a new 52-week high of $102.95 for a change of up 1.84%.
+CSX (NASDAQ: CSX) shares were up 0.75% on Monday to hit a new 52-week high of $104.38 for a change of up 0.75%.
+Illinois Tool Works (NYSE: ITW) shares were up 1.41% on Monday morning to hit a new 52-week high of $241.71.
+Westpac Banking (NYSE: WBK) shares set a new 52-week high of $20.79 on Monday, moving up 1.07%.
+PetroChina Co (NYSE: PTR) shares broke to $41.60 on Monday, setting a new 52-week high with a change of up 3.6%.
+Norfolk Southern (NYSE: NSC) shares hit a new 52-week high of $294.25. The stock traded up 1.09% on the session.
+Brookfield Asset Mgmt (NYSE: BAM) shares broke to a new 52-week high of $47.01 on Monday. Shares of the company traded up 0.75%.
+Capital One Financial (NYSE: COF) shares achieved a new 52-week high on Monday morning, hitting $160.31 with a daily change of up 0.81%.
+Southern (NYSE: SO) shares were up 0.94% for the day, having made a 52-week high of $66.89.
+Marsh & McLennan (NYSE: MMC) shares reached a new 52-week high of $139.08 on Monday morning, moving up 0.77%.
+Equinor (NYSE: EQNR) stock set a new 52-week high of $22.02 Monday morning. Over the session, the stock traded down 0.5%.
+HCA Healthcare (NYSE: HCA) shares broke to $213.34 on Monday, setting a new 52-week high with a change of up 1.12%.
+Banco Santander (NYSE: SAN) shares were up 2.04% on Monday morning to hit a new 52-week high of $4.04.
+Freeport-McMoRan (NYSE: FCX) shares hit a new 52-week high of $46.10. The stock traded up 0.13% on the session.
+Blackstone Group (NYSE: BX) shares hit $91.41 on Monday morning, setting a new 52-week high for a change of up 0.52%.
+Bank of Montreal (NYSE: BMO) stock on Monday broke to a yearly high of $98.13. Shares traded up 0.94%.
+Southern Copper (NYSE: SCCO) shares were up 6.62% for the day, having made a 52-week high of $83.29.
+Progressive (NYSE: PGR) shares hit a yearly high of $107.15. The stock traded up 1.18% on the session.
+Waste Management (NYSE: WM) stock made a new 52-week high of $144.43 Monday. The stock was up 2.07% for the day.
+Northrop Grumman (NYSE: NOC) shares were up 1.5% on Monday morning to hit a new 52-week high of $377.52.
+Eaton Corp (NYSE: ETN) shares were up 1.23% for the day, having made a 52-week high of $149.31.
+MetLife (NYSE: MET) stock set a new 52-week high of $67.45 Monday morning. Over the session, the stock traded down 0.31%.
+Prudential (NYSE: PUK) stock hit a yearly high price of $44.94. The stock was up 0.48% for the day.
+Aon (NYSE: AON) shares achieved a new 52-week high on Monday morning, hitting $260.97 with a daily change of up 0.64%.
+Emerson Electric (NYSE: EMR) stock hit a yearly high price of $96.90. The stock was up 1.64% for the day.
+Vodafone Group (NASDAQ: VOD) shares reached a new 52-week high of $20.35 on Monday morning, moving up 1.52%.
+General Dynamics (NYSE: GD) shares broke to $197.42 on Monday, setting a new 52-week high with a change of up 1.19%.
+Canadian Pacific Railway (NYSE: CP) stock on Monday broke to a yearly high of $401.57. Shares traded up 0.71%.
+Kraft Heinz (NASDAQ: KHC) shares were up 0.39% for the day, having made a 52-week high of $44.06.
+ING Groep (NYSE: ING) shares set a new yearly high of $13.48 this morning. The stock was up 1.05% on the session.
+Dow (NYSE: DOW) shares were up 1.29% on Monday morning to hit a new 52-week high of $70.60.
+Keurig Dr Pepper (NASDAQ: KDP) stock on Monday broke to a yearly high of $36.81. Shares traded down 0.22%.
+TC Energy (NYSE: TRP) shares broke to $51.92 on Monday, setting a new 52-week high with a change of up 0.86%.
+EOG Resources (NYSE: EOG) shares were up 2.0% on Monday to hit a new 52-week high of $86.56 for a change of up 2.0%.
+Canadian Imperial Bank (NYSE: CM) shares hit $108.72 on Monday morning, setting a new 52-week high for a change of up 0.71%.
+Ross Stores (NASDAQ: ROST) shares were up 0.62% on Monday to hit a new 52-week high of $134.22 for a change of up 0.62%.
+Johnson Controls Intl (NYSE: JCI) stock on Monday broke to a yearly high of $66.38. Shares traded up 0.75%.
+Lloyds Banking Group (NYSE: LYG) stock set a new 52-week high of $2.68 Monday morning. Over the session, the stock traded up 3.09%.
+National Grid (NYSE: NGG) stock set a new 52-week high of $65.70 Monday morning. Over the session, the stock traded up 1.0%.
+Bank of New York Mellon (NYSE: BK) shares broke to $52.66 on Monday, setting a new 52-week high with a change of up 1.36%.
+TE Connectivity (NYSE: TEL) shares reached a new 52-week high of $138.91 on Monday morning, moving down 0.32%.
+Schlumberger (NYSE: SLB) stock on Monday broke to a yearly high of $32.87. Shares traded up 1.85%.
+Eni (NYSE: E) stock hit a yearly high price of $25.50. The stock was up 0.08% for the day.
+L3Harris Technologies (NYSE: LHX) shares were up 0.15% for the day, having made a 52-week high of $221.49.
+American Intl Gr (NYSE: AIG) shares were up 1.19% on Monday morning to hit a new 52-week high of $52.45.
+Trane Technologies (NYSE: TT) shares reached a new 52-week high of $186.77 on Monday morning, moving up 1.52%.
+BCE (NYSE: BCE) shares broke to a new 52-week high of $49.32 on Monday. Shares of the company traded up 1.08%.
+HP (NYSE: HPQ) shares achieved a new 52-week high on Monday morning, hitting $36.00 with a daily change of down 0.2%.
+T. Rowe Price Gr (NASDAQ: TROW) shares set a new 52-week high of $191.63 on Monday, moving up 0.85%.
+PPG Industries (NYSE: PPG) shares set a new 52-week high of $181.35 on Monday, moving up 0.68%.
+Prudential Financial (NYSE: PRU) shares set a new 52-week high of $107.48 on Monday, moving up 1.12%.
+Simon Property Group (NYSE: SPG) shares hit a new 52-week high of $127.63. The stock traded up 1.82% on the session.
+Wipro (NYSE: WIT) stock hit a yearly high price of $7.69. The stock was up 1.19% for the day.
+Parker Hannifin (NYSE: PH) shares reached a new 52-week high of $324.68 on Monday morning, moving up 0.99%.
+Pioneer Natural Resources (NYSE: PXD) stock on Monday broke to a yearly high of $175.37. Shares traded up 1.39%.
+Kinder Morgan (NYSE: KMI) stock hit a yearly high price of $18.22. The stock was up 2.05% for the day.
+Travelers Companies (NYSE: TRV) shares reached a new 52-week high of $162.44 on Monday morning, moving up 0.83%.
+Canadian Natural Res (NYSE: CNQ) stock set a new 52-week high of $34.75 Monday morning. Over the session, the stock traded down 0.17%.
+Allstate (NYSE: ALL) shares set a new 52-week high of $136.18 on Monday, moving up 2.7%.
+CRH (NYSE: CRH) shares reached a new 52-week high of $51.42 on Monday morning, moving up 0.47%.
+BBVA (NYSE: BBVA) shares set a new yearly high of $6.05 this morning. The stock was up 1.27% on the session.
+O'Reilly Automotive (NASDAQ: ORLY) shares reached a new 52-week high of $568.61 on Monday morning, moving up 0.81%.
+Carrier Global (NYSE: CARR) shares were up 1.45% for the day, having made a 52-week high of $45.51.
+Marathon Petroleum (NYSE: MPC) shares broke to a new 52-week high of $61.10 on Monday. Shares of the company traded up 0.52%.
+Aflac (NYSE: AFL) shares were up 1.61% for the day, having made a 52-week high of $57.20.
+LyondellBasell Industries (NYSE: LYB) shares hit a new 52-week high of $116.77. The stock traded up 0.07% on the session.
+D.R. Horton (NYSE: DHI) shares hit a new 52-week high of $106.14. The stock traded up 1.84% on the session.
+Archer-Daniels Midland (NYSE: ADM) shares broke to a new 52-week high of $68.53 on Monday. Shares of the company traded up 1.77%.
+Paychex (NASDAQ: PAYX) stock on Monday broke to a yearly high of $102.61. Shares traded up 1.32%.
+Discover Financial (NYSE: DFS) stock made a new 52-week high of $121.44 Monday. The stock was up 0.63% for the day.
+Yum Brands (NYSE: YUM) shares reached a new 52-week high of $122.43 on Monday morning, moving up 0.87%.
+Stanley Black & Decker (NYSE: SWK) stock hit a yearly high price of $224.82. The stock was up 2.25% for the day.
+Republic Services (NYSE: RSG) shares set a new 52-week high of $113.00 on Monday, moving up 1.61%.
+ArcelorMittal (NYSE: MT) stock hit a yearly high price of $33.95. The stock was up 1.62% for the day.
+Suncor Energy (NYSE: SU) shares set a new 52-week high of $24.11 on Monday, moving down 0.17%.
+Nutrien (NYSE: NTR) stock on Monday broke to a yearly high of $62.31. Shares traded up 1.22%.
+Hershey (NYSE: HSY) shares broke to a new 52-week high of $170.84 on Monday. Shares of the company traded up 1.18%.
+Willis Towers Watson (NASDAQ: WLTW) shares set a new yearly high of $271.87 this morning. The stock was up 0.44% on the session.
+Lennar (NYSE: LEN) stock hit a yearly high price of $109.86. The stock was up 1.28% for the day.
+Motorola Solutions (NYSE: MSI) shares reached a new 52-week high of $202.99 on Monday morning, moving up 1.53%.
+AutoZone (NYSE: AZO) shares achieved a new 52-week high on Monday morning, hitting $1,538.38 with a daily change of up 1.51%.
+First Republic Bank (NYSE: FRC) shares achieved a new 52-week high on Monday morning, hitting $190.70 with a daily change of up 1.21%.
+Waste Connections (NYSE: WCN) shares hit a yearly high of $124.82. The stock traded up 1.03% on the session.
+McKesson (NYSE: MCK) shares reached a new 52-week high of $204.66 on Monday morning, moving up 3.4%.
+Liberty Broadband (NASDAQ: LBRDK) shares achieved a new 52-week high on Monday morning, hitting $168.19 with a daily change of up 0.61%.
+NatWest Group (NYSE: NWG) shares hit $5.79 on Monday morning, setting a new 52-week high for a change of down 0.53%.
+Sun Life Financial (NYSE: SLF) shares were up 0.57% on Monday morning to hit a new 52-week high of $55.02.
+SVB Finl Gr (NASDAQ: SIVB) shares reached a new 52-week high of $592.34 on Monday morning, moving up 0.27%.
+AMETEK (NYSE: AME) shares were up 0.95% on Monday morning to hit a new 52-week high of $138.86.
+Best Buy Co (NYSE: BBY) shares were up 3.75% on Monday morning to hit a new 52-week high of $128.16.
+Old Dominion Freight Line (NASDAQ: ODFL) stock hit a yearly high price of $274.77. The stock was up 1.65% for the day.
+Liberty Broadband (NASDAQ: LBRDA) shares set a new 52-week high of $162.86 on Monday, moving up 0.53%.
+Weyerhaeuser (NYSE: WY) shares reached a new 52-week high of $41.67 on Monday morning, moving up 3.87%.
+Ameriprise Financial (NYSE: AMP) shares were up 0.71% for the day, having made a 52-week high of $268.74.
+Williams Companies (NYSE: WMB) stock set a new 52-week high of $25.62 Monday morning. Over the session, the stock traded up 0.93%.
+State Street (NYSE: STT) shares were up 1.57% on Monday to hit a new 52-week high of $88.70 for a change of up 1.57%.
+Nucor (NYSE: NUE) shares reached a new 52-week high of $103.96 on Monday morning, moving up 4.24%.
+Fifth Third Bancorp (NASDAQ: FITB) shares broke to $43.06 on Monday, setting a new 52-week high with a change of up 0.66%.
+Arthur J. Gallagher (NYSE: AJG) shares set a new 52-week high of $153.95 on Monday, moving up 1.63%.
+TELUS (NYSE: TU) shares broke to $21.91 on Monday, setting a new 52-week high with a change of up 1.1%.
+CBRE Group (NYSE: CBRE) stock on Monday broke to a yearly high of $88.24. Shares traded up 1.01%.
+Equifax (NYSE: EFX) shares hit a new 52-week high of $242.03. The stock traded up 0.69% on the session.
+DTE Energy (NYSE: DTE) stock hit a yearly high price of $145.17. The stock was up 2.16% for the day.
+Kansas City Southern (NYSE: KSU) shares reached a new 52-week high of $308.90 on Monday morning, moving up 1.05%.
+Garmin (NASDAQ: GRMN) shares set a new 52-week high of $144.89 on Monday, moving up 0.8%.
+POSCO (NYSE: PKX) shares hit a yearly high of $92.15. The stock traded up 2.09% on the session.
+AvalonBay Communities (NYSE: AVB) shares were up 1.5% on Monday morning to hit a new 52-week high of $199.48.
+Laboratory Corp (NYSE: LH) stock on Monday broke to a yearly high of $280.69. Shares traded up 0.87%.
+Synchrony Finl (NYSE: SYF) stock made a new 52-week high of $47.21 Monday. The stock was up 2.15% for the day.
+Nasdaq (NASDAQ: NDAQ) shares hit a yearly high of $166.79. The stock traded up 0.75% on the session.
+Ryanair Holdings (NASDAQ: RYAAY) shares hit a yearly high of $120.96. The stock traded up 0.56% on the session.
+Alexandria Real Estate (NYSE: ARE) shares hit $181.70 on Monday morning, setting a new 52-week high for a change of up 1.93%.
+Coca-Cola European (NYSE: CCEP) stock set a new 52-week high of $57.61 Monday morning. Over the session, the stock traded up 0.44%.
+Vulcan Materials (NYSE: VMC) shares hit $193.84 on Monday morning, setting a new 52-week high for a change of up 1.0%.
+Hess (NYSE: HES) shares hit a new 52-week high of $84.27. The stock traded up 1.14% on the session.
+United Rentals (NYSE: URI) shares hit a yearly high of $353.88. The stock traded up 1.4% on the session.
+Northern Trust (NASDAQ: NTRS) shares were up 1.35% for the day, having made a 52-week high of $121.22.
+W.W. Grainger (NYSE: GWW) stock on Monday broke to a yearly high of $478.60. Shares traded up 2.71%.
+DISH Network (NASDAQ: DISH) stock on Monday broke to a yearly high of $47.04. Shares traded up 0.11%.
+International Paper (NYSE: IP) stock on Monday broke to a yearly high of $62.66. Shares traded up 1.4%.
+ONEOK (NYSE: OKE) shares were up 1.82% on Monday to hit a new 52-week high of $54.62 for a change of up 1.82%.
+Martin Marietta Materials (NYSE: MLM) shares broke to a new 52-week high of $382.70 on Monday. Shares of the company traded up 1.04%.
+Tractor Supply (NASDAQ: TSCO) shares broke to $199.25 on Monday, setting a new 52-week high with a change of up 1.67%.
+Imperial Oil (AMEX: IMO) shares were down 0.03% for the day, having made a 52-week high of $31.90.
+CNH Industrial (NYSE: CNHI) stock on Monday broke to a yearly high of $17.13. Shares traded up 0.77%.
+KeyCorp (NYSE: KEY) stock on Monday broke to a yearly high of $23.42. Shares traded up 0.98%.
+CGI (NYSE: GIB) stock made a new 52-week high of $91.33 Monday. The stock was down 0.86% for the day.
+Dover (NYSE: DOV) shares broke to $155.33 on Monday, setting a new 52-week high with a change of up 1.36%.
+Burlington Stores (NYSE: BURL) shares were up 0.46% on Monday morning to hit a new 52-week high of $333.60.
+Regions Financial (NYSE: RF) shares hit a new 52-week high of $23.26. The stock traded up 0.57% on the session.
+Xylem (NYSE: XYL) shares were up 0.75% on Monday to hit a new 52-week high of $120.73 for a change of up 0.75%.
+Caesars Entertainment (NASDAQ: CZR) shares were down 2.02% on Monday to hit a new 52-week high of $106.85 for a change of down 2.02%.
+Hewlett Packard (NYSE: HPE) stock set a new 52-week high of $16.74 Monday morning. Over the session, the stock traded up 0.21%.
+Fortis (NYSE: FTS) shares set a new yearly high of $45.86 this morning. The stock was up 0.95% on the session.
+M&T Bank (NYSE: MTB) stock hit a yearly high price of $166.06. The stock was up 1.44% for the day.
+Citizens Financial Group (NYSE: CFG) stock set a new 52-week high of $50.24 Monday morning. Over the session, the stock traded up 0.46%.
+Cheniere Energy (AMEX: LNG) shares set a new 52-week high of $83.35 on Monday, moving down 0.34%.
+KB Financial Group (NYSE: KB) stock set a new 52-week high of $53.67 Monday morning. Over the session, the stock traded up 0.25%.
+Expeditors International (NASDAQ: EXPD) stock on Monday broke to a yearly high of $120.84. Shares traded up 1.25%.
+SK Telecom Co (NYSE: SKM) stock set a new 52-week high of $31.80 Monday morning. Over the session, the stock traded up 1.05%.
+Ally Financial (NYSE: ALLY) shares were up 0.85% on Monday to hit a new 52-week high of $55.14 for a change of up 0.85%.
+Invitation Homes (NYSE: INVH) shares were up 1.11% for the day, having made a 52-week high of $35.48.
+Shinhan Financial Group (NYSE: SHG) stock set a new 52-week high of $38.49 Monday morning. Over the session, the stock traded up 2.91%.
+Waters (NYSE: WAT) shares were up 1.42% on Monday to hit a new 52-week high of $319.60 for a change of up 1.42%.
+L Brands (NYSE: LB) stock made a new 52-week high of $70.66 Monday. The stock was up 4.5% for the day.
+Genuine Parts (NYSE: GPC) shares hit a yearly high of $135.79. The stock traded up 1.25% on the session.
+Amcor (NYSE: AMCR) shares were up 1.65% on Monday to hit a new 52-week high of $12.72 for a change of up 1.65%.
+Cincinnati Financial (NASDAQ: CINF) shares set a new 52-week high of $122.80 on Monday, moving up 0.34%.
+Broadridge Financial Soln (NYSE: BR) stock made a new 52-week high of $167.27 Monday. The stock was up 1.63% for the day.
+JB Hunt Transport Servs (NASDAQ: JBHT) stock set a new 52-week high of $183.55 Monday morning. Over the session, the stock traded up 2.49%.
+Tradeweb Markets (NASDAQ: TW) stock hit a yearly high price of $83.23. The stock was up 0.62% for the day.
+NVR (NYSE: NVR) shares hit $5,301.80 on Monday morning, setting a new 52-week high for a change of up 1.38%.
+Celanese (NYSE: CE) shares reached a new 52-week high of $171.00 on Monday morning, moving down 0.09%.
+Raymond James Financial (NYSE: RJF) stock made a new 52-week high of $138.12 Monday. The stock was up 0.77% for the day.
+Jacobs Engineering Group (NYSE: J) shares hit a new 52-week high of $145.32. The stock traded up 3.0% on the session.
+Avery Dennison (NYSE: AVY) shares were up 1.68% on Monday to hit a new 52-week high of $225.34 for a change of up 1.68%.
+Omnicom Group (NYSE: OMC) shares were up 1.08% on Monday to hit a new 52-week high of $86.14 for a change of up 1.08%.
+Mid-America Apartment (NYSE: MAA) shares achieved a new 52-week high on Monday morning, hitting $160.52 with a daily change of up 2.07%.
+Principal Financial Gr (NASDAQ: PFG) shares were up 1.05% for the day, having made a 52-week high of $67.67.
+Pool (NASDAQ: POOL) stock hit a yearly high price of $447.45. The stock was up 0.52% for the day.
+Devon Energy (NYSE: DVN) shares were up 0.31% on Monday to hit a new 52-week high of $27.31 for a change of up 0.31%.
+Franklin Resources (NYSE: BEN) shares were up 3.32% on Monday morning to hit a new 52-week high of $35.35.
+Pembina Pipeline (NYSE: PBA) shares reached a new 52-week high of $32.38 on Monday morning, moving up 1.18%.
+Masco (NYSE: MAS) shares set a new yearly high of $68.23 this morning. The stock was up 1.9% on the session.
+Quest Diagnostics (NYSE: DGX) stock hit a yearly high price of $142.26. The stock was up 2.15% for the day.
+Eastman Chemical (NYSE: EMN) shares hit $127.44 on Monday morning, setting a new 52-week high for a change of up 1.01%.
+Boston Properties (NYSE: BXP) shares hit a yearly high of $110.54. The stock traded up 1.48% on the session.
+Markel (NYSE: MKL) shares were up 1.82% for the day, having made a 52-week high of $1,249.24.
+WPP (NYSE: WPP) shares were up 0.53% for the day, having made a 52-week high of $70.12.
+PulteGroup (NYSE: PHM) shares hit $63.63 on Monday morning, setting a new 52-week high for a change of up 2.61%.
+XPO Logistics (NYSE: XPO) shares were up 1.05% for the day, having made a 52-week high of $149.34.
+Whirlpool (NYSE: WHR) shares were up 1.46% on Monday to hit a new 52-week high of $257.36 for a change of up 1.46%.
+Mohawk Industries (NYSE: MHK) shares hit a yearly high of $231.56. The stock traded down 0.12% on the session.
+Molina Healthcare (NYSE: MOH) shares were up 0.94% on Monday to hit a new 52-week high of $271.47 for a change of up 0.94%.
+WestRock (NYSE: WRK) shares set a new 52-week high of $60.56 on Monday, moving up 0.17%.
+Fortune Brands Home (NYSE: FBHS) shares set a new yearly high of $113.45 this morning. The stock was up 1.36% on the session.
+Textron (NYSE: TXT) shares were up 1.19% for the day, having made a 52-week high of $69.11.
+Loews (NYSE: L) shares were up 1.08% for the day, having made a 52-week high of $59.19.
+Brown & Brown (NYSE: BRO) stock set a new 52-week high of $54.35 Monday morning. Over the session, the stock traded up 0.75%.
+LKQ (NASDAQ: LKQ) shares set a new yearly high of $50.66 this morning. The stock was up 1.26% on the session.
+Dentsply Sirona (NASDAQ: XRAY) stock on Monday broke to a yearly high of $69.47. Shares traded up 1.26%.
+Shaw Communications (NYSE: SJR) stock hit a yearly high price of $30.00. The stock was up 1.4% for the day.
+Vedanta (NYSE: VEDL) shares broke to a new 52-week high of $16.32 on Monday. Shares of the company traded up 1.87%.
+Packaging Corp of America (NYSE: PKG) stock made a new 52-week high of $155.71 Monday. The stock was up 1.4% for the day.
+WR Berkley (NYSE: WRB) shares set a new 52-week high of $82.41 on Monday, moving up 0.86%.
+Howmet Aerospace (NYSE: HWM) shares hit a yearly high of $33.89. The stock traded down 0.24% on the session.
+Williams-Sonoma (NYSE: WSM) shares hit a yearly high of $193.41. The stock traded up 2.41% on the session.
+Quanta Services (NYSE: PWR) shares were up 1.34% on Monday to hit a new 52-week high of $101.90 for a change of up 1.34%.
+Tenaris (NYSE: TS) stock set a new 52-week high of $24.02 Monday morning. Over the session, the stock traded down 0.04%.
+Snap-on (NYSE: SNA) shares were up 2.53% for the day, having made a 52-week high of $258.42.
+Mosaic (NYSE: ...Full story available on Benzinga.com",2021-05-10 15:26:09+00:00,https://www.benzinga.com/news/21/05/21035954/stocks-that-hit-52-week-highs-on-monday,Benzinga,0.12787941268353506,0.4525923149015941,positive,0.12787941268353506,False,True,False,False,False,False,True,False,0.0,26901,"['JACK', 'RGP', 'HLIO', 'NVO', 'EQT', 'UFS', 'VBTX', 'UFPT', 'VLRS', 'KB', 'BHP', 'RJF', 'GMS', 'CRESY', 'GSM', 'MEC', 'BDC', 'MPA', 'CVS', 'PAYX', 'LKQ', 'PDT', 'FCX', 'APO', 'VTA', 'AVNT', 'AFG', 'PBFX', 'LH', 'BXP', 'SJR', 'HPQ', 'FUND', 'TRGP', 'ARGO', 'NCR', 'DSX', 'THC', 'PCI', 'SCHN', 'PDI', 'PNC', 'FSS', 'ANDE', 'WRB', 'ATKR', 'AVB', 'MET', 'CMA', 'TD', 'ITT', 'TDS', 'ITW', 'JBHT', 'SOLY', 'LHX', 'NVR', 'ERF', 'UGI', 'CFG', 'UMBF', 'CTT', 'KBH', 'BIF', 'RL', 'GNK', 'CROX', 'BBVA', 'SBOW', 'BDJ', 'MS', 'CVX', 'PFBI', 'ALSN', 'PEO', 'FDX', 'EML', 'VTN', 'DIAX', 'AFL', 'SYF', 'LII', 'BZH', 'SKM', 'HPS', 'FWRD', 'KMF', 'EQNR', 'NFG', 'DTE', 'THG', 'AR', 'SCHW', 'JRI', 'PNI', 'FT', 'ATAX', 'WRI', 'YETI', 'AVK', 'MFM', 'CMC', 'CMU', 'TEL', 'IVZ', 'LAMR', 'JTD', 'RPT', 'NWL', 'ERJ', 'UHS', 'BOOT', 'UMPQ', 'BURL', 'KBR', 'BK', 'RPM', 'GPC', 'CSCO', 'CBOE', 'JHG', 'BEN', 'MSB', 'CX', 'PGC', 'RM', 'PFG', 'FFA', 'JRS', 'VVR', 'SPXX', 'AIG', 'SFBS', 'LNC', 'C', 'SLB', 'HRB', 'GIII', 'AGRO', 'HWC', 'NGG', 'DUK', 'TJX', 'ALLY', 'SCVL', 'MDLZ', 'PNR', 'FUL', 'BBSI', 'WSM', 'HRI', 'AVT', 'MGU', 'MHK', 'CNA', 'TEN', 'JCI', 'LBAI', 'TROX', 'XPEL', 'NX', 'ESI', 'UNH', 'IHRT', 'WERN', 'CNHI', 'KEX', 'BKD', 'RRC', 'GPK', 'CWST', 'BH', 'CSSE', 'BFZ', 'MSM', 'DCI', 'PGTI', 'RXN', 'PFL', 'FGB', 'MCB', 'WAT', 'MIE', 'AIT', 'NAVI', 'LOW', 'CAL', 'SLF', 'HSC', 'GOLF', 'NLSN', 'GRIN', 'NI', 'DVA', 'TKR', 'CCS', 'SEIC', 'BERY', 'PPG', 'GAB', 'BECN', 'WSO', 'VVV', 'AVY', 'AWI', 'MHN', 'CNO', 'TEX', 'JLL', 'LECO', 'BCX', 'BRBR', 'OC', 'ETG', 'UNM', 'AXTA', 'WIRE', 'COMM', 'KEY', 'BKE', 'RS', 'GRX', 'DCOM', 'AON', 'CPLG', 'BG', 'MT', 'DDF', 'POOL', 'RPAI', 'PFN', 'FHI', 'MVF', 'WBK', 'APLE', 'AJG', 'BWFG', 'LPX', 'CAT', 'SLM', 'HSY', 'GOOD', 'FEI', 'KDP', 'NJR', 'DVN', 'TNC', 'PLYM', 'SHOO', 'TPH', 'PRU', 'GAM', 'BGFV', 'WTS', 'ARNC', 'WWW', 'OPP', 'AXP', 'MHO', 'CNQ', 'TFC', 'JPM', 'LIVE', 'DPG', 'CARR', 'OI', 'ETN', 'UNP', 'LBRDA', 'WSBC', 'GLPI', 'KF', 'BLK', 'RSG', 'GS', 'DISH', 'TW', 'BHF', 'BGR', 'MTB', 'DE', 'PPBI', 'MRC', 'PFS', 'FHN', 'NZF', 'WCC', 'LBRDK', 'AKR', 'VNOM', 'LXP', 'CBT', 'SNA', 'HTD', 'GPRE', 'HCA', 'CWK', 'NLY', 'E', 'TOL', 'CHX', 'SIVB', 'TRQ', 'PTR', 'GBL', 'BHLB', 'BLDR', 'WY', 'TECK', 'AXR', 'MIY', 'COF', 'TGT', 'JTA', 'LSTR', 'GNT', 'HWM', 'OII', 'ETO', 'UPS', 'ANTM', 'WTBA', 'BRX', 'KIM', 'BMO', 'RY', 'GT', 'EGLE', 'CEM', 'OMP', 'BGY', 'MTH', 'DEO', 'PRFT', 'ACRE', 'PGR', 'FIF', 'PBA', 'WCN', 'KHC', 'ALG', 'TGLS', 'LYG', 'CE', 'SO', 'HUN', 'GRMN', 'TT', 'SIC', 'NNN', 'EFX', 'TPL', 'TMST', 'SMBC', 'CNOB', 'PTY', 'GCO', 'PUK', 'GD', 'BPFH', 'X', 'FDEU', 'AXS', 'MKL', 'CP', 'MLHR', 'JSD', 'CVLG', 'OKE', 'ETW', 'URI', 'FRPH', 'XRAY', 'LGIH', 'KNL', 'BNS', 'RYN', 'GTY', 'ELTK', 'LYB', 'BPMP', 'MTW', 'DEX', 'PSTL', 'GATX', 'PH', 'FIX', 'RIV', 'WES', 'WRK', 'ALL', 'MAA', 'CF', 'SPG', 'HZO', 'HAFC', 'ARCO', 'CPRI', 'NOA', 'ELS', 'TRP', 'ARCB', 'STLD', 'BCC', 'PVH', 'GDV', 'BPOP', 'XEC', 'CNDT', 'AYI', 'MLI', 'CPE', 'NDAQ', 'SCU', 'NWG', 'OLN', 'EVF', 'USB', 'GHY', 'ZION', 'ALLE', 'KNX', 'BOE', 'SAN', 'GWW', 'ESEA', 'CZR', 'CEIX', 'MTX', 'DFS', 'PTIX', 'INGR', 'PHK', 'FL', 'SMM', 'WFC', 'EPC', 'AME', 'MAN', 'CFR', 'SRV', 'IDA', 'HCCI', 'HSBC', 'AMTB', 'NOC', 'EME', 'TRV', 'CEN', 'TAYD', 'ABBV', 'PWR', 'GEF', 'BRKL', 'XOM', 'KRP', 'AZO', 'MLM', 'CPT', 'NFBK', 'FBHS', 'NTST', 'OMC', 'EVN', 'USM', 'ARDC', 'AA', 'LB', 'KO', 'BR', 'SCD', 'HBI', 'EXPD', 'CHTR', 'NMRK', 'MTZ', 'DGX', 'ROST', 'DEN', 'PHM', 'FLR', 'SXC', 'WHR', 'RILY', 'AMG', 'MAS', 'CHH', 'SSD', 'IDT', 'HIBB', 'STNG', 'CCEP', 'NOV', 'EMN', 'TS', 'NVT', 'TBBK', 'LAND', 'TOWN', 'ATH', 'PXD', 'GER', 'CENTA', 'YUM', 'HVBC', 'BAC', 'MMC', 'CR', 'NTRS', 'EYE', 'EBC', 'ORI', 'EVR', 'VALE', 'HIE', 'AAP', 'NVGS', 'KRG', 'BRO', 'SCL', 'HD', 'FCBC', 'KMI', 'NTR', 'MUJ', 'DHI', 'RUTH', 'NDP', 'PKG', 'FLS', 'UMH', 'WIT', 'VEDL', 'AMP', 'MCK', 'CI', 'STC', 'IGA', 'HOMB', 'HEQ', 'FSK', 'NPO', 'EMO', 'TTI', 'UNVR', 'TU', 'SLCT', 'TRMD', 'CSTM', 'R', 'GES', 'CINF', 'TRNO', 'INVH', 'BAM', 'MMM', 'CRH', 'ODFL', 'XYL', 'CIXX', 'OSK', 'EVT', 'VLY', 'UE', 'ACC', 'SAFM', 'KSU', 'BTO', 'SCX', 'HE', 'FELE', 'FRC', 'GTES', 'MUR', 'DIN', 'RYAAY', 'CLAR', 'PKO', 'FMO', 'XPO', 'WIW', 'HPE', 'ANF', 'MCN', 'CII', 'STL', 'ING', 'HTBK', 'NRGX', 'TIGO', 'NQP', 'EMR', 'ENB', 'TWI', 'NHF', 'TROW', 'CPTA', 'REG', 'GFF', 'CMCSA', 'WM', 'TFII', 'BBL', 'MMU', 'CSL', 'ORLY', 'CUBE', 'PAG', 'EXG', 'VMC', 'ESXB', 'ACH', 'NWHM', 'KYN', 'BTU', 'SEE', 'HEP', 'FITB', 'HBM', 'VCTR', 'MVT', 'DKS', 'SAIA', 'GNTY', 'PKX', 'FNF', 'AAWW', 'WLK', 'GDEN', 'AOS', 'MDC', 'CIM', 'STT', 'IP', 'HUBG', 'FTS', 'DBI', 'NSC', 'NSL', 'EOD', 'TXT', 'NTP', 'TSCO', 'CBRE', 'RF', 'GGB', 'CNTY', 'SCCO', 'J', 'BBY', 'MOD', 'CSX', 'OSBC', 'HBP', 'PCH', 'EXP', 'VMI', 'GOGL', 'ADM', 'SC', 'L', 'BWA', 'SHG', 'HES', 'FLIC', 'MSI', 'QRTEA', 'MWA', 'DLX', 'SASR', 'FRBA', 'PLD', 'FOF', 'AGNC', 'WLL', 'NBLX', 'ARE', 'MDU', 'CLF', 'SU', 'IPG', 'III', 'RTX', 'MNRL', 'NTG', 'EOG', 'TY', 'PGRE', 'UBSI', 'AMH', 'RHI', 'GGG', 'CODI', 'CC', 'GL', 'BC', 'MOH', 'CTB', 'OTTR', 'MTDR', 'PCM', 'FAF', 'VMO', 'NSA', 'ADS', 'AMRK', 'LEG', 'BX', 'SID', 'HIX', 'FLOW', 'HHC', 'OXSQ', 'MYN', 'DOV', 'SBLK', 'CAAP', 'PM', 'FPL', 'AINV', 'WMB', 'WLTW', 'ATI', 'MED', 'CLH', 'SWK', 'IRM', 'IIIN', 'MPC', 'PTMN', 'NUE', 'EOI', 'TYG', 'GWB', 'UFPI', 'LIN', 'RIO', 'GIB', 'CRAI', 'SPB', 'DXC', 'BCE', 'MOS', 'CTR', 'PACW', 'POST', 'PDS', 'FBP', 'VOD', 'BXMX', 'ADX', 'ENBL', 'LEN', 'BXC', 'SIG', 'HNI', 'FRBK', 'ROIC', 'EAF', 'NAD', 'DOW', 'SBSI', 'AMEH', 'PMM', 'FRT', 'ANAT', 'WPP', 'SITE', 'ATR', 'MEI', 'CM', 'TAP', 'IRR', 'IMKTA', 'FDUS', 'AMCR']",BRX,2021-05-10
+Rents Are Surging Again,"Driven by an intensifying housing shortage as robust demand clashes with historically low supply, data this week showed that home values and rents are both rising at historic rates.",2021-05-29 18:00:00+00:00,https://seekingalpha.com/article/4432051-rents-are-surging-again?source=feed,Seeking Alpha,0.0,0.15,neutral,0.0,False,False,False,False,False,False,False,False,0.0,206,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AIW', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMC', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BPYU', 'BPYUP', 'BRG', 'BRMK', 'BRT', 'BRX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLNC', 'CLNY', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DEA', 'DEI', 'DHC', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GME', 'GMRE', 'GNL', 'GOOD', 'GOODM', 'GOODN', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HD', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDO', 'LFT', 'LOW', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NXRT', 'NYC', 'NYMT', 'NYMTM', 'NYMTN', 'NYMTO', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'OPINI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'QQQ', 'QTS', 'RC', 'RCA', 'RDFN', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SNR', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SPGS', 'SPGS.U', 'SPY', 'SQFT', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TOL', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WRI', 'WSR', 'WY', 'XHB', 'XHR', 'XLB', 'XLE', 'XLI', 'XLRE']",BRX,2021-05-29
+REITs Getting Short Squeezed,"Real estate equities led the gains for the second-straight week. REITs were active participants in ""meme mania,"" led by heavily-shorted retail and hotel REITs. Click to read more...",2021-06-05 17:00:00+00:00,https://seekingalpha.com/article/4433243-reits-getting-short-squeezed,Seeking Alpha,0.14166666666666666,0.42500000000000004,positive,0.14166666666666666,False,False,True,False,False,False,False,False,0.0,211,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AIW', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BPYU', 'BPYUP', 'BRG', 'BRMK', 'BRT', 'BRX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLNC', 'CLNY', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DEA', 'DEI', 'DHC', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODM', 'GOODN', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDO', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDRR', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NXRT', 'NYC', 'NYMT', 'NYMTM', 'NYMTN', 'NYMTO', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'OPINI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'QTS', 'RC', 'RCA', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SNR', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SQFT', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TOL', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'W', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WRI', 'WSR', 'WY', 'XHB', 'XHR', 'XLB', 'XLRE', 'XLY', 'Z', 'ZG', 'EEM']",BRX,2021-06-05
+Inflation Is Worse Than It Looks,U.S. equity markets rallied to fresh record highs this past week as long-term interest rates retreated despite inflation data showing the highest annual rise in consumer prices in decades.,2021-06-12 15:00:00+00:00,https://seekingalpha.com/article/4434464-inflation-is-worse-looks,Seeking Alpha,-0.11666666666666668,0.45,negative,0.11666666666666668,False,False,False,False,False,False,False,False,0.0,222,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AIW', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMC', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BB', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BPYU', 'BPYUP', 'BRG', 'BRMK', 'BRT', 'BRX', 'BX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLNC', 'CLNY', 'CLOV', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DEA', 'DEI', 'DHC', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EEM', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODM', 'GOODN', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDO', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NXRT', 'NYC', 'NYMT', 'NYMTM', 'NYMTN', 'NYMTO', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'OPINI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'QTS', 'RC', 'RCA', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SNR', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SPY', 'SQFT', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USO', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'WELL', 'WEN', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WRI', 'WSR', 'WY', 'XHB', 'XHR', 'XLE', 'XLRE']",BRX,2021-06-12
+Merger Mania: Scale Has Its Advantages,"Over the past twelve months, there has been close to $50 billion of closed or announced M&A (mergers & acquisitions) deals in the REIT sector. That includes three privately funded.",2021-06-16 11:00:00+00:00,https://seekingalpha.com/article/4435020-merger-mania-scale-has-its-advantages,Seeking Alpha,-0.11666666666666665,0.24166666666666667,negative,0.11666666666666665,False,True,True,False,False,False,False,False,0.0,220,"['BAM', 'BNL', 'BPY', 'BPYPN', 'BPYPO', 'BPYPP', 'BRX', 'BURL', 'BX', 'CONE', 'COR', 'DOC', 'DRE', 'EPRT', 'EQC', 'FCPT', 'HR', 'HTA', 'KIM', 'KKR', 'KR', 'KRG', 'MNR', 'NNN', 'NTST', 'O', 'PINE', 'PLYM', 'QTS', 'REG', 'REIT', 'ROIC', 'ROST', 'SPG', 'SRC', 'STAG', 'STOR', 'TJX', 'UBA', 'UBP', 'VER', 'VICI', 'WMT', 'WPC', 'WPG', 'WRE', 'WRI']",BRX,2021-06-16
+Fed Sparks Sell-Off As Shortages Worsen,U.S. equity markets slid to their worst week since February. Click here to read why REITs are now the top-performing asset class.,2021-06-19 14:00:00+00:00,https://seekingalpha.com/article/4435627-fed-sparks-sell-off-shortages-worsen,Seeking Alpha,-1.0,1.0,negative,1.0,False,False,False,False,False,False,False,False,0.0,170,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AIW', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMH', 'AMT', 'AMZN', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BAM', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BPYU', 'BPYUP', 'BRG', 'BRMK', 'BRT', 'BRX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLNC', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DEA', 'DEI', 'DHC', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EEM', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLD', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODM', 'GOODN', 'GOOG', 'GOOGL', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDO', 'LEN', 'LEN.B', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'MSFT', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NXRT', 'NYC', 'NYMT', 'NYMTM', 'NYMTN', 'NYMTO', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'QTS', 'RC', 'RCA', 'RDFN', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SNR', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SQFT', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USD', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WRI', 'WSR', 'WY', 'XHB', 'XHR', 'XLB', 'XLE', 'XLF', 'XLRE']",BRX,2021-06-19
+Walking An Inflation Tightrope,The wave of REIT dividend boosts continued this week with mall REIT Simon Property and shopping center REIT Saul Centers joining 65 other REITs that have raised payouts this year.,2021-06-26 15:00:00+00:00,https://seekingalpha.com/article/4436700-walking-inflation-tightrope,Seeking Alpha,-0.1125,0.2375,negative,0.1125,False,False,False,False,False,True,False,False,0.0,211,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AIW', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BPYU', 'BPYUP', 'BRG', 'BRMK', 'BRT', 'BRX', 'BX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'BRSP', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DBRG', 'DEA', 'DEI', 'DHC', 'DISH', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EEM', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODM', 'GOODN', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBWY', 'KIM', 'KKR', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDO', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NXRT', 'NYC', 'NYMT', 'NYMTM', 'NYMTN', 'NYMTO', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'QTS', 'RC', 'RCA', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SNR', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SPY', 'SQFT', 'SQFTP', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'T', 'TBB', 'TBC', 'THC', 'TIP', 'TMUS', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'VZ', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WRI', 'WSR', 'WY', 'XHB', 'XHR', 'XLE', 'XLF', 'XLI', 'XLRE']",BRX,2021-06-26
+Is Brixmor (BRX) a Suitable Value Investor Stock Now?,Let's see if Brixmor (BRX) stock is a good choice for value-oriented investors right now from multiple angles.,2021-07-15 17:23:00+00:00,https://www.zacks.com/stock/news/1762320/is-brixmor-brx-a-suitable-value-investor-stock-now,Zacks Investment Research,0.3839285714285714,0.4714285714285714,positive,0.3839285714285714,False,False,False,False,False,False,False,False,0.0,165,['BRX'],BRX,2021-07-15
+Brixmor (BRX) Upgraded to Buy: What Does It Mean for the Stock?,"Brixmor (BRX) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",2021-07-19 16:00:06+00:00,https://www.zacks.com/stock/news/1763654/brixmor-brx-upgraded-to-buy-what-does-it-mean-for-the-stock,Zacks Investment Research,-0.28750000000000003,0.6958333333333333,negative,0.28750000000000003,True,True,False,False,False,False,False,False,0.0,206,['BRX'],BRX,2021-07-19
+Brixmor Property (BRX) Surpasses Q2 FFO and Revenue Estimates,"Brixmor (BRX) delivered FFO and revenue surprises of 9.52% and 4.96%, respectively, for the quarter ended June 2021. Do the numbers hold clues to what lies ahead for the stock?",2021-08-02 21:55:05+00:00,https://www.zacks.com/stock/news/1772931/brixmor-property-brx-surpasses-q2-ffo-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,239,['BRX'],BRX,2021-08-02
+Brixmor Property Group inc (BRX) Q2 2021 Earnings Call Transcript,"BRX earnings call for the period ending July 30, 2021.",2021-08-03 22:00:53+00:00,https://www.fool.com/earnings/call-transcripts/2021/08/03/brixmor-property-group-inc-brx-q2-2021-earnings-ca/,The Motley Fool,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,121,['BRX'],BRX,2021-08-03
+I Put Half Of My Net Worth Into These Investments,"In a world of 0% interest rates and high stock valuations, I expect REITs to stand out and outperform over the coming decade.",2021-08-21 13:00:00+00:00,https://seekingalpha.com/article/4450751-i-put-half-of-my-net-worth-into-these-investments,Seeking Alpha,0.07333333333333333,0.20166666666666666,neutral,0.07333333333333333,False,False,False,False,False,False,False,False,0.0,176,"['BRX', 'BXP', 'CPT', 'IEF', 'PLD', 'SPY', 'SRC', 'STAG', 'SUI', 'VCLT', 'VICI', 'VNQ']",BRX,2021-08-21
+Home Sweet Home,"Housing Starts, Building Permits, Existing Home Sales, New Home Sales, and Homebuilder Sentiment all topped expectations. Follow here for more.",2021-09-25 15:30:00+00:00,https://seekingalpha.com/article/4457062-home-sweet-home,Seeking Alpha,0.3287878787878788,0.5348484848484848,positive,0.3287878787878788,False,False,False,False,False,False,False,False,0.0,160,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BRG', 'BRMK', 'BRT', 'BRX', 'BX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DBRG', 'DEA', 'DEI', 'DHC', 'DHI', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EEM', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODN', 'GOODO', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBH', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDM', 'LANDO', 'LEN', 'LEN.B', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'MTH', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NVR', 'NXRT', 'NYC', 'NYMT', 'NYMTL', 'NYMTM', 'NYMTN', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PECO', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'RC', 'RCA', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RMRM', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SQFT', 'SQFTP', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TOL', 'TPH', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USD', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WSR', 'WY', 'XHB', 'XHR', 'XLE', 'XLF', 'XLRE', 'XLU']",BRX,2021-09-25
+Help Wanted: Shortages Intensify,U.S. equity markets bounced back following the worst week since February. The Equity REIT Index declined 0.4% while Mortgage REITs gained 0.7%. Read to know more.,2021-10-09 14:00:00+00:00,https://seekingalpha.com/article/4459157-help-wanted-shortages-intensify,Seeking Alpha,-0.125,0.4,negative,0.125,False,False,False,False,False,False,False,False,0.0,196,"['AAIC', 'AAIN', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BRG', 'BRMK', 'BRT', 'BRX', 'BX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DBRG', 'DEA', 'DEI', 'DHC', 'DHI', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EEM', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODN', 'GOODO', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBH', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDM', 'LANDO', 'LEN', 'LEN.B', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'MRK', 'MS', 'MTH', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NVR', 'NXRT', 'NYC', 'NYMT', 'NYMTL', 'NYMTM', 'NYMTN', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PECO', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'RC', 'RCA', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SEVN', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SQFT', 'SQFTP', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TOL', 'TPH', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPS', 'WRE', 'WSR', 'WY', 'XHB', 'XHR', 'XLRE', 'Z', 'ZG', 'SPY', 'XLE']",BRX,2021-10-09
+Avoid This Stock Even If the Market Crashes,This REIT owns strips malls that don't always have the draw that makes them really work.,2021-10-22 10:30:00+00:00,https://www.fool.com/investing/2021/10/22/avoid-this-stock-even-if-the-market-crashes/,The Motley Fool,0.2,0.2,positive,0.2,False,False,False,False,False,False,False,False,0.0,133,"['WSR', 'KIM', 'FRT', 'BRX']",BRX,2021-10-22
+Brixmor Property (BRX) Q3 FFO and Revenues Beat Estimates,"Brixmor (BRX) delivered FFO and revenue surprises of 14.71% and 3.61%, respectively, for the quarter ended September 2021. Do the numbers hold clues to what lies ahead for the stock?",2021-11-01 21:45:08+00:00,https://www.zacks.com/stock/news/1821287/brixmor-property-brx-q3-ffo-and-revenues-beat-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,241,['BRX'],BRX,2021-11-01
+Brixmor Property Group inc (BRX) Q3 2021 Earnings Call Transcript,"BRX earnings call for the period ending November 2, 2021.",2021-11-02 19:30:45+00:00,https://www.fool.com/earnings/call-transcripts/2021/11/02/brixmor-property-group-inc-brx-q3-2021-earnings-ca/,The Motley Fool,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,124,['BRX'],BRX,2021-11-02
+Is Brixmor Property (BRX) Stock a Solid Choice Right Now?,"Brixmor Property (BRX) has seen solid earnings estimate revision activity over the past month, and belongs to a strong industry as well.",2021-11-24 13:50:00+00:00,https://www.zacks.com/stock/news/1831301/is-brixmor-property-brx-stock-a-solid-choice-right-now,Zacks Investment Research,0.0938095238095238,0.3438095238095238,neutral,0.0938095238095238,True,False,False,False,False,False,False,False,0.0,195,['BRX'],BRX,2021-11-24
+This Investment Is 4X Better Than New Construction,This retail REIT has a roughly $1 billion pipeline of opportunities that it thinks  would trounce what it would make if it built from the ground up.,2021-12-10 16:15:00+00:00,https://www.fool.com/investing/2021/12/10/this-investment-is-4x-better-than-new-construction/,The Motley Fool,0.1787878787878788,0.4515151515151515,positive,0.1787878787878788,False,False,False,False,False,False,False,False,0.0,200,['BRX'],BRX,2021-12-10
+Good News for Strip Malls: Small Stores Are Coming Back Strong,"Strip malls have generally held up well because of strong anchor tenants; now, the rest of the business is picking up too.",2021-12-15 15:45:00+00:00,https://www.fool.com/investing/2021/12/15/good-news-for-strip-malls-small-stores-are-coming/,The Motley Fool,0.22777777777777777,0.49444444444444446,positive,0.22777777777777777,False,False,False,False,False,False,False,False,0.0,186,"['BRX', 'REG', 'KIM']",BRX,2021-12-15
+This Trend Shows Shopping Center REITs Are Getting Stronger,"Occupancy levels are rising for shopping center REITs, but there's another positive change that's just as important to the future here.",2021-12-22 22:10:14+00:00,https://www.fool.com/investing/2021/12/22/this-trend-shows-shopping-center-reits-stronger/,The Motley Fool,0.08545454545454545,0.3740909090909091,neutral,0.08545454545454545,False,False,False,False,False,False,False,False,0.2,196,"['REG', 'KIM', 'BRX']",BRX,2021-12-22
+Brixmor Property (BRX) Is Up 1.06% in One Week: What You Should Know,Does Brixmor Property (BRX) have what it takes to be a top stock pick for momentum investors? Let's find out.,2022-01-11 17:00:06+00:00,https://www.zacks.com/stock/news/1850473/brixmor-property-brx-is-up-106-in-one-week-what-you-should-know,Zacks Investment Research,0.5,0.5,positive,0.5,False,False,False,False,False,False,False,False,0.0,179,['BRX'],BRX,2022-01-11
+Here's Why This Retail REIT Isn't Worried About Inflation,Shopping center REIT Brixmor has big construction plans that inflation won't upend.,2022-01-13 10:01:00+00:00,https://www.fool.com/investing/2022/01/13/retail-reit-brixmor-isnt-worried-about-inflation/,The Motley Fool,-0.05,0.1,neutral,0.05,False,False,False,False,False,False,False,False,0.0,142,['BRX'],BRX,2022-01-13
+This Real Estate Stock Is Poised for Long-Term Growth,"Brixmor just bought a new strip mall, despite noting recently that property costs have been heading higher. Management is thinking long term.",2022-01-28 16:17:00+00:00,https://www.fool.com/investing/2022/01/28/this-real-estate-stock-is-poised-for-long-term-gro/,The Motley Fool,0.10727272727272727,0.380909090909091,positive,0.10727272727272727,False,False,False,False,False,False,True,False,0.0,196,['BRX'],BRX,2022-01-28
+Qorvo (QRVO) to Report Q3 Earnings: What's in the Cards?,Qorvo's (QRVO) performance in third-quarter fiscal 2022 is likely to have benefited from product launches and strength across customer segments.,2022-01-31 15:17:00+00:00,https://www.zacks.com/stock/news/1859900/qorvo-qrvo-to-report-q3-earnings-whats-in-the-cards,Zacks Investment Research,0.0,1.0,neutral,0.0,True,False,False,False,True,False,False,False,0.0,202,"['HAS', 'CNA', 'QRVO', 'BRX']",BRX,2022-01-31
+Should You Buy Brixmor Property (BRX) Ahead of Earnings?,Brixmor Property (BRX) is seeing favorable earnings estimate revision activity and has a positive Zacks Earnings ESP heading into earnings season.,2022-02-03 15:25:00+00:00,https://www.zacks.com/stock/news/1862084/should-you-buy-brixmor-property-brx-ahead-of-earnings,Zacks Investment Research,0.22727272727272727,0.5454545454545454,positive,0.22727272727272727,True,True,False,False,False,False,False,False,0.0,204,['BRX'],BRX,2022-02-03
+What's in Store for Axcelis Technologies (ACLS) Q4 Earnings?,Axcelis Technologies' (ACLS) earnings in fourth-quarter 2021 are likely to have benefited from implant systems revenues.,2022-02-04 13:59:00+00:00,https://www.zacks.com/stock/news/1862688/whats-in-store-for-axcelis-technologies-acls-q4-earnings,Zacks Investment Research,0.0,1.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,182,"['HAS', 'CNA', 'ACLS', 'BRX']",BRX,2022-02-04
+Here's How Regency (REG) Is Placed Ahead of Q4 Earnings,Regency's (REG) fourth-quarter performance is likely to have gained from its premium retail properties in solid trade areas and the continued demand recovery.,2022-02-04 16:53:00+00:00,https://www.zacks.com/stock/news/1862904/heres-how-regency-reg-is-placed-ahead-of-q4-earnings,Zacks Investment Research,0.0,0.55,neutral,0.0,True,False,False,False,False,False,False,False,0.0,215,"['REG', 'ADC', 'STOR', 'BRX']",BRX,2022-02-04
+Brixmor Property (BRX) Matches Q4 FFO Estimates,"Brixmor (BRX) delivered FFO and revenue surprises of 0% and 2.64%, respectively, for the quarter ended December 2021. Do the numbers hold clues to what lies ahead for the stock?",2022-02-07 22:35:05+00:00,https://www.zacks.com/stock/news/1863668/brixmor-property-brx-matches-q4-ffo-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,226,"['BRX', 'MAC']",BRX,2022-02-07
+Where Brixmor Property Group Stands With Analysts,"Within the last quarter, Brixmor Property Group (NYSE:BRX) has observed the following analyst ratings: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+3
+1
+3
+0
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+1
+0
+0
+0
+0
+
+
+2M Ago
+1
+1
+0
+0
+0
+
+
+3M Ago
+1
+0
+2
+0
+0
+
+
+
+These 7 analysts have an average price target of $27.43 versus the current price of Brixmor Property Group at $25.21, implying  upside.
+Below is a summary of how these 7 analysts rated Brixmor Property Group over the past 3 months. The greater the number of bullish ...Full story available on Benzinga.com",2022-02-15 16:09:26+00:00,https://www.benzinga.com/analyst-ratings/22/02/25639115/where-brixmor-property-group-stands-with-analysts,Benzinga,0.05555555555555555,0.3259259259259259,neutral,0.05555555555555555,False,False,False,False,False,False,False,False,0.0,635,['BRX'],BRX,2022-02-15
+What 5 Analyst Ratings Have To Say About Brixmor Property Group,"Within the last quarter, Brixmor Property Group (NYSE:BRX) has observed the following analyst ratings: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+2
+1
+2
+0
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+0
+0
+0
+0
+0
+
+
+2M Ago
+0
+0
+1
+0
+0
+
+
+3M Ago
+2
+1
+0
+0
+0
+
+
+
+In the last 3 months, 5 analysts have offered 12-month price targets for Brixmor Property Group. The company has an average price target of $28.2 with a high of $29.00 and a low of $26.00. 
+Below is a summary of how these 5 analysts rated Brixmor Property Group ...Full story available on Benzinga.com",2022-03-31 18:02:34+00:00,https://www.benzinga.com/analyst-ratings/22/03/26406618/what-5-analyst-ratings-have-to-say-about-brixmor-property-group,Benzinga,0.04555555555555556,0.2988888888888888,neutral,0.04555555555555556,False,False,False,False,False,False,False,False,0.0,645,['BRX'],BRX,2022-03-31
+Expert Ratings For Brixmor Property Group,"Over the past 3 months, 5 analysts have published their opinion on Brixmor Property Group (NYSE:BRX) stock. These analysts are typically employed by large Wall Street banks and tasked with understanding a company's business to predict how a stock will trade over the upcoming year.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+2
+1
+2
+0
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+0
+0
+0
+0
+0
+
+
+2M Ago
+0
+0
+1
+0
+0
+
+
+3M Ago
+2
+1
+0
+0
+0
+
+
+
+According to 5 analyst offering 12-month price targets in the last 3 months, Brixmor Property Group has an average price target of $28.2 with a high of ...Full story available on Benzinga.com",2022-03-31 21:01:23+00:00,https://www.benzinga.com/analyst-ratings/22/03/26412106/expert-ratings-for-brixmor-property-group,Benzinga,0.023068783068783075,0.377989417989418,neutral,0.023068783068783075,False,False,False,False,False,False,False,False,0.0,691,['BRX'],BRX,2022-03-31
+Retail Opportunity Investments (ROIC) Q1 FFO and Revenues Beat Estimates,"Retail Opportunity Investments (ROIC) delivered FFO and revenue surprises of 7.69% and 5.17%, respectively, for the quarter ended March 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-04-25 21:45:09+00:00,https://www.zacks.com/stock/news/1907406/retail-opportunity-investments-roic-q1-ffo-and-revenues-beat-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,275,"['ROIC', 'BRX']",BRX,2022-04-25
+The Retiree's Dividend Portfolio - John's March Update: Several Double-Digit Dividend Increases Steal The Spotlight,"John's retirement accounts generated a total of $2,457.27 of dividend income for March 2022. 8 companies increased dividend/distribution or paid a special dividend. Click here to read.",2022-04-30 13:00:00+00:00,https://seekingalpha.com/article/4505012-the-retirees-dividend-portfolio-johns-march-update-several-double-digit-dividend-increases-steal-the-spotlight,Seeking Alpha,0.11904761904761905,0.44047619047619047,positive,0.11904761904761905,False,False,False,False,False,True,False,False,0.0,301,"['AFCG', 'AFL', 'APLE', 'AVA', 'BP', 'BRX', 'CCI', 'CLDT', 'CSX', 'CVS', 'CVX', 'D', 'DLR', 'DUK', 'DUKB', 'EPR', 'GD', 'HTA', 'IRM', 'KMI', 'KRG', 'LOW', 'MAIN', 'MAS', 'MO', 'NRZ', 'O', 'OXY', 'OZK', 'OZKAP', 'PACW', 'PEP', 'PFF', 'PFXF', 'PNW', 'QQQX', 'QYLD', 'RPT', 'STAG', 'SWX', 'T', 'TBB', 'TBC', 'TD', 'TFC', 'TROW', 'UMPQ', 'UTF', 'VICI', 'VLO', 'VTR', 'WBD', 'WPC', 'WRK']",BRX,2022-04-30
+Brixmor Property (BRX) Tops Q1 FFO and Revenue Estimates,"Brixmor (BRX) delivered FFO and revenue surprises of 4.26% and 2.16%, respectively, for the quarter ended March 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-05-02 22:25:09+00:00,https://www.zacks.com/stock/news/1913873/brixmor-property-brx-tops-q1-ffo-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,235,"['BRX', 'NYC']",BRX,2022-05-02
+2 'Top Picks' For Stagflation,"Grocery-anchored real estate, however, is both recession-resistant and capable of hedging against inflation. Click here for two of our top stock picks in this asset type.",2022-05-07 13:00:00+00:00,https://seekingalpha.com/article/4507869-top-reit-stock-picks-stagflation,Seeking Alpha,0.35,0.42500000000000004,positive,0.35,False,False,False,False,False,False,False,False,0.0,201,"['BRX', 'VNQ', 'WSR']",BRX,2022-05-07
+Looking for Early Retirement? These Stocks Could Help You Get There,"If you're looking to create a sizable stream of passive income to support an early retirement, consider this pair of high yielders.",2022-06-30 13:19:00+00:00,https://www.fool.com/investing/2022/06/30/looking-for-early-retirement-these-stocks-could-he/,The Motley Fool,0.12,0.37999999999999995,positive,0.12,False,False,False,False,False,False,False,False,0.0,200,"['AVB', 'BRX']",BRX,2022-06-30
+Expert Ratings for Brixmor Property Group,"Analysts have provided the following ratings for Brixmor Property Group (NYSE:BRX) within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+1
+4
+0
+0
+0
+
+
+Last 30D
+0
+1
+0
+0
+0
+
+
+1M Ago
+1
+3
+0
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+0
+0
+0
+0
+0
+
+
+
+In the last 3 months, 5 analysts have offered 12-month price targets for Brixmor Property Group. The company has an average price target of $25.8 with a high of $29.00 and a low of $23.00. 
+Below is a summary of how these 5 analysts rated Brixmor Property Group ...Full story available on Benzinga.com",2022-07-15 14:18:47+00:00,https://www.benzinga.com/analyst-ratings/22/07/28081849/expert-ratings-for-brixmor-property-group,Benzinga,0.04555555555555556,0.2988888888888888,neutral,0.04555555555555556,False,False,False,False,False,False,False,False,0.0,628,['BRX'],BRX,2022-07-15
+Is Tanger Factory Outlet Centers Stock a Buy?,Could this REIT be a recession-resistant investment?,2022-07-21 13:45:47+00:00,https://www.fool.com/investing/2022/07/21/is-tanger-factory-outlet-centers-stock-a-buy/,The Motley Fool,0.0,0.0,neutral,0.0,False,True,False,False,False,False,False,False,0.0,99,"['SKT', 'SPG', 'BRX']",BRX,2022-07-21
+"Benzinga's Top Ratings Upgrades, Downgrades For July 21, 2022","Upgrades
+According to Janney Montgomery Scott, the prior rating for Berkshire Hills Bancorp Inc (NYSE:BHLB) was changed from Neutral to Buy. Berkshire Hills Bancorp earned $0.51 in the second quarter, compared to $0.44 in the year-ago quarter. The stock has a 52-week-high of $31.78 and a 52-week-low of $23.15. At the end of the last trading period, Berkshire Hills Bancorp closed at $27.14.   
+For Brixmor Property Group Inc (NYSE:BRX), Mizuho upgraded the previous rating of Neutral to Buy. Brixmor Property Group earned $0.49 in the first quarter, compared to $0.44 in the year-ago quarter. The stock has a 52-week-high of $27.19 and a 52-week-low of $19.42. At the end of the last trading period, Brixmor Property Group closed at $21.82.   
+Loop Capital upgraded the previous rating for CSX Corp (NASDAQ:CSX) from Hold to Buy. In the second quarter, CSX showed an EPS of $0.50, compared to $0.40 from the year-ago quarter. At the moment, the stock has a 52-week-high of $38.63 and a 52-week-low of $27.59. CSX closed at $29.73 at the end of the last trading period.   
+Wells Fargo upgraded the previous rating for Las Vegas Sands Corp (NYSE:LVS) from Equal-Weight to Overweight. Las Vegas Sands earned $0.34 in the second quarter, compared to $0.26 in the year-ago quarter. The stock has a 52-week-high of $49.63 and a 52-week-low of $28.88. At the end of the last trading period, Las Vegas Sands closed at $37.08.   
+For IDEXX Laboratories Inc (NASDAQ:IDXX), Goldman Sachs upgraded the previous rating of Neutral to Buy. IDEXX Laboratories earned $2.27 in the first quarter, compared to $2.35 in the year-ago quarter. The stock has a 52-week-high of $706.95 and a 52-week-low of $318.50. At the end of the last trading period, IDEXX Laboratories closed at $383.81.   
+See all analyst ratings upgrades.
+Downgrades
+Deutsche Bank downgraded the previous rating for Stryker Corp (NYSE:SYK) from Buy to Hold. Stryker earned $1.97 in the first quarter, compared to $1.93 in the year-ago quarter. The stock has a 52-week-high of $281.16 and a 52-week-low of $188.84. At the end of the last trading period, Stryker closed at $198.05.   
+Mizuho downgraded the previous rating for Phillips Edison & Co Inc (NASDAQ:PECO) from Buy to Neutral. For the first quarter, Phillips Edison had an EPS of $0.09, compared to year-ago quarter EPS of $0.00. At the moment, the stock has a 52-week-high of $36.35 and a 52-week-low of $27.14. Phillips Edison closed at $33.94 at the end of the last trading period.   
+For Shift Technologies Inc (NASDAQ:SFT), William Blair downgraded the previous rating of Outperform to Market Perform. In the first quarter, Shift Technologies showed an EPS of $0.70, compared to $0.55 from the year-ago quarter. The stock has a 52-week-high of $9.75 and a 52-week-low of $0.60. At the end of the last trading period, Shift Technologies closed at $1.15.   
+For Traeger Inc (NYSE:COOK), Telsey Advisory Group downgraded the previous rating of Outperform to Market Perform. In the first quarter, Traeger showed an EPS of $0.17, compared to $0.41 from the year-ago quarter. At the moment, the stock has a 52-week-high of $32.59 and a 52-week-low of $3.84. Traeger closed at $3.95 at the end of the last trading period.   
+Raymond James downgraded the previous rating for Invitae Corp (NYSE:NVTA) from Outperform to Market Perform. For the first quarter, Invitae had an EPS of $0.78, compared to year-ago quarter EPS of $0.63. The current stock performance of Invitae shows a 52-week-high of $32.93 and a 52-week-low of $2.08. Moreover, at the end of the last trading period, the closing price was at $2.34.   
+Chardan Capital downgraded the previous rating for Vascular Biogenics Ltd (NASDAQ:VBLT) from Buy to Neutral. In the first quarter, Vascular Biogenics showed an EPS of $0.13, compared to $0.12 from the year-ago quarter. The stock has a 52-week-high of $2.54 and a 52-week-low of $0.40. At the end of the last trading period, Vascular Biogenics closed at $0.42.   
+According to Piper Sandler, the prior rating for DocuSign Inc (NASDAQ:DOCU) was changed from Neutral to Underweight. DocuSign earned $0.38 in the first quarter, compared to $0.44 in the year-ago quarter. The stock has a 52-week-high of $314.76 and a 52-week-low of $55.86. At the end of the last trading period, DocuSign closed at $67.66.   
+For FIGS Inc (NYSE:FIGS), Goldman Sachs downgraded the previous rating of Neutral to Sell. For the first quarter, FIGS had an EPS of $0.05, compared to year-ago quarter EPS of $0.08. The current stock performance of FIGS shows a 52-week-high of $48.63 and a 52-week-low of $6.93. Moreover, at the end of the last trading period, the closing price was at $10.63.   
+Goldman Sachs downgraded the previous rating for PVH Corp (NYSE:PVH) from Buy to Neutral. PVH earned $1.94 in the first quarter, compared to $1.92 in the year-ago quarter. The current stock performance of PVH shows a 52-week-high of $125.42 and a 52-week-low of $54.57. Moreover, at the end of the last trading period, the closing price was at $63.40.   
+Goldman Sachs downgraded the previous rating for Henry Schein Inc (NASDAQ:HSIC) from Buy to Neutral. Henry Schein earned $1.30 in the first quarter, compared to $1.24 in the year-ago quarter. The current stock performance of Henry Schein shows a 52-week-high of $92.68 and a 52-week-low of $70.25. Moreover, at the end of the last trading period, the closing price was at $78.00.   
+Goldman Sachs downgraded the previous rating for Elanco Animal Health Inc (NYSE:ELAN) from Buy to Sell. In the first quarter, Elanco Animal Health showed an EPS of $0.36, compared to $0.37 from the year-ago quarter. The current stock performance of Elanco Animal Health shows a 52-week-high of $37.49 and a 52-week-low of $19.11. Moreover, at the end of the last trading period, the closing price was at $20.56.   
+According to Morgan ...Full story available on Benzinga.com",2022-07-21 14:06:59+00:00,https://www.benzinga.com/analyst-ratings/upgrades/22/07/28152472/benzingas-top-ratings-upgrades-downgrades-for-july-21-2022,Benzinga,0.01085858585858586,0.17777777777777776,neutral,0.01085858585858586,False,True,True,False,False,False,False,False,0.0,5966,"['ELAN', 'MLTX', 'BHLB', 'COMP', 'APRN', 'GIII', 'XXII', 'SFIX', 'HSIC', 'ARIS', 'DOCU', 'IDXX', 'FTCH', 'RVLV', 'LULU', 'BRX', 'FLNG', 'RENT', 'LPG', 'AOUT', 'CACI', 'EURN', 'PLTR', 'CSX', 'ID', 'XENE', 'TDUP', 'LVS', 'VBLT', 'ASPC', 'NKE', 'AKA', 'FIGS', 'OXM', 'NVTA', 'PECO', 'PVH', 'ETSY', 'COOK', 'SYK', 'GOGL', 'BRLT', 'CMRE', 'SFT', 'BIRD', 'REAL', 'AGFS', 'LVLU']",BRX,2022-07-21
+Brixmor Property (BRX) Beats Q2 FFO and Revenue Estimates,"Brixmor (BRX) delivered FFO and revenue surprises of 2.08% and 4.52%, respectively, for the quarter ended June 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-08-01 21:35:11+00:00,https://www.zacks.com/stock/news/1961651/brixmor-property-brx-beats-q2-ffo-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,235,"['BRX', 'FRT']",BRX,2022-08-01
+7 Analysts Have This to Say About Brixmor Property Group,"Within the last quarter, Brixmor Property Group (NYSE:BRX) has observed the following analyst ratings:
+
+
+
+ 
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+3
+4
+0
+0
+0
+
+
+Last 30D
+1
+0
+0
+0
+0
+
+
+1M Ago
+1
+0
+0
+0
+0
+
+
+2M Ago
+1
+4
+0
+0
+0
+
+
+3M Ago
+0
+0
+0
+0
+0
+
+
+
+According to 7 analyst offering 12-month price targets in the last 3 months, Brixmor Property Group has an average price target of $25.57 with a high of $29.00 and a low of $23.00.
+Below is a summary of how these 7 analysts rated Brixmor Property Group over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock ...Full story available on Benzinga.com",2022-08-16 14:07:05+00:00,https://www.benzinga.com/analyst-ratings/22/08/28518213/7-analysts-have-this-to-say-about-brixmor-property-group,Benzinga,0.10671328671328671,0.345034965034965,positive,0.10671328671328671,False,False,False,False,False,False,False,False,0.0,740,['BRX'],BRX,2022-08-16
+3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2022-09-07 13:33:00+00:00,https://www.zacks.com/stock/news/1977426/3-top-ranked-dividend-stocks-a-smarter-way-to-boost-your-retirement-income,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,324,"['BRX', 'CADE', 'CATC']",BRX,2022-09-07
+3 Top Dividend Stocks to Maximize Your Retirement Income,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2022-09-13 16:55:00+00:00,https://www.zacks.com/stock/news/1980062/3-top-dividend-stocks-to-maximize-your-retirement-income,Zacks Investment Research,0.08854166666666666,0.609375,neutral,0.08854166666666666,False,False,False,False,False,True,False,False,0.0,284,"['BRX', 'E', 'FRME']",BRX,2022-09-13
+EPR vs. BRX: Which Stock Is the Better Value Option?,EPR vs. BRX: Which Stock Is the Better Value Option?,2022-09-14 15:40:10+00:00,https://www.zacks.com/stock/news/1980523/epr-vs-brx-which-stock-is-the-better-value-option,Zacks Investment Research,0.5,0.5,positive,0.5,False,False,False,False,False,False,False,False,0.0,106,"['EPR', 'BRX']",BRX,2022-09-14
+How to Maximize Your Retirement Portfolio with These Top-Ranked Dividend Stocks,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2022-09-19 13:26:00+00:00,https://www.zacks.com/stock/news/1981965/how-to-maximize-your-retirement-portfolio-with-these-top-ranked-dividend-stocks,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,307,"['AAT', 'BIP', 'BRX']",BRX,2022-09-19
+3 Top Dividend Stocks to Maximize Your Retirement Income,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2022-09-26 13:10:05+00:00,https://www.zacks.com/stock/news/1984768/3-top-dividend-stocks-to-maximize-your-retirement-income,Zacks Investment Research,0.08854166666666666,0.609375,neutral,0.08854166666666666,False,False,False,False,False,True,False,False,0.0,284,"['ARE', 'CIB', 'BRX']",BRX,2022-09-26
+3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2022-10-04 13:10:04+00:00,https://www.zacks.com/stock/news/1987801/3-top-ranked-dividend-stocks-a-smarter-way-to-boost-your-retirement-income,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,324,"['BRX', 'FLIC', 'CIB']",BRX,2022-10-04
+Expert Ratings for Brixmor Property Group,"Within the last quarter, Brixmor Property Group (NYSE:BRX) has observed the following analyst ratings: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+2
+2
+2
+0
+0
+
+
+Last 30D
+0
+1
+1
+0
+0
+
+
+1M Ago
+0
+0
+1
+0
+0
+
+
+2M Ago
+1
+0
+0
+0
+0
+
+
+3M Ago
+1
+1
+0
+0
+0
+
+
+
+According to 6 analyst offering 12-month price targets in the last 3 months, Brixmor Property Group has an average price target of $24.67 with a high of $29.00 and a low of $21.00. 
+Below is a summary of how these 6 analysts rated Brixmor Property Group over the past 3 ...Full story available on Benzinga.com",2022-10-07 18:05:48+00:00,https://www.benzinga.com/analyst-ratings/22/10/29188765/expert-ratings-for-brixmor-property-group,Benzinga,0.016000000000000004,0.29399999999999993,neutral,0.016000000000000004,False,False,False,False,False,False,False,False,0.0,631,['BRX'],BRX,2022-10-07
+Improve Your Retirement Income with These 3 Top-Ranked Dividend Stocks,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2022-10-10 13:10:03+00:00,https://www.zacks.com/stock/news/1989632/improve-your-retirement-income-with-these-3-top-ranked-dividend-stocks,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,319,"['AKR', 'APLE', 'BRX']",BRX,2022-10-10
+What 5 Analyst Ratings Have To Say About Brixmor Property Group,"Within the last quarter, Brixmor Property Group (NYSE:BRX) has observed the following analyst ratings: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+1
+2
+2
+0
+0
+
+
+Last 30D
+0
+1
+0
+0
+0
+
+
+1M Ago
+0
+1
+2
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+1
+0
+0
+0
+0
+
+
+
+According to 5 analyst offering 12-month price targets in the last 3 months, Brixmor Property Group has an average price target of $24.2 with a high of $26.00 and a low of $21.00. 
+Below is a summary of how these 5 analysts rated Brixmor Property Group over the past 3 months. The greater ...Full story available on Benzinga.com",2022-10-27 14:01:01+00:00,https://www.benzinga.com/analyst-ratings/22/10/29434488/what-5-analyst-ratings-have-to-say-about-brixmor-property-group,Benzinga,0.060000000000000005,0.3127272727272727,neutral,0.060000000000000005,False,False,False,False,False,False,False,False,0.0,672,['BRX'],BRX,2022-10-27
+5 Analysts Have This to Say About Brixmor Property Group,"Brixmor Property Group (NYSE:BRX) has observed the following analyst ratings within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+1
+2
+2
+0
+0
+
+
+Last 30D
+0
+1
+0
+0
+0
+
+
+1M Ago
+0
+1
+2
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+1
+0
+0
+0
+0
+
+
+
+In the last 3 months, 5 analysts have offered 12-month price targets for Brixmor Property Group. The company has an average price target of $24.2 with a high of $26.00 and a low of $21.00. 
+Below is a summary of how these 5 analysts rated Brixmor Property Group over the past 3 months. The ...Full story available on Benzinga.com",2022-10-27 17:09:17+00:00,https://www.benzinga.com/analyst-ratings/22/10/29443786/5-analysts-have-this-to-say-about-brixmor-property-group,Benzinga,0.016000000000000004,0.29399999999999993,neutral,0.016000000000000004,False,False,False,False,False,False,False,False,0.0,665,['BRX'],BRX,2022-10-27
+Brixmor Property (BRX) Q3 FFO Match Estimates,"Brixmor (BRX) delivered FFO and revenue surprises of 0% and 1.17%, respectively, for the quarter ended September 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-11-01 22:45:08+00:00,https://www.zacks.com/stock/news/2012215/brixmor-property-brx-q3-ffo-match-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,225,"['BRX', 'STOR']",BRX,2022-11-01
+3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2022-11-09 14:10:04+00:00,https://www.zacks.com/stock/news/2016114/3-top-ranked-dividend-stocks-a-smarter-way-to-boost-your-retirement-income,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,303,"['BRX', 'CVX', 'MSBI']",BRX,2022-11-09
+Improve Your Retirement Income with These 3 Top-Ranked Dividend Stocks,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2022-11-15 14:10:05+00:00,https://www.zacks.com/stock/news/2018360/improve-your-retirement-income-with-these-3-top-ranked-dividend-stocks,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,298,"['BRX', 'CVX', 'HBAN']",BRX,2022-11-15
+3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2022-11-21 14:10:04+00:00,https://www.zacks.com/stock/news/2020374/3-top-ranked-dividend-stocks-a-smarter-way-to-boost-your-retirement-income,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,324,"['AAT', 'BRX', 'BHB']",BRX,2022-11-21
+Improve Your Retirement Income with These 3 Top-Ranked Dividend Stocks,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2022-11-28 14:10:03+00:00,https://www.zacks.com/stock/news/2022801/improve-your-retirement-income-with-these-3-top-ranked-dividend-stocks,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,319,"['AAT', 'BRX', 'BHB']",BRX,2022-11-28
+How to Maximize Your Retirement Portfolio with These Top-Ranked Dividend Stocks,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2022-12-06 14:10:03+00:00,https://www.zacks.com/stock/news/2025759/how-to-maximize-your-retirement-portfolio-with-these-top-ranked-dividend-stocks,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,328,"['BRX', 'CNQ', 'CATY']",BRX,2022-12-06
+Where Brixmor Property Group Stands With Analysts,"Analysts have provided the following ratings for Brixmor Property Group (NYSE:BRX) within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+1
+3
+2
+0
+0
+
+
+Last 30D
+0
+1
+0
+0
+0
+
+
+1M Ago
+1
+0
+0
+0
+0
+
+
+2M Ago
+0
+2
+1
+0
+0
+
+
+3M Ago
+0
+0
+1
+0
+0
+
+
+
+According to 6 analyst offering 12-month price targets in the last 3 months, Brixmor Property Group has an average price target of $24.17 with a high of $28.00 and a low of $21.00. 
+Below is a summary of how these 6 analysts rated Brixmor Property Group over the past 3 ...Full story available on Benzinga.com",2022-12-06 19:03:06+00:00,https://www.benzinga.com/analyst-ratings/22/12/29981004/where-brixmor-property-group-stands-with-analysts,Benzinga,0.016000000000000004,0.29399999999999993,neutral,0.016000000000000004,False,False,False,False,False,False,False,False,0.0,644,['BRX'],BRX,2022-12-06
+3 Top Dividend Stocks to Maximize Your Retirement Income,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2022-12-13 14:10:04+00:00,https://www.zacks.com/stock/news/2028210/3-top-dividend-stocks-to-maximize-your-retirement-income,Zacks Investment Research,0.08854166666666666,0.609375,neutral,0.08854166666666666,False,False,False,False,False,True,False,False,0.0,284,"['AXS', 'CNQ', 'BRX']",BRX,2022-12-13
+"Benzinga's Top Ratings Upgrades, Downgrades For December 16, 2022","Upgrades
+B of A Securities upgraded the previous rating for Synopsys Inc (NASDAQ:SNPS) from Neutral to Buy. In the fourth quarter, Synopsys showed an EPS of $1.91, compared to $1.82 from the year-ago quarter. The stock has a 52-week-high of $391.17 and a 52-week-low of $255.02. At the end of the last trading period, Synopsys closed at $323.82.   
+B of A Securities upgraded the previous rating for Cadence Design Systems Inc (NASDAQ:CDNS) from Neutral to Buy. Cadence Design Sys earned $1.06 in the third quarter, compared to $0.80 in the year-ago quarter. The stock has a 52-week-high of $194.97 and a 52-week-low of $132.31. At the end of the last trading period, Cadence Design Sys closed at $162.23.   
+B of A Securities upgraded the previous rating for Universal Health Services Inc (NYSE:UHS) from Underperform to Neutral. For the third quarter, Universal Health Services had an EPS of $2.54, compared to year-ago quarter EPS of $2.67. At the moment, the stock has a 52-week-high of $158.28 and a 52-week-low of $82.50. Universal Health Services closed at $132.53 at the end of the last trading period.   
+According to Mizuho, the prior rating for Lennox International Inc (NYSE:LII) was changed from Underperform to Neutral. For the third quarter, Lennox International had an EPS of $4.10, compared to year-ago quarter EPS of $3.40. The current stock performance of Lennox International shows a 52-week-high of $327.32 and a 52-week-low of $182.85. Moreover, at the end of the last trading period, the closing price was at $248.64.   
+According to Wells Fargo, the prior rating for PPL Corp (NYSE:PPL) was changed from Equal-Weight to Overweight. In the third quarter, PPL showed an EPS of $0.41, compared to $0.36 from the year-ago quarter. The stock has a 52-week-high of $30.99 and a 52-week-low of $23.46. At the end of the last trading period, PPL closed at $29.36.   
+For ONEOK Inc (NYSE:OKE), Wells Fargo upgraded the previous rating of Equal-Weight to Overweight. In the third quarter, ONEOK showed an EPS of $0.96, compared to $0.88 from the year-ago quarter. The stock has a 52-week-high of $75.07 and a 52-week-low of $50.50. At the end of the last trading period, ONEOK closed at $64.68.   
+For Ryan Specialty Holdings Inc (NYSE:RYAN), Wells Fargo upgraded the previous rating of Equal-Weight to Overweight. For the third quarter, Ryan Specialty Holdings had an EPS of $0.25, compared to year-ago quarter EPS of $0.24. The current stock performance of Ryan Specialty Holdings shows a 52-week-high of $46.40 and a 52-week-low of $32.13. Moreover, at the end of the last trading period, the closing price was at $39.84.   
+For Crestwood Equity Partners LP (NYSE:CEQP), Wells Fargo upgraded the previous rating of Equal-Weight to Overweight. In the third quarter, Crestwood Equity Partners showed an EPS of $0.64, compared to $1.03 from the year-ago quarter. The current stock performance of Crestwood Equity Partners shows a 52-week-high of $32.96 and a 52-week-low of $22.88. Moreover, at the end of the last trading period, the closing price was at $28.02.   
+BTIG upgraded the previous rating for Agilysys Inc (NASDAQ:AGYS) from Neutral to Buy. In the second quarter, Agilysys showed an EPS of $0.24, compared to $0.18 from the year-ago quarter. The stock has a 52-week-high of $70.62 and a 52-week-low of $31.49. At the end of the last trading period, Agilysys closed at $70.40.   
+Wells Fargo upgraded the previous rating for Sunoco LP (NYSE:SUN) from Underweight to Equal-Weight. For the third quarter, Sunoco had an EPS of $0.75, compared to year-ago quarter EPS of $1.00. At the moment, the stock has a 52-week-high of $46.95 and a 52-week-low of $34.26. Sunoco closed at $43.82 at the end of the last trading period.   
+For EPR Properties (NYSE:EPR), JP Morgan upgraded the previous rating of Underweight to Neutral. In the third quarter, EPR Props showed an EPS of $1.16, compared to $0.86 from the year-ago quarter. At the moment, the stock has a 52-week-high of $56.38 and a 52-week-low of $34.58. EPR Props closed at $40.71 at the end of the last trading period.   
+For Regency Centers Corp (NASDAQ:REG), JP Morgan upgraded the previous rating of Neutral to Overweight. For the third quarter, Regency Centers had an EPS of $1.01, compared to year-ago quarter EPS of $1.12. At the moment, the stock has a 52-week-high of $78.78 and a 52-week-low of $51.97. Regency Centers closed at $63.45 at the end of the last trading period.   
+For First Industrial Realty Trust Inc (NYSE:FR), JP Morgan upgraded the previous rating of Neutral to Overweight. For the third quarter, First Industrial Realty had an EPS of $0.60, compared to year-ago quarter EPS of $0.51. The stock has a 52-week-high of $66.73 and a 52-week-low of $42.91. At the end of the last trading period, First Industrial Realty closed at $49.12.   
+JP Morgan upgraded the previous rating for Meta Platforms Inc (NASDAQ:META) from Neutral to Overweight. In the third quarter, Meta Platforms showed an EPS of $1.64, compared to $3.22 from the year-ago quarter. The current stock performance of Meta Platforms shows a 52-week-high of $352.71 and a 52-week-low of $11.73. Moreover, at the end of the last trading period, the closing price was at $116.15.   
+According to Wolfe Research, the prior rating for Brixmor Property Group Inc (NYSE:BRX) was changed from Peer Perform to Outperform. Brixmor Property Group earned $0.49 in the third quarter, compared to $0.39 in the year-ago quarter. At the moment, the stock has a 52-week-high of $27.19 and a 52-week-low of $17.62. Brixmor Property Group closed at $22.51 at the end of the last trading period.   
+For Immunocore Holdings PLC (NASDAQ:IMCR), Goldman Sachs upgraded the previous rating of Neutral to Buy. In the third quarter, Immunocore Hldgs showed an EPS of $0.13, compared to $0.93 from the year-ago quarter. The stock has a 52-week-high of $69.06 and a 52-week-low of $18.43. At the end of the last trading period, Immunocore Hldgs closed at $59.42.   
+See all analyst ratings upgrades.
+Downgrades
+According to B of A Securities, the prior rating for Agiliti Inc (NYSE:AGTI) was changed from Buy to Neutral. Agiliti earned $0.19 in the third quarter, compared to $0.23 in the year-ago quarter. At the moment, the stock has a 52-week-high of $23.65 and a 52-week-low of $14.15. Agiliti closed at $16.47 at the end of the last trading period.   
+Baird downgraded the previous rating for Acuity Brands Inc (NYSE:AYI) from Outperform to Neutral. Acuity Brands earned $3.95 in the fourth quarter, compared to $3.27 in the year-ago quarter. The current stock performance of Acuity Brands shows a 52-week-high of $220.97 and a 52-week-low of $142.71. Moreover, at the end of the last trading period, the closing price was at $174.35.   
+According to Morgan Stanley, the prior rating for Third Harmonic Bio Inc (NASDAQ:THRD) was changed from Overweight to Equal-Weight. Third Harmonic Bio earned $0.90 in the third quarter, compared to $0.69 in the year-ago quarter. The stock has a 52-week-high of $24.59 and a 52-week-low of $4.08. At the end of the last trading period, Third Harmonic Bio closed at $4.30.   
+According to Morgan Stanley, the prior rating for New York Times Co (NYSE:NYT) was changed from Overweight to Equal-Weight. For the third quarter, New York Times had an EPS of $0.21, compared to year-ago quarter EPS of $0.23. At the moment, the stock has a 52-week-high of $48.61 and a 52-week-low of $27.59. New York Times closed at $33.46 at the end of the last trading period.   
+For Aris Water Solutions Inc (NYSE:ARIS), Wells Fargo downgraded the ...Full story available on Benzinga.com",2022-12-16 15:01:20+00:00,https://www.benzinga.com/analyst-ratings/upgrades/22/12/30109594/benzingas-top-ratings-upgrades-downgrades-for-december-16-2022,Benzinga,-0.01829115901280851,0.10752889721961885,neutral,0.01829115901280851,False,True,True,False,False,False,False,False,0.0,7711,"['REG', 'INVH', 'ESS', 'RITM', 'STR', 'RVLV', 'EXR', 'REUN', 'SUN', 'AGYS', 'META', 'FR', 'OABI', 'TRP', 'ATAI', 'ETRN', 'FRT', 'UHS', 'CBRL', 'AXLA', 'IRM', 'WMB', 'CDNS', 'PCVX', 'LII', 'AGTI', 'CSGP', 'RADI', 'LNC', 'ARIS', 'MRCY', 'ETWO', 'LTC', 'CMPS', 'SNPS', 'CMPX', 'MMP', 'RYAN', 'THRD', 'VRDN', 'NS', 'AMH', 'AVB', 'IMCR', 'NYT', 'CEQP', 'AXS', 'MNMD', 'OKE', 'BRX', 'AYI', 'DTM', 'PAY', 'PLD', 'CYBR', 'CLF', 'GHRS', 'PPL', 'CEQP', 'EPR', 'CYBN', 'PRU', 'DEA', 'EQR', 'HOUS']",BRX,2022-12-16
+3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2022-12-19 14:10:04+00:00,https://www.zacks.com/stock/news/2030040/3-top-ranked-dividend-stocks-a-smarter-way-to-boost-your-retirement-income,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,324,"['AAT', 'AXS', 'BRX']",BRX,2022-12-19
+3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2022-12-26 14:10:04+00:00,https://www.zacks.com/stock/news/2032266/3-top-ranked-dividend-stocks-a-smarter-way-to-boost-your-retirement-income,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,303,"['AXS', 'CNQ', 'BRX']",BRX,2022-12-26
+3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2023-01-02 14:10:05+00:00,https://www.zacks.com/stock/news/2034313/3-top-ranked-dividend-stocks-a-smarter-way-to-boost-your-retirement-income,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,324,"['AXS', 'CMCSA', 'BRX']",BRX,2023-01-02
+Brixmor Property (BRX) Meets Q4 FFO Estimates,"Brixmor (BRX) delivered FFO and revenue surprises of 0% and 0.91%, respectively, for the quarter ended December 2022. Do the numbers hold clues to what lies ahead for the stock?",2023-02-13 22:25:05+00:00,https://www.zacks.com/stock/news/2053645/brixmor-property-brx-meets-q4-ffo-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,224,"['BRX', 'AKR']",BRX,2023-02-13
+3 Simple Reasons Federal Realty Is a Better Dividend Investment Than Brixmor,"There are things to like about Brixmor, but if you want to own the best strip-mall landlord, Federal Realty is just better positioned.",2023-04-02 09:11:00+00:00,https://www.fool.com/investing/2023/04/02/3-simple-reasons-federal-realty-is-a-better-divide/,The Motley Fool,0.52,0.5314285714285714,positive,0.52,False,False,False,False,False,True,False,False,0.0,212,"['FRT', 'BRX']",BRX,2023-04-02
+Brixmor Property (BRX) Surpasses Q1 FFO and Revenue Estimates,"Brixmor (BRX) delivered FFO and revenue surprises of 2.04% and 1.08%, respectively, for the quarter ended March 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-05-01 21:35:11+00:00,https://www.zacks.com/stock/news/2087670/brixmor-property-brx-surpasses-q1-ffo-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,240,"['BRX', 'PECO']",BRX,2023-05-01
+5 Analysts Have This to Say About Brixmor Property Group,"Analysts have provided the following ratings for Brixmor Property Group (NYSE:BRX) within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+1
+1
+3
+0
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+1
+1
+1
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+0
+0
+1
+0
+0
+
+
+
+These 5 analysts have an average price target of $24.1 versus the current price of Brixmor Property Group at $20.315, implying  upside.
+Below is a summary of how these 5 analysts rated Brixmor Property Group over the past 3 months. The greater the number of bullish ratings, the more ...Full story available on Benzinga.com",2023-05-24 12:04:03+00:00,https://www.benzinga.com/analyst-ratings/23/05/32549136/5-analysts-have-this-to-say-about-brixmor-property-group,Benzinga,0.1,0.3433333333333333,neutral,0.1,False,False,False,False,False,False,False,False,0.0,665,['BRX'],BRX,2023-05-24
+"Benzinga's Top Ratings Upgrades, Downgrades For May 24, 2023","Upgrades
+According to RBC Capital, the prior rating for Northland Power Inc (OTC:NPIFF) was changed from Sector Perform to Outperform.  
+BMO Capital upgraded the previous rating for Camping World Holdings Inc (NYSE:CWH) from Market Perform to Outperform. Camping World Holdings earned $0.14 in the first quarter, compared to $1.15 in the year-ago quarter. The current stock performance of Camping World Holdings shows a 52-week-high of $33.98 and a 52-week-low of $18.69. Moreover, at the end of the last trading period, the closing price was at $26.32.   
+For Accolade Inc (NASDAQ:ACCD), B of A Securities upgraded the previous rating of Neutral to Buy. For the fourth quarter, Accolade had an EPS of $0.42, compared to year-ago quarter EPS of $0.51. The current stock performance of Accolade shows a 52-week-high of $17.00 and a 52-week-low of $5.24. Moreover, at the end of the last trading period, the closing price was at $11.08.   
+According to Exane BNP Paribas, the prior rating for Workday Inc (NASDAQ:WDAY) was changed from Neutral to Outperform. Workday earned $0.99 in the fourth quarter, compared to $0.78 in the year-ago quarter. The current stock performance of Workday shows a 52-week-high of $206.68 and a 52-week-low of $128.73. Moreover, at the end of the last trading period, the closing price was at $192.87.   
+Jefferies upgraded the previous rating for Sherwin-Williams Co (NYSE:SHW) from Hold to Buy. For the first quarter, Sherwin-Williams had an EPS of $2.04, compared to year-ago quarter EPS of $1.61. At the moment, the stock has a 52-week-high of $278.25 and a 52-week-low of $195.57. Sherwin-Williams closed at $227.05 at the end of the last trading period.   
+For First Horizon Corp (NYSE:FHN), Jefferies upgraded the previous rating of Hold to Buy. In the first quarter, First Horizon showed an EPS of $0.45, compared to $0.38 from the year-ago quarter. The stock has a 52-week-high of $24.90 and a 52-week-low of $8.99. At the end of the last trading period, First Horizon closed at $11.24.   
+For Urban Outfitters Inc (NASDAQ:URBN), Barclays upgraded the previous rating of Equal-Weight to Overweight. In the first quarter, Urban Outfitters showed an EPS of $0.56, compared to $0.33 from the year-ago quarter. The stock has a 52-week-high of $29.74 and a 52-week-low of $17.84. At the end of the last trading period, Urban Outfitters closed at $26.66.   
+According to Truist Securities, the prior rating for Berry Global Group Inc (NYSE:BERY) was changed from Hold to Buy. In the second quarter, Berry Global Gr showed an EPS of $1.96, compared to $1.93 from the year-ago quarter. The current stock performance of Berry Global Gr shows a 52-week-high of $66.21 and a 52-week-low of $44.60. Moreover, at the end of the last trading period, the closing price was at $58.53.   
+Barclays upgraded the previous rating for Owens-Corning Inc (NYSE:OC) from Equal-Weight to Overweight. Owens-Corning earned $2.77 in the first quarter, compared to $2.92 in the year-ago quarter. At the moment, the stock has a 52-week-high of $112.17 and a 52-week-low of $73.07. Owens-Corning closed at $108.12 at the end of the last trading period.   
+BTIG upgraded the previous rating for Organogenesis Holdings Inc (NASDAQ:ORGO) from Neutral to Buy. Organogenesis Hldgs earned $0.01 in the first quarter, compared to $0.01 in the year-ago quarter. The stock has a 52-week-high of $6.52 and a 52-week-low of $1.79. At the end of the last trading period, Organogenesis Hldgs closed at $3.44.   
+See all analyst ratings upgrades.
+Downgrades
+For Shopify Inc (NYSE:SHOP), Exane BNP Paribas downgraded the previous rating of Neutral to Underperform. For the first quarter, Shopify had an EPS of $0.01, compared to year-ago quarter EPS of $0.02. The stock has a 52-week-high of $65.54 and a 52-week-low of $23.64. At the end of the last trading period, Shopify closed at $58.33.   
+According to Veritas Research, the prior rating for Textron Inc (NYSE:TXT) was changed from Buy to Hold. Textron earned $1.05 in the first quarter, compared to $0.88 in the year-ago quarter. At the moment, the stock has a 52-week-high of $76.11 and a 52-week-low of $57.12. Textron closed at $63.97 at the end of the last trading period.   
+According to JP Morgan, the prior rating for Integra Lifesciences Holdings Corp (NASDAQ:IART) was changed from Neutral to Underweight. Integra Lifesciences earned $0.74 in the first quarter, compared to $0.74 in the year-ago quarter. At the moment, the stock has a 52-week-high of $62.94 and a 52-week-low of $39.78. Integra Lifesciences closed at $40.48 at the end of the last trading period.   
+For PDC Energy Inc (NASDAQ:PDCE), Mizuho downgraded the previous rating of Buy to Neutral. For the first quarter, PDC Energy had an EPS of $2.61, compared to year-ago quarter EPS of $3.66. At the moment, the stock has a 52-week-high of $89.20 and a 52-week-low of $51.72. PDC Energy closed at $71.72 at the end of the last ...Full story available on Benzinga.com",2023-05-24 15:00:49+00:00,https://www.benzinga.com/analyst-ratings/upgrades/23/05/32554274/benzingas-top-ratings-upgrades-downgrades-for-may-24-2023,Benzinga,0.02734375,0.15781249999999997,neutral,0.02734375,False,True,True,False,False,False,False,False,0.0,5049,"['ZURA', 'SHW', 'MAPS', 'TXT', 'SITC', 'ADSK', 'WIT', 'ORGO', 'IART', 'CWH', 'IDYA', 'INFY', 'ROIC', 'IDYA', 'LSCC', 'WDAY', 'ACCD', 'ONCY', 'PDCE', 'PECO', 'STEM', 'BERY', 'DICE', 'URBN', 'BERY', 'WRBY', 'A', 'BRX', 'IVT', 'FHN', 'ABEV', 'LFLY', 'FRT', 'ABEV', 'SBIG', 'KIM', 'PTC', 'UPXI', 'KRG', 'SHOP', 'RXO', 'OC', 'SITE', 'CARM', 'PTC']",BRX,2023-05-24
+Expert Ratings for Brixmor Property Group,"Analysts have provided the following ratings for Brixmor Property Group (NYSE:BRX) within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+2
+1
+3
+0
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+0
+0
+0
+0
+0
+
+
+2M Ago
+2
+0
+1
+0
+0
+
+
+3M Ago
+0
+1
+1
+0
+0
+
+
+
+These 6 analysts have an average price target of $23.58 versus the current price of Brixmor Property Group at $22.29, implying  upside.
+Below is a summary of how these 6 analysts rated Brixmor Property Group over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock and the greater the number of bearish ratings, the ...Full story available on Benzinga.com",2023-07-11 19:00:55+00:00,https://www.benzinga.com/analyst-ratings/23/07/33190162/expert-ratings-for-brixmor-property-group,Benzinga,0.14393939393939392,0.3732323232323232,positive,0.14393939393939392,False,False,False,False,False,False,False,False,0.0,736,['BRX'],BRX,2023-07-11
+3 Top Dividend Stocks to Maximize Your Retirement Income,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2023-07-14 13:10:03+00:00,https://www.zacks.com/stock/news/2121216/3-top-dividend-stocks-to-maximize-your-retirement-income,Zacks Investment Research,0.08854166666666666,0.609375,neutral,0.08854166666666666,False,False,False,False,False,True,False,False,0.0,284,"['BRX', 'CAG', 'NJR']",BRX,2023-07-14
+Brixmor Property (BRX) Q2 FFO and Revenues Surpass Estimates,"Brixmor (BRX) delivered FFO and revenue surprises of 4% and 0.43%, respectively, for the quarter ended June 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-07-31 22:35:09+00:00,https://www.zacks.com/stock/news/2130127/brixmor-property-brx-q2-ffo-and-revenues-surpass-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,235,"['BRX', 'MAC']",BRX,2023-07-31
+"Compared to Estimates, Brixmor (BRX) Q2 Earnings: A Look at Key Metrics","Although the revenue and EPS for Brixmor (BRX) give a sense of how its business performed in the quarter ended June 2023, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",2023-08-01 00:00:06+00:00,https://www.zacks.com/stock/news/2130164/compared-to-estimates-brixmor-brx-q2-earnings-a-look-at-key-metrics,Zacks Investment Research,0.09999999999999999,0.7000000000000001,neutral,0.09999999999999999,True,False,False,False,False,False,False,False,0.0,306,['BRX'],BRX,2023-08-01
+The Latest Analyst Ratings for Brixmor Property Group,"Brixmor Property Group (NYSE:BRX) has observed the following analyst ratings within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+3
+0
+3
+0
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+1
+0
+1
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+2
+0
+1
+0
+0
+
+
+
+In the last 3 months, 6 analysts have offered 12-month price targets for Brixmor Property Group. The company has an average price target of $22.83 with a high of $25.00 and a low of $21.00. 
+Below is a summary of how these 6 analysts rated Brixmor Property Group over the past 3 ...Full story available on Benzinga.com",2023-08-07 18:00:16+00:00,https://www.benzinga.com/analyst-ratings/23/08/33606683/the-latest-analyst-ratings-for-brixmor-property-group,Benzinga,0.060000000000000005,0.34909090909090906,neutral,0.060000000000000005,False,False,False,False,False,False,False,False,0.0,651,['BRX'],BRX,2023-08-07
+How to Maximize Your Retirement Portfolio with These Top-Ranked Dividend Stocks,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2023-08-10 13:10:04+00:00,https://www.zacks.com/stock/news/2134929/how-to-maximize-your-retirement-portfolio-with-these-top-ranked-dividend-stocks,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,307,"['ACNB', 'BIP', 'BRX']",BRX,2023-08-10
+Improve Your Retirement Income with These 3 Top-Ranked Dividend Stocks,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2023-08-16 13:10:04+00:00,https://www.zacks.com/stock/news/2136907/improve-your-retirement-income-with-these-3-top-ranked-dividend-stocks,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,319,"['BIP', 'PNM', 'BRX']",BRX,2023-08-16
+"Benzinga's Top Ratings Upgrades, Downgrades For August 16, 2023","Upgrades
+UBS upgraded the previous rating for Aemetis Inc (NASDAQ:AMTX) from Neutral to Buy. For the second quarter, Aemetis had an EPS of $0.68, compared to year-ago quarter EPS of $0.01. The stock has a 52-week-high of $10.74 and a 52-week-low of $1.16. At the end of the last trading period, Aemetis closed at $6.16.   
+According to Exane BNP Paribas, the prior rating for Revance Therapeutics Inc (NASDAQ:RVNC) was changed from Underperform to Neutral. In the second quarter, Revance Therapeutics showed an EPS of $0.80, compared to $0.88 from the year-ago quarter. The current stock performance of Revance Therapeutics shows a 52-week-high of $37.98 and a 52-week-low of $17.97. Moreover, at the end of the last trading period, the closing price was at $18.80.   
+For Inter & Co Inc (NASDAQ:INTR), Citigroup upgraded the previous rating of Neutral to Buy. For the second quarter, Inter & Co had an EPS of $0.02, compared to year-ago quarter EPS of $0.01. At the moment, the stock has a 52-week-high of $4.63 and a 52-week-low of $1.37. Inter & Co closed at $3.94 at the end of the last trading period.   
+Evercore ISI Group upgraded the previous rating for Magnite Inc (NASDAQ:MGNI) from In-Line to Outperform. For the second quarter, Magnite had an EPS of $0.09, compared to year-ago quarter EPS of $0.14. At the moment, the stock has a 52-week-high of $15.73 and a 52-week-low of $5.58. Magnite closed at $8.52 at the end of the last trading period.   
+For National CineMedia Inc (NASDAQ:NCMI), Benchmark upgraded the previous rating of Hold to Speculative Buy. National CineMedia earned $0.08 in the fourth quarter, compared to $0.05 in the year-ago quarter. The current stock performance of National CineMedia shows a 52-week-high of $18.20 and a 52-week-low of $1.01. Moreover, at the end of the last trading period, the closing price was at $3.55.   
+JP Morgan upgraded the previous rating for Gulfport Energy Corp (NYSE:GPOR) from Neutral to Overweight. In the second quarter, Gulfport Energy showed an EPS of $2.66, compared to $5.09 from the year-ago quarter. The current stock performance of Gulfport Energy shows a 52-week-high of $114.88 and a 52-week-low of $60.15. Moreover, at the end of the last trading period, the closing price was at $112.23.   
+JP Morgan upgraded the previous rating for SM Energy Co (NYSE:SM) from Neutral to Overweight. For the second quarter, SM Energy had an EPS of $1.28, compared to year-ago quarter EPS of $2.19. The current stock performance of SM Energy shows a 52-week-high of $48.54 and a 52-week-low of $24.66. Moreover, at the end of the last trading period, the closing price was at $39.01.   
+According to JP Morgan, the prior rating for Pioneer Natural Resources Co (NYSE:PXD) was changed from Neutral to Overweight. In the second quarter, Pioneer Natural Resources showed an EPS of $4.49, compared to $9.36 from the year-ago quarter. At the moment, the stock has a 52-week-high of $274.42 and a 52-week-low of $177.26. Pioneer Natural Resources closed at $233.72 at the end of the last trading period.   
+BMO Capital upgraded the previous rating for CareTrust REIT Inc (NYSE:CTRE) from Market Perform to Outperform. In the second quarter, CareTrust REIT showed an EPS of $0.35, compared to $0.37 from the year-ago quarter. The current stock performance of CareTrust REIT shows a 52-week-high of $22.09 and a 52-week-low of $16.22. Moreover, at the end of the last trading period, the closing price was at $19.89.   
+According to Citigroup, the prior rating for Callon Petroleum Co (NYSE:CPE) was changed from Neutral to Buy. In the second quarter, Callon Petroleum showed an EPS of $1.99, compared to $3.68 from the year-ago quarter. At the moment, the stock has a 52-week-high of $50.10 and a 52-week-low of $28.91. Callon Petroleum closed at $35.59 at the end of the last trading period.   
+According to Mizuho, the prior rating for Permian Resources Corp (NYSE:PR) was changed from Neutral to Buy. At the moment, the stock has a 52-week-high of $12.62 and a 52-week-low of $6.12. Permian Resources closed at $12.16 at the end of the last trading period.   
+According to Mizuho, the prior rating for Matador Resources Co (NYSE:MTDR) was changed from Neutral to Buy. In the second quarter, Matador Resources showed an EPS of $1.42, compared to $3.47 from the year-ago quarter. The current stock performance of Matador Resources shows a 52-week-high of $73.76 and a 52-week-low of $42.04. Moreover, at the end of the last trading period, the ...Full story available on Benzinga.com",2023-08-16 15:00:44+00:00,https://www.benzinga.com/analyst-ratings/upgrades/23/08/33877302/benzingas-top-ratings-upgrades-downgrades-for-august-16-2023,Benzinga,-0.010897435897435893,0.13589743589743591,neutral,0.010897435897435893,False,True,True,False,False,False,False,False,0.0,4605,"['VERA', 'KDP', 'CBFV', 'MGY', 'AMTX', 'GRTX', 'GLNG', 'SLND', 'MGNI', 'GPOR', 'BRX', 'IMCR', 'NCMI', 'RVNC', 'TCRT', 'CHK', 'NEXT', 'GEHC', 'CPE', 'AVAL', 'FTRE', 'CVX', 'CTRE', 'KIM', 'INTR', 'MMP', 'DEA', 'PXD', 'MQ', 'SE', 'SEDG', 'SKT', 'ZYNE', 'SM', 'DINO', 'MPC', 'PR', 'MTDR']",BRX,2023-08-16
+Sell Alert: 2 REITs Getting Pricey,Most REITs have significant upside potential. But not all of them. Read more to see a few REIT picks that we sold recently.,2023-08-21 12:05:00+00:00,https://seekingalpha.com/article/4629936-sell-alert-2-reits-getting-pricey,Seeking Alpha,0.19583333333333333,0.5375,positive,0.19583333333333333,False,False,False,False,False,False,False,False,0.2,159,"['BRX', 'VNQ']",BRX,2023-08-21
+How to Maximize Your Retirement Portfolio with These Top-Ranked Dividend Stocks,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2023-08-23 13:10:04+00:00,https://www.zacks.com/stock/news/2139599/how-to-maximize-your-retirement-portfolio-with-these-top-ranked-dividend-stocks,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,307,"['ACNB', 'BIP', 'BRX']",BRX,2023-08-23
+Realty Income Makes A Splash In Vegas Acquiring Part Of The Bellagio,"Realty Income diversifies with a $950M investment in Bellagio Las Vegas, offering consistent dividends & attractive valuation. Read more on O stock here.",2023-08-29 05:25:49+00:00,https://seekingalpha.com/article/4631640-realty-income-makes-splash-vegas-acquiring-part-the-bellagio,Seeking Alpha,0.5166666666666667,0.5833333333333334,positive,0.5166666666666667,False,False,False,False,False,True,False,False,0.0,223,"['BRX', 'FRT', 'KIM', 'NNN', 'REG', 'SPY', 'O']",BRX,2023-08-29
+5 REITs That Will Likely Hike Their Dividends,"In most cases, REITs continue to grow their dividend payments. Check out five REIT stocks that are likely to hike their dividend in the near term.",2023-08-29 12:05:00+00:00,https://seekingalpha.com/article/4631406-5-reits-likely-hike-dividends,Seeking Alpha,0.15,0.725,positive,0.15,False,False,False,False,False,True,False,False,0.0,193,"['ARE', 'BRX', 'MPW', 'STAG', 'VICI', 'VNQ']",BRX,2023-08-29
+Improve Your Retirement Income with These 3 Top-Ranked Dividend Stocks,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2023-08-29 13:10:04+00:00,https://www.zacks.com/stock/news/2141802/improve-your-retirement-income-with-these-3-top-ranked-dividend-stocks,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,298,"['BAC', 'BRX']",BRX,2023-08-29
+"After Kimco buys RPT, further tie-ups await in the world of real estate investment trusts: analyst","Kimco's acquisition of RPT signals confidence in real estate recovery, but REITs remain under pressure to build scale, KeyBanc's Todd Thomas says",2023-08-29 18:52:00+00:00,https://www.marketwatch.com/story/after-kimco-buys-rpt-further-tie-ups-await-in-the-world-of-real-estate-investment-trusts-analyst-83a6bd71,MarketWatch,0.13333333333333333,0.3666666666666667,positive,0.13333333333333333,False,True,False,False,False,False,False,False,0.0,245,"['RPT', 'KIM', 'KRG', 'PLD', 'HT', 'AMT', 'EQIX', 'PSA', 'CCI', 'SPG', 'REG', 'BRX', 'FRT']",BRX,2023-08-29
+How to Maximize Your Retirement Portfolio with These Top-Ranked Dividend Stocks,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2023-09-04 13:10:03+00:00,https://www.zacks.com/stock/news/2144223/how-to-maximize-your-retirement-portfolio-with-these-top-ranked-dividend-stocks,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,328,"['ACNB', 'BAC', 'BRX']",BRX,2023-09-04
+"Benzinga's Top Ratings Upgrades, Downgrades For September 5, 2023","Upgrades
+For Belden Inc (NYSE:BDC), Goldman Sachs upgraded the previous rating of Neutral to Buy. Belden earned $1.91 in the second quarter, compared to $1.60 in the year-ago quarter. At the moment, the stock has a 52-week-high of $99.13 and a 52-week-low of $58.88. Belden closed at $93.96 at the end of the last trading period.   
+According to Argus Research, the prior rating for Catalent Inc (NYSE:CTLT) was changed from Hold to Buy. For the fourth quarter, Catalent had an EPS of $0.09, compared to year-ago quarter EPS of $1.08. The current stock performance of Catalent shows a 52-week-high of $97.48 and a 52-week-low of $31.45. Moreover, at the end of the last trading period, the closing price was at $50.20.   
+For Equity Residential (NYSE:EQR), Wells Fargo upgraded the previous rating of Equal-Weight to Overweight. Equity Residential earned $0.94 in the second quarter, compared to $0.89 in the year-ago quarter. The stock has a 52-week-high of $77.92 and a 52-week-low of $54.60. At the end of the last trading period, Equity Residential closed at $64.00.   
+According to Scotiabank, the prior rating for Brixmor Property Group Inc (NYSE:BRX) was changed from Sector Perform to Sector Outperform. Brixmor Property Group earned $0.52 in the second quarter, compared to $0.49 in the year-ago quarter. At the moment, the stock has a 52-week-high of $24.27 and a 52-week-low of $17.62. Brixmor Property Group closed at $21.99 at the end of the last trading period.   
+For Valley National Bancorp (NASDAQ:VLY), Hovde Group upgraded the previous rating of Market Perform to Outperform. Valley Ntl earned $0.28 in the second quarter, compared to $0.32 in the year-ago quarter. The stock has a 52-week-high of $13.06 and a 52-week-low of $6.38. At the end of the last trading period, Valley Ntl closed at $9.44.   
+Susquehanna upgraded the previous rating for NetApp Inc (NASDAQ:NTAP) from Neutral to Positive. NetApp earned $1.15 in the first quarter, compared to $1.20 in the year-ago quarter. The current stock performance of NetApp shows a 52-week-high of $80.53 and a 52-week-low of $58.08. Moreover, at the end of the last trading period, the closing price was at $77.60.   
+B of A Securities upgraded the previous rating for Centene Corp (NYSE:CNC) from Underperform to Neutral. For the second quarter, Centene had an EPS of $2.10, compared to year-ago quarter EPS of $1.77. At the moment, the stock has a 52-week-high of $93.56 and a 52-week-low of $60.83. Centene closed at $61.27 at the end of the last trading period.   
+B of A Securities upgraded the previous rating for AllianceBernstein Holding LP (NYSE:AB) from Neutral to Buy. In the second quarter, AllianceBernstein Holding showed an EPS of $0.61, compared to $0.71 from the year-ago quarter. The stock has a 52-week-high of $44.38 and a 52-week-low of $29.05. At the end of the last trading period, AllianceBernstein Holding closed at $31.21.   
+B of A Securities upgraded the previous rating for Stryker Corp (NYSE:SYK) from Neutral to Buy. For the second quarter, Stryker had an EPS of $2.54, compared to year-ago quarter EPS of $2.25. The stock has a 52-week-high of $306.93 and a 52-week-low of $200.87. At the end of the last trading period, Stryker closed at $284.45.   
+For Woodward Inc (NASDAQ:WWD), TD Cowen upgraded the previous rating of Market Perform to Outperform. For the third quarter, Woodward had an EPS of $1.37, compared to year-ago quarter EPS of $0.64. The stock has a 52-week-high of $133.15 and a 52-week-low of $79.26. At the end of the last trading period, Woodward closed at $129.85.   
+Wolfe Research upgraded the previous rating for Liberty Formula One Group (NASDAQ:FWONK) from Peer Perform to Outperform. For the second quarter, Liberty Formula One Group had an EPS of $0.41, compared to year-ago quarter EPS of $0.35. The current stock performance of Liberty Formula One Group shows a 52-week-high of $80.13 and a 52-week-low of $50.13. Moreover, at the end of the last trading period, the closing price was at $69.03.   
+For Hudson Pacific Properties Inc (NYSE:HPP), Piper Sandler upgraded the previous rating of Neutral to Overweight. For the second quarter, Hudson Pacific Properties had an EPS of $0.24, compared to year-ago quarter EPS of $0.51. The stock has a 52-week-high of $14.67 and a 52-week-low of $4.04. At the end of the last trading period, Hudson Pacific Properties closed at $7.02.   
+Stifel upgraded the previous rating for Vail Resorts Inc (NYSE:MTN) from Hold to Buy. For the third quarter, Vail Resorts had an EPS of $8.18, compared to year-ago quarter EPS of $9.16. The stock has a 52-week-high of $268.24 and a 52-week-low of $202.00. At the end of the last trading period, Vail Resorts closed at $227.90.   
+According to RBC Capital, the prior rating for American Express Co (NYSE:AXP) was changed from Sector Perform to Outperform. In the second quarter, American Express showed an EPS of $2.89, compared to $2.57 from the year-ago quarter. At the moment, the stock has a 52-week-high of $182.15 and a 52-week-low of $130.82. American Express closed at $159.62 at the end of the last trading period.   
+For Associated Banc-Corp (NYSE:ASB), Baird upgraded the previous rating of Neutral to Outperform. For the second quarter, Associated Banc had an EPS of $0.56, compared to year-ago quarter EPS of $0.56. The current stock performance of Associated Banc shows a 52-week-high of $25.48 and a 52-week-low of $14.47. Moreover, at the end of the last trading period, the closing price was at $17.67.   
+UBS upgraded the previous rating for Corteva Inc (NYSE:CTVA) from Neutral to Buy. In the second quarter, Corteva showed an EPS of $1.60, compared to $1.64 from the year-ago quarter. The current stock performance of Corteva shows a 52-week-high of $68.42 and a 52-week-low of $48.68. Moreover, at the end of the last trading period, the closing price was at $51.11.   
+According to Raymond James, the prior rating for Retail Opportunity Investments Corp (NASDAQ:ROIC) was changed from Market Perform to Outperform. Retail Opportunity earned $0.27 in the second quarter, compared to $0.28 in the year-ago quarter. The current stock performance of Retail Opportunity shows a 52-week-high of $17.48 and a 52-week-low of $11.97. Moreover, at the end of the last trading period, the closing price was at $13.39.   
+According to TD Cowen, the prior rating for Domino's Pizza Inc (NYSE:DPZ) was changed from Market Perform to Outperform. In the second quarter, Domino's Pizza showed an EPS of $3.08, compared to $2.82 from the year-ago quarter. The current stock performance of Domino's Pizza shows a 52-week-high of $409.95 and a 52-week-low of $285.84. Moreover, at the end of the last trading period, the closing price was at $391.14.   
+According to Raymond James, the prior rating for Regency Centers Corp (NASDAQ:REG) was changed from Market Perform to Outperform. For the second quarter, Regency Centers had an EPS of $1.03, compared to year-ago quarter EPS of $1.00. The stock has a 52-week-high of $68.56 and a 52-week-low of $52.00. At the end of the last trading period, Regency Centers closed at $62.39.   
+Bernstein upgraded the previous rating for Lowe's Companies Inc (NYSE:LOW) from Market Perform to Outperform. In the second quarter, Lowe's Companies showed an EPS of $4.56, compared to $4.67 from the year-ago quarter. The current stock performance of Lowe's Companies shows a 52-week-high of $237.21 and a 52-week-low of $176.62. Moreover, at the end of the last trading period, the closing price was at ...Full story available on Benzinga.com",2023-09-05 15:00:44+00:00,https://www.benzinga.com/analyst-ratings/upgrades/23/09/34240000/benzingas-top-ratings-upgrades-downgrades-for-september-5-2023,Benzinga,-0.025070472163495422,0.11448202959830865,neutral,0.025070472163495422,False,True,True,False,False,False,False,False,0.0,7655,"['ACER', 'DO', 'VLY', 'LUNG', 'DPZ', 'HPP', 'ASB', 'CTVA', 'ELS', 'ROIC', 'ADP', 'CABA', 'EQR', 'WWD', 'CLNE', 'EOSE', 'FMC', 'AGTI', 'LULU', 'SANA', 'FRT', 'SLRN', 'NTAP', 'NAPA', 'GIS', 'BRX', 'ORCL', 'BWMN', 'KRG', 'SYF', 'PAYX', 'LOW', 'CTLT', 'PTEN', 'PYXS', 'MAA', 'HUBS', 'LW', 'AB', 'BRZE', 'MTN', 'KEYS', 'AXP', 'REFI', 'OLN', 'IIPR', 'BDC', 'BFH', 'REG', 'SNOA', 'CNC', 'SOUN', 'RMD', 'FWONK', 'DEI', 'PHIN', 'SPR', 'ZI', 'DIN', 'SYK']",BRX,2023-09-05
+How to Maximize Your Retirement Portfolio with These Top-Ranked Dividend Stocks,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2023-09-11 13:10:03+00:00,https://www.zacks.com/stock/news/2147118/how-to-maximize-your-retirement-portfolio-with-these-top-ranked-dividend-stocks,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,328,"['ACNB', 'BAC', 'BRX']",BRX,2023-09-11
+3 Top Dividend Stocks to Maximize Your Retirement Income,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2023-09-18 13:10:04+00:00,https://www.zacks.com/stock/news/2151795/3-top-dividend-stocks-to-maximize-your-retirement-income,Zacks Investment Research,0.08854166666666666,0.609375,neutral,0.08854166666666666,False,False,False,False,False,True,False,False,0.0,284,"['BAC', 'BRX']",BRX,2023-09-18
+6 Stellar REITs At Big Discounts To NAV,Many high-quality equity REITs are trading at substantial discounts on price-to-NAV ratios. Click here to read what investors need to know,2023-09-21 21:57:39+00:00,https://seekingalpha.com/article/4636642-6-stellar-reits-at-big-discounts-to-nav,Seeking Alpha,0.25,0.2833333333333333,positive,0.25,False,False,False,False,False,False,False,False,0.0,179,"['ADC', 'ARE', 'BRX', 'CIO', 'ELS', 'FSP', 'HPP', 'KBWY', 'MAA', 'MPW', 'NNN', 'O', 'PLD', 'REXR', 'SUI', 'TRNO', 'VNQ', 'WHLR', 'WPC']",BRX,2023-09-21
+3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2023-09-25 13:10:03+00:00,https://www.zacks.com/stock/news/2154783/3-top-ranked-dividend-stocks-a-smarter-way-to-boost-your-retirement-income,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,303,"['BAC', 'CPT', 'BRX']",BRX,2023-09-25
+3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2023-10-02 13:10:02+00:00,https://www.zacks.com/stock/news/2158637/3-top-ranked-dividend-stocks-a-smarter-way-to-boost-your-retirement-income,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,303,"['BBVA', 'BRX', 'CDP']",BRX,2023-10-02
+What Makes Brixmor (BRX) a New Buy Stock,"Brixmor (BRX) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",2023-10-02 16:00:05+00:00,https://www.zacks.com/stock/news/2158800/what-makes-brixmor-brx-a-new-buy-stock,Zacks Investment Research,-0.1378787878787879,0.6181818181818182,negative,0.1378787878787879,True,True,False,False,False,False,False,False,0.0,183,['BRX'],BRX,2023-10-02
+Here's Why You Should Retain SITE Centers (SITC) Stock Now,"A well-located portfolio, focus on essential retail business and capital-recycling moves bode well for SITE Centers (SITC). However, rising e-commerce adoption and high interest rates are key woes.",2023-10-05 18:03:00+00:00,https://www.zacks.com/stock/news/2161048/heres-why-you-should-retain-site-centers-sitc-stock-now,Zacks Investment Research,0.05333333333333334,0.6133333333333333,neutral,0.05333333333333334,False,False,False,False,False,False,False,False,0.0,257,"['BRX', 'SITC', 'PECO']",BRX,2023-10-05
+3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2023-10-09 13:10:02+00:00,https://www.zacks.com/stock/news/2162541/3-top-ranked-dividend-stocks-a-smarter-way-to-boost-your-retirement-income,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,303,"['BRX', 'CPT', 'CDP']",BRX,2023-10-09
+3 Retail REITs Set to Gain From Upbeat Industry Fundamentals,"The Zacks REIT and Equity Trust - Retail industry stocks BRX, PECO and SKT are in focus amid renewed shopper enthusiasm for in-store experiences, and an emphasis on omnichannel retailing, adaptability and essential retail tenants.",2023-10-09 15:26:00+00:00,https://www.zacks.com/commentary/2162695/3-retail-reits-set-to-gain-from-upbeat-industry-fundamentals,Zacks Investment Research,0.0,0.3,neutral,0.0,False,False,False,False,False,False,False,False,0.0,292,"['BRX', 'SKT', 'PECO']",BRX,2023-10-09
+"Zacks Industry Outlook Highlights Brixmor Property, Phillips Edison and Tanger Factory Outlet Centers","Highlights Brixmor Property, Phillips Edison and Tanger Factory Outlet Centers are part of the Zacks Industry Outlook article.",2023-10-10 12:02:00+00:00,https://www.zacks.com/stock/news/2163315/zacks-industry-outlook-highlights-brixmor-property-phillips-edison-and-tanger-factory-outlet-centers,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,229,"['SKT', 'BRX', 'PECO']",BRX,2023-10-10
+Brixmor Property (BRX) Q3 FFO Match Estimates,"Brixmor (BRX) delivered FFO and revenue surprises of 0% and 0.39%, respectively, for the quarter ended September 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-10-30 22:05:09+00:00,https://www.zacks.com/stock/news/2174869/brixmor-property-brx-q3-ffo-match-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,225,"['BRX', 'PECO']",BRX,2023-10-30
+Brixmor (BRX) Reports Q3 Earnings: What Key Metrics Have to Say,"Although the revenue and EPS for Brixmor (BRX) give a sense of how its business performed in the quarter ended September 2023, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",2023-10-30 23:30:08+00:00,https://www.zacks.com/stock/news/2174950/brixmor-brx-reports-q3-earnings-what-key-metrics-have-to-say,Zacks Investment Research,0.09999999999999999,0.7000000000000001,neutral,0.09999999999999999,True,False,False,False,False,False,False,False,0.0,303,['BRX'],BRX,2023-10-30
+3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2023-11-01 13:10:03+00:00,https://www.zacks.com/stock/news/2176198/3-top-ranked-dividend-stocks-a-smarter-way-to-boost-your-retirement-income,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,324,"['AAT', 'AMGN', 'BRX']",BRX,2023-11-01
+Improve Your Retirement Income with These 3 Top-Ranked Dividend Stocks,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2023-11-07 14:10:03+00:00,https://www.zacks.com/stock/news/2179993/improve-your-retirement-income-with-these-3-top-ranked-dividend-stocks,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,319,"['AAT', 'AMGN', 'BRX']",BRX,2023-11-07
+Where Brixmor Property Group Stands With Analysts,"Within the last quarter, Brixmor Property Group (NYSE:BRX) has observed the following analyst ratings: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+3
+1
+2
+0
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+0
+0
+1
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+3
+1
+0
+0
+0
+
+
+
+According to 6 analyst offering 12-month price targets in the last 3 months, Brixmor Property Group has an average price target of $24.96 with a high of $27.00 and a low of ...Full story available on Benzinga.com",2023-11-13 20:00:49+00:00,https://www.benzinga.com/analyst-ratings/23/11/35760656/where-brixmor-property-group-stands-with-analysts,Benzinga,0.04555555555555556,0.2988888888888888,neutral,0.04555555555555556,False,False,False,False,False,False,False,False,0.0,542,['BRX'],BRX,2023-11-13
+3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2023-11-14 14:10:03+00:00,https://www.zacks.com/stock/news/2183905/3-top-ranked-dividend-stocks-a-smarter-way-to-boost-your-retirement-income,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,303,"['BRX', 'CRD.B', 'CDP']",BRX,2023-11-14
+3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2023-11-20 14:10:04+00:00,https://www.zacks.com/stock/news/2186557/3-top-ranked-dividend-stocks-a-smarter-way-to-boost-your-retirement-income,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,324,"['AAT', 'BAC', 'BRX']",BRX,2023-11-20
+Improve Your Retirement Income with These 3 Top-Ranked Dividend Stocks,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2023-11-27 14:10:04+00:00,https://www.zacks.com/stock/news/2189649/improve-your-retirement-income-with-these-3-top-ranked-dividend-stocks,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,298,"['AAT', 'BAC', 'BRX']",BRX,2023-11-27
+What 4 Analyst Ratings Have To Say About Brixmor Property Group,"Brixmor Property Group (NYSE:BRX) has observed the following analyst ratings within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+1
+1
+2
+0
+0
+
+
+Last 30D
+1
+0
+0
+0
+0
+
+
+1M Ago
+0
+0
+1
+0
+0
+
+
+2M Ago
+0
+0
+1
+0
+0
+
+
+3M Ago
+0
+1
+0
+0
+0
+
+
+
+In the last 3 months, 4 analysts have offered 12-month price targets for Brixmor Property Group. The company has an average price target of $23.19 with a high of $25.00 and a low of $22.00. 
+Below is a ...Full story available on Benzinga.com",2023-12-01 13:00:28+00:00,https://www.benzinga.com/analyst-ratings/23/12/36041926/what-4-analyst-ratings-have-to-say-about-brixmor-property-group,Benzinga,0.04555555555555556,0.2988888888888888,neutral,0.04555555555555556,False,False,False,False,False,False,False,False,0.0,584,['BRX'],BRX,2023-12-01
+3 Top Dividend Stocks to Maximize Your Retirement Income,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2023-12-04 14:10:03+00:00,https://www.zacks.com/stock/news/2192895/3-top-dividend-stocks-to-maximize-your-retirement-income,Zacks Investment Research,0.08854166666666666,0.609375,neutral,0.08854166666666666,False,False,False,False,False,True,False,False,0.0,284,"['AAT', 'BAC', 'BRX']",BRX,2023-12-04
+How to Maximize Your Retirement Portfolio with These Top-Ranked Dividend Stocks,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2023-12-11 14:10:03+00:00,https://www.zacks.com/stock/news/2196088/how-to-maximize-your-retirement-portfolio-with-these-top-ranked-dividend-stocks,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,328,"['AAT', 'BAC', 'BRX']",BRX,2023-12-11
+How to Maximize Your Retirement Portfolio with These Top-Ranked Dividend Stocks,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2023-12-18 14:10:04+00:00,https://www.zacks.com/stock/news/2199330/how-to-maximize-your-retirement-portfolio-with-these-top-ranked-dividend-stocks,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,307,"['AES', 'BRX']",BRX,2023-12-18
+How to Maximize Your Retirement Portfolio with These Top-Ranked Dividend Stocks,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2023-12-25 14:10:03+00:00,https://www.zacks.com/stock/news/2201912/how-to-maximize-your-retirement-portfolio-with-these-top-ranked-dividend-stocks,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,328,"['AES', 'BRX', 'FSFG']",BRX,2023-12-25
+How to Maximize Your Retirement Portfolio with These Top-Ranked Dividend Stocks,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2024-01-01 14:10:03+00:00,https://www.zacks.com/stock/news/2204089/how-to-maximize-your-retirement-portfolio-with-these-top-ranked-dividend-stocks,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,307,"['AES', 'FITB', 'BRX']",BRX,2024-01-01
+3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2024-01-08 14:10:03+00:00,https://www.zacks.com/stock/news/2206902/3-top-ranked-dividend-stocks-a-smarter-way-to-boost-your-retirement-income,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,324,"['BRX', 'FITB', 'KRG']",BRX,2024-01-08
+Peeling Back The Layers: Exploring Brixmor Property Group Through Analyst Insights,"In the preceding three months, 4 analysts have released ratings for Brixmor Property Group (NYSE:BRX), presenting a wide array of perspectives from bullish to bearish.
+The table below provides a snapshot of their recent ratings, showcasing how sentiments have evolved over the past 30 days and comparing them to the preceding months.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+2
+0
+2
+0
+0
+
+
+Last 30D
+1
+0
+0
+0
+0
+
+
+1M Ago
+0
+0
+0
+0
+0
+
+
+2M Ago
+1
+0
+1
+0
+0
+
+
+3M Ago
+0
+0
+1
+0
+0
+
+
+
+The 12-month price targets assessed by analysts reveal further insights, featuring an average target of $22.69, a high estimate of $23.00, and a low estimate of $22.00. A negative shift in sentiment is evident as analysts have decreased the average price target by 3.94%. 
+
+Understanding Analyst Ratings: A Comprehensive Breakdown
+In examining recent analyst actions, we gain insights into how financial experts perceive Brixmor Property Group. The following summary outlines key analysts, their recent evaluations, and adjustments to ratings and price targets.
+
+
+
+Analyst
+Analyst Firm
+Action Taken
+Rating
+Current Price Target
+Prior Price Target
+
+
+
+
+Vikram Malhotra
+Mizuho
+Raises
+Buy
+$23.00
+$22.00
+
+
+Haendel St. Juste
+Mizuho
+Lowers
+Buy
+$22.00
+$24.00
+
+
+Tammi Fique
+Wells Fargo
+Lowers
+Equal-Weight
+$23.00
+$24.00
+
+
+Simon Yarmak
+Stifel
+Lowers
+Hold
+$22.75
+$24.50
+
+
+
+Key Insights:
+
+Action Taken: Analysts frequently update their recommendations based on evolving market conditions and company performance. Whether they 'Maintain', 'Raise' or 'Lower' their stance, it reflects their reaction to recent developments related ...Full story available on Benzinga.com",2024-01-10 16:00:38+00:00,https://www.benzinga.com/analyst-ratings/24/01/36578929/peeling-back-the-layers-exploring-brixmor-property-group-through-analyst-insights,Benzinga,-0.015172413793103443,0.3502298850574713,neutral,0.015172413793103443,False,True,False,False,True,False,False,False,0.0,1748,['BRX'],BRX,2024-01-10
+2 REITs To Buy After The Rally,"Read here to know which REITs have not participated in the recent rally and are still heavily discounted, making them potential investment opportunities.",2024-01-11 13:05:00+00:00,https://seekingalpha.com/article/4661965-2-reits-to-buy-after-the-rally,Seeking Alpha,-0.06666666666666667,0.5833333333333334,neutral,0.06666666666666667,False,True,False,False,False,False,False,False,0.0,185,"['BRX', 'CPT', 'MAA', 'VNQ']",BRX,2024-01-11
+How to Maximize Your Retirement Portfolio with These Top-Ranked Dividend Stocks,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2024-01-15 14:10:02+00:00,https://www.zacks.com/stock/news/2210109/how-to-maximize-your-retirement-portfolio-with-these-top-ranked-dividend-stocks,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,307,"['BRX', 'FITB', 'RHP']",BRX,2024-01-15
+Why Brixmor Property (TSLA) Might Surprise This Earnings Season,Brixmor Property (NEOG) is seeing favorable earnings estimate revision activity and has a positive Zacks Earnings ESP heading into earnings season.,2024-02-08 13:52:00+00:00,https://www.zacks.com/stock/news/2223173/why-brixmor-property-tsla-might-surprise-this-earnings-season,Zacks Investment Research,0.22727272727272727,0.5454545454545454,positive,0.22727272727272727,True,False,False,False,False,False,False,False,0.0,212,['BRX'],BRX,2024-02-08
+Brixmor Property (BRX) Q4 FFO Match Estimates,"Brixmor (BRX) delivered FFO and revenue surprises of 0% and 0.89%, respectively, for the quarter ended December 2023. Do the numbers hold clues to what lies ahead for the stock?",2024-02-12 22:25:04+00:00,https://www.zacks.com/stock/news/2225015/brixmor-property-brx-q4-ffo-match-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,224,"['BRX', 'SKT']",BRX,2024-02-12
+"Compared to Estimates, Brixmor (BRX) Q4 Earnings: A Look at Key Metrics","While the top- and bottom-line numbers for Brixmor (BRX) give a sense of how the business performed in the quarter ended December 2023, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",2024-02-12 23:00:04+00:00,https://www.zacks.com/stock/news/2225082/compared-to-estimates-brixmor-brx-q4-earnings-a-look-at-key-metrics,Zacks Investment Research,0.2,0.65,positive,0.2,True,False,False,False,False,False,False,False,0.0,319,['BRX'],BRX,2024-02-12
+Stifel Maintains Hold Rating for Brixmor Property Group: Here's What You Need To Know,"Stifel has decided to maintain its Hold rating of Brixmor Property Group (NYSE:BRX) and raise its price target from $22.75 to $24.00.
+Shares of Brixmor Property Group are trading down 3.02% over the last 24 hours, at $21.87 per share.
+A move to $24.00 would account for a 9.74% increase from the current share price.
+About Brixmor Property Group
+Brixmor Property Group Inc is a real estate investment trust based in the United States. The company owns and operates a portfolio of grocery-anchored community and neighborhood shopping centers across the United States. It leases its rentable areas to ...Full story available on Benzinga.com",2024-02-13 17:00:31+00:00,https://www.benzinga.com/insights/analyst-ratings/24/02/37099914/stifel-maintains-hold-rating-for-brixmor-property-group-heres-what-you-need-to-know,Benzinga,0.08888888888888888,0.29111111111111115,neutral,0.08888888888888888,False,False,False,False,False,False,False,False,0.0,725,['BRX'],BRX,2024-02-13
+3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2024-02-14 14:10:03+00:00,https://www.zacks.com/stock/news/2226072/3-top-ranked-dividend-stocks-a-smarter-way-to-boost-your-retirement-income,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,324,"['BRX', 'GILD', 'PRU']",BRX,2024-02-14
+How to Maximize Your Retirement Portfolio with These Top-Ranked Dividend Stocks,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2024-02-20 14:10:04+00:00,https://www.zacks.com/stock/news/2228427/how-to-maximize-your-retirement-portfolio-with-these-top-ranked-dividend-stocks,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,307,"['BRX', 'HPQ', 'MDC']",BRX,2024-02-20
+Analyst Ratings For Brixmor Property Group,"During the last three months, 4 analysts shared their evaluations of Brixmor Property Group (NYSE:BRX), revealing diverse outlooks from bullish to bearish.
+The table below offers a condensed view of their recent ratings, showcasing the changing sentiments over the past 30 days and comparing them to the preceding months.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+2
+0
+2
+0
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+0
+0
+1
+0
+0
+
+
+2M Ago
+1
+0
+0
+0
+0
+
+
+3M Ago
+1
+0
+0
+0
+0
+
+
+
+Analysts provide deeper insights through their assessments of 12-month price targets, revealing an average target of $23.25, a high estimate of $24.00, and a low estimate of $22.00. Marking an increase of 1.35%, the current average surpasses the previous average price target of $22.94. 
+
+Understanding Analyst Ratings: A Comprehensive Breakdown
+The standing of Brixmor Property Group among financial experts is revealed through an in-depth exploration of recent analyst actions. The summary below outlines key analysts, their recent evaluations, and adjustments to ratings and price targets.
+
+
+
+Analyst
+Analyst Firm
+Action Taken
+Rating
+Current Price Target
+Prior Price Target
+
+
+
+
+Vikram Malhotra
+Mizuho
+Raises
+Neutral
+$24.00
+$23.00
+
+
+Simon Yarmak
+Stifel
+Raises
+Hold
+$24.00
+$22.75
+
+
+Vikram Malhotra
+Mizuho
+Raises
+Buy
+$23.00
+$22.00
+
+
+Haendel St. Juste
+Mizuho
+Lowers
+Buy
+$22.00
+$24.00
+
+
+
+Key Insights:
+
+Action Taken: Analysts respond to changes in market conditions and company performance, frequently updating their recommendations. Whether they 'Maintain', 'Raise' or 'Lower' their stance, it reflects their reaction to recent developments related to Brixmor Property Group. This information ...Full story available on Benzinga.com",2024-02-23 13:00:28+00:00,https://www.benzinga.com/insights/analyst-ratings/24/02/37283102/analyst-ratings-for-brixmor-property-group,Benzinga,-0.003950617283950618,0.3274074074074074,neutral,0.003950617283950618,False,True,False,False,False,False,False,False,0.0,1772,['BRX'],BRX,2024-02-23
+How to Maximize Your Retirement Portfolio with These Top-Ranked Dividend Stocks,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2024-02-26 14:10:03+00:00,https://www.zacks.com/stock/news/2231539/how-to-maximize-your-retirement-portfolio-with-these-top-ranked-dividend-stocks,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,307,"['ABBV', 'EBMT', 'BRX']",BRX,2024-02-26
+How to Maximize Your Retirement Portfolio with These Top-Ranked Dividend Stocks,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2024-03-04 14:10:03+00:00,https://www.zacks.com/stock/news/2235233/how-to-maximize-your-retirement-portfolio-with-these-top-ranked-dividend-stocks,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,307,"['ABBV', 'AMGN', 'BRX']",BRX,2024-03-04
+Improve Your Retirement Income with These 3 Top-Ranked Dividend Stocks,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2024-03-11 13:10:03+00:00,https://www.zacks.com/stock/news/2238528/improve-your-retirement-income-with-these-3-top-ranked-dividend-stocks,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,319,"['ABBV', 'AMGN', 'BRX']",BRX,2024-03-11
+How to Maximize Your Retirement Portfolio with These Top-Ranked Dividend Stocks,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2024-03-18 13:10:04+00:00,https://www.zacks.com/stock/news/2242022/how-to-maximize-your-retirement-portfolio-with-these-top-ranked-dividend-stocks,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,328,"['AEE', 'ARE', 'BRX']",BRX,2024-03-18
+3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2024-03-25 13:10:03+00:00,https://www.zacks.com/stock/news/2245414/3-top-ranked-dividend-stocks-a-smarter-way-to-boost-your-retirement-income,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,303,"['AEE', 'ARE', 'BRX']",BRX,2024-03-25
+What 5 Analyst Ratings Have To Say About Brixmor Property Group,"Across the recent three months, 5 analysts have shared their insights on Brixmor Property Group (NYSE:BRX), expressing a variety of opinions spanning from bullish to bearish.
+The following table summarizes their recent ratings, shedding light on the changing sentiments within the past 30 days and comparing them to the preceding months.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+2
+0
+3
+0
+0
+
+
+Last 30D
+1
+0
+0
+0
+0
+
+
+1M Ago
+0
+0
+1
+0
+0
+
+
+2M Ago
+0
+0
+2
+0
+0
+
+
+3M Ago
+1
+0
+0
+0
+0
+
+
+
+Analysts provide deeper insights through their assessments of 12-month price targets, revealing an average target of $24.0, a high estimate of $25.00, and a low estimate of $23.00. This current average has increased by 5.77% from the previous average price target of $22.69. 
+
+Breaking Down Analyst Ratings: A Detailed Examination
+A comprehensive examination of how financial experts perceive Brixmor Property Group is derived from recent analyst actions. The following is a detailed summary of key analysts, their recent evaluations, and adjustments to ratings and price targets.
+
+
+
+Analyst
+Analyst Firm
+Action Taken
+Rating
+Current Price Target
+Prior Price Target
+
+
+
+
+Ki Bin Kim
+Truist Securities
+Maintains
+Buy
+$25.00
+-
+
+
+Linda Tsai
+Jefferies
+Raises
+Hold
+$24.00
+$23.00
+
+
+Vikram Malhotra
+Mizuho
+Raises
+Neutral
+$24.00
+$23.00
+
+
+Simon Yarmak
+Stifel
+Raises
+Hold
+$24.00
+$22.75
+
+
+Vikram Malhotra
+Mizuho
+Raises
+Buy
+$23.00
+$22.00
+
+
+
+Key Insights:
+
+Action Taken: Analysts frequently update their recommendations based on evolving market conditions and company performance. Whether they 'Maintain', 'Raise' or 'Lower' their stance, it reflects their reaction to recent developments related to Brixmor Property Group. This information provides a snapshot of how analysts ...Full story available on Benzinga.com",2024-03-25 17:00:46+00:00,https://www.benzinga.com/insights/analyst-ratings/24/03/37918686/what-5-analyst-ratings-have-to-say-about-brixmor-property-group,Benzinga,0.026180555555555558,0.3660069444444445,neutral,0.026180555555555558,False,True,True,False,False,False,False,False,0.2,1877,['BRX'],BRX,2024-03-25
+How to Maximize Your Retirement Portfolio with These Top-Ranked Dividend Stocks,"The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",2024-04-04 13:10:03+00:00,https://www.zacks.com/stock/news/2250374/how-to-maximize-your-retirement-portfolio-with-these-top-ranked-dividend-stocks,Zacks Investment Research,-0.04861111111111111,0.6458333333333334,neutral,0.04861111111111111,False,False,False,False,False,True,False,False,0.0,307,"['BRX', 'KRG', 'CDP']",BRX,2024-04-04
+How to Maximize Your Retirement Portfolio with These Top-Ranked Dividend Stocks,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2024-04-10 13:10:03+00:00,https://www.zacks.com/stock/news/2253207/how-to-maximize-your-retirement-portfolio-with-these-top-ranked-dividend-stocks,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,328,"['BRX', 'KRG', 'CDP']",BRX,2024-04-10
+Buy The Dip: 2 REITs Getting Way Too Cheap,REITs are selling off again. I am buying the dip because I expect this sell-off to be short-lived. Find out 2 REITs that are getting way too cheap.,2024-04-15 11:30:00+00:00,https://seekingalpha.com/article/4683756-buy-the-dip-2-reits-getting-way-too-cheap,Seeking Alpha,0.4,0.7,positive,0.4,False,True,False,False,False,False,False,False,0.0,191,"['AHH', 'BRX', 'RIOCF', 'VNQ']",BRX,2024-04-15
+Essential Properties (EPRT) Lags Q1 FFO Estimates,"Essential Properties (EPRT) delivered FFO and revenue surprises of -2.33% and 0.13%, respectively, for the quarter ended March 2024. Do the numbers hold clues to what lies ahead for the stock?",2024-04-24 21:55:06+00:00,https://www.zacks.com/stock/news/2261668/essential-properties-eprt-lags-q1-ffo-estimates,Zacks Investment Research,0.0,0.2333333333333333,neutral,0.0,True,False,False,False,False,False,False,False,0.0,243,"['EPRT', 'BRX']",BRX,2024-04-24
+Brixmor (BRX) Reports Q1 Earnings: What Key Metrics Have to Say,"Although the revenue and EPS for Brixmor (BRX) give a sense of how its business performed in the quarter ended March 2024, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",2024-04-29 22:30:08+00:00,https://www.zacks.com/stock/news/2264565/brixmor-brx-reports-q1-earnings-what-key-metrics-have-to-say,Zacks Investment Research,0.09999999999999999,0.7000000000000001,neutral,0.09999999999999999,True,False,False,False,False,False,False,False,0.0,299,['BRX'],BRX,2024-04-29
+US Home Prices Rocket In February For Strongest One-Month Increase In 2 Years: Real Estate Stocks React,"U.S. residential home prices accelerated in February.
+Prices defied the gravitational pull of high mortgage costs and surpassed analysts’ expectations as reduced supply and robust economic momentum continued to drive up property valuations.
+U.S. house prices saw a 1.2% month-over-month growth in February 2024, the largest increase in a single month since April 2022, significantly outpacing expectations of a 0.1% growth, according to the Federal Housing Finance Agency (FHFA) seasonally adjusted monthly House Price Index (HPI). 
+
+Home Prices ‘Rebounded’
+Across the nine census divisions, the seasonally adjusted monthly price changes from January 2024 to February 2024 ranged from a 0.4% growth in the West South Central division to a 3.0% growth in the New England division.
+For the broader country, single-family house prices increased by 7% from February 2023 to February 2024, marking the highest one-year increase since November 2022. All census divisions reported positive 12-month changes, ranging from 3.7% ...Full story available on Benzinga.com",2024-04-30 16:36:37+00:00,https://www.benzinga.com/markets/equities/24/04/38528027/us-home-prices-rocket-in-february-for-strongest-one-month-increase-in-2-years-real-estate-stocks,Benzinga,0.1808008658008658,0.4199206349206349,positive,0.1808008658008658,False,False,False,False,False,False,False,False,0.0,1163,"['VNQ', 'OPEN', 'SBAC', 'KRG', 'LTC', 'MAC', 'SUI', 'BRX', 'NXRT', 'RDFN', 'ONL']",BRX,2024-04-30
+Where Brixmor Property Group Stands With Analysts,"Ratings for Brixmor Property Group (NYSE:BRX) were provided by 5 analysts in the past three months, showcasing a mix of bullish and bearish perspectives.
+The table below summarizes their recent ratings, showcasing the evolving sentiments within the past 30 days and comparing them to the preceding months.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+2
+1
+2
+0
+0
+
+
+Last 30D
+0
+1
+0
+0
+0
+
+
+1M Ago
+0
+0
+0
+0
+0
+
+
+2M Ago
+2
+0
+0
+0
+0
+
+
+3M Ago
+0
+0
+2
+0
+0
+
+
+
+The 12-month price targets, analyzed by analysts, offer insights with an average target of $25.2, a high estimate of $27.00, and a low estimate of $24.00. A negative shift in sentiment is evident as analysts have decreased the average price target by 0.2%. 
+
+Deciphering Analyst Ratings: An In-Depth Analysis
+The analysis of recent analyst actions sheds light on the perception of Brixmor Property Group by financial experts. The following summary presents key analysts, their recent evaluations, and adjustments to ratings and price targets.
+
+
+
+Analyst
+Analyst Firm
+Action Taken
+Rating
+Current Price Target
+Prior Price Target
+
+
+
+
+Michael Mueller
+JP Morgan
+Lowers
+Overweight
+$26.00
+$27.00
+
+
+Caitlin Burrows
+Goldman Sachs
+Lowers
+Buy
+$27.00
+$28.00
+
+
+Ki Bin Kim
+Truist Securities
+Maintains
+Buy
+$25.00
+-
+
+
+Linda Tsai
+Jefferies
+Raises
+Hold
+$24.00
+$23.00
+
+
+Vikram Malhotra
+Mizuho
+Raises
+Neutral
+$24.00
+$23.00
+
+
+
+Key Insights:
+
+Action Taken: Analysts adapt their recommendations to changing market conditions and company performance. Whether they 'Maintain', 'Raise' or 'Lower' their stance, it reflects their response to recent developments related to Brixmor Property Group. This information provides a snapshot of how analysts perceive the current state of the company.
+Rating: Gaining insights, analysts provide qualitative assessments, ranging from 'Outperform' to 'Underperform'. These ratings reflect expectations ...Full story available on Benzinga.com",2024-05-13 17:01:03+00:00,https://www.benzinga.com/insights/analyst-ratings/24/05/38796285/where-brixmor-property-group-stands-with-analysts,Benzinga,-0.010357142857142862,0.36809523809523814,neutral,0.010357142857142862,False,True,True,False,False,False,False,False,0.0,1985,['BRX'],BRX,2024-05-13
+Improve Your Retirement Income with These 3 Top-Ranked Dividend Stocks,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2024-06-14 13:10:02+00:00,https://www.zacks.com/stock/news/2288372/improve-your-retirement-income-with-these-3-top-ranked-dividend-stocks,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,319,"['BRX', 'UGI', 'UE']",BRX,2024-06-14
+Brixmor (BRX) Upgraded to Buy: What Does It Mean for the Stock?,"Brixmor (BRX) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",2024-06-14 16:00:10+00:00,https://www.zacks.com/stock/news/2288632/brixmor-brx-upgraded-to-buy-what-does-it-mean-for-the-stock,Zacks Investment Research,-0.28750000000000003,0.6958333333333333,negative,0.28750000000000003,True,True,False,False,False,False,False,False,0.0,206,['BRX'],BRX,2024-06-14
+Improve Your Retirement Income with These 3 Top-Ranked Dividend Stocks,"The traditional retirement planning approaches no longer cover all expenses in nest egg years. So what can retirees do? Thankfully, there are alternative investments that provide steady, higher-rate income streams to replace dwindling bond yields.",2024-06-20 13:10:02+00:00,https://www.zacks.com/stock/news/2290799/improve-your-retirement-income-with-these-3-top-ranked-dividend-stocks,Zacks Investment Research,0.08333333333333333,0.625,neutral,0.08333333333333333,False,False,False,False,False,True,False,False,0.0,319,"['BRX', 'FNF', 'UE']",BRX,2024-06-20
+Why Brixmor Property (BRX) is a Top Dividend Stock for Your Portfolio,"Brixmor Property (BRX) is a REIT stock that has seen a 9.8% price change so far this year. The company currently pays a dividend of $0.27 per share, with a dividend yield of 4.27%, higher than the industry and S&P 500 averages. Brixmor's dividend has increased by 4.8% annually over the last 5 years, and the company's payout ratio is 53%, indicating a sustainable dividend. The article suggests Brixmor is an attractive dividend play with a Zacks Rank of #2 (Buy).",2024-08-02 15:45:08+00:00,https://www.zacks.com/stock/news/2315443/why-brixmor-property-brx-is-a-top-dividend-stock-for-your-portfolio?cid=CS-ZC-FT-tale_of_the_tape|yseop_template_5-2315443,Zacks Investment Research,0.12142857142857141,0.6238095238095239,positive,0.12142857142857141,False,True,False,False,False,True,False,False,0.0,536,['BRX'],BRX,2024-08-02
+Kimco Realty Stock Rises 25.9% in Three Months: Here's How,"Kimco Realty's stock has risen 25.9% in the past three months, outperforming its industry's 17.2% rally. The company's focus on grocery-anchored shopping centers, mixed-use assets, and healthy balance sheet position it well for long-term growth.",2024-09-25 18:44:36+00:00,https://www.benzinga.com/news/large-cap/24/09/41012122/kimco-realty-stock-rises-25-9-in-three-months-heres-how,Benzinga,0.125,0.375,positive,0.125,False,False,False,False,False,False,False,False,0.0,305,"['KIM', 'KIMpL', 'KIMpM', 'KIMpN', 'BRX', 'SKT']",BRX,2024-09-25
+Simon Property Soars 17.4% Year to Date: Will the Trend Last?,"Simon Property Group's stock has soared 17.4% year-to-date, outperforming its industry. The company's diversified portfolio, omnichannel strategy, and healthy financials have contributed to its growth, but concerns remain around the impact of e-commerce on brick-and-mortar stores.",2024-10-08 19:14:52+00:00,https://www.benzinga.com/news/earnings/24/10/41236965/simon-property-soars-17-4-year-to-date-will-the-trend-last,Benzinga,0.25,0.2833333333333333,positive,0.25,False,False,False,False,False,False,False,False,0.0,344,"['SPG', 'SPGpJ', 'BRX']",BRX,2024-10-08

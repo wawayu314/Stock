@@ -1,0 +1,13 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2022-03-30,0.0817,,1,0.0817,0.0,0,0,1,0,0,0,0,0,599.0,BBUC
+2022-05-08,0.0,,1,0.0,0.0,1,0,0,0,0,0,0,0,176.0,BBUC
+2022-08-06,0.0,,1,0.0,0.0,1,0,0,0,0,0,0,0,128.0,BBUC
+2022-08-12,0.375,,1,0.375,0.0,0,1,0,0,0,0,0,0,645.0,BBUC
+2022-08-30,0.1083,,1,0.1083,0.0,0,0,0,0,0,1,0,0,145.0,BBUC
+2022-10-12,0.1,,1,0.1,0.0,0,1,0,0,0,1,0,0,151.0,BBUC
+2022-10-13,0.3121,,1,0.3121,0.0,0,0,0,0,0,1,0,0,142.0,BBUC
+2023-02-17,-0.2,,1,0.2,0.0,0,0,0,0,0,0,0,0,153.0,BBUC
+2023-03-17,0.0817,,1,0.0817,0.0,0,0,1,0,0,0,0,0,599.0,BBUC
+2023-06-13,0.15,,1,0.15,0.0,0,0,0,0,0,0,1,0,666.0,BBUC
+2023-12-11,0.3583,,1,0.3583,0.0,0,1,0,0,0,0,0,0,205.0,BBUC
+2024-06-20,0.1125,,1,0.1125,0.0,0,0,0,0,0,0,1,0,665.0,BBUC

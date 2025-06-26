@@ -1,0 +1,8 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2021-05-26,0.05,,1,0.05,0.0,1,0,0,0,0,0,0,0,1717.0,BBAR
+2021-09-13,0.4,,1,0.4,0.0,0,0,0,0,0,0,0,0,117.0,BBAR
+2022-08-25,0.0,,1,0.0,0.0,1,0,1,0,0,0,0,0,127.0,BBAR
+2022-10-04,0.175,,1,0.175,0.0,0,0,1,0,0,0,0,0,177.0,BBAR
+2023-02-24,0.2835,0.0097,2,0.2835,0.0,0,0,2,0,0,2,0,0,1270.5,BBAR
+2023-11-20,0.0859,0.0154,2,0.0859,0.0,1,0,0,0,0,0,0,0,1507.5,BBAR
+2024-09-27,0.125,,1,0.125,0.0,0,0,0,0,0,0,0,0,520.0,BBAR

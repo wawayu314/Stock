@@ -1,0 +1,1147 @@
+title,description,published_utc,article_url,publisher,sentiment_polarity,sentiment_subjectivity,sentiment_label,sentiment_confidence,keywords_earnings,keywords_acquisition,keywords_regulation,keywords_partnership,keywords_product,keywords_financial,keywords_leadership,keywords_lawsuit,urgency_score,text_length,tickers,ticker,date
+"The Daily Biotech Pulse: Priority Review For Amgen's Asthma Treatment, Evaxion Reports Positive Skin Cancer Readout, Quidel Recalls Lyra COVID-19 Test","Here's a roundup of top developments in the biotech space over the last 24 hours:
+Scaling The Peaks
+(Biotech Stocks Hitting 52-week Highs July 7)
+
+Ambrx Biopharma Inc. (NYSE: AMAM)
+Alkermes plc (NASDAQ: ALKS)
+AtriCure, Inc. (NASDAQ: ATRC)
+Bio-Rad Laboratories, Inc. (NYSE: BIO)
+Bio-Techne Corporation (NASDAQ: TECH)
+Biohaven Pharmaceutical Holding Company Ltd. (NYSE: BHVN) (pre-announced  better-than-expected Q2 sales of migraine drug)
+BioLife Solutions, Inc. (NASDAQ: BLFS)
+Edwards Lifesciences Corporation (NYSE: EW)
+Globus Medical, Inc. (NYSE: GMED)
+Intuitive Surgical, Inc. (NASDAQ: ISRG)
+IVERIC bio, Inc. (NASDAQ: ISEE)
+Laboratory Corporation of America Holdings (NYSE: LH)
+Novo Nordisk A/S (NYSE: NVO)
+Opiant Pharmaceuticals, Inc. (NASDAQ: OPNT) (announced  positive topline pharmacokinetic data for nasal spray of opioid overdose drug)
+ResMed Inc. (NYSE: RMD)
+Syneos Health, Inc. (NASDAQ: SYNH)
+Virpax Pharmaceuticals, Inc. (NASDAQ: VRPX) (provided a progress update on its pipeline of product candidates)
+West Pharmaceutical Services, Inc. (NYSE: WST)
+Zoetis Inc. (NYSE: ZTS)
+
+Down In The Dumps
+(Biotech Stocks Hitting 52-week Lows July 7)
+
+89bio, Inc. (NASDAQ: ETNB)
+AbCellera Biologics Inc. (NASDAQ: ABCL)
+Achilles Therapeutics plc (NASDAQ: ACHL)
+Adverum Biotechnologies, Inc. (NASDAQ: ADVM)
+Akouos, Inc. (NASDAQ: AKUS)
+Aerovate Therapeutics, Inc. (NASDAQ: AVTE) (went public June 30)
+Akouos, Inc. (NASDAQ: AKUS)
+Alzamend Neuro, Inc. (NASDAQ: ALZN)
+Angion Biomedica Corp. (NASDAQ: ANGN)
+Assembly Biosciences, Inc. (NASDAQ: ASMB)
+Ayala Pharmaceuticals, Inc. (NASDAQ: AYLA)
+Aytu Biopharma, Inc. (NASDAQ: AYTU)
+Aziyo Biologics, Inc. (NASDAQ: AZYO)
+Baudax Bio, Inc. (NASDAQ: BXRX)
+Biodesix, Inc. (NASDAQ: BDSX)
+Biophytis SA (NASDAQ: BPTS)
+BioXcel Therapeutics, Inc. (NASDAQ: BTAI)
+Black Diamond Therapeutics, Inc. (NASDAQ: BDTX)
+Bolt Biotherapeutics, Inc. (NASDAQ: BOLT)
+Calithera Biosciences, Inc. (NASDAQ: CALA)
+Cellectis S.A. (NASDAQ: CLLS)
+Celyad Oncology SA (NASDAQ: CYAD)
+Checkmate Pharmaceuticals, Inc. (NASDAQ: CMPI)
+Chembio Diagnostics, Inc. (NASDAQ: CEMI)
+Cogent Biosciences, Inc. (NASDAQ: COGT)
+Cullinan Oncology, Inc. (NASDAQ: CGEM)
+CytomX Therapeutics, Inc. (NASDAQ: CTMX)
+CVRx, Inc. (NASDAQ: CVRX) (IPOed June 30)
+DiaMedica Therapeutics Inc. (NASDAQ: DMAC)
+Exelixis, Inc. (NASDAQ: EXEL)
+Freeline Therapeutics Holdings plc (NASDAQ: FRLN)
+Galapagos NV (NASDAQ: GLPG)
+Galecto, Inc. (NASDAQ: GLTO)
+Gemini Therapeutics, Inc. (NASDAQ: GMTX)
+GlycoMimetics, Inc. (NASDAQ: GLYC)
+IMV Inc. (NASDAQ: IMV)
+Inhibikase Therapeutics, Inc. (NASDAQ: IKT)
+Kala Pharmaceuticals, Inc. (NASDAQ: KALA)
+Kiromic ...",2021-07-08 11:45:16+00:00,https://www.benzinga.com/general/biotech/21/07/21893094/the-daily-biotech-pulse-priority-review-for-amgens-asthma-treatment-evaxion-reports-positive-skin,Benzinga,0.0702581369248036,0.27182940516273857,neutral,0.0702581369248036,False,False,False,False,True,False,False,False,0.0,2764,"['CALA', 'ACHL', 'ALKS', 'MTEM', 'LLY', 'AYLA', 'ASMB', 'NRXP', 'AMGN', 'SYNH', 'NVO', 'AKUS', 'CLLS', 'ALZN', 'ATRC', 'BTAI', 'RMD', 'VYNE', 'GLPG', 'AMAM', 'BOLT', 'PRVB', 'WST', 'AZYO', 'CYAD', 'MIRO', 'COGT', 'DMAC', 'CEMI', 'KRBP', 'BDSX', 'NBRV', 'AVTE', 'EXEL', 'ISEE', 'CANF', 'GLTO', 'CTMX', 'CVRX', 'IBB', 'MORF', 'GMED', 'IKT', 'VYGR', 'ISRG', 'BPTS', 'SIBN', 'ABCL', 'BGNE', 'OPNT', 'NBSE', 'VECT', 'YMTX', 'AYTU', 'QDEL', 'FRLN', 'CMPI', 'EVAX', 'ADVM', 'RMTI', 'OYST', 'ZTS', 'IMV', 'VOR', 'MDGL', 'TECH', 'ETNB', 'GLYC', 'SNSE', 'BHVN', 'AZN', 'BXRX', 'QURE', 'TERN', 'MRSN', 'BIO', 'TARA', 'BLFS', 'GMTX', 'KALA', 'EW', 'BDTX', 'ANGN', 'VRPX', 'CGEM', 'LH', 'SONN']",COGT,2021-07-08
+"The Daily Biotech Pulse: Lilly, Morphic's Positive Data At ECCO, Humanigen's COVID Treatment Gets Expedited Review In UK, TransCode IPO","Here's a roundup of top developments in the biotech space over the last 24 hours.
+Scaling The Peaks
+(Biotech Stocks Hitting 52-week Highs July 8)
+
+Aerpio Pharmaceuticals, Inc. (NASDAQ: ARPO) (moved  on positive analyst action)
+Ambrx Biopharma Inc. (NYSE: AMAM)
+AtriCure, Inc. (NASDAQ: ATRC)
+Biohaven Pharmaceutical Holding Company Ltd. (NYSE: BHVN)
+BioLife Solutions, Inc. (NASDAQ: BLFS)
+Edwards Lifesciences Corporation (NYSE: EW)
+Novo Nordisk A/S (NYSE: NVO)
+Recursion Pharmaceuticals, Inc. (NASDAQ: RXRX)
+West Pharmaceutical Services, Inc. (NYSE: WST)
+
+Down In The Dumps
+(Biotech Stocks Hitting 52-week Lows July 8)
+
+89bio, Inc. (NASDAQ: ETNB)
+AbCellera Biologics Inc. (NASDAQ: ABCL)
+Achilles Therapeutics plc (NASDAQ: ACHL)
+Adicet Bio, Inc. (NASDAQ: ACET)
+ADMA Biologics, Inc. (NASDAQ: ADMA)
+Aerovate Therapeutics, Inc. (NASDAQ: AVTE) (IPOed June 30)
+Agile Therapeutics, Inc. (NASDAQ: AGRX)
+Akero Therapeutics, Inc. (NASDAQ: AKRO) (announced positive Phase 2 data for non-alcoholic steatohepatitis drug)
+Allogene Therapeutics, Inc. (NASDAQ: ALLO)
+AlloVir, Inc. (NASDAQ: ALVR)
+Aptose Biosciences Inc. (NASDAQ: APTO)
+Assembly Biosciences, Inc. (NASDAQ: ASMB)
+Ayala Pharmaceuticals, Inc. (NASDAQ: AYLA)
+Aytu Biopharma, Inc. (NASDAQ: AYTU)
+Aziyo Biologics, Inc. (NASDAQ: AZYO)
+Baudax Bio, Inc. (NASDAQ: BXRX)
+Biophytis SA (NASDAQ: BPTS)
+BioXcel Therapeutics, Inc. (NASDAQ: BTAI)
+Black Diamond Therapeutics, Inc. (NASDAQ: BDTX)
+Bolt Biotherapeutics, Inc. (NASDAQ: BOLT)
+Calithera Biosciences, Inc. (NASDAQ: CALA)
+CASI Pharmaceuticals, Inc. (NASDAQ: CASI)
+Cellectis S.A. (NASDAQ: CLLS)
+Celyad Oncology SA (NASDAQ: CYAD)
+Cerus Corporation (NASDAQ: CERS)
+Chembio Diagnostics, Inc. (NASDAQ: CEMI)
+Cidara Therapeutics, Inc. (NASDAQ: CDTX)
+Concert Pharmaceuticals, Inc. (NASDAQ: CNCE)
+Cogent Biosciences, Inc. (NASDAQ: COGT)
+CytomX Therapeutics, Inc. (NASDAQ: CTMX)
+CVRx, Inc. (NASDAQ: CVRX) (IPOed June 30)
+Design Therapeutics, Inc. (NASDAQ: DSGN)
+DURECT Corporation (NASDAQ: DRRX)
+Ensysce Biosciences, Inc. (NASDAQ: ENSC)
+Exelixis, Inc. (NASDAQ: EXEL)
+Exicure, Inc. (NASDAQ: XCUR)
+Galapagos NV (NASDAQ: GLPG)
+Galecto, Inc. (NASDAQ: GLTO)
+Gemini Therapeutics, Inc. (NASDAQ: GMTX)
+GlycoMimetics, Inc. (NASDAQ: GLYC)
+Inhibikase Therapeutics, Inc. (NASDAQ: IKT)
+iRhythm Technologies, Inc. (NASDAQ: IRTC)
+Kala Pharmaceuticals, Inc. (NASDAQ: KALA)
+Kiromic BioPharma, Inc. (NASDAQ: KRBP)
+LogicBio Therapeutics, Inc. (NASDAQ: LOGC)
+Lyell Immunopharma, Inc. (NASDAQ: LYEL)
+Medicenna Therapeutics Corp. (NASDAQ: MDNA)
+MediciNova, Inc. (NASDAQ: MNOV)
+Mersana Therapeutics, Inc. (NASDAQ: MRSN)
+Miromatrix Medical Inc. (NASDAQ:",2021-07-09 11:36:16+00:00,https://www.benzinga.com/general/biotech/21/07/21912491/the-daily-biotech-pulse-lilly-morphics-positive-data-at-ecco-humanigens-covid-treatment-gets-expe,Benzinga,0.18919968919968919,0.4442501942501943,positive,0.18919968919968919,False,False,False,False,False,False,False,False,0.0,2746,"['EW', 'AZYO', 'CLLS', 'LYEL', 'MOR', 'ARPO', 'LLY', 'TSHA', 'CDTX', 'AMAM', 'ACET', 'BTAI', 'NVO', 'KRBP', 'GLPG', 'MIRO', 'ALVR', 'MDNA', 'WST', 'GLTO', 'CYAD', 'AVTE', 'AMGN', 'XCUR', 'CEMI', 'IKT', 'NBRV', 'CVRX', 'ATRC', 'ALLO', 'OSMT', 'CASI', 'SGTX', 'CTMX', 'TPST', 'BOLT', 'CYCN', 'GLYC', 'ABCL', 'VYGR', 'ENSC', 'CERS', 'AKRO', 'QURE', 'YMTX', 'BGNE', 'COGT', 'MORF', 'CNCE', 'SNSE', 'AYTU', 'DRRX', 'BPTS', 'AGRX', 'PHVS', 'IRTC', 'EXEL', 'ETNB', 'BLFS', 'GMTX', 'BHVN', 'IBB', 'LOGC', 'BXRX', 'OTIC', 'NEXI', 'OVID', 'MNOV', 'BDTX', 'CALA', 'DSGN', 'MRSN', 'NLTX', 'SONN', 'ADMA', 'ACHL', 'KALA', 'RMTI', 'AYLA', 'APTO', 'RXRX', 'MTEM', 'AZN', 'VYNE', 'ASMB', 'NRXP', 'HGEN']",COGT,2021-07-09
+"The Daily Biotech Pulse: Equillium Issues Positive Regulatory Update, Biogen In-Licenses Multiple Sclerosis Drug, Aridis Releases COVID-19 Antibody Cocktail Data","Here's a roundup of top developments in the biotech space over the last 24 hours:
+Scaling The Peaks
+(Biotech Stocks Hitting 52-week Highs July 12)
+
+AbbVie Inc. (NYSE: ABBV)
+Alexion Pharmaceuticals, Inc. (NASDAQ: ALXN)
+Alnylam Pharmaceuticals, Inc. (NASDAQ: ALNY)
+AngioDynamics, Inc. (NASDAQ: ANGO)
+AtriCure, Inc. (NASDAQ: ATRC)
+Bio-Techne Corporation (NASDAQ: TECH)
+BioLife Solutions, Inc. (NASDAQ: BLFS)
+Celldex Therapeutics, Inc. (NASDAQ: CLDX)
+Elevation Oncology, Inc. (NASDAQ: ELEV)
+Globus Medical, Inc. (NYSE: GMED)
+Myriad Genetics, Inc. (NASDAQ: MYGN)
+Protagonist Therapeutics, Inc. (NASDAQ: PTGX)
+Recursion Pharmaceuticals, Inc. (NASDAQ: RXRX)
+Sierra Oncology, Inc. (NASDAQ: SRRA)
+West Pharmaceutical Services, Inc. (NYSE: WST)
+Zoetis Inc. (NYSE: ZTS)
+
+Down In The Dumps
+(Biotech Stocks Hitting 52-week Lows July 12)
+
+Aerovate Therapeutics, Inc. (NASDAQ: AVTE) (IPOed June 30)
+Aptose Biosciences Inc. (NASDAQ: APTO)
+Aziyo Biologics, Inc. (NASDAQ: AZYO)
+Celyad Oncology SA (NASDAQ: CYAD)
+Cogent Biosciences, Inc. (NASDAQ: COGT)
+iRhythm Technologies, Inc. (NASDAQ: IRTC)
+Kala Pharmaceuticals, Inc. (NASDAQ: KALA)
+Kiromic BioPharma, Inc. (NASDAQ: KRBP)
+Molecular Templates, Inc. (NASDAQ: MTEM)
+NexImmune, Inc. (NASDAQ: NEXI)
+Nymox Pharmaceutical Corporation (NASDAQ: NYMX)
+Sigilon Therapeutics, Inc. (NASDAQ: SGTX)
+Terns Pharmaceuticals, Inc. (NASDAQ: TERN)
+TransCode Therapeutics, Inc. (NASDAQ: RNAZ) (IPOed Friday)
+UroGen Pharma Ltd. (NASDAQ: URGN)
+
+Stocks In Focus
+Equillium Announces End-Of-Phase 2 Meeting With FDA For Graft-Versus-Host Disease Treatment; Pivotal Late-Stage Study To Start In Q4
+Equillium, Inc. (NASDAQ: EQ) announced the completion of an end-of-Phase 1 meeting with the Food and Drug Administration for itolizumab in first-line treatment of patients with acute graft-versus-host disease. The meeting confirmed a path to advance itolizumab into a single Phase 3 pivotal study to support the biologics license application for the indication. The company said it plans to initiate the Phase 3 study in the fourth quarter.
+The stock was up 3.19% at $5.82 in premarket trading.
+Biogen In-Licenses Multiple Sclerosis Drug From Hong Kong's InnoCare 
+Biogen, Inc. (NASDAQ: BIIB) and Hong Kong-based InnoCare Pharma Limited announced a license and collaboration agreement for orelabrutinib for the potential treatment of multiple sclerosis.
+Orelabrutinib has high selectivity and the ability to cross the blood-brain barrier, and is being studied in a ...",2021-07-13 12:05:05+00:00,https://www.benzinga.com/general/biotech/21/07/21952961/the-daily-biotech-pulse-equillium-issues-positive-regulatory-update-biogen-in-licenses-multiple-s,Benzinga,0.13625579099263307,0.35779752411331356,positive,0.13625579099263307,False,False,True,False,True,False,False,False,0.0,2636,"['ELEV', 'ARDS', 'ALNY', 'GMED', 'ISEE', 'ALXN', 'ZTS', 'BCYC', 'ANGO', 'ABBV', 'AFIB', 'ATRC', 'BLFS', 'AZYO', 'BIIB', 'APTO', 'KRBP', 'CLDX', 'CYAD', 'SGTX', 'COGT', 'PLXP', 'TERN', 'CYCC', 'IONS', 'NEXI', 'IBB', 'PTGX', 'RXRX', 'MYGN', 'IRTC', 'RNAZ', 'NYMX', 'SRRA', 'AVTE', 'TECH', 'URGN', 'EQ', 'KALA', 'JNJ', 'WMT', 'MTEM', 'WST', 'ASLN']",COGT,2021-07-13
+"The Daily Biotech Pulse: ScPharma's Positive Data, Lilly Goes Shopping, LeMaitre Pre-Announces Q2 Revenues","Here's a roundup of top developments in the biotech space over the last 24 hours.
+Scaling The Peaks
+(Biotech Stocks Hitting 52-week Highs July 13)
+
+Biohaven Pharmaceutical Holding Company Ltd. . (NYSE: BHVN)
+AngioDynamics, Inc. (NASDAQ: ANGO) (reacted to its fiscal-year 2021 fourth-quarter results)
+Bicycle Therapeutics plc (NASDAQ: BCYC) (announced  Ionis Pharmaceuticals, Inc. (NASDAQ: IONS) exercised option to use its tissue-targeted delivery of oligonucleotide therapeutics tech)
+Celldex Therapeutics, Inc. (NASDAQ: CLDX)
+Forward Pharma A/S (NASDAQ: FWP)
+Intuitive Surgical, Inc. (NASDAQ: ISRG)
+PLx Pharma Inc. (NASDAQ: PLXP) (announced availability of FDA-approved liquid-filled aspirin capsules in Walmart Inc. (NYSE: WMT) stores)
+Recursion Pharmaceuticals, Inc. (NASDAQ: RXRX)
+Unicycive Therapeutics, Inc. (NASDAQ: UNCY) (IPOed Tuesday)
+Zoetis Inc. (NYSE: ZTS)
+
+Down In The Dumps
+(Biotech Stocks Hitting 52-week Lows July 13)
+
+AbCellera Biologics Inc. (NASDAQ: ABCL)
+Achilles Therapeutics plc (NASDAQ: ACHL)
+Adicet Bio, Inc. (NASDAQ: ACET)
+Allogene Therapeutics, Inc. (NASDAQ: ALLO)
+Aptose Biosciences Inc. (NASDAQ: APTO)
+Avenue Therapeutics, Inc. (NASDAQ: ATXI)
+Aziyo Biologics, Inc. (NASDAQ: AZYO)
+BioXcel Therapeutics, Inc. (NASDAQ: BTAI)
+Black Diamond Therapeutics, Inc. (NASDAQ: BDTX)
+Codex DNA, Inc. (NASDAQ: DNAY)
+Concert Pharmaceuticals, Inc. (NASDAQ: CNCE)
+Cogent Biosciences, Inc. (NASDAQ: COGT)
+Cue Biopharma, Inc. (NASDAQ: CUE)
+CytomX Therapeutics, Inc. (NASDAQ: CTMX)
+DURECT Corporation (NASDAQ: DRRX)
+Foghorn Therapeutics Inc. (NASDAQ: FHTX)
+HOOKIPA Pharma Inc. (NASDAQ: HOOK)
+Ikena Oncology, Inc. (NASDAQ: IKNA)
+iRhythm Technologies, Inc. (NASDAQ: IRTC)
+Kala Pharmaceuticals, Inc. (NASDAQ: KALA)
+Kiromic BioPharma, Inc. (NASDAQ: KRBP)
+Leap Therapeutics, Inc. (NASDAQ: LPTX)
+Medicenna Therapeutics Corp. (NASDAQ: MDNA)
+Mersana Therapeutics, Inc. (NASDAQ: MRSN)
+Minerva Neurosciences, Inc. (NASDAQ: NERV)
+Miromatrix Medical Inc. (NASDAQ: MIRO)
+Molecular Templates, Inc. (NASDAQ: MTEM)
+Neoleukin Therapeutics, Inc. (NASDAQ: NLTX)
+NextCure, Inc. (NASDAQ: NXTC)
+NuCana plc (NASDAQ: NCNA)
+Nymox Pharmaceutical Corporation (NASDAQ: NYMX)
+Orchard Therapeutics plc (NASDAQ: ORTX)
+PolyPid Ltd. (NASDAQ: PYPD)
+Sensei Biotherapeutics, Inc. (NASDAQ: SNSE)
+Sigilon Therapeutics, Inc. (NASDAQ: SGTX)
+Singular Genomics Systems, Inc. (NASDAQ: OMIC)
+Terns Pharmaceuticals, ...",2021-07-14 11:48:12+00:00,https://www.benzinga.com/general/biotech/21/07/21973987/the-daily-biotech-pulse-scpharmas-positive-data-lilly-goes-shopping-lemaitre-pre-announces-q2-rev,Benzinga,0.057864357864357875,0.26204906204906203,neutral,0.057864357864357875,True,False,True,False,False,False,False,False,0.0,2490,"['MTEM', 'ACET', 'KRBP', 'ZTS', 'NCNA', 'ANGO', 'FHTX', 'QURE', 'ALNA', 'CLDX', 'SGTX', 'CNCE', 'SCPH', 'COGT', 'ABCL', 'NERV', 'CUE', 'DRRX', 'VOR', 'FWP', 'BTAI', 'HOLX', 'SNSE', 'APTO', 'CTMX', 'MDNA', 'HOOK', 'TERN', 'PLXP', 'ALLO', 'IBB', 'IKNA', 'IONS', 'ORTX', 'ISRG', 'ACHL', 'MDGL', 'NXTC', 'LMAT', 'RXRX', 'IRTC', 'BCYC', 'NLTX', 'RNAZ', 'LPTX', 'BDTX', 'NYMX', 'OMIC', 'BHVN', 'IMRA', 'CNC', 'DNAY', 'ATXI', 'PYPD', 'LLY', 'MRSN', 'AZYO', 'WMT', 'MIRO', 'KALA', 'UPC', 'SIBN']",COGT,2021-07-14
+"The Daily Biotech Pulse: Ardelyx Sinks On Regulatory Setback, AnPac Issues Positive Preannouncement, European Nod For Myovant, HCW Biologics Debuts On Wall Street","Here's a roundup of top developments in the biotech space over the last 24 hours:
+Scaling The Peaks
+(Biotech Stocks Hitting 52-week Highs July 19)
+
+Cytokinetics, Incorporated (NASDAQ: CYTK) (announced  topline results from Cohorts 1 and 2 of the Phase 2 study of CK-274 in obstructive outflow disease in hypertrophic cardiomyopathy)
+Forward Pharma A/S (NASDAQ: FWP)
+ResMed Inc. (NYSE: NRMD)
+Legend Biotech Corporation (NASDAQ: LEGN)
+Moderna, Inc. (NASDAQ: MRNA) (extended gains  on recent momentum)
+
+Down In The Dumps
+(Biotech Stocks Hitting 52-week Lows July 19)
+
+4D pharma plc (NASDAQ: LBPS)
+Adaptimmune Therapeutics plc (NASDAQ: ADAP)
+Adverum Biotechnologies, Inc. (NASDAQ: ADVM)
+Aerovate Therapeutics, Inc. (NASDAQ: AVTE) (IPOed June 30)
+Agile Therapeutics, Inc. (NASDAQ: AGRX)
+Allena Pharmaceuticals, Inc. (NASDAQ: ALNA)
+Alzamend Neuro, Inc. (NASDAQ: ALZN)
+Aptose Biosciences Inc. (NASDAQ: APTO)
+ARCA biopharma, Inc. (NASDAQ: ABIO)
+Ascendis Pharma A/S (NASDAQ: ASND)
+Assembly Biosciences, Inc. (NASDAQ: ASMB)
+Assertio Holdings, Inc. (NASDAQ: ASRT)
+Athersys, Inc. (NASDAQ: ATHX)
+Athira Pharma, Inc. (NASDAQ: ATHA)
+Atreca, Inc. (NASDAQ: BCEL)
+Avenue Therapeutics, Inc. (NASDAQ: ATXI)
+Aytu Biopharma, Inc. (NASDAQ: AYTU)
+AzurRx BioPharma, Inc. (NASDAQ: AZRX)
+Baudax Bio, Inc. (NASDAQ: BXRX)
+Biomea Fusion, Inc. (NASDAQ: BMEA)
+Biophytis SA (NASDAQ: BPTS)
+Centessa Pharmaceuticals Limited (NASDAQ: CNTA)
+Cogent Biosciences, Inc. (NASDAQ: COGT)
+Coherus BioSciences, Inc. (NASDAQ: CHRS)
+Concert Pharmaceuticals, Inc. (NASDAQ: CNCE)
+CytomX Therapeutics, Inc. (NASDAQ: CTMX)
+Design Therapeutics, Inc. (NASDAQ: DSGN)
+DURECT Corporation (NASDAQ: DRRX)
+Edgewise Therapeutics, Inc. (NASDAQ: EWTX)
+Eloxx Pharmaceuticals, Inc. (NASDAQ: ELOX)
+Enveric Biosciences, Inc. (NASDAQ: ENVB)
+Esperion Therapeutics, Inc. (NASDAQ: ESPR)
+Eton Pharmaceuticals, Inc. (NASDAQ: ETON)
+Exelixis, Inc. (NASDAQ: EXEL)
+Flexion Therapeutics, Inc. (NASDAQ: FLXN)
+Galecto, Inc. (NASDAQ: GLTO)
+Genfit SA (NASDAQ: GNFT)
+Global Blood Therapeutics, Inc. (NASDAQ: GBT)
+GlycoMimetics, Inc. (NASDAQ: GLYC)
+Gossamer Bio, Inc. (NASDAQ: GOSS)
+Heron Therapeutics, Inc. (NASDAQ: HRTX)
+HOOKIPA Pharma Inc. (NASDAQ: HOOK)
+IMV Inc. (NASDAQ: IMV) (reacted to a proposed common stock offering)
+InflaRx N.V. (NASDAQ: IFRX)
+Inhibikase Therapeutics, Inc. (NASDAQ: IKT)
+InMed Pharmaceuticals Inc. (NASDAQ: INM)
+Innate Pharma S.A. (NASDAQ: IPHA)
+iRhythm Technologies, Inc. (NASDAQ: IRTC)
+Kala Pharmaceuticals, Inc. (NASDAQ: KALA)
+Kamada Ltd. (NASDAQ: KMDA)
+Kiromic BioPharma, Inc. (NASDAQ: KRBP)
+Lava Therapeutics B.V. (NASDAQ: LVTX)
+Leap Therapeutics, Inc. (NASDAQ: LPTX)
+Liminal BioSciences Inc. (NASDAQ: LMNL)
+Madrigal Pharmaceuticals, Inc. (NASDAQ: MDGL)
+Medicenna Therapeutics Corp. (NASDAQ: MDNA)
+Mersana Therapeutics, Inc. (NASDAQ: MRSN)
+Metacrine, Inc. (NASDAQ: MTCR)
+Minerva Neurosciences, Inc. (NASDAQ: NERV)
+Molecular Templates, Inc. (NASDAQ: MTEM)
+MorphoSys AG (NASDAQ: MOR)
+Nabriva Therapeutics plc (NASDAQ: NBRV)
+Neoleukin Therapeutics, Inc. (NASDAQ: NLTX)
+NexImmune, Inc. (NASDAQ: NEXI)
+NextCure, Inc. (NASDAQ: NXTC)
+NuCana plc (NASDAQ: NCNA)
+Nuvation Bio Inc. (NYSE: NUVB)
+OncoSec Medical Incorporated (NASDAQ: ONCS)
+Orchard Therapeutics plc (NASDAQ: ORTX)
+Otonomy, Inc. (NASDAQ: OTIC)
+Pharming Group N.V. (NASDAQ: PHAR)
+Pharvaris N.V. (NASDAQ: PHVS)
+Phio Pharmaceuticals Corp. (NASDAQ: PHIO)
+Pluristem Therapeutics Inc. (NASDAQ: PSTI)
+PolyPid Ltd. (NASDAQ: PYPD)
+Protara Therapeutics, Inc. (NASDAQ: TARA)
+Regencell Bioscience Holdings Limited (NASDAQ: RGC)
+Reviva Pharmaceuticals Holdings, Inc. ...",2021-07-20 12:19:55+00:00,https://www.benzinga.com/general/biotech/21/07/22057476/the-daily-biotech-pulse-ardelyx-sinks-on-regulatory-setback-anpac-issues-positive-preannouncement,Benzinga,0.037775716347144925,0.22762317048031333,neutral,0.037775716347144925,False,False,True,False,False,False,False,False,0.0,3723,"['IMNM', 'MRSN', 'DSGN', 'ARDX', 'NXTC', 'MOR', 'NBRV', 'KRBP', 'ZGNX', 'KALA', 'BMEA', 'TBPH', 'BCEL', 'ABIO', 'CTMX', 'GLTO', 'ONCS', 'MTEM', 'RNAZ', 'NERV', 'BPTS', 'ATHX', 'PLXP', 'VYGR', 'IKT', 'SRPT', 'NCNA', 'CNTA', 'HRTX', 'MRNA', 'COGT', 'TLGT', 'TVTX', 'PHAR', 'ALNA', 'ALZN', 'TTOO', 'IPHA', 'CYTK', 'AYTU', 'SGTX', 'VECT', 'IFRX', 'OTIC', 'ANPC', 'DRRX', 'ADVM', 'VVOS', 'AMRX', 'ELOX', 'AVTE', 'ASND', 'LMNL', 'EXEL', 'AZRX', 'YMTX', 'TXMD', 'MDNA', 'FWP', 'BXRX', 'HOOK', 'IART', 'MDGL', 'ENVB', 'ESPR', 'ETON', 'CHRS', 'TARA', 'IBB', 'IRTC', 'VOR', 'IMV', 'ASRT', 'INM', 'SONN', 'ISRG', 'MYOV', 'PHVS', 'KMDA', 'LEGN', 'ZIVO', 'LTRN', 'NLTX', 'ALBO', 'NEXI', 'GLYC', 'APTO', 'PYPD', 'PSTI', 'SNOA', 'NUVB', 'QURE', 'ORTX', 'WBA', 'VYNE', 'MTCR', 'RMTI', 'LPTX', 'LBPS', 'CNCE', 'PHIO', 'ASMB', 'ATHA', 'BBI', 'SLNO', 'LVTX', 'FLXN', 'GOSS', 'ADAP', 'UPC', 'MRK', 'ATXI', 'EWTX', 'AGRX', 'GNFT', 'GBT']",COGT,2021-07-20
+"The Daily Biotech Pulse: Pfizer, Bristol-Myers Squibb Earnings, Amgen Goes Shopping, GlaxoSmithKline-Vir's COVID-19 Antibody Treatment Supply Deal","Here's a roundup of top developments in the biotech space over the last 24 hours.
+Scaling The Peaks
+(Biotech Stocks Hitting 52-week Highs July 27)
+
+Bio-Rad Laboratories, Inc. (NYSE: BIO) (announced a settlement agreement with 10x Genomics, Inc. (Nasdaq: TXG))
+Boston Scientific Corporation (NYSE: BSX) (reacted to its second-quarter results)
+Edwards Lifesciences Corporation (NYSE: EW)
+Globus Medical, Inc. (NYSE: GMED)
+IDEAYA Biosciences, Inc. (NASDAQ: IDYA)
+ResMed Inc. (NYSE: RMD)
+Translate Bio, Inc. (NASDAQ: TBIO)
+
+Down In The Dumps
+(Biotech Stocks Hitting 52-week Lows July 27)
+
+23andMe Holding Co. (NASDAQ: ME)
+89bio, Inc. (NASDAQ: ETNB)
+AbCellera Biologics Inc. (NASDAQ: ABCL)
+Achilles Therapeutics plc (NASDAQ: ACHL)
+Acumen Pharmaceuticals, Inc. (NASDAQ: ABOS)
+Acurx Pharmaceuticals, Inc. (NASDAQ: ACXP)
+Adaptimmune Therapeutics plc (NASDAQ: ADAP)
+Adicet Bio, Inc. (NASDAQ: ACET)
+Aerovate Therapeutics, Inc. (NASDAQ: AVTE)
+Agile Therapeutics, Inc. (NASDAQ: AGRX)
+Akero Therapeutics, Inc. (NASDAQ: AKRO)
+Akouos, Inc. (NASDAQ: AKUS)
+Allena Pharmaceuticals, Inc. (NASDAQ: ALNA)
+Allogene Therapeutics, Inc. (NASDAQ: ALLO)
+Alzamend Neuro, Inc. (NASDAQ: ALZN)
+Aptose Biosciences Inc. (NASDAQ: APTO)
+Aravive, Inc. (NASDAQ: ARAV)
+Aridis Pharmaceuticals, Inc. (NASDAQ: ARDS)
+Ascendis Pharma A/S (NASDAQ: ASND)
+Assertio Holdings, Inc. (NASDAQ: ASRT)
+Atai Life Sciences N.V. (NASDAQ: ATAI)
+Athenex, Inc. (NASDAQ: ATNX)
+Avenue Therapeutics, Inc. (NASDAQ: ATXI)
+Avidity Biosciences, Inc. (NASDAQ: RNA)
+AVROBIO, Inc. (NASDAQ: AVRO)
+Aytu Biopharma, Inc. (NASDAQ: AYTU)
+Biodesix, Inc. (NASDAQ: BDSX)
+Biomea Fusion, Inc. (NASDAQ: BMEA)
+BioXcel Therapeutics, Inc. (NASDAQ: BTAI)
+Bolt Biotherapeutics, Inc. (NASDAQ: BOLT)
+Burning Rock Biotech Limited (NASDAQ: BNR)
+Cara Therapeutics, Inc. (NASDAQ: CARA)
+Caribou Biosciences, Inc. (NASDAQ: CRBU)
+CASI Pharmaceuticals, Inc. (NASDAQ: CASI)
+Cellectis S.A. (NASDAQ: CLLS)
+Cogent Biosciences, Inc. (NASDAQ: COGT)
+Coherus BioSciences, Inc. (NASDAQ: CHRS)
+Concert Pharmaceuticals, Inc. (NASDAQ: CNCE)
+Corvus Pharmaceuticals, Inc. (NASDAQ: CRVS)
+Cullinan Oncology, Inc. (NASDAQ: CGEM)
+CytomX Therapeutics, Inc. (NASDAQ: CTMX)
+Deciphera Pharmaceuticals, Inc. (NASDAQ: DCPH)
+Design Therapeutics, Inc. (NASDAQ: DSGN)
+DiaMedica Therapeutics Inc. (NASDAQ: DMAC)
+Elevation Oncology, Inc. (NASDAQ: ELEV)
+Epizyme, Inc. (NASDAQ: EPZM)
+Esperion Therapeutics, Inc. (NASDAQ: ESPR)
+Exelixis, Inc. (NASDAQ: EXEL)
+Exicure, Inc. (NASDAQ: XCUR)
+FibroGen, Inc. (NASDAQ: FGEN)
+Flexion Therapeutics, Inc. (NASDAQ: FLXN)
+Freeline Therapeutics Holdings plc (NASDAQ: FRLN)
+Fulcrum Therapeutics, Inc. (NASDAQ: FULC)
+Gain Therapeutics, Inc. (NASDAQ: GANX)
+Gemini Therapeutics, Inc. (NASDAQ: GMTX)
+Global Blood Therapeutics, Inc. (NASDAQ: GBT)
+Harmony Biosciences Holdings, Inc. (NASDAQ: HRMY)
+Harpoon Therapeutics, Inc. (NASDAQ: HARP)
+Heron Therapeutics, Inc. (NASDAQ: HRTX)
+Immunic, Inc. (NASDAQ: IMUX)
+Inhibikase Therapeutics, Inc. (NASDAQ: IKT)
+Insmed Incorporated (NASDAQ: INSM)
+InspireMD, Inc. (NASDAQ: NSPR)
+Kala Pharmaceuticals, Inc. (NASDAQ: KALA)
+Kamada ...",2021-07-28 11:33:19+00:00,https://www.benzinga.com/general/biotech/21/07/22192935/the-daily-biotech-pulse-pfizer-bristol-myers-squibb-earnings-amgen-goes-shopping-glaxosmithkline-,Benzinga,0.09662698412698413,0.2185515873015873,neutral,0.09662698412698413,True,False,True,False,False,False,False,True,0.0,3220,"['BTAI', 'MOR', 'GMTX', 'NERV', 'IDYA', 'NYMX', 'CRVS', 'HRMY', 'SRPT', 'XCUR', 'ACET', 'NEXI', 'SAGE', 'AKRO', 'PSTI', 'AYTU', 'MTCR', 'GMED', 'AVRO', 'ALKS', 'GANX', 'HRTX', 'FULC', 'RMTI', 'SYRS', 'ORPH', 'VECT', 'ANVS', 'ARDS', 'AMGN', 'DSGN', 'VKTX', 'MIRM', 'TEVA', 'MDGL', 'TSHA', 'CASI', 'ASRT', 'ARNA', 'ACHL', 'LNTH', 'NBSE', 'VNDA', 'MYOV', 'UPC', 'EPZM', 'ALLO', 'ATAI', 'BMEA', 'ASND', 'PSTV', 'BIO', 'ABOS', 'KRBP', 'ESPR', 'TCRX', 'BMRN', 'MNMD', 'CHRS', 'FRLN', 'BMY', 'SLNO', 'PRAX', 'BDSX', 'KMDA', 'ORTX', 'BOLT', 'OMIC', 'TXG', 'ETNB', 'BSX', 'ATXI', 'IKT', 'RNA', 'VIR', 'COGT', 'LYEL', 'FGEN', 'LMNL', 'EW', 'ATNX', 'SGTX', 'BNR', 'ARAV', 'EXAS', 'NAUT', 'APTO', 'TARA', 'ME', 'MRSN', 'ABCL', 'CNCE', 'DMAC', 'EXEL', 'ALZN', 'CLLS', 'LUMO', 'PFE', 'KALA', 'VVOS', 'FLXN', 'TCRR', 'HOLX', 'ACXP', 'ADAP', 'ORIC', 'PPD', 'CGEM', 'SCPS', 'TRVN', 'HARP', 'IART', 'AVTE', 'GBT', 'LYRA', 'RMD', 'NCNA', 'DCPH', 'YMTX', 'CARA', 'XFOR', 'INSM', 'SERA', 'CTMX', 'LTRN', 'TBIO', 'OPTN', 'VOR', 'MDWD', 'IMUX', 'MBRX', 'CRBU', 'RLMD', 'AKUS', 'NSPR', 'ALNA', 'TERN', 'AGRX', 'NXTC', 'NLTX', 'VYGR', 'PYPD', 'ELEV']",COGT,2021-07-28
+"The Daily Biotech Pulse: Sanofi Buys Translate Bio In $3.2B Deal, Lilly's Q2 Earnings Disappoint, Bausch To Spin Off Medical Aesthetics Business","Here's a roundup of top developments in the biotech space over the last 24 hours:
+Scaling The Peaks
+(Biotech Stocks Hitting 52-week Highs Aug. 2)
+
+Absci, CORP (NASDAQ: ABSI) (IPOed July 22)
+Alkermes plc (NASDAQ: ALKS) (received fast track designation for nemvaleukin alfa for the treatment of mucosal melanoma)
+AtriCure, Inc. (NASDAQ: ATRC)
+Axonics, Inc. (NASDAQ: AXNX)
+Bio-Rad Laboratories, Inc. (NYSE: BIO)
+BioNTech SE (NASDAQ: BNTX)
+Boston Scientific Corporation (NYSE: BSX)
+Cytek Biosciences, Inc. (NASDAQ: CTKB) (IPOed July 23)
+Imago BioSciences, Inc. (NASDAQ: IMGO) (IPOed July 16)
+Innoviva, Inc. (NASDAQ: INVA)
+Intuitive Surgical, Inc. (NASDAQ: ISRG)
+Misonix, Inc. (NASDAQ: MSON)
+Moderna, Inc. (NASDAQ: MRNA)
+Monte Rosa Therapeutics, Inc. (NASDAQ: GLUE)
+Novo Nordisk A/S (NYSE: NVO)
+Nuvalent, Inc. (NASDAQ: NUVL) (IPOed Thursday)
+Pfizer Inc. (NYSE: PFE)
+Protagonist Therapeutics, Inc. (NASDAQ: PTGX)
+Quest Diagnostics Incorporated (NYSE: DGX)
+Repligen Corporation (NASDAQ: RGEN)
+Sight Sciences, Inc. (NASDAQ: SGHT) (IPOed July 15)
+West Pharmaceutical Services, Inc. (NYSE: WST)
+
+Down In The Dumps
+(Biotech Stocks Hitting 52-week Lows Aug. 2)
+
+23andMe Holding Co. (NASDAQ: ME)
+Adicet Bio, Inc. (NASDAQ: ACET)
+Adverum Biotechnologies, Inc. (NASDAQ: ADVM)
+Cogent Biosciences, Inc. (NASDAQ: COGT)
+Esperion Therapeutics, Inc. (NASDAQ: ESPR)
+EyeGate Pharmaceuticals, Inc. (NASDAQ: EYEG)
+Foghorn Therapeutics Inc. (NASDAQ: FHTX)
+Gain Therapeutics, Inc. (NASDAQ: GANX)
+Icosavax, Inc. (NASDAQ: ICVX) (IPOed Thursday)
+Immunovant, Inc. (NASDAQ: IMVT) (announced  $200-million equity investment from Roivant Sciences)
+Minerva Neurosciences, Inc. (NASDAQ: NERV) (reacted to second-quarter results)
+Nautilus Biotechnology, Inc. (NASDAQ: NAUT)
+NexImmune, Inc. (NASDAQ: NEXI)
+Outset Medical, Inc. (NASDAQ: OM)
+Oyster Point Pharma, Inc. (NASDAQ: OYST)
+Palisade Bio, Inc. (NASDAQ: PALI)
+Plus Therapeutics, Inc. (NASDAQ: PSTV)
+Progenity, Inc. (NASDAQ: PROG)
+Revive Therapeutics Ltd. (NASDAQ: RVVTF)
+Rhythm Pharmaceuticals, Inc. (NASDAQ: RYTM)
+Spruce Biosciences, Inc. (NASDAQ: SPRB)
+Theravance Biopharma, Inc. (NASDAQ: TBPH)
+Trillium Therapeutics Inc. (NASDAQ: TRIL)
+VectivBio Holding AG (NASDAQ: VECT)
+ZIVO Bioscience, Inc. (NASDAQ: ZIVO)
+
+Stocks In Focus
+Sanofi To Buy mRNA Biopharma Translate Bio For $38/Share In Cash
+Sanofi (NASDAQ: SNY) said it has entered into a definitive agreement with  Translate Bio, Inc. (NASDAQ: TBIO), a clinical-stage mRNA therapeutics company, under which Sanofi will acquire all outstanding shares of Translate Bio for $38 per share in cash, which represents a total equity value of approximately $3.2 billion.
+""A fully owned platform allows us to develop additional opportunities in the fast-evolving mRNA space. We will also be able to accelerate our existing partnered programs already under development. Our goal is to unlock the potential of mRNA in other strategic areas such as immunology, oncology, and rare diseases in addition to vaccines, said ...",2021-08-03 11:55:12+00:00,https://www.benzinga.com/general/biotech/21/08/22294993/the-daily-biotech-pulse-sanofi-buys-translate-bio-in-3-2b-deal-lillys-q2-earnings-disappoint-baus,Benzinga,0.08796296296296297,0.47203703703703703,neutral,0.08796296296296297,True,True,True,False,False,False,False,False,0.0,3126,"['GANX', 'BNR', 'ACET', 'LUNG', 'ME', 'NAUT', 'ANGN', 'ADCT', 'KNSA', 'NVO', 'GLUE', 'TBPH', 'ALKS', 'BHC', 'NVS', 'ABSI', 'NERV', 'ATRC', 'AXNX', 'PFE', 'SGHT', 'MRNS', 'COGT', 'OTLK', 'SNY', 'IMGO', 'EYEG', 'IBB', 'XFOR', 'WST', 'CTKB', 'RYTM', 'ISRG', 'PSTV', 'TBIO', 'ICVX', 'STIM', 'MSON', 'MRNA', 'CTSO', 'MYGN', 'BNTX', 'ARCT', 'APTO', 'RGEN', 'OYST', 'VECT', 'TRIL', 'RIGL', 'IMVT', 'NUVL', 'NVTA', 'BIO', 'PROG', 'INVA', 'MCRB', 'BMY', 'SPRB', 'OM', 'BSX', 'FHTX', 'ESPR', 'ADVM', 'DGX', 'PALI', 'RNA', 'PTGX', 'LLY', 'NEXI']",COGT,2021-08-03
+"The Daily Biotech Pulse: Pfizer's Positive Readout, NRx Strikes R&D Collaboration With Mannkind, Cerus & Invitae Jump On Earnings","Here's a roundup of top developments in the biotech space over the last 24 hours.
+Scaling The Peaks
+(Biotech Stocks Hitting 52-week Highs Aug. 3)
+
+Absci, CORP (NASDAQ: ABSI) (IPOed July 22)
+Alkermes plc (NASDAQ: ALKS)
+Amphastar Pharmaceuticals, Inc. (NASDAQ: AMPH)
+Bio-Rad Laboratories, Inc. (NYSE: BIO)
+Bristol-Myers Squibb Company (NYSE: BMY)
+BioNTech SE (NASDAQ: BNTX)
+Cytek Biosciences, Inc. (NASDAQ: CTKB) (IPOed July 23)
+Eli Lilly and Company (NYSE: LLY) (announced its second-quarter results)
+Genmab A/S (NASDAQ: GMAB)
+Imago BioSciences, Inc. (NASDAQ: IMGO) (IPOed July 16)
+Immuneering Corporation (NASDAQ: IMRX) (IPOed Friday)
+Innoviva, Inc. (NASDAQ: INVA)
+Intuitive Surgical, Inc. (NASDAQ: ISRG)
+Johnson & Johnson (NYSE: JNJ)
+Maravai LifeSciences Holdings, Inc. (NASDAQ: MRVI)
+Moderna, Inc. (NASDAQ: MRNA) (announced commencement of Phase 1 study of mRNA therapeutic candidate for autoimmune disorder)
+Monte Rosa Therapeutics, Inc. (NASDAQ: GLUE)
+Myriad Genetics, Inc. (NASDAQ: MYGN)
+Novo Nordisk A/S (NYSE: NVO)
+Nuvalent, Inc. (NASDAQ: NUVL) (IPOed Thursday)
+Pfizer Inc. (NYSE: PFE)
+Quest Diagnostics Incorporated (NYSE: DGX)
+Repligen Corporation (NASDAQ: RGEN)
+ResMed Inc. (NYSE: RMD)
+Translate Bio, Inc. (NASDAQ: TBIO) (announced a deal to be bought by Sanofi (NASDAQ: SNY)
+
+Down In The Dumps
+(Biotech Stocks Hitting 52-week Lows Aug. 3)
+
+Adicet Bio, Inc. (NASDAQ: ACET)
+Akero Therapeutics, Inc. (NASDAQ: AKRO)
+Alzamend Neuro, Inc. (NASDAQ: ALZN)
+Arena Pharmaceuticals, Inc. (NASDAQ: ARNA)
+Aridis Pharmaceuticals, Inc. (NASDAQ: ARDS)
+Avidity Biosciences, Inc. (NASDAQ: RNA)
+Aytu Biopharma, Inc. (NASDAQ: AYTU)
+Cara Therapeutics, Inc. (NASDAQ: CARA)
+Catalyst Pharmaceuticals, Inc. (NASDAQ: CPRX)
+Centessa Pharmaceuticals Limited (NASDAQ: CNTA)
+Cogent Biosciences, Inc. (NASDAQ: COGT)
+Deciphera Pharmaceuticals, Inc. (NASDAQ: DCPH)
+Ensysce Biosciences, Inc. (NASDAQ: ENSC)
+Esperion Therapeutics, Inc. (NASDAQ: ESPR) (reacted to its quarterly results)
+Epizyme, Inc. (NASDAQ: EPZM)
+Foghorn Therapeutics Inc. (NASDAQ: FHTX)
+Gemini Therapeutics, Inc. (NASDAQ: GMTX)
+Global Blood Therapeutics, Inc. (NASDAQ: GBT)
+Harpoon Therapeutics, Inc. (NASDAQ: HARP)
+Hepion Pharmaceuticals, Inc. (NASDAQ: HEPA)
+Heron Therapeutics, Inc. (NASDAQ: HRTX)
+Immunovant, Inc. (NASDAQ: IMVT)
+Innate Pharma S.A. (NASDAQ: IPHA)
+Insmed Incorporated (NASDAQ: INSM)
+Karyopharm Therapeutics Inc. (NASDAQ: KPTI)
+Kiniksa Pharmaceuticals, Ltd. (NASDAQ: KNSA)
+Kinnate Biopharma Inc. (NASDAQ: KNTE)
+Liquidia Corporation (NASDAQ: LQDA)
+Lyra Therapeutics, Inc. (NASDAQ: LYRA)
+Mersana Therapeutics, Inc. (NASDAQ: MRSN)
+Minerva Neurosciences, Inc. (NASDAQ: NERV)
+Moleculin Biotech, Inc. (NASDAQ: MBRX)
+Nautilus Biotechnology, Inc. (NASDAQ: NAUT)
+Nektar Therapeutics (NASDAQ: NKTR)
+Neoleukin Therapeutics, Inc. (NASDAQ: NLTX)
+NuCana plc (NASDAQ: NCNA)
+Orchard Therapeutics plc (NASDAQ: ORTX)
+ORIC Pharmaceuticals, Inc. (NASDAQ: ORIC)
+Orphazyme A/S (NASDAQ: ORPH)
+Oyster Point Pharma, Inc. (NASDAQ: OYST)
+Palisade Bio, Inc. (NASDAQ: PALI)
+Panbela Therapeutics, Inc. (NASDAQ: PBLA)
+Passage Bio, Inc. (NASDAQ:",2021-08-04 11:52:09+00:00,https://www.benzinga.com/general/biotech/21/08/22320514/the-daily-biotech-pulse-pfizers-positive-readout-nrx-strikes-r-d-collaboration-with-mannkind-ceru,Benzinga,0.07146980004122862,0.22055246340960627,neutral,0.07146980004122862,True,False,True,False,False,False,False,False,0.0,3205,"['DCPH', 'CTKB', 'PBYI', 'MRNA', 'ACET', 'RYTM', 'PBLA', 'SRDX', 'KNSA', 'EPZM', 'BNTX', 'ALKS', 'VVOS', 'BIO', 'XERS', 'ESPR', 'IPHA', 'ARNA', 'TRIL', 'PALI', 'BMY', 'DGX', 'BNGO', 'RNA', 'OYST', 'CERS', 'VCEL', 'VOR', 'JNJ', 'LQDA', 'AERI', 'IMVT', 'COGT', 'NVTA', 'TERN', 'LLY', 'AQST', 'FATE', 'PASG', 'CPRX', 'CYAD', 'GMTX', 'NVO', 'ARDS', 'KPTI', 'ORIC', 'IBB', 'PULM', 'NRXP', 'PFE', 'INMB', 'FLXN', 'LYRA', 'INSM', 'GBT', 'CNTA', 'RMD', 'ORTX', 'CARA', 'PROG', 'ISRG', 'TLGT', 'NAUT', 'SNY', 'HARP', 'DMTK', 'VYNE', 'MBRX', 'AYTU', 'ALZN', 'TBIO', 'ISEE', 'AMPH', 'ORPH', 'MNKD', 'NTLA', 'GLUE', 'HZNP', 'AKRO', 'NERV', 'SPRB', 'MYGN', 'OBSV', 'ABSI', 'AXGN', 'GMAB', 'SAGE', 'PRAX', 'NKTR', 'URGN', 'GTHX', 'ENSC', 'NUVL', 'PSTV', 'HRTX', 'FHTX', 'NLTX', 'MRSN', 'IMGO', 'INVA', 'HEPA', 'OTIC', 'MRVI', 'OSUR', 'NCNA', 'IMRX', 'TXMD', 'TFFP', 'XNCR', 'KNTE', 'RGEN']",COGT,2021-08-04
+Cogent Biosciences Announces Upcoming Presentations at AACR Annual Meeting 2022,"CAMBRIDGE, Mass. and BOULDER, Colo., March  08, 2022  (GLOBE NEWSWIRE) -- Cogent Biosciences, Inc. (Nasdaq: COGT), a biotechnology company focused on developing precision therapies for genetically defined diseases, today announced the publication of two abstracts for its upcoming poster presentations at the American Association for Cancer Research (AACR) Annual Meeting. The meeting will be hosted April 8-13, 2022 at the Ernest N. Morial Convention Center in New Orleans, Louisiana.",2022-03-08 22:10:00+00:00,https://www.globenewswire.com/news-release/2022/03/08/2399483/0/en/Cogent-Biosciences-Announces-Upcoming-Presentations-at-AACR-Annual-Meeting-2022.html,GlobeNewswire Inc.,0.012121212121212116,0.18484848484848485,neutral,0.012121212121212116,False,False,False,False,False,False,False,False,0.0,566,['COGT'],COGT,2022-03-08
+Cogent Biosciences to Participate in the LifeSci Partners Immunology and Inflammation Symposium,"CAMBRIDGE, Mass. and BOULDER, Colo., May  06, 2022  (GLOBE NEWSWIRE) -- Cogent Biosciences, Inc. (Nasdaq: COGT), a biotechnology company focused on developing precision therapies for genetically defined diseases, today announced that management will participate in a fireside chat at the LifeSci Partners Immunology and Inflammation Symposium on Tuesday, May 10, 2022 at 3:30 p.m. ET.",2022-05-06 12:00:00+00:00,https://www.globenewswire.com/news-release/2022/05/06/2437770/0/en/Cogent-Biosciences-to-Participate-in-the-LifeSci-Partners-Immunology-and-Inflammation-Symposium.html,GlobeNewswire Inc.,0.0,0.0,neutral,0.0,False,False,False,False,False,False,True,False,0.0,481,['COGT'],COGT,2022-05-06
+"Cogent Biosciences to Host Investor Webcast on June 10, 2022 at 8:00am ET","– Event to review initial clinical data from APEX, a Phase 2 trial with bezuclastinib in Advanced Systemic Mastocytosis presented at European Hematology Association (EHA) Congress – Event to review initial clinical data from APEX, a Phase 2 trial with bezuclastinib in Advanced Systemic Mastocytosis presented at European Hematology Association (EHA) Congress",2022-06-06 14:15:00+00:00,https://www.globenewswire.com/news-release/2022/06/06/2456949/0/en/Cogent-Biosciences-to-Host-Investor-Webcast-on-June-10-2022-at-8-00am-ET.html,GlobeNewswire Inc.,0.13333333333333333,0.19999999999999998,positive,0.13333333333333333,False,False,False,False,False,False,False,False,0.0,434,['COGT'],COGT,2022-06-06
+Cogent Biosciences Announces Positive Initial Clinical Data from Ongoing Phase 2 APEX Trial Evaluating Bezuclastinib in Patients with Advanced Systemic Mastocytosis (AdvSM),"All patients treated with bezuclastinib achieved ≥50% reduction in serum tryptase, with a median reduction of 89%, regardless of prior KIT D816V inhibitor treatment",2022-06-10 11:00:00+00:00,https://www.globenewswire.com/news-release/2022/06/10/2460401/0/en/Cogent-Biosciences-Announces-Positive-Initial-Clinical-Data-from-Ongoing-Phase-2-APEX-Trial-Evaluating-Bezuclastinib-in-Patients-with-Advanced-Systemic-Mastocytosis-AdvSM.html,GlobeNewswire Inc.,0.15681818181818183,0.2863636363636364,positive,0.15681818181818183,False,False,False,False,False,False,False,False,0.0,338,['COGT'],COGT,2022-06-10
+Cogent Biosciences Announces Proposed Public Offering of Common Stock,"CAMBRIDGE, Mass. and BOULDER, Colo., June  13, 2022  (GLOBE NEWSWIRE) -- Cogent Biosciences, Inc. (Nasdaq: COGT), a biotechnology company focused on developing precision therapies for genetically defined diseases, today announced that it has commenced an underwritten public offering of $125 million of shares of its common stock. In addition, Cogent has granted the underwriters a 30-day option to purchase up to an additional $18.75 million of shares of its common stock. All of the shares in the offering are being offered by Cogent.",2022-06-13 10:00:00+00:00,https://www.globenewswire.com/news-release/2022/06/13/2460982/0/en/Cogent-Biosciences-Announces-Proposed-Public-Offering-of-Common-Stock.html,GlobeNewswire Inc.,-0.18,0.32666666666666666,negative,0.18,False,False,False,False,False,False,False,False,0.0,607,['COGT'],COGT,2022-06-13
+"Company News for Jun 13, 2022","Companies In The News Are: DOCU, COGT, BA, SFIX.",2022-06-13 13:26:00+00:00,https://www.zacks.com/stock/news/1938062/company-news-for-jun-13-2022,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,79,"['BA', 'COGT', 'SFIX', 'DOCU']",COGT,2022-06-13
+Cogent (COGT) Surges on Robust Data from Mastocytosis Study,Cogent's (COGT) bezuclastinib achieves robust effectiveness in patients with advanced systemic mastocytosis with a favorable safety and tolerability profile. Stock surges more than 58% on Jun 10.,2022-06-13 14:53:00+00:00,https://www.zacks.com/stock/news/1938264/cogent-cogt-surges-on-robust-data-from-mastocytosis-study,Zacks Investment Research,0.45,0.55,positive,0.45,False,False,False,False,False,False,False,False,0.0,256,"['ALKS', 'AGLE', 'COGT', 'SESN']",COGT,2022-06-13
+Cogent Biosciences Announces Pricing of Upsized Public Offering of Shares of Common Stock and Pre-funded Warrants,"CAMBRIDGE, Mass. and BOULDER, Colo., June  13, 2022  (GLOBE NEWSWIRE) -- Cogent Biosciences, Inc. (Nasdaq: COGT), a biotechnology company focused on developing precision therapies for genetically defined diseases, today announced the pricing of an underwritten public offering of 15,169,698 shares of its common stock, offered at a public offering price of $8.25 per share. In addition, in lieu of issuing common stock to certain investors, Cogent is offering pre-funded warrants to purchase 3,030,302 shares of its common stock at a purchase price of $8.24 per pre-funded warrant, which equals the public offering price per share of the common stock less the $0.01 exercise price per share of each pre-funded warrant. The aggregate gross proceeds to Cogent from this offering are expected to be approximately $150 million, before deducting underwriting discounts and commissions and other estimated offering expenses, upsized from $125 million. In addition, Cogent has granted the underwriters a 30-day option to purchase up to an additional 2,730,000 shares of its common stock at the public offering price less underwriting discounts. All of the shares of common stock and pre-funded warrants in the offering are being sold by Cogent. The offering is expected to close on or about June 16, 2022, subject to customary closing conditions.",2022-06-14 01:48:00+00:00,https://www.globenewswire.com/news-release/2022/06/14/2461725/0/en/Cogent-Biosciences-Announces-Pricing-of-Upsized-Public-Offering-of-Shares-of-Common-Stock-and-Pre-funded-Warrants.html,GlobeNewswire Inc.,-0.14812925170068025,0.3164965986394558,negative,0.14812925170068025,False,False,False,False,False,False,False,False,0.0,1454,['COGT'],COGT,2022-06-14
+"Biotech Stock Roundup: BLUE Up on Regulatory Updates, RIGL's Pipeline News & More",Regulatory and other updates from bluebird (BLUE) and Rigel (RIGL) are a few key highlights from the biotech sector during the past week.,2022-06-15 17:26:00+00:00,https://www.zacks.com/stock/news/1939474/biotech-stock-roundup-blue-up-on-regulatory-updates-rigls-pipeline-news-more,Zacks Investment Research,-0.010714285714285716,0.3464285714285714,neutral,0.010714285714285716,False,False,True,False,False,False,False,False,0.0,220,"['RIGL', 'BLUE', 'COGT', 'VALN']",COGT,2022-06-15
+Cogent Biosciences Announces Closing of Upsized Public Offering of Common Stock and Pre-funded Warrants and Full Exercise of Underwriters’ Option to Purchase Additional Shares,"CAMBRIDGE, Mass. and BOULDER, Colo., June  16, 2022  (GLOBE NEWSWIRE) -- Cogent Biosciences, Inc. (Nasdaq: COGT), a biotechnology company focused on developing precision therapies for genetically defined diseases, today announced the closing of its upsized underwritten public offering of 17,899,698 shares of its common stock, and to certain investors in lieu thereof, pre-funded warrants to purchase 3,030,302 shares of its common stock at an exercise price of $0.01 per share. The shares of common stock sold include 2,730,000 shares pursuant to the option to purchase additional shares granted by Cogent to the underwriters, which option was exercised in full. The public offering price of each share of common stock was $8.25 and the public offering price of each pre-funded warrant was $8.24. The aggregate gross proceeds to Cogent from this offering were approximately $172.6 million, before deducting underwriting discounts and commissions and other estimated offering expenses.",2022-06-16 20:01:00+00:00,https://www.globenewswire.com/news-release/2022/06/16/2464336/0/en/Cogent-Biosciences-Announces-Closing-of-Upsized-Public-Offering-of-Common-Stock-and-Pre-funded-Warrants-and-Full-Exercise-of-Underwriters-Option-to-Purchase-Additional-Shares.html,GlobeNewswire Inc.,-0.07404761904761906,0.36087301587301585,neutral,0.07404761904761906,False,False,False,False,False,False,False,False,0.0,1163,['COGT'],COGT,2022-06-16
+"Here's What Could Help Cogent Biosciences, Inc. (COGT) Maintain Its Recent Price Strength","Cogent Biosciences, Inc. (COGT) could be a great choice for investors looking to make a profit from fundamentally strong stocks that are currently on the move. It is one of the several stocks that made it through our ""Recent Price Strength"" screen.",2022-07-12 12:50:04+00:00,https://www.zacks.com/stock/news/1950947/heres-what-could-help-cogent-biosciences-inc-cogt-maintain-its-recent-price-strength,Zacks Investment Research,0.20555555555555557,0.3972222222222222,positive,0.20555555555555557,True,False,False,False,False,False,False,False,0.0,339,['COGT'],COGT,2022-07-12
+"Wall Street Analysts See a 66% Upside in Cogent Biosciences, Inc. (COGT): Can the Stock Really Move This High?","The average of price targets set by Wall Street analysts indicates a potential upside of 66.1% in Cogent Biosciences, Inc. (COGT). While the effectiveness of this highly sought-after metric is questionable, the positive trend in earnings estimate revisions might translate into an upside in the stock.",2022-07-12 13:55:21+00:00,https://www.zacks.com/stock/news/1951084/wall-street-analysts-see-a-66-upside-in-cogent-biosciences-inc-cogt-can-the-stock-really-move-this-high,Zacks Investment Research,0.013896103896103894,0.6036363636363635,neutral,0.013896103896103894,True,False,False,False,False,False,False,False,0.0,413,['COGT'],COGT,2022-07-12
+"Cogent Biosciences, Inc. (COGT) Is a Great Choice for ""Trend"" Investors, Here's Why","Cogent Biosciences, Inc. (COGT) could be a great choice for investors looking to make a profit from fundamentally strong stocks that are currently on the move. It is one of the several stocks that made it through our ""Recent Price Strength"" screen.",2022-07-28 12:50:06+00:00,https://www.zacks.com/stock/news/1959446/cogent-biosciences-inc-cogt-is-a-great-choice-for-trend-investors-heres-why,Zacks Investment Research,0.33888888888888885,0.48055555555555557,positive,0.33888888888888885,True,False,False,False,False,False,False,False,0.0,333,['COGT'],COGT,2022-07-28
+"Why Blue Water Vaccines Is Trading Higher By Around 80%, Here Are 61 Stocks Moving In Wednesday's Mid-Day Session","Gainers
+
+Blue Water Vaccines, Inc. (NASDAQ: BWV) shares jumped 79.5% to $4.57 after the company announced it plans to explore the potential development of a novel monkeypox vaccine using its norovirus shell and protrusion virus-like particle platform.
+Hill International, Inc.  (NYSE: HIL) shares rose 61.5% to $2.81 after Global Infrastructure Solutions (GISI) and the company announced an agreement to merge in an all-cash transaction valued at $173 million.
+JE Cleantech Holdings Limited (NASDAQ: JCSE) shares jumped 54% to $3.50 after jumping over 20% on Tuesday.
+Eargo, Inc. (NASDAQ: EAR) rose 46.3% to $2.9550 after climbing 77% on Tuesday. Eargo recently said Q2 EPS results were down year over year.
+Cassava Sciences, Inc. (NASDAQ: SAVA) gained 40.4% to $28.37 after a form 4 filing showed Director Sanford Robertson purchased 100,000 shares at an average price of $20.69.
+Vinco Ventures, Inc. (NASDAQ: BBIG) shares rose 31.9% to $1.4908. Vinco Ventures shares jumped around 59% on Tuesday after Nasdaq resumed trading in the stock.
+Bed Bath & Beyond Inc (NASDAQ: BBBY) rose 24% to $25.59 on continued momentum amid an uptick in retail investor attention on social media.
+Laird Superfood, Inc. (NYSE: LSF) gained 21.7% to $2.7399 after the company confirmed the receipt of an unsolicited offer from EF Hutton to acquire all of the company's outstanding common stock for $3 per share in cash.
+LexinFintech Holdings Ltd. (NASDAQ: LX) jumped 21.6% to $2.4199 after the company late Tuesday reported Q2 results.
+Stabilis Solutions, Inc. (NASDAQ: SLNG) rose 17.7% to $5.40. The company recently posted upbeat quarterly sales.
+Akumin Inc. (NASDAQ: AKU) gained 17.6% to $1.0850.
+Cogent Biosciences, Inc. (NASDAQ: COGT) rose 16.5% to $16.50. Cogent Biosciences recently posted a Q2 loss of $0.71 per share.
+ATA Creativity Global (NASDAQ: AACG) gained 16% to $2.46. ATA Creativity Global recently posted a Q2 loss of $0.05 per share.
+TDH Holdings, Inc. (NASDAQ: PETZ) jumped 15.8% to $3.57.
+Longboard Pharmaceuticals, Inc. (NASDAQ: LBPH) gained 15.5% to $4.98.
+Qilian International Holding Group Limited (NASDAQ: QLI) jumped 13.4% to $1.52.
+Kubient, Inc. (NASDAQ: KBNT) jumped 13% to $1.0852. Kubient recently reported worse-than-expected Q2 EPS and sales results.
+Reneo Pharmaceuticals, Inc. (NASDAQ: ...",2022-08-17 16:03:21+00:00,https://www.benzinga.com/news/22/08/28537924/why-blue-water-vaccines-is-trading-higher-by-around-80-here-are-61-stocks-moving-in-wednesdays-mid-d,Benzinga,0.1287903667214012,0.43676792556102895,positive,0.1287903667214012,True,True,False,False,False,False,True,False,0.0,2419,"['EAR', 'PALI', 'BWV', 'FEDU', 'BBBY', 'TUEM', 'SJ', 'UBX', 'COGT', 'LBPH', 'FTCH', 'ITRM', 'ENDP', 'RPHM', 'ABBV', 'HYRE', 'KIRK', 'OMIC', 'BPMC', 'ARVN', 'SLNG', 'NVAX', 'DNUT', 'LX', 'ZM', 'OPEN', 'ENVX', 'SDIG', 'SAVA', 'PLCE', 'NRDY', 'LYFT', 'AACG', 'SWIM', 'LVLU', 'MCG', 'IMAB', 'TEVA', 'EMBK', 'FPAY', 'QLI', 'A', 'PIK', 'PAVM', 'KBNT', 'HIL', 'SOND', 'MRAM', 'AKU', 'SNY', 'JCSE', 'BL', 'LSF', 'AMRS', 'FAZE', 'SNAP', 'BBIG', 'REAL', 'ARTL', 'BCAB', 'ZIP', 'PETZ']",COGT,2022-08-17
+"Denbury, Global-e Online And Agilent Among Top Gainers On Wednesday","U.S. stocks closed lower on Wednesday, with the Dow Jones dropping around 170 points. Here is the list of some big stocks moving higher in the previous session.
+
+Cassava Sciences, Inc. (NASDAQ: SAVA) rose 27.3% to close at $25.72 after a form 4 filing showed Director Sanford Robertson purchased 100,000 shares at an average price of $20.69.
+Denbury Inc. (NYSE: DEN) rose 12.4% to settle at $88.72. Denbury is exploring options including a sale, Bloomberg reported.
+LexinFintech Holdings Ltd. (NASDAQ: LX) jumped 12.1% to close at $2.23 after the company late Tuesday reported Q2 results.
+Bed Bath & Beyond Inc (NASDAQ: BBBY) gained 11.8% to settle at ...",2022-08-18 06:09:22+00:00,https://www.benzinga.com/news/22/08/28545429/denbury-global-e-online-and-agilent-among-top-gainers-on-wednesday,Benzinga,0.13703703703703704,0.474074074074074,positive,0.13703703703703704,False,False,False,False,False,False,True,False,0.0,724,"['BBBY', 'BOOM', 'CCRN', 'COGT', 'A', 'CANO', 'DEN', 'LX', 'BL', 'LEGH', 'SAVA', 'HPK', 'GLBE', 'SRAD', 'FAZE']",COGT,2022-08-18
+This Healthcare Stock Dipped Over 30%; Here Are 83 Biggest Movers From Yesterday,"Gainers
+
+Blue Water Vaccines, Inc. (NASDAQ: BWV) shares climbed 199.6% to close at $7.64 on Wednesday after the company announced it plans to explore the potential development of a novel monkeypox vaccine using its norovirus shell and protrusion virus-like particle platform.
+Hill International, Inc.  (NYSE: HIL) shares gained 60.3% to close at $2.79 after Global Infrastructure Solutions (GISI) and the company announced an agreement to merge in an all-cash transaction valued at $173 million.
+Eargo, Inc. (NASDAQ: EAR) jumped 55% to close at $3.13 after climbing 77% on Tuesday. Eargo recently said Q2 EPS results were down year over year.
+Nova LifeStyle, Inc. (NASDAQ: NVFY) gained 41% to settle at $1.10. Nova Lifestyle recently posted Q2 sales of $3.80 million.
+TDH Holdings, Inc. (NASDAQ: PETZ) jumped 38.3% to close at $4.26.
+Cassava Sciences, Inc. (NASDAQ: SAVA) rose 27.3% to close at $25.72 after a form 4 filing showed Director Sanford Robertson purchased 100,000 shares at an average price of $20.69.
+LM Funding America, Inc. (NASDAQ: LMFA) jumped 26.9% to settle at $1.37 after the company reported its Q2 earnings.
+VistaGen Therapeutics, Inc. (NASDAQ: VTGN) rose 23.1% to close at $0.1931.
+VistaGen Therapeutics recently posted a Q1 loss of $0.10 per share.
+Vinco Ventures, Inc. (NASDAQ: BBIG) shares gained 23% to close at $1.39. Vinco Ventures shares jumped around 59% on Tuesday after Nasdaq resumed trading in the stock.
+Laird Superfood, Inc. (NYSE: LSF) climbed 22.2% to close at $2.7501 after the company confirmed the receipt of an unsolicited offer from EF Hutton to acquire all of the company's outstanding common stock for $3 per share in cash.
+Kirkland's, Inc. (NASDAQ: KIRK) climbed 21% to close at $6.40.
+BioVie Inc. (NASDAQ: BIVI) rose 20% to settle at $3.00.
+Spero Therapeutics, Inc. (NASDAQ: SPRO) gained 19.4% to settle at $1.07. Spero Therapeutics recently posted a Q2 loss of $0.87 per share.
+Regis Corporation (NYSE: RGS) rose 19.2% to settle at $1.43. Regis recently amended its credit facility and extended the maturity date from March 23, 2023 to August 31, 2025.
+Histogen Inc. (NASDAQ: HSTO) gained 17.3% to close at $2.17. Histogen recently posted a Q2 loss of $1.55 per share.
+Akumin Inc. (NASDAQ: AKU) gained 17.1% to close at $1.08.
+Talis Biomedical Corporation (NASDAQ: TLIS) rose 16.7% to settle at $0.9804.
+Kubient, Inc. (NASDAQ: KBNT) jumped 14.6% to close at $1.10. Kubient recently reported worse-than-expected Q2 EPS and sales results.
+Stabilis Solutions, Inc. (NASDAQ: SLNG) rose 13.5% to close at $5.21. The company recently posted upbeat quarterly sales.
+ATA Creativity Global (NASDAQ: AACG) gained 13.2% to close at $2.40. ATA Creativity Global recently posted a Q2 loss of $0.05 per share.
+Denbury Inc. (NYSE: DEN) rose 12.4% to settle at $88.72. Denbury is exploring options including a sale, Bloomberg reported.
+LexinFintech Holdings Ltd. (NASDAQ: LX) jumped 12.1% to close at $2.23 after the company late Tuesday reported Q2 results.
+Bed Bath & Beyond Inc (NASDAQ: BBBY) gained 11.8% to settle at $23.08 on continued momentum amid an uptick in retail investor attention on social media.
+Sportradar Group AG (NASDAQ: SRAD) rose 11.6% to close at $13.39 after the company reported better-than-expected Q2 sales results and raised its ...",2022-08-18 08:59:45+00:00,https://www.benzinga.com/news/22/08/28546069/this-healthcare-stock-dipped-over-30-here-are-83-biggest-movers-from-yesterday,Benzinga,0.16092592592592592,0.4893518518518517,positive,0.16092592592592592,True,True,False,False,False,False,True,False,0.0,3375,"['LMFA', 'JCSE', 'EAR', 'SLNG', 'SNY', 'LHDX', 'FPAY', 'FAZE', 'BBBY', 'ZM', 'DNA', 'TLIS', 'VTGN', 'FRZA', 'COGT', 'SAVA', 'REAL', 'BMEA', 'GMBL', 'RBT', 'ENDP', 'NBSE', 'ZIP', 'GLBE', 'PAVM', 'KIRK', 'AACG', 'BWV', 'OMIC', 'DNUT', 'MRAM', 'NVAX', 'IMAB', 'SJ', 'ENVX', 'BL', 'OPEN', 'HSTO', 'DEN', 'SMFR', 'BIVI', 'PLCE', 'KBNT', 'FTCH', 'NRDY', 'SNAP', 'SPRO', 'HPK', 'ABBV', 'SRAD', 'ARTL', 'SWIM', 'GDRX', 'AMC', 'VLD', 'PETZ', 'TEVA', 'AKU', 'NVFY', 'BPMC', 'LVLU', 'FEDU', 'A', 'LSF', 'LX', 'EMBK', 'JWEL', 'HIL', 'BBIG', 'SDIG', 'PIK', 'UBX', 'NU', 'BCAB', 'LYFT', 'SSU', 'ITRM', 'POL', 'PALI', 'MCG', 'SOND', 'ARVN', 'RGS', 'LBPH']",COGT,2022-08-18
+Cogent Biosciences to Showcase Precision Therapy Pipeline at the EORTC-NCI-AACR Annual Meeting,"WALTHAM, Mass. and BOULDER, Colo., Oct.  26, 2022  (GLOBE NEWSWIRE) -- Cogent Biosciences, Inc. (Nasdaq: COGT), a biotechnology company focused on developing precision therapies for genetically defined diseases, today announced that it will be presenting two preclinical posters at the EORTC-NCI-AACR (""ENA"") annual meeting to be held October 26-28, 2022. Presentations and posters are available to registered attendees for on-demand viewing at https://event.eortc.org/ena2022/ and will also be posted to the “Posters and Publications” page of Cogent’s website.",2022-10-26 11:00:00+00:00,https://www.globenewswire.com/news-release/2022/10/26/2541630/0/en/Cogent-Biosciences-to-Showcase-Precision-Therapy-Pipeline-at-the-EORTC-NCI-AACR-Annual-Meeting.html,GlobeNewswire Inc.,0.4,0.4,positive,0.4,False,False,False,False,False,False,False,False,0.0,657,['COGT'],COGT,2022-10-26
+Cogent Biosciences Announces Bezuclastinib Presentations at the 64th Annual American Society of Hematology (ASH) Meeting,"Company to Host Virtual Investor Event on Monday, December 12 Company to Host Virtual Investor Event on Monday, December 12",2022-11-03 13:05:00+00:00,https://www.globenewswire.com/news-release/2022/11/03/2547818/0/en/Cogent-Biosciences-Announces-Bezuclastinib-Presentations-at-the-64th-Annual-American-Society-of-Hematology-ASH-Meeting.html,GlobeNewswire Inc.,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,245,['COGT'],COGT,2022-11-03
+"Cogent Biosciences Appoints Rachael Easton, MD, Ph.D., VP, Head of Clinical Development","WALTHAM, Mass. and BOULDER, Colo., Nov.  28, 2022  (GLOBE NEWSWIRE) -- Cogent Biosciences, Inc. (Nasdaq: COGT), a biotechnology company focused on developing precision therapies for genetically defined diseases, today announced the appointment of Rachael Easton, MD, Ph.D., Vice President, Head of Clinical Development.",2022-11-28 21:15:00+00:00,https://www.globenewswire.com/news-release/2022/11/28/2563554/0/en/Cogent-Biosciences-Appoints-Rachael-Easton-MD-Ph-D-VP-Head-of-Clinical-Development.html,GlobeNewswire Inc.,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,408,['COGT'],COGT,2022-11-28
+Cogent Biosciences Announces Positive Updated Clinical Data from Ongoing Phase 2 APEX Trial Evaluating Bezuclastinib in Patients with Advanced Systemic Mastocytosis (AdvSM),-   89% ORR in TKI-therapy naïve patients; 73% ORR in all evaluable patients with 27-week median follow-up,2022-12-11 22:30:00+00:00,https://www.globenewswire.com/news-release/2022/12/11/2571451/0/en/Cogent-Biosciences-Announces-Positive-Updated-Clinical-Data-from-Ongoing-Phase-2-APEX-Trial-Evaluating-Bezuclastinib-in-Patients-with-Advanced-Systemic-Mastocytosis-AdvSM.html,GlobeNewswire Inc.,0.31363636363636366,0.5727272727272728,positive,0.31363636363636366,False,False,False,False,False,False,False,False,0.0,280,['COGT'],COGT,2022-12-11
+Why Harpoon Therapeutics Shares Are Trading Higher By 97%? Here Are 53 Stocks Moving In Monday's Mid-Day Session,"Gainers
+
+HTG Molecular Diagnostics, Inc.  (NASDAQ: HTGM) shares jumped 165.7% to $1.4350 after jumping around 118% on Friday. HTG Molecular Diagnostics, last month, posted a Q3 loss of $0.41 per share.
+Harpoon Therapeutics, Inc. (NASDAQ: HARP) rose 97.3% to $2.27 after the company announced it presented updated interim results at ASH 2022 for novel T cell engager HPN217 in relapsed/refractory multiple myeloma.
+Tonix Pharmaceuticals Holding Corp. (NASDAQ: TNXP) gained 85% to $0.69 after the company announced the exclusive license of potential therapeutic or preventative humanized anti-SARS-CoV-2 monoclonal antibodies from Curia Global.
+Aptevo Therapeutics Inc.  (NASDAQ: APVO) shares climbed 65.6% to $5.68 after the company announced that APVO436, in combination with venetoclax and azacitidine, achieved a 100% clinical benefit rate in venetoclax treatment naïve AML patients.
+Faraday Future Intelligent Electric Inc.  (NASDAQ: FFIE) rose 56.2% to $0.4612 after gaining over 11% on Friday. Faraday Future Intelligent Electric recently appointed FF China CEO Xuefeng (XF) Chen as Global CEO of the company, effective immediately.
+China Jo-Jo Drugstores, Inc.  (NASDAQ: CJJD) jumped 39.9% to $4.63 after jumping 53% on Friday.
+Dragonfly Energy Holdings Corp. (NASDAQ: DFLI) surged 34.5% to $14.80.
+Virax Biolabs Group Limited (NASDAQ: VRAX) jumped 28.7% to $1.30.
+United Insurance Holdings Corp. (NASDAQ: UIHC) gained 28.3% to $0.4297. The company, last month, posted downbeat quarterly results.
+Reborn Coffee, Inc. (NASDAQ: REBN) rose 28.3% to $1.3602 after jumping around 22% on Friday. Reborn Coffee recently signed a Letter of Intent to acquire a specialty coffee shop and a roasting research and development facility in Daejeon, South Korea as a part of its global expansion plan.
+Coupa Software Incorporated  (NASDAQ: COUP) shares gained 26.6% to $78.63 after the company announced it will be acquired by Thoma Bravo for $8 billion.
+BIMI International Medical, Inc. (NASDAQ: BIMI) gained 25% to $2.60. BIMI recently announced a 1-for-10 reverse stock split.
+Weber Inc. (NYSE: WEBR) jumped 24.9% to $8.12 after the company entered an agreement to be taken private by BDT Capital Partners for $8.05 per share.
+Avalon GloboCare Corp. (NASDAQ: ALBT) gained 24.4% to $0.3980. Avalon GloboCare announced a new proposed board composition in preparation for acquisition of Laboratory Services MSO, LLC.
+Kingstone Companies, Inc. (NASDAQ: KINS) jumped 22% to ...",2022-12-12 18:05:03+00:00,https://www.benzinga.com/news/22/12/30046668/why-harpoon-therapeutics-shares-are-trading-higher-by-97-here-are-53-stocks-moving-in-mondays-mid-da,Benzinga,0.17978896103896103,0.3773223304473305,positive,0.17978896103896103,True,True,False,False,False,True,True,False,0.0,2580,"['BXRX', 'VRAX', 'BIMI', 'LU', 'CNXA', 'AFMD', 'UPH', 'ACET', 'BRSH', 'DADA', 'PBLA', 'COGT', 'REBN', 'MOMO', 'CMMB', 'CRIS', 'DFLI', 'HTGM', 'NOTV', 'KINS', 'SHFS', 'BZUN', 'MMAT', 'FRO', 'ALBT', 'SFR', 'AMAM', 'HCP', 'APVO', 'HUYA', 'AVTE', 'PBI', 'YI', 'ENSC', 'TAL', 'MSC', 'WEBR', 'CJJD', 'SXTC', 'FFIE', 'HZNP', 'HARP', 'RKLY', 'TNXP', 'DOYU', 'EZFL', 'UIHC', 'OCG', 'WULF', 'FATE', 'DUO', 'HILS', 'COUP']",COGT,2022-12-12
+Pinterest To Rally Around 23%? Here Are 10 Other Price Target Changes For Tuesday,"Morgan Stanley raised  Cisco Systems, Inc.  (NASDAQ: CSCO) price  target from $48 to $52. . Morgan Stanley analyst Meta Marshall maintained an Equal-Weight rating on the stock. Cisco shares rose 0.3% to $49.44 in pre-market trading.
+Guggenheim boosted  Cogent Biosciences, Inc.  (NASDAQ: COGT) price target from $22 to $24. Guggenheim analyst Charles Zhu maintained the stock with a Buy rating. Cogent Biosciences fell 3.1% to $11.73 in pre-market trading.
+Goldman Sachs raised the price target on  NIKE, Inc.  (NYSE: NKE) from $98 to $120. Goldman Sachs analyst Kate McShane maintained a Buy rating on the stock. NIKE shares rose 2.4% to close at $112.07 on Monday.
+Keefe, Bruyette & Woods boosted  U.S. Bancorp  (NYSE: USB) price target from $52 ...Full story available on Benzinga.com",2022-12-13 14:01:41+00:00,https://www.benzinga.com/news/22/12/30058723/pinterest-to-rally-around-23-here-are-10-other-price-target-changes-for-tuesday,Benzinga,0.36875,0.66875,positive,0.36875,False,True,False,False,False,False,False,False,0.0,870,"['AMGN', 'COGT', 'CSCO', 'NTAP', 'FDX', 'NKE', 'PFE', 'TYL', 'USB', 'PINS', 'XPEV']",COGT,2022-12-13
+"Benzinga's Top Ratings Upgrades, Downgrades For December 14, 2022","Upgrades
+Wolfe Research upgraded the previous rating for EQT Corp (NYSE:EQT) from Peer Perform to Outperform. EQT earned $1.04 in the third quarter, compared to $0.12 in the year-ago quarter. At the moment, the stock has a 52-week-high of $51.97 and a 52-week-low of $19.20. EQT closed at $37.11 at the end of the last trading period.   
+For Lennar Corp (NYSE:LEN), Barclays upgraded the previous rating of Equal-Weight to Overweight. At the moment, the stock has a 52-week-high of $117.54 and a 52-week-low of $62.54. Lennar closed at $90.59 at the end of the last trading period.   
+According to Barclays, the prior rating for PulteGroup Inc (NYSE:PHM) was changed from Equal-Weight to Overweight. For the third quarter, PulteGroup had an EPS of $2.69, compared to year-ago quarter EPS of $1.82. The stock has a 52-week-high of $58.09 and a 52-week-low of $35.03. At the end of the last trading period, PulteGroup closed at $45.79.   
+For SolarEdge Technologies Inc (NASDAQ:SEDG), Barclays upgraded the previous rating of Equal-Weight to Overweight. In the third quarter, SolarEdge Technologies showed an EPS of $0.91, compared to $1.45 from the year-ago quarter. The stock has a 52-week-high of $375.90 and a 52-week-low of $190.15. At the end of the last trading period, SolarEdge Technologies closed at $327.64.   
+For RingCentral Inc (NYSE:RNG), Morgan Stanley upgraded the previous rating of Equal-Weight to Overweight. In the third quarter, RingCentral showed an EPS of $0.55, compared to $0.36 from the year-ago quarter. At the moment, the stock has a 52-week-high of $198.79 and a 52-week-low of $28.00. RingCentral closed at $38.95 at the end of the last trading period.   
+Morgan Stanley upgraded the previous rating for PACCAR Inc (NASDAQ:PCAR) from Equal-Weight to Overweight. In the third quarter, PACCAR showed an EPS of $2.21, compared to $1.08 from the year-ago quarter. The current stock performance of PACCAR shows a 52-week-high of $107.18 and a 52-week-low of $77.00. Moreover, at the end of the last trading period, the closing price was at $102.22.   
+For Datadog Inc (NASDAQ:DDOG), Oppenheimer upgraded the previous rating of Perform to Outperform. For the third quarter, Datadog had an EPS of $0.23, compared to year-ago quarter EPS of $0.13. At the moment, the stock has a 52-week-high of $186.28 and a 52-week-low of $66.45. Datadog closed at $79.71 at the end of the last trading period.   
+Wells Fargo upgraded the previous rating for Fortis Inc (NYSE:FTS) from Underweight to Equal-Weight. For the third quarter, Fortis had an EPS of $0.54, compared to year-ago quarter EPS of $0.64. The stock has a 52-week-high of $51.66 and a 52-week-low of $34.76. At the end of the last trading period, Fortis closed at $40.99.   
+For Playa Hotels & Resorts NV (NASDAQ:PLYA), Citigroup upgraded the previous rating of Neutral to Buy. In the third quarter, Playa Hotels & Resorts showed an EPS of $0.04, compared to $0.09 from the year-ago quarter. The current stock performance of Playa Hotels & Resorts shows a 52-week-high of $9.81 and a 52-week-low of $5.34. Moreover, at the end of the last trading period, the closing price was at $6.12.   
+According to Wedbush, the prior rating for Darden Restaurants Inc (NYSE:DRI) was changed from Neutral to Outperform. In the first quarter, Darden Restaurants showed an EPS of $1.56, compared to $1.76 from the year-ago quarter. The current stock performance of Darden Restaurants shows a 52-week-high of $155.25 and a 52-week-low of $110.96. Moreover, at the end of the last trading period, the closing price was at $145.03.   
+For Gentex Corp (NASDAQ:GNTX), Goldman Sachs upgraded the previous rating of Sell to Neutral. Gentex earned $0.31 in the third quarter, compared to $0.32 in the year-ago quarter. The stock has a 52-week-high of $36.65 and a 52-week-low of $23.28. At the end of the last trading period, Gentex closed at $27.43.   
+For Ncino Inc (NASDAQ:NCNO), Baird upgraded the previous rating of Neutral to Outperform. For the third quarter, Ncino had an EPS of $0.01, compared to year-ago quarter EPS of $0.04. The stock has a 52-week-high of $58.71 and a 52-week-low of $22.97. At the end of the last trading period, Ncino closed at $26.67.   
+Baird upgraded the previous rating for Ansys Inc (NASDAQ:ANSS) from Neutral to Outperform. Ansys earned $1.77 in the third quarter, compared to $1.59 in the year-ago quarter. At the moment, the stock has a 52-week-high of $413.22 and a 52-week-low of $194.23. Ansys closed at $254.54 at the end of the last trading period.   
+Keybanc upgraded the previous rating for EastGroup Properties Inc (NYSE:EGP) from Sector Weight to Overweight. In the third quarter, EastGroup Props showed an EPS of $1.77, compared to $1.55 from the year-ago quarter. At the moment, the stock has a 52-week-high of $229.84 and a 52-week-low of $137.47. EastGroup Props closed at $156.84 at the end of the last trading period.   
+Keybanc upgraded the previous rating for Physicians Realty Trust (NYSE:DOC) from Sector Weight to Overweight. In the third quarter, Physicians Realty Trust showed an EPS of $0.26, compared to $0.26 from the year-ago quarter. The current stock performance of Physicians Realty Trust shows a 52-week-high of $19.12 and a 52-week-low of $13.42. Moreover, at the end of the last trading period, the closing price was at $15.00.   
+See all analyst ratings upgrades.
+Downgrades
+According to Chardan Capital, the prior rating for Moderna Inc (NASDAQ:MRNA) was changed from Buy to Neutral. For the third quarter, Moderna had an EPS of $2.53, compared to year-ago quarter EPS of $7.70. The current stock performance of Moderna shows a 52-week-high of $321.31 and a 52-week-low of $115.03. Moreover, at the end of the last trading period, the closing price was at $197.54.   
+According to Citigroup, the prior rating for Grupo Aeroportuario del Centro Norte SAB de CV (NASDAQ:OMAB) was changed from Neutral to Sell. In the third quarter, Central North Airport Gr showed an EPS of $1.13, compared to $0.81 from the year-ago quarter. The current stock performance of Central North Airport Gr shows a 52-week-high of $71.86 and a 52-week-low of $46.53. Moreover, at the end of the last trading period, the closing price was at $66.26.   
+B of A Securities downgraded the previous rating for PENN Entertainment Inc (NASDAQ:PENN) from Buy to Neutral. In the third quarter, PENN Entertainment showed an EPS of $0.72, compared to $0.52 from the year-ago quarter. The stock has a 52-week-high of $53.36 and a 52-week-low of $25.49. At the end of the last trading period, PENN Entertainment closed at $35.04.   
+For Stock Yards Bancorp Inc (NASDAQ:SYBT), Piper Sandler downgraded the previous rating of Neutral to Underweight. Stock Yards Bancorp earned $0.89 in the third quarter, compared to $0.87 in the year-ago quarter. The current stock performance of Stock Yards Bancorp shows a 52-week-high of $78.71 and a 52-week-low of $50.83. Moreover, at the end of the last trading period, the closing price was at $72.22.   
+Barclays downgraded the previous rating for Skyline Champion Corp (NYSE:SKY) from Overweight to Equal-Weight. In the second quarter, Skyline Champion showed an EPS of $2.51, compared to $0.89 from the year-ago quarter. The current stock performance of Skyline Champion shows a 52-week-high of $83.49 and a 52-week-low of $43.04. Moreover, at the end of the last trading period, the closing price was at $55.72.   
+Citigroup downgraded the previous rating for SL Green Realty Corp (NYSE:SLG) from Neutral to Sell. For the third quarter, SL Green Realty had an EPS of $1.66, compared to year-ago quarter EPS of $1.78. At the moment, the stock has a 52-week-high of $83.96 and a 52-week-low of $34.21. SL Green Realty closed at $36.35 at the end of the last trading period.   
+For Coupa Software Inc (NASDAQ:COUP), Citigroup downgraded the previous rating of Buy to Neutral. For the third quarter, Coupa Software had an EPS of $0.15, compared to year-ago quarter EPS of $0.31. The current stock performance of Coupa Software shows a 52-week-high of $166.21 and a 52-week-low of $40.30. Moreover, at the end of the last trading period, the closing price was at $78.60.   
+For Caesars Entertainment Inc (NASDAQ:CZR), B of A Securities downgraded the previous rating of Buy to Neutral. In the third quarter, Caesars Entertainment showed an EPS of $0.24, compared to $0.53 from the year-ago quarter. The stock has a 52-week-high of $97.39 and a 52-week-low of $31.31. At the end of the last trading period, Caesars Entertainment closed at $52.55.   
+For Best Buy Co Inc (NYSE:BBY), B of A Securities downgraded the previous rating of Neutral to Underperform. Best Buy Co earned $1.38 in the third quarter, compared to $2.08 in the year-ago quarter. The current stock performance of Best Buy Co shows a 52-week-high of $112.96 and a 52-week-low of $60.78. Moreover, at the end of the last trading period, the closing price was at $84.07.   
+B of A Securities downgraded the previous rating for AutoZone Inc (NYSE:AZO) from Neutral to Underperform. In the first quarter, AutoZone showed an EPS of $27.45, compared to $25.69 from the year-ago quarter. The current stock performance of AutoZone shows a 52-week-high of $2610.05 and a 52-week-low of $1703.32. Moreover, at the end of the last trading period, the closing price was at $2393.46.   
+According to Daiwa Capital, the prior rating for XPeng Inc (NYSE:XPEV) was changed from Buy to Sell. XPeng earned $0.36 in the third quarter, compared to $0.27 in the year-ago quarter. At the moment, the stock has a 52-week-high of $51.50 and a 52-week-low of $6.18. XPeng closed at $10.31 at the end of the last trading period.   
+For Centerspace (NYSE:CSR), Janney Montgomery Scott downgraded the previous rating of Buy to Neutral. In the third quarter, Centerspace showed an EPS of $1.15, compared to $0.98 from the year-ago quarter. At the moment, the stock has a 52-week-high of $112.27 and a 52-week-low of $60.52. Centerspace closed at $66.15 at the end of the last trading period.   
+Janney Montgomery Scott downgraded the previous rating for Essex Property Trust Inc (NYSE:ESS) from Buy to Neutral. In the third quarter, Essex Property Trust showed an EPS of $3.69, compared to $3.12 from the year-ago quarter. At the moment, the stock has a 52-week-high of $363.36 and a 52-week-low of $205.76. Essex Property Trust closed at $223.21 at the end of the last trading period.   
+According to Truist Securities, the prior rating for Harpoon Therapeutics Inc (NASDAQ:HARP) was changed from Buy to Hold. In the third quarter, Harpoon Therapeutics showed an EPS of $0.35, compared to $0.51 from the year-ago quarter. The stock has a 52-week-high of $8.20 and a 52-week-low of $0.66. At the end of the last trading period, Harpoon Therapeutics closed at $0.89.   
+For Vornado Realty Trust (NYSE:VNO), Citigroup downgraded the previous rating of Neutral to Sell. Vornado Realty earned $0.81 in the third quarter, compared to $0.71 in the year-ago quarter. The stock has a 52-week-high of $47.26 and a 52-week-low of $20.03. At the end of the last trading period, Vornado Realty closed at $23.06.   
+According to Citigroup, the prior rating for Acadia Realty Trust (NYSE:AKR) was changed from Buy to Neutral. Acadia Realty Trust earned $0.28 in the third quarter, compared to $0.27 in the year-ago quarter. At the moment, the stock has a 52-week-high of $22.64 and a 52-week-low of $12.28. Acadia Realty Trust closed at $14.98 at the end of the last trading period.   
+For Latham Group Inc (NASDAQ:SWIM), Barclays downgraded the previous rating of Overweight to Equal-Weight. In the third quarter, Latham Group showed an EPS of $0.10, compared to $0.10 from the year-ago quarter. The stock has a 52-week-high of $27.25 and a 52-week-low of $2.75. At the end of the last trading period, Latham Group closed at $3.16.   
+Morgan Stanley downgraded the previous rating for Martin Marietta Materials Inc (NYSE:MLM) from Overweight to Equal-Weight. For the third quarter, Martin ...Full story available on Benzinga.com",2022-12-14 15:01:40+00:00,https://www.benzinga.com/analyst-ratings/upgrades/22/12/30076891/benzingas-top-ratings-upgrades-downgrades-for-december-14-2022,Benzinga,-0.018944844124700242,0.12110311750599517,neutral,0.018944844124700242,False,True,True,False,False,False,False,False,0.0,12146,"['MNTK', 'SYBT', 'HLT', 'EGP', 'SYNH', 'WAT', 'OLK', 'TECH', 'COUP', 'EQT', 'ZH', 'WST', 'SPSC', 'ARBK', 'THRX', 'COUP', 'ESS', 'HARP', 'ANSS', 'CZR', 'SLDP', 'ADM', 'SMPL', 'HR', 'OSW', 'AVTR', 'AGRO', 'PGY', 'AKR', 'XENE', 'LEA', 'DDOG', 'CLMT', 'GEVO', 'AWI', 'TXG', 'LEN', 'MRNA', 'CLNE', 'DAWN', 'AZO', 'DEA', 'LTC', 'BRBR', 'COGT', 'FTS', 'BBY', 'SEDG', 'MAR', 'RVMD', 'FCEL', 'GNTX', 'PEAK', 'BDN', 'BPMC', 'MGA', 'PLRX', 'GPRE', 'AMTX', 'BG', 'ACRS', 'MLM', 'NCNO', 'OMAB', 'VTNR', 'BR', 'PNT', 'PHM', 'NTST', 'PCAR', 'PTCT', 'CSR', 'BE', 'RPM', 'XPEV', 'ABCM', 'PENN', 'DOC', 'DAR', 'PLYA', 'SKY', 'MRVI', 'PLUG', 'DOC', 'DHR', 'QS', 'SLG', 'TVTX', 'RGEN', 'RNG', 'DLR', 'VICI', 'TMO', 'CERT', 'SWIM', 'MRTX', 'DRI', 'CMPO', 'VNO']",COGT,2022-12-14
+4 Analysts Have This to Say About Cogent Biosciences,"Cogent Biosciences (NASDAQ:COGT) has observed the following analyst ratings within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+3
+1
+0
+0
+0
+
+
+Last 30D
+1
+0
+0
+0
+0
+
+
+1M Ago
+2
+0
+0
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+0
+1
+0
+0
+0
+
+
+
+These 4 analysts have an average price target of $24.25 versus the current price of Cogent Biosciences at $10.11, implying  upside.
+Below is a summary of how these 4 analysts rated Cogent Biosciences over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock and the greater the number of bearish ratings, the more negative analysts ...Full story available on Benzinga.com",2023-03-27 12:03:58+00:00,https://www.benzinga.com/analyst-ratings/23/03/31508944/4-analysts-have-this-to-say-about-cogent-biosciences,Benzinga,0.13766233766233765,0.3841991341991342,positive,0.13766233766233765,False,False,False,False,False,False,False,False,0.0,755,['COGT'],COGT,2023-03-27
+Expert Ratings for Cogent Biosciences,"Analysts have provided the following ratings for Cogent Biosciences (NASDAQ:COGT) within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+3
+1
+0
+0
+0
+
+
+Last 30D
+1
+0
+0
+0
+0
+
+
+1M Ago
+2
+0
+0
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+0
+1
+0
+0
+0
+
+
+
+These 4 analysts have an average price target of $24.25 versus the current price of Cogent Biosciences at $10.5602, implying  upside.
+Below is a summary of how these 4 analysts rated Cogent Biosciences over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock and the greater the number of bearish ratings, the more negative analysts ...Full story available on Benzinga.com",2023-03-27 15:00:59+00:00,https://www.benzinga.com/analyst-ratings/23/03/31514001/expert-ratings-for-cogent-biosciences,Benzinga,0.13766233766233765,0.3841991341991342,positive,0.13766233766233765,False,False,False,False,False,False,False,False,0.0,748,['COGT'],COGT,2023-03-27
+Analyst Ratings for Cogent Biosciences,"Cogent Biosciences (NASDAQ:COGT) has observed the following analyst ratings within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+4
+1
+0
+0
+0
+
+
+Last 30D
+0
+1
+0
+0
+0
+
+
+1M Ago
+1
+0
+0
+0
+0
+
+
+2M Ago
+3
+0
+0
+0
+0
+
+
+3M Ago
+0
+0
+0
+0
+0
+
+
+
+In the last 3 months, 5 analysts have offered 12-month price targets for Cogent Biosciences. The company has an average price target of $24.0 with a high of $28.00 and a low of $20.00. 
+Below is a summary of how these 5 analysts rated Cogent Biosciences over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock and the greater the ...Full story available on Benzinga.com",2023-04-28 12:09:59+00:00,https://www.benzinga.com/analyst-ratings/23/04/32081138/analyst-ratings-for-cogent-biosciences,Benzinga,0.1348051948051948,0.3561038961038961,positive,0.1348051948051948,False,False,False,False,False,False,False,False,0.0,741,['COGT'],COGT,2023-04-28
+"Benzinga's Top Ratings Upgrades, Downgrades For April 28, 2023","Upgrades
+Deutsche Bank upgraded the previous rating for Old Dominion Freight Line Inc (NASDAQ:ODFL) from Hold to Buy. Old Dominion Freight Line earned $2.58 in the first quarter, compared to $2.60 in the year-ago quarter. The current stock performance of Old Dominion Freight Line shows a 52-week-high of $381.81 and a 52-week-low of $231.53. Moreover, at the end of the last trading period, the closing price was at $313.21.   
+For Ralph Lauren Corp (NYSE:RL), OTR Global upgraded the previous rating of Mixed to Positive. In the third quarter, Ralph Lauren showed an EPS of $3.35, compared to $2.94 from the year-ago quarter. The stock has a 52-week-high of $128.94 and a 52-week-low of $82.57. At the end of the last trading period, Ralph Lauren closed at $114.74.   
+Barrington Research upgraded the previous rating for Travelzoo (NASDAQ:TZOO) from Market Perform to Outperform. In the first quarter, Travelzoo showed an EPS of $0.23, compared to $0.19 from the year-ago quarter. The current stock performance of Travelzoo shows a 52-week-high of $8.30 and a 52-week-low of $4.11. Moreover, at the end of the last trading period, the closing price was at $6.98.   
+According to Benchmark, the prior rating for Intel Corp (NASDAQ:INTC) was changed from Hold to Buy. In the first quarter, Intel showed an EPS of $0.04, compared to $0.87 from the year-ago quarter. The current stock performance of Intel shows a 52-week-high of $47.27 and a 52-week-low of $24.59. Moreover, at the end of the last trading period, the closing price was at $29.86.   
+B of A Securities upgraded the previous rating for Pilgrims Pride Corp (NASDAQ:PPC) from Neutral to Buy. For the first quarter, Pilgrims Pride had an EPS of $0.08, compared to year-ago quarter EPS of $1.18. The stock has a 52-week-high of $34.65 and a 52-week-low of $20.59. At the end of the last trading period, Pilgrims Pride closed at $22.07.   
+For Activision Blizzard Inc (NASDAQ:ATVI), Exane BNP Paribas upgraded the previous rating of Neutral to Outperform. For the first quarter, Activision Blizzard had an EPS of $0.60, compared to year-ago quarter EPS of $0.38. The stock has a 52-week-high of $87.01 and a 52-week-low of $70.94. At the end of the last trading period, Activision Blizzard closed at $77.61.   
+For Live Oak Bancshares Inc (NYSE:LOB), JP Morgan upgraded the previous rating of Underweight to Neutral. For the first quarter, Live Oak Bancshares had an EPS of $0.01, compared to year-ago quarter EPS of $0.76. The stock has a 52-week-high of $48.38 and a 52-week-low of $17.30. At the end of the last trading period, Live Oak Bancshares closed at $23.09.   
+Stifel upgraded the previous rating for Waste Management Inc (NYSE:WM) from Hold to Buy. For the first quarter, Waste Management had an EPS of $1.31, compared to year-ago quarter EPS of $1.29. The current stock performance of Waste Management shows a 52-week-high of $175.81 and a 52-week-low of $138.90. Moreover, at the end of the last trading period, the closing price was at $161.63.   
+According to Wedbush, the prior rating for Intel Corp (NASDAQ:INTC) was changed from Underperform to Neutral. Intel earned $0.04 in the first quarter, compared to $0.87 in the year-ago quarter. The stock has a 52-week-high of $47.27 and a 52-week-low of $24.59. At the end of the last trading period, Intel closed at $29.86.   
+Stephens & Co. upgraded the previous rating for Fidelity National Information Services Inc (NYSE:FIS) from Equal-Weight to Overweight. Fidelity National Info earned $1.29 in the first quarter, compared to $1.47 in the year-ago quarter. The current stock performance of Fidelity National Info shows a 52-week-high of $106.64 and a 52-week-low of $48.57. Moreover, at the end of the last trading period, the closing price was at $56.31.   
+RBC Capital upgraded the previous rating for International Paper Co (NYSE:IP) from Sector Perform to Outperform. For the first quarter, International Paper had an EPS of $0.53, compared to year-ago quarter EPS of $0.76. The current stock performance of International Paper shows a 52-week-high ...Full story available on Benzinga.com",2023-04-28 15:00:31+00:00,https://www.benzinga.com/analyst-ratings/upgrades/23/04/32085664/benzingas-top-ratings-upgrades-downgrades-for-april-28-2023,Benzinga,0.028939393939393925,0.20325757575757572,neutral,0.028939393939393925,False,True,True,False,False,False,True,False,0.0,4186,"['MAS', 'ONDS', 'RCL', 'FBIN', 'ASO', 'RL', 'IRON', 'ATVI', 'RS', 'OCS', 'COGT', 'TYL', 'INTC', 'PPC', 'MSTR', 'WM', 'ODFL', 'AMRS', 'SGMO', 'NCLH', 'TZOO', 'NCLH', 'WOOF', 'BLUE', 'CCL', 'LOB', 'CIB', 'MBLY', 'FIS', 'MBLY', 'HAS', 'EVLV', 'IP', 'MOMO']",COGT,2023-04-28
+Cogent Biosciences to Host Investor Webcast to Discuss Lead-In Data Being Presented at ASCO from the Ongoing Phase 3 PEAK Trial in Patients with Gastrointestinal Stromal Tumors (GIST),"Webcast to be held on Monday, June 5, 2023 at 8:00 a.m. ET Webcast to be held on Monday, June 5, 2023 at 8:00 a.m. ET",2023-05-23 12:00:00+00:00,https://www.globenewswire.com/news-release/2023/05/23/2674229/0/en/Cogent-Biosciences-to-Host-Investor-Webcast-to-Discuss-Lead-In-Data-Being-Presented-at-ASCO-from-the-Ongoing-Phase-3-PEAK-Trial-in-Patients-with-Gastrointestinal-Stromal-Tumors-GIS.html,GlobeNewswire Inc.,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,302,['COGT'],COGT,2023-05-23
+Cogent Biosciences Announces Positive Lead-In Data from Ongoing Phase 3 PEAK Trial Evaluating Bezuclastinib in Combination with Sunitinib in Patients with Gastrointestinal Stromal Tumors (GIST),"-  Data presented at ASCO annual meeting demonstrate 55% Disease Control Rate (DCR) in heavily pre-treated GIST patients, including 100% DCR and 17% overall response rate (ORR) in efficacy evaluable 2nd-line GIST patients; data immature to estimate progression free survival (PFS)",2023-06-03 18:15:00+00:00,https://www.globenewswire.com/news-release/2023/06/03/2681533/0/en/Cogent-Biosciences-Announces-Positive-Lead-In-Data-from-Ongoing-Phase-3-PEAK-Trial-Evaluating-Bezuclastinib-in-Combination-with-Sunitinib-in-Patients-with-Gastrointestinal-Stromal-.html,GlobeNewswire Inc.,0.10681818181818181,0.46136363636363636,positive,0.10681818181818181,False,False,False,False,False,False,False,False,0.0,475,['COGT'],COGT,2023-06-03
+Cogent Biosciences Announces Proposed Public Offering of Common Stock,"CAMBRIDGE, Mass. and BOULDER, Colo., June  06, 2023  (GLOBE NEWSWIRE) -- Cogent Biosciences, Inc. (Nasdaq: COGT), a biotechnology company focused on developing precision therapies for genetically defined diseases, today announced that it has commenced an underwritten public offering of $125 million of shares of its common stock. In addition, Cogent has granted the underwriters a 30-day option to purchase up to an additional $18.75 million of shares of its common stock. All of the shares of common stock in the offering are being offered by Cogent.",2023-06-06 20:05:00+00:00,https://www.globenewswire.com/news-release/2023/06/06/2683320/0/en/Cogent-Biosciences-Announces-Proposed-Public-Offering-of-Common-Stock.html,GlobeNewswire Inc.,-0.19999999999999998,0.35555555555555557,negative,0.19999999999999998,False,False,False,False,False,False,False,False,0.0,623,['COGT'],COGT,2023-06-06
+Cogent Biosciences Announces Pricing of Upsized Public Offering of Shares of Common Stock,"WALTHAM, Mass. and BOULDER, Colo., June  06, 2023  (GLOBE NEWSWIRE) -- Cogent Biosciences, Inc. (Nasdaq: COGT), a biotechnology company focused on developing precision therapies for genetically defined diseases, today announced the pricing of its previously announced underwritten public offering of 12,500,000 shares of its common stock, offered at a public offering price of $12.00 per share. The aggregate gross proceeds to Cogent from this offering are expected to be approximately $150 million, before deducting underwriting discounts and commissions and other estimated offering expenses, upsized from $125 million. In addition, Cogent has granted the underwriters a 30-day option to purchase up to an additional 1,875,000 shares of its common stock at the public offering price less underwriting discounts. All of the shares of common stock in the offering are being sold by Cogent. The offering is expected to close on or about June 9, 2023, subject to customary closing conditions.",2023-06-07 00:25:00+00:00,https://www.globenewswire.com/news-release/2023/06/07/2683407/0/en/Cogent-Biosciences-Announces-Pricing-of-Upsized-Public-Offering-of-Shares-of-Common-Stock.html,GlobeNewswire Inc.,-0.1515625,0.28802083333333334,negative,0.1515625,False,False,False,False,False,False,False,False,0.0,1081,['COGT'],COGT,2023-06-07
+"Calavo Growers, Mondee Holdings And Other Big Stocks Moving Lower In Wednesday's Pre-Market Session","U.S. stock futures traded lower this morning. Here are some big stocks recording losses in today’s pre-market trading session.
+
+Mondee Holdings, Inc.  (NASDAQ: MOND) shares tumbled 17.1% to $10.53 in pre-market trading after the company reported pricing of secondary offering of common stock by selling stockholders.
+Zai Lab Limited  (NASDAQ: ZLAB) dropped 12.1% to $29.50 in pre-market trading after dropping 5% on Tuesday.
+Calavo Growers, Inc. (NASDAQ:",2023-06-07 10:38:39+00:00,https://www.benzinga.com/news/23/06/32753845/calavo-growers-mondee-holdings-and-other-big-stocks-moving-lower-in-wednesdays-pre-market-session,Benzinga,-0.13273809523809524,0.25297619047619047,negative,0.13273809523809524,True,False,True,False,False,False,False,False,0.0,555,"['COGT', 'CVGW', 'SDA', 'CLSK', 'ZLAB', 'QRTEA', 'MOND']",COGT,2023-06-07
+Why Couchbase Shares Are Trading Lower By Around 19%? Here Are Other Stocks Moving In Wednesday's Mid-Day Session,"Gainers
+
+Mobiquity Technologies, Inc. (NASDAQ: MOBQ) shares gained 124% to $0.3325. Mobiquity Technologies launched ElecAlytics, an AI-Powered analytics suite added to its ElecTech platform for political campaigns.
+Farmer Bros. Co. (NASDAQ: FARM) surged 56.4% to $3.02. Treehouse Foods inked a deal with Farmer Brothers to acquire certain assets for around $100 million, subject to customary purchase price adjustments.
+Yext, Inc.  (NASDAQ: YEXT) shares climbed 32.8% to $12.74 after the company reported better-than-expected first-quarter results and issued strong FY24 forecast.
+Stitch Fix, Inc.  (NASDAQ: SFIX) shares climbed 31.5% to $4.84 as the company reported better-than-expected results for its third quarter.
+Chijet Motor Company, Inc.  (NASDAQ: CJET) gained 25.7% to $5.28 after dropping around 29% on Tuesday.
+Dave & Buster's Entertainment, Inc. (NASDAQ: PLAY) rose 23.6% to $41.73 following upbeat quarterly earnings. The company inked a 15-store deal with the Malpani Group in India and a 5-store agreement with the NightOwl Entertainment Group in Australia.
+Aurora Innovation, Inc. (NASDAQ: AUR) gained 20% to $1.8250. Canaccord Genuity initiated coverage on Aurora Innovation with a Buy rating and announced a price target of $5.
+Hyzon Motors Inc. (NASDAQ: HYZN) rose 19.8% to $0.7383. Hyzon Motors and Performance Food Group entered into an agreement for five fuel-cell electric vehicles (FCEV).
+Affirm Holdings, Inc. (NASDAQ: AFRM) surged 19.4% to $18.90 after Amazon added Affirm's Adaptive Checkout as a payment option at checkout.
+Diversified Healthcare Trust (NASDAQ: DHC) rose 17.2% to $2.32. Diversified Healthcare Trust Director Adam D Portnoy acquired a total 5,566,644 shares an average price of $1.77.
+Wejo Group Limited  (NASDAQ: WEJO) shares gained 16.3% to $0.0699 after dropping 29% on Tuesday. Wejo Group recently said it is evaluating whether to file ancillary insolvency proceedings for the company and other units in other jurisdictions, including the US.
+Novonix Limited (NASDAQ: NVX) rose 15.8% to $3.07. AVL Test Systems, Inc. announced it has finalized a Sales and ...",2023-06-07 18:02:21+00:00,https://www.benzinga.com/news/23/06/32764984/why-couchbase-shares-are-trading-lower-by-around-19-here-are-other-stocks-moving-in-wednesdays-mid-d,Benzinga,0.12294973544973546,0.4693783068783069,positive,0.12294973544973546,True,True,False,False,True,False,True,False,0.0,2224,"['PLAY', 'BASE', 'FGEN', 'HYZN', 'RLYB', 'NVX', 'VTGN', 'STER', 'PLM', 'YEXT', 'AUR', 'PTE', 'ZLAB', 'ALLR', 'COGT', 'ROKU', 'WEJO', 'CVGW', 'SFIX', 'GETY', 'FARM', 'VXRT', 'MOND', 'SMCI', 'DHC', 'HLGN', 'UNFI', 'AGMH', 'GNS', 'BMR', 'HOTH', 'SVRE', 'CPB', 'BTTR', 'NAMS', 'CD', 'RCRT', 'CARM', 'SYM', 'AFRM', 'WLGS', 'GROV', 'OMIC', 'CJET', 'MOBQ', 'KPLT']",COGT,2023-06-07
+Cogent Biosciences Announces Closing of Upsized Public Offering of Common Stock,"WALTHAM, Mass. and BOULDER, Colo., June  09, 2023  (GLOBE NEWSWIRE) -- Cogent Biosciences, Inc. (Nasdaq: COGT), a biotechnology company focused on developing precision therapies for genetically defined diseases, today announced the closing of its previously announced upsized underwritten public offering of 12,500,000 shares of its common stock. The public offering price of each share of common stock was $12.00. The aggregate gross proceeds to Cogent from this offering were approximately $150 million, before deducting underwriting discounts and commissions and other estimated offering expenses. In addition, Cogent has granted the underwriters a 30-day option to purchase up to an additional 1,875,000 shares of its common stock at the public offering price less underwriting discounts.",2023-06-09 20:01:00+00:00,https://www.globenewswire.com/news-release/2023/06/09/2685786/0/en/Cogent-Biosciences-Announces-Closing-of-Upsized-Public-Offering-of-Common-Stock.html,GlobeNewswire Inc.,-0.15833333333333335,0.2673076923076923,negative,0.15833333333333335,False,False,False,False,False,False,False,False,0.0,873,['COGT'],COGT,2023-06-09
+9 Analysts Have This to Say About Cogent Biosciences,"Within the last quarter, Cogent Biosciences (NASDAQ:COGT) has observed the following analyst ratings: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+7
+2
+0
+0
+0
+
+
+Last 30D
+0
+1
+0
+0
+0
+
+
+1M Ago
+2
+0
+0
+0
+0
+
+
+2M Ago
+2
+1
+0
+0
+0
+
+
+3M Ago
+3
+0
+0
+0
+0
+
+
+
+In the last 3 months, 9 analysts have offered 12-month price targets for Cogent Biosciences. The company has an average price target of $23.44 with a high of $28.00 and a low of $20.00. 
+Below is a summary of how these 9 analysts rated Cogent Biosciences over the past 3 months. The greater the number of bullish ratings, the more positive analysts ...Full story available on Benzinga.com",2023-06-12 19:01:22+00:00,https://www.benzinga.com/analyst-ratings/23/06/32822411/9-analysts-have-this-to-say-about-cogent-biosciences,Benzinga,0.10671328671328671,0.345034965034965,positive,0.10671328671328671,False,False,False,False,False,False,False,False,0.0,720,['COGT'],COGT,2023-06-12
+$10M Bet On GameStop? Check Out These 3 Stocks Insiders Are Buying,"Although US stocks closed higher on Tuesday, there were a few notable insider trades.
+When insiders purchase shares, it indicates their confidence in the company's prospects or that they view the stock as a bargain. Either way, this signals an opportunity to go long on the stock. Insider purchases should not be taken as the only indicator for making an investment or trading decision. At best, it can lend conviction to a buying decision.
+Below is a look at a few recent notable insider purchases. For more, check out  Benzinga's insider transactions  platform.
+Cogent Biosciences 
+
+The Trade:  Cogent Biosciences, Inc. (NASDAQ:",2023-06-14 13:11:00+00:00,https://www.benzinga.com/trading-ideas/long-ideas/23/06/32854878/10m-bet-on-gamestop-check-out-these-3-stocks-insiders-are-buying,Benzinga,0.2,0.38636363636363635,positive,0.2,False,True,False,False,False,False,False,False,0.0,698,"['COGT', 'RPRX', 'GME']",COGT,2023-06-14
+"Does Cogent Biosciences, Inc. (COGT) Have the Potential to Rally 78.9% as Wall Street Analysts Expect?","The mean of analysts' price targets for Cogent Biosciences, Inc. (COGT) points to a 78.9% upside in the stock. While this highly sought-after metric has not proven reasonably effective, strong agreement among analysts in raising earnings estimates does indicate an upside in the stock.",2023-07-11 13:55:04+00:00,https://www.zacks.com/stock/news/2119199/does-cogent-biosciences-inc-cogt-have-the-potential-to-rally-789-as-wall-street-analysts-expect,Zacks Investment Research,0.17616666666666667,0.7521666666666667,positive,0.17616666666666667,True,False,False,False,False,False,False,False,0.0,389,['COGT'],COGT,2023-07-11
+Unpacking Blueprint Medicines' Ayvakit's Bright Future: Insights From Latest Physician Survey On Sales Predictions,"Needham slightly increased the price target for Blueprint Medicines Corp (NASDAQ: BPMC) from $65 to $66 with a Buy rating.
+The analysts Ami Fadia and Eason Lee note a survey of 20 physicians who treat, on average, 28 Indolent systemic mastocytosis (ISM) patients each. 
+ISM is a rare, usually benign, chronic form of systemic mastocytosis characterized by an abnormal accumulation of neoplastic mast cells, mainly ...Full story available on Benzinga.com",2023-08-21 19:23:39+00:00,https://www.benzinga.com/analyst-ratings/analyst-color/23/08/33968597/unpacking-blueprint-medicines-ayvakits-bright-future-insights-from-latest-physician,Benzinga,0.16666666666666666,0.47500000000000003,positive,0.16666666666666666,False,True,False,False,False,False,False,False,0.0,569,"['COGT', 'BPMC']",COGT,2023-08-21
+Analyst Expectations for Cogent Biosciences's Future,"Analysts have provided the following ratings for Cogent Biosciences (NASDAQ:COGT) within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+5
+1
+0
+0
+0
+
+
+Last 30D
+1
+0
+0
+0
+0
+
+
+1M Ago
+1
+0
+0
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+3
+1
+0
+0
+0
+
+
+
+According to 6 analyst offering 12-month price targets in the last 3 months, Cogent Biosciences has an average price target of $24.17 with a high of $27.00 and a low of $21.00. 
+Below is a summary of how these 6 analysts rated Cogent Biosciences over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock and the ...Full story available on Benzinga.com",2023-08-30 12:00:29+00:00,https://www.benzinga.com/analyst-ratings/23/08/34111796/analyst-expectations-for-cogent-biosciencess-future,Benzinga,0.09909090909090909,0.3293181818181818,neutral,0.09909090909090909,False,False,False,False,False,False,False,False,0.0,741,['COGT'],COGT,2023-08-30
+Cogent Biosciences Presents Preclinical Data Highlighting Precision Oncology Pipeline at the 2023 AACR-NCI-EORTC International Conference on Molecular Targets and Cancer Therapeutics,– Novel selective and reversible FGFR2 inhibitor exhibits strong potency across key primary and resistance driver mutations with potential advantages over covalent approaches –,2023-10-14 16:30:00+00:00,https://www.globenewswire.com/news-release/2023/10/14/2760228/0/en/Cogent-Biosciences-Presents-Preclinical-Data-Highlighting-Precision-Oncology-Pipeline-at-the-2023-AACR-NCI-EORTC-International-Conference-on-Molecular-Targets-and-Cancer-Therapeuti.html,GlobeNewswire Inc.,0.16666666666666666,0.6466666666666667,positive,0.16666666666666666,False,False,False,False,False,False,False,False,0.0,360,['COGT'],COGT,2023-10-14
+Cogent Biosciences Presents New Preclinical Data Highlighting Potential Best-in-Class Potency and Selectivity of ErbB2 and PI3Kα inhibitor programs at the San Antonio Breast Cancer Symposium,"Novel EGFR-sparing, brain-penetrant ErbB2 inhibitor demonstrates superior efficacy profile reaching 80% brain penetrance with potent coverage of key mutations inadequately addressed by currently approved therapies",2023-12-07 14:00:00+00:00,https://www.globenewswire.com/news-release/2023/12/07/2792555/0/en/Cogent-Biosciences-Presents-New-Preclinical-Data-Highlighting-Potential-Best-in-Class-Potency-and-Selectivity-of-ErbB2-and-PI3K%CE%B1-inhibitor-programs-at-the-San-Antonio-Breast-Cancer.html,GlobeNewswire Inc.,0.22272727272727275,0.7090909090909091,positive,0.22272727272727275,False,False,False,False,False,False,False,False,0.0,405,['COGT'],COGT,2023-12-07
+Cogent Biosciences Announces Positive Initial Data from Phase 2 SUMMIT Trial Evaluating Bezuclastinib in Patients with Nonadvanced Systemic Mastocytosis (NonAdvSM),"Rapid and ongoing improvement in patient symptoms, with 57% median best improvement on MC-QoL and 78% of patients reporting ≥1 point improvement on PGIS by week 20",2023-12-09 18:30:00+00:00,https://www.globenewswire.com/news-release/2023/12/09/2793443/0/en/Cogent-Biosciences-Announces-Positive-Initial-Data-from-Phase-2-SUMMIT-Trial-Evaluating-Bezuclastinib-in-Patients-with-Nonadvanced-Systemic-Mastocytosis-NonAdvSM.html,GlobeNewswire Inc.,0.4090909090909091,0.2818181818181818,positive,0.4090909090909091,False,False,False,False,False,False,False,False,0.0,328,['COGT'],COGT,2023-12-09
+Cogent Biosciences Announces Positive Data from Ongoing Phase 2 APEX Trial Evaluating Bezuclastinib in Patients with Advanced Systemic Mastocytosis (AdvSM),"56% ORR in TKI-naïve patients, including 86% ORR by PPR criteria and 100% ORR in APEX patients treated at 100 mg BID with exposures consistent with go-forward dose",2023-12-11 12:55:00+00:00,https://www.globenewswire.com/news-release/2023/12/11/2793781/0/en/Cogent-Biosciences-Announces-Positive-Data-from-Ongoing-Phase-2-APEX-Trial-Evaluating-Bezuclastinib-in-Patients-with-Advanced-Systemic-Mastocytosis-AdvSM.html,GlobeNewswire Inc.,0.2924242424242424,0.46515151515151515,positive,0.2924242424242424,False,False,False,False,False,False,False,False,0.0,320,['COGT'],COGT,2023-12-11
+US Stocks Mixed; Cigna Shares Spike Higher,"U.S. stocks traded mixed this morning, with the Dow Jones index gaining more than 20 points on Monday.
+Following the market opening Monday, the Dow traded up 0.07% to 36,272.54 while the NASDAQ fell 0.26% to 14,366.24. The S&P 500 also fell, dropping, 0.02% to 4,603.60.
+Check This Out:  This Analyst With 84% Accuracy Rate Sees More Than 7% Upside In Broadcom - Here Are 5 Stock Picks For Last Week From Wall Street's Most Accurate Analysts
+ 
+Leading and Lagging Sectors
+ 
+Industrials shares rose by 0.7% on Monday.
+In trading on Monday, communication services shares fell by 1.4%.
+ 
+Top Headline
+ 
+Shares of  Cigna Group (NYSE: CI) traded higher on Monday after the company reportedly ended its attempt to negotiate an acquisition deal with rival Humana Inc (NYSE: HUM) after the pair disagreed on price terms.
+ 
+Equities Trading UP
+ 
+Pasithea Therapeutics Corp.  (NASDAQ: KTTA) shares shot up 130% to $0.7012 after the company announced preclinical results from two in vivo studies evaluating the antitumor efficacy of PAS-004 ...",2023-12-11 15:20:54+00:00,https://www.benzinga.com/news/earnings/23/12/36178179/us-stocks-mixed-cigna-shares-spike-higher,Benzinga,0.2916666666666667,0.4375,positive,0.2916666666666667,False,True,True,False,False,False,False,False,0.0,1077,"['COGT', 'CI', 'HUM', 'NIR', 'CYTO', 'NXTP', 'KTTA', 'IONM']",COGT,2023-12-11
+"Coinbase, Riot Platforms, Marathon Digital And Other Big Stocks Moving Lower On Monday","U.S. stocks traded mostly mixed, with the Dow Jones index gaining more than 100 points on Monday.
+Here are some other big stocks recording losses in today’s session.
+
+Cogent Biosciences, Inc. (NASDAQ: COGT) shares tumbled 52.7% to $4.0803 after the company reported initial data from its ongoing Phase 2 SUMMIT trial and data from Part 1 of its ongoing Phase 2 APEX clinical at ASH 2023.
+Biomea Fusion, Inc.  (NASDAQ: BMEA) shares dipped 32.2% to $11.40 after the company announced it presented data for BMF-219 in relapsed / refractory AML patients with menin-dependent mutations at the ASH 2023 Annual Meeting.
+XBP Europe Holdings, Inc. (NASDAQ: XBP) fell 25% to $12.00.
+Keros Therapeutics, Inc. (NASDAQ: KROS) declined ...",2023-12-11 16:07:21+00:00,https://www.benzinga.com/news/23/12/36179285/coinbase-riot-platforms-marathon-digital-and-other-big-stocks-moving-lower-on-monday,Benzinga,0.03125,0.21250000000000002,neutral,0.03125,True,False,False,False,False,False,False,False,0.0,813,"['KROS', 'BMEA', 'XPOF', 'COGT', 'XBP', 'COIN', 'DISH', 'SMRT', 'GIL', 'MARA', 'RNG', 'HIVE', 'CLSK', 'TELL', 'ZLAB', 'RIOT', 'APLS']",COGT,2023-12-11
+Dow Surges 100 Points; Cogent Biosciences Shares Plunge,"U.S. stocks traded mixed midway through trading, with the Dow Jones index gaining more than 100 points on Monday.
+The Dow traded up 0.28% to 36,349.22 while the NASDAQ fell 0.36% to 14,352.34. The S&P 500 also rose, gaining, 0.06% to 4,607.02.
+Check This Out:  This Analyst With 84% Accuracy Rate Sees More Than 7% Upside In Broadcom - Here Are 5 Stock Picks For Last Week From Wall Street's Most Accurate Analysts
+ 
+Leading and Lagging Sectors
+ 
+Industrials shares rose by 0.9% on Monday.
+In trading on Monday, communication services shares fell by 1.6%.
+ 
+Top Headline
+ 
+An investor consortium has tabled a $5.8 billion bid to acquire Macy's Inc. (NYSE: M), in an attempt to privatize the iconic department store chain.
+This comes as Macy's grapples with mounting competition from digital retailers, which has significantly eroded its market value.
+ 
+Equities Trading UP
+ 
+Pasithea Therapeutics Corp.  (NASDAQ: KTTA) shares shot up 114% to $0.6527 after the company announced preclinical results from two in vivo studies evaluating the antitumor efficacy ...",2023-12-11 17:11:00+00:00,https://www.benzinga.com/news/earnings/23/12/36180702/dow-surges-100-points-cogent-biosciences-shares-plunge,Benzinga,0.3729166666666666,0.51875,positive,0.3729166666666666,False,True,True,False,False,False,False,False,0.0,1117,"['MOR', 'COGT', 'CI', 'HUM', 'M', 'GGE', 'NIR', 'KTTA']",COGT,2023-12-11
+Nasdaq Edges Higher; Macy's Shares Jump,"U.S. stocks traded higher toward the end of trading, with the Dow Jones index gaining around 100 points on Monday.
+The Dow traded up 0.26% to 36,341.44 while the NASDAQ rose 0.12% to 14,421.98. The S&P 500 also rose, gaining, 0.30% to 4,618.11.
+Check This Out:  This Analyst With 84% Accuracy Rate Sees More Than 7% Upside In Broadcom - Here Are 5 Stock Picks For Last Week From Wall Street's Most Accurate Analysts
+ 
+Leading and Lagging Sectors
+ 
+Industrials shares rose by 0.8% on Monday.
+In trading on Monday, communication services shares fell by 1.5%.
+ 
+Top Headline
+ 
+Macy's Inc (NYSE: M) shares jumped more than 20% on Monday following a report suggesting an investor group made a $5.8 billion buyout offer for the company.
+ 
+Equities Trading UP
+ 
+Pasithea Therapeutics Corp.  (NASDAQ: KTTA) shares shot up 92% to $0.59 after the company announced preclinical results from two in vivo studies evaluating the antitumor efficacy of PAS-004 in NRAS mutation cancer xenograft models.
+Shares of  ...",2023-12-11 19:26:20+00:00,https://www.benzinga.com/news/earnings/23/12/36183276/nasdaq-edges-higher-macys-shares-jump,Benzinga,0.39166666666666666,0.5541666666666667,positive,0.39166666666666666,False,True,True,False,False,False,False,False,0.0,1042,"['MOR', 'COGT', 'CI', 'HUM', 'M', 'GGE', 'NIR', 'KTTA']",COGT,2023-12-11
+Analyst Expectations for Cogent Biosciences's Future,"Within the last quarter, Cogent Biosciences (NASDAQ:COGT) has observed the following analyst ratings: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+4
+1
+1
+0
+0
+
+
+Last 30D
+1
+0
+0
+0
+0
+
+
+1M Ago
+2
+1
+1
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+1
+0
+0
+0
+0
+
+
+
+These 6 analysts have an average price target of $17.0 versus the current price of Cogent Biosciences at $4.96, implying  upside.
+Below is a summary of how these 6 analysts rated Cogent Biosciences over the past 3 months. The greater the number of bullish ratings, ...Full story available on Benzinga.com",2023-12-15 14:00:45+00:00,https://www.benzinga.com/analyst-ratings/23/12/36256997/analyst-expectations-for-cogent-biosciencess-future,Benzinga,0.05,0.3058333333333333,neutral,0.05,False,False,False,False,False,False,False,False,0.0,636,['COGT'],COGT,2023-12-15
+Cogent Biosciences Announces Presentation at the 42nd Annual J.P. Morgan Healthcare Conference,"WALTHAM, Mass. and BOULDER, Colo., Jan.  02, 2024  (GLOBE NEWSWIRE) -- Cogent Biosciences, Inc. (Nasdaq: COGT), a biotechnology company focused on developing precision therapies for genetically defined diseases, today announced that Andrew Robbins, President and Chief Executive Officer, will present at the 42nd Annual J.P. Morgan Healthcare Conference in San Francisco on Tuesday, January 9, 2024 at 4:30 p.m. PT/7:30 p.m. ET.",2024-01-02 13:00:00+00:00,https://www.globenewswire.com/news-release/2024/01/02/2802625/0/en/Cogent-Biosciences-Announces-Presentation-at-the-42nd-Annual-J-P-Morgan-Healthcare-Conference.html,GlobeNewswire Inc.,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,524,['COGT'],COGT,2024-01-02
+Cogent Biosciences Announces Planned 2024 Milestones for Bezuclastinib and Emerging Portfolio of Selective and Potent Targeted Therapeutics,"WALTHAM, Mass. and BOULDER, Colo., Jan.  09, 2024  (GLOBE NEWSWIRE) -- Cogent Biosciences, Inc. (Nasdaq: COGT), a biotechnology company focused on developing precision therapies for genetically defined diseases, today highlighted the company’s key 2024 milestones ahead of its presentation at J.P. Morgan’s 42nd annual healthcare conference.",2024-01-09 13:00:00+00:00,https://www.globenewswire.com/news-release/2024/01/09/2806211/0/en/Cogent-Biosciences-Announces-Planned-2024-Milestones-for-Bezuclastinib-and-Emerging-Portfolio-of-Selective-and-Potent-Targeted-Therapeutics.html,GlobeNewswire Inc.,0.25,0.75,positive,0.25,False,False,False,False,False,False,False,False,0.0,482,['COGT'],COGT,2024-01-09
+Why Sony Shares Are Trading Lower By Around 6%? Here Are Other Stocks Moving In Wednesday's Mid-Day Session,"Shares of  Sony Group Corporation (NYSE: SONY) fell during Wednesday’s session after the company reported third-quarter financial results and revised guidance above estimates and shared plans to list its financial arm in October 2025.
+Sony Group reported third-quarter FY23 sales growth of 22% year-on-year to $25.34 billion (¥3.75 trillion), beating the consensus of $24.62 billion. Adjusted EPS of $1.99 beat the consensus of $1.65.
+Sony revised its FY23 sales outlook to $86.62 billion (¥12.4 trillion), down from a prior forecast of ¥12.3 trillion versus the consensus of $87.32 billion.
+Sony Group shares fell 6.3% to $89.86 on Wednesday.
+Here are some other stocks moving in today's mid-day session.
+Gainers
+
+Datasea Inc.  (NASDAQ: DTSS) shares jumped 1,173% to $18.59. On Tuesday, Datasea posted a narrower second-quarter loss.
+Earlyworks Co., Ltd. (NASDAQ: ELWS) surged 416% to $2.35 on two passive stakes.
+enGene Holdings Inc. (NASDAQ: ENGN) jumped 95.5% to $14.90. The company’s CEO Jason Hanson is resigning due to personal family and health reasons, though he will continue to support the company as a strategic advisor after a successor is appointed. Concurrently, enGene announced a private placement of 20 million common shares at $10.00 per share, representing a 31% premium over the previous day’s closing price.
+Cineverse Corp. (NASDAQ: CNVS) surged 92.9% to $2.9899. Cineverse announced forthcoming launch of AI-powered movie search platform cineSearch.
+Cheche Group Inc. (NASDAQ: CCG) gained 74.3% to $5.49.
+MGO Global, Inc. (NASDAQ: MGOL) rose 66% to $0.6647.
+Cogent Biosciences, Inc. (NASDAQ: COGT) surged 62.7% to $8.89.
+Inspira Technologies Oxy B.H.N. Ltd. (NASDAQ: IINN) gained 35% to $1.29 after the company announced it received the first ever U.S. Patent approval for an orbiting blood oxygenation delivery system, a core technology of the INSPIRA ART500 device.
+Lyft, Inc. (NASDAQ: LYFT) shares gained 34.3% to $16.29 after the company reported fourth-quarter sales of $1.22 billion and gross bookings of $3.7 ...",2024-02-14 18:18:52+00:00,https://www.benzinga.com/news/24/02/37134445/why-sony-shares-are-trading-lower-by-around-6-here-are-other-stocks-moving-in-wednesdays-mid-day-ses,Benzinga,-0.009201388888888884,0.2586805555555555,neutral,0.009201388888888884,True,False,True,False,True,False,True,False,0.0,2151,"['BLNK', 'OMH', 'CC', 'QRTEB', 'CCTG', 'CCG', 'REZI', 'AKAM', 'CNVS', 'ANGI', 'BGLC', 'CART', 'ENGN', 'LRMR', 'CEVA', 'ALSN', 'VRM', 'COGT', 'MRC', 'ABNB', 'COIN', 'UPST', 'CLNN', 'GLDD', 'AZTR', 'EEIQ', 'HCSG', 'SUNW', 'SONY', 'KTOS', 'VBIV', 'IINN', 'QDEL', 'EVA', 'SNTG', 'TSEM', 'KHC', 'HOOD', 'UFCS', 'LYFT', 'IREN', 'CAE', 'GMBL', 'MGOL', 'CRL', 'NUKK', 'ELWS', 'MGM', 'DTSS']",COGT,2024-02-14
+Cogent Biosciences Announces Positive Part 1b Data from SUMMIT Trial Evaluating Bezuclastinib in Patients with Nonadvanced Systemic Mastocytosis,Registration-enabling SUMMIT Part 2 initiated and actively enrolling at 40 sites globally; RP2D selected at 100 mg once-daily optimized formulation based on:,2024-02-22 19:30:00+00:00,https://www.globenewswire.com/news-release/2024/02/22/2834028/0/en/Cogent-Biosciences-Announces-Positive-Part-1b-Data-from-SUMMIT-Trial-Evaluating-Bezuclastinib-in-Patients-with-Nonadvanced-Systemic-Mastocytosis.html,GlobeNewswire Inc.,0.031313131313131314,0.38181818181818183,neutral,0.031313131313131314,False,False,False,False,False,False,False,False,0.0,303,['COGT'],COGT,2024-02-22
+"Marinus Pharmaceuticals, Neumora Therapeutics And Other Big Stocks Moving Lower In Monday's Pre-Market Session","U.S. stock futures were higher this morning, with the Dow futures gaining over 200 points on Monday.
+Shares of  Marinus Pharmaceuticals, Inc. (NASDAQ: MRNS) fell sharply in today’s pre-market trading after the company issued an update on the Phase 3 RAISE Trial and reported preliminary first quarter 2024 financial results.
+Marinus Pharma reported Prelim ZTALMY (Ganaxolone) net product revenue of $7.4 million to $7.6 million for the first quarter.
+Marinus Pharmaceuticals shares dipped 74.2% to $1.94in pre-market trading.
+Here are ...",2024-04-15 12:19:30+00:00,https://www.benzinga.com/news/24/04/38246576/marinus-pharmaceuticals-neumora-therapeutics-and-other-big-stocks-moving-lower-in-mondays-pre-market,Benzinga,0.0625,0.2989583333333334,neutral,0.0625,True,False,False,False,True,False,False,False,0.0,650,"['COGT', 'TRMD', 'MOH', 'RARE', 'MRNS', 'PSNY', 'RDZN', 'NMRA']",COGT,2024-04-15
+Cogent Biosciences Announces Positive Updated Lead-In Data from Ongoing Phase 3 PEAK Trial Evaluating Bezuclastinib in Combination with Sunitinib in Patients with Gastrointestinal Stromal Tumors (GIST) at ASCO Annual Meeting,"WALTHAM, Mass. and BOULDER, Colo., May  23, 2024  (GLOBE NEWSWIRE) -- Cogent Biosciences, Inc. (Nasdaq: COGT), a biotechnology company focused on developing precision therapies for genetically defined diseases, today announced positive updated lead-in data from the company’s ongoing Phase 3 PEAK trial evaluating the selective and potent KIT mutant inhibitor, bezuclastinib, in combination with sunitinib, in patients with Gastrointestinal Stromal Tumors (GIST). The data will be presented in a poster presentation at the American Society of Clinical Oncology (ASCO) Annual Meeting in Chicago, IL on June 1. Cogent also announced today a new Phase 2 clinical trial of bezuclastinib plus sunitinib in later line GIST patients, sponsored by the Sarcoma Alliance for Research through Collaboration (SARC) and in collaboration with The Life Raft Group and Dana-Farber Cancer Institute.",2024-05-23 21:01:00+00:00,https://www.globenewswire.com/news-release/2024/05/23/2887694/0/en/Cogent-Biosciences-Announces-Positive-Updated-Lead-In-Data-from-Ongoing-Phase-3-PEAK-Trial-Evaluating-Bezuclastinib-in-Combination-with-Sunitinib-in-Patients-with-Gastrointestinal-.html,GlobeNewswire Inc.,0.1818181818181818,0.3409090909090909,positive,0.1818181818181818,False,False,False,False,False,False,False,False,0.0,1108,['COGT'],COGT,2024-05-23
+Cogent Biosciences Appoints Cole Pinnow as Chief Commercial Officer,"WALTHAM, Mass. and BOULDER, Colo., May  23, 2024  (GLOBE NEWSWIRE) -- Cogent Biosciences, Inc. (Nasdaq: COGT), a biotechnology company focused on developing precision therapies for genetically defined diseases, today announced the appointment of Cole Pinnow as Chief Commercial Officer. Mr. Pinnow is a leader in the biopharmaceutical industry with an impressive track record in commercial strategy, including several successful product launches. At Cogent, he will be responsible for building and leading the commercial team including sales, marketing, access, and commercial operations. A key priority will be preparing the company for the potential commercial launch of bezuclastinib, for patients with systemic mastocytosis (SM) or Gastrointestinal Stromal Tumors (GIST).",2024-05-23 21:05:00+00:00,https://www.globenewswire.com/news-release/2024/05/23/2887700/0/en/Cogent-Biosciences-Appoints-Cole-Pinnow-as-Chief-Commercial-Officer.html,GlobeNewswire Inc.,0.1625,0.375,positive,0.1625,False,False,False,False,True,False,False,False,0.0,844,['COGT'],COGT,2024-05-23
+Cogent Biosciences Announces Additional Clinical Data from Part 1 of its Ongoing SUMMIT Trial Evaluating Bezuclastinib in Patients with NonAdvanced Systemic Mastocytosis (NonAdvSM),Patients treated with 100 mg bezuclastinib showed substantial reduction in their most severe symptoms and mast cell reactions,2024-06-14 11:30:00+00:00,https://www.globenewswire.com/news-release/2024/06/14/2898928/0/en/Cogent-Biosciences-Announces-Additional-Clinical-Data-from-Part-1-of-its-Ongoing-SUMMIT-Trial-Evaluating-Bezuclastinib-in-Patients-with-NonAdvanced-Systemic-Mastocytosis-NonAdvSM.html,GlobeNewswire Inc.,0.5,0.5,positive,0.5,False,False,False,False,False,False,False,False,0.0,307,['COGT'],COGT,2024-06-14
+Cogent (COGT) Up on SUMMIT Study Update Post Positive FDA Meeting,"Cogent (COGT) announces a positive FDA meeting and alignment on MS2D2, a novel patient-reported outcome measure for the SUMMIT study. The company's shares rise on the news.",2024-06-28 13:18:00+00:00,https://www.zacks.com/stock/news/2295045/cogent-cogt-up-on-summit-study-update-post-positive-fda-meeting,Zacks Investment Research,0.22727272727272727,0.5454545454545454,positive,0.22727272727272727,False,False,True,False,False,False,False,False,0.0,239,"['CGEN', 'COGT', 'ANVS', 'ALXO']",COGT,2024-06-28

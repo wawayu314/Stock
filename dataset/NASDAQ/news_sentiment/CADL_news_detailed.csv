@@ -1,0 +1,690 @@
+title,description,published_utc,article_url,publisher,sentiment_polarity,sentiment_subjectivity,sentiment_label,sentiment_confidence,keywords_earnings,keywords_acquisition,keywords_regulation,keywords_partnership,keywords_product,keywords_financial,keywords_leadership,keywords_lawsuit,urgency_score,text_length,tickers,ticker,date
+"The Daily Biotech Pulse: Merck's Disappointing Q2, Atreca Falls On Data, FDA Nod For Viatris, Nuvalent, Icosavax IPOs","Here's a roundup of top developments in the biotech space over the last 24 hours:
+Scaling The Peaks
+(Biotech Stocks Hitting 52-week Highs July 28)
+
+AbbVie Inc. (NYSE: ABBV)
+Alkermes plc (NASDAQ: ALKS) (reacted to second-quarter results)
+Arvinas, Inc. (NASDAQ: ARVN)
+Bio-Rad Laboratories, Inc. (NYSE: BIO)
+BioNTech SE (NASDAQ: BNTX) (reacted to COVID-19 vaccine sales revealed by Pfizer, Inc.  in its quarterly results)
+Cassava Sciences, Inc. (NASDAQ: SAVA) (saw an acceleration in momentum  set in motion by Alzheimer's data release)
+Edwards Lifesciences Corporation (NYSE: EW)
+Globus Medical, Inc. (NYSE: GMED)
+Horizon Therapeutics Public Limited Company (NASDAQ: HZNP)
+Ironwood Pharmaceuticals, Inc. (NASDAQ: IRWD)
+Merit Medical Systems, Inc. (NASDAQ: MMSI)
+Repligen Corporation (NASDAQ: RGEN) (reacted to second-quarter results)
+ResMed Inc. (NYSE: RMD)
+West Pharmaceutical Services, Inc. (NYSE: WST)
+Translate Bio, Inc. (NASDAQ: TBIO)
+
+Down In The Dumps
+(Biotech Stocks Hitting 52-week Lows July 28)
+
+89bio, Inc. (NASDAQ: ETNB)
+Acumen Pharmaceuticals, Inc. (NASDAQ: ABOS)
+Adicet Bio, Inc. (NASDAQ: ACET)
+Aerovate Therapeutics, Inc. (NASDAQ: AVTE)
+Biodesix, Inc. (NASDAQ: BDSX)
+Candel Therapeutics, Inc. Common Stock (NASDAQ: CADL) (IPOed Tuesday)
+Eledon Pharmaceuticals, Inc. (NASDAQ: ELDN)
+Ensysce Biosciences, Inc. (NASDAQ: ENSC)
+ERYTECH Pharma S.A. (NASDAQ: ERYP)
+Heron Therapeutics, Inc. (NASDAQ: HRTX)
+Ikena Oncology, Inc. (NASDAQ: IKNA)
+InflaRx N.V. (NASDAQ: IFRX)
+Lumos Pharma, Inc. (NASDAQ: LUMO)
+Lyell Immunopharma, Inc. (NASDAQ: LYEL)
+Metacrine, Inc. (NASDAQ: MTCR)
+Mirum Pharmaceuticals, Inc. (NASDAQ: MIRM)
+MorphoSys AG (NASDAQ: MOR)
+Nautilus Biotechnology, Inc. (NASDAQ: NAUT)
+NexImmune, Inc. (NASDAQ: NEXI)
+Otonomy, Inc. (NASDAQ: OTIC)
+Oyster Point Pharma, Inc. (NASDAQ: OYST)
+Scopus BioPharma Inc. (NASDAQ: SCPS) (IPOed July 15)
+Sera Prognostics, Inc. (NASDAQ: SERA) (IPOed July 22)
+Sophia Genetics SA (NASDAQ: SOPH) (IPOed Friday)
+Universe Pharmaceuticals INC (NASDAQ: UPC)
+Yumanity Therapeutics, Inc. (NASDAQ: YMTX)
+ZIVO Bioscience, Inc. (NASDAQ: ZIVO)
+
+Stocks In Focus
+FDA Approves Fusion Pharma's Clinical Study of Investigational Radiopharmaceutical
+Fusion Pharmaceuticals Inc. (NASDAQ: FUSN) said the Food and Drug Administration has cleared its investigational new drug applications FPI-1966 and imaging agent FPI-1967. FPI-1966 is a targeted alpha therapy designed to use vofatamab, a human monoclonal antibody, to target and deliver actinium-225 to tumor sites expressing fibroblast growth factor 3, a protein that is overexpressed in multiple tumor types, particularly head and neck and bladder cancers.
+Fusion said it plans to initiate a Phase 1, non-randomized, open-label clinical trial in patients with solid tumors expressing FGFR3 intended to investigate safety, tolerability and pharmacokinetics and to establish the recommended Phase 2 dose.
+The stock was up 12.55% at $9.24 in premarket trading.
+Satsuma Commences Phase 3 Study Of Migraine Treatment Candidate STS101
+Satsuma Pharmaceuticals, Inc. (NASDAQ: STSA) announced randomization of the first subject in its SUMMIT Phase 3 efficacy trial of STS101 for the acute treatment of migraine.
+""We believe SUMMIT will provide the basis for STS101, with subsequent FDA approval, to become the first and only DHE product to have established efficacy on the current standard and FDA-accepted endpoints for acute treatment of migraine in a randomized, placebo-controlled trial,"" said John Kollin, CEO of Satsuma.
+The stock was gaining 6.54% to $5.70 in premarket trading.
+Atreca Shares Slump On Cancer Drug Data
+Atreca, Inc. (NASDAQ: BCEL) announced initial data from the dose escalation portion of its ongoing Phase 1b trial ...",2021-07-29 12:15:52+00:00,https://www.benzinga.com/general/biotech/21/07/22219116/the-daily-biotech-pulse-mercks-disappointing-q2-atreca-falls-on-data-fda-nod-for-viatris-nuvalent,Benzinga,0.04837518037518038,0.3001183261183262,neutral,0.04837518037518038,False,False,True,False,True,False,True,False,0.0,3828,"['ABOS', 'VRTX', 'UPC', 'FUSN', 'MOR', 'URGN', 'AZN', 'BDSX', 'ICPT', 'OPK', 'IFRX', 'BIO', 'VTRS', 'ABBV', 'ACET', 'ALKS', 'ERYP', 'EBS', 'TVTX', 'PTCT', 'CORT', 'ARVN', 'EW', 'SCPS', 'AGIO', 'DXCM', 'MRKR', 'LH', 'YMTX', 'VCYT', 'EXAS', 'ALEC', 'MRK', 'ELDN', 'ARDX', 'GILD', 'SILK', 'RMD', 'NEXI', 'HRTX', 'IBB', 'SAVA', 'SNY', 'LBPS', 'CDNA', 'LGND', 'BCEL', 'WST', 'IKNA', 'OTIC', 'MMSI', 'MIRM', 'LYEL', 'RYTM', 'QGEN', 'BNTX', 'IRWD', 'NAUT', 'REGN', 'OYST', 'TBIO', 'AVTE', 'BPMC', 'NVCR', 'RGEN', 'ETNB', 'HZNP', 'ENSC', 'SOPH', 'SGEN', 'LUMO', 'GMED', 'SERA', 'EVLO', 'STSA', 'MTCR', 'CADL']",CADL,2021-07-29
+"The Daily Biotech Pulse: Erytech Jumps On Fast Track Designation, GlaxoSmithKline FDA Nod, Alnylam's Clinical Collaboration, 4 IPOs","Here's a roundup of top developments in the biotech space over the last 24 hours.
+Scaling The Peaks
+(Biotech Stocks Hitting 52-week Highs July 29)
+
+AbbVie Inc. (NYSE: ABBV)
+Absci, CORP (NASDAQ: ABSI) (IPOed July 22)
+Alkermes plc (NASDAQ: ALKS)
+Arvinas, Inc. (NASDAQ: ARVN)
+Axonics, Inc. (NASDAQ: AXNX)
+Bio-Rad Laboratories, Inc. (NYSE: BIO)
+Biohaven Pharmaceutical Holding Company Ltd. (NYSE: BHVN)
+Bristol-Myers Squibb Company (NYSE: BMY)
+Bio-Techne Corporation (NASDAQ: TECH)
+BioNTech SE (NASDAQ: BNTX)
+Cassava Sciences, Inc. (NASDAQ: SAVA) (retreated after hitting a high early in the session)
+DexCom, Inc. (NASDAQ: DXCM)
+Edwards Lifesciences Corporation (NYSE: EW)
+Erasca, Inc. (NASDAQ: ERAS) (IPOed July 16)
+Globus Medical, Inc. (NYSE: GMED)
+Horizon Therapeutics Public Limited Company (NASDAQ: HZNP)
+Innoviva, Inc. (NASDAQ: INVA) (reacted to its second-quarter results)
+Ironwood Pharmaceuticals, Inc. (NASDAQ: IRWD)
+Merit Medical Systems, Inc. (NASDAQ: MMSI)
+Protagonist Therapeutics, Inc. (NASDAQ: PTGX) (announced an amended R&D collaboration agreement with Johnson & Johnson's (NYSE: JNJ) Janssen unit)
+ResMed Inc. (NYSE: RMD)
+West Pharmaceutical Services, Inc. (NYSE: WST)
+Translate Bio, Inc. (NASDAQ: TBIO) (announced its second-quarter results)
+Zoetis Inc. (NYSE: ZTS)
+
+Down In The Dumps
+(Biotech Stocks Hitting 52-week Lows July 28)
+
+23andMe Holding Co. (NASDAQ: ME) (reacted to its second-quarter results)
+89bio, Inc. (NASDAQ: ETNB)
+Adicet Bio, Inc. (NASDAQ: ACET)
+Atreca, Inc. (NASDAQ: BCEL) ( announced  initial Phase 1b data from the study evaluating ATRC-101 in select solid tumor types)
+Candel Therapeutics, Inc. Common Stock (NASDAQ: CADL) (IPOed Tuesday)
+Ensysce Biosciences, Inc. (NASDAQ: ENSC)
+ERYTECH Pharma S.A. (NASDAQ: ERYP)
+EyeGate Pharmaceuticals, Inc. (NASDAQ: EYEG)
+Lumos Pharma, Inc. (NASDAQ: LUMO)
+Mersana Therapeutics, Inc. (NASDAQ: MRSN)
+Orchard Therapeutics plc (NASDAQ: ORTX)
+Oyster Point Pharma, Inc. (NASDAQ: OYST)
+Palisade Bio, Inc. (NASDAQ: PALI) (announced topline Phase 2 clinical trial data for LB1148 in accelerating the return of bowel function in patients undergoing elective bowel resection surgery)
+Sophia Genetics SA (NASDAQ: SOPH) (IPOed Friday)
+Taysha Gene Therapies, Inc. (NASDAQ: TSHA)
+
+Stocks In Focus
+Erytech Eryapase Gets Fast Track Designation For Blood Cancer Treatment
+Erytech said the FDA has granted its eryaspase fast track designation for the treatment of acute lymphocytic leukemia patients who have developed hypersensitivity reactions to E. coli-derived pegylated asparaginase.
+The stock was up 57.66% at $6.48 in premarket trading.
+Bioventus to Buy Misonix In a Cash and Stock Deal Valued at $518M
+Bioventus Inc. (NASDAQ: BVS) announced an agreement to buy Misonix, Inc. (NASDAQ: MSON) in a cash-and-stock deal. Under the terms of the agreement, Misonix stockholders will ...",2021-07-30 11:53:56+00:00,https://www.benzinga.com/general/biotech/21/07/22245120/the-daily-biotech-pulse-erytech-jumps-on-fast-track-designation-glaxosmithkline-fda-nod-alnylams-,Benzinga,0.08516754850088185,0.3058377425044092,neutral,0.08516754850088185,False,True,True,False,False,False,False,False,0.0,2976,"['BGNE', 'ACET', 'PALI', 'EW', 'SOPH', 'ALKS', 'BVS', 'JNJ', 'PTGX', 'ALNY', 'ABSI', 'ME', 'BHVN', 'BIIB', 'ENSC', 'RMD', 'MRSN', 'DXCM', 'ERAS', 'WST', 'ERYP', 'GILD', 'IRWD', 'ARVN', 'IBB', 'CADL', 'ORTX', 'IMGN', 'TBIO', 'AXNX', 'LIFE', 'HZNP', 'SAVA', 'LXRX', 'GMED', 'BCEL', 'MMSI', 'INVA', 'BNTX', 'MSON', 'OYST', 'NUVA', 'ABBV', 'ETNB', 'TECH', 'RDHL', 'LUMO', 'BIO', 'EYEG', 'TSHA', 'BMY']",CADL,2021-07-30
+"The Daily Biotech Pulse: Moderna's Vaccine Produces Durable Response Against Variants, FDA Approves Jazz's Sleep Disorder Drug, Dermata IPO","Here's a roundup of top developments in the biotech space over the last 24 hours.
+Scaling The Peaks
+(Biotech Stocks Hitting 52-week Highs Aug. 12)
+
+Adagio Therapeutics, Inc. (NASDAQ: ADGI) (IPOed Aug. 6)
+Alkermes plc (NASDAQ: ALKS)
+Bio-Rad Laboratories, Inc. (NYSE: BIO)
+Candel Therapeutics, Inc. (NASDAQ: CADL) (IPOed July 26)
+Century Therapeutics, Inc. (NASDAQ: IPSC) (reacted to its second-quarter results)
+Dynavax Technologies Corporation (NASDAQ: DVAX)
+Gilead Sciences, Inc. (NASDAQ: GILD)
+Harvard Bioscience, Inc. (NASDAQ: HBIO)
+Ironwood Pharmaceuticals, Inc. (NASDAQ: IRWD)
+Innoviva, Inc. (NASDAQ: INVA)
+Johnson & Johnson (NYSE: JNJ)
+Sesen Bio, Inc. (NASDAQ: SESN)
+Tenaya Therapeutics, Inc. (NASDAQ: TNYA) (IPOed July 30)
+
+Down In The Dumps
+(Biotech Stocks Hitting 52-week Lows Aug. 12)
+
+ABVC BioPharma, Inc. (NASDAQ: ABVC) (announced its second-quarter results)
+ACADIA Pharmaceuticals Inc. (NASDAQ: ACAD)
+Achilles Therapeutics plc (NASDAQ: ACHL)
+Aeglea BioTherapeutics, Inc. (NASDAQ: AGLE)
+Akero Therapeutics, Inc. (NASDAQ: AKRO)
+Allogene Therapeutics, Inc. (NASDAQ: ALLO)
+Alzamend Neuro, Inc. (NASDAQ: ALZN)
+Aprea Therapeutics, Inc. (NASDAQ: APRE) (announced that FDA imposed clinical hold on lymphoid malignancy study)
+Arena Pharmaceuticals, Inc. (NASDAQ: ARNA)
+Aridis Pharmaceuticals, Inc. (NASDAQ: ARDS) (announced second-quarter results)
+Atai Life Sciences N.V. (NASDAQ: ATAI) (announced setting up of a subsidiary for studying Salvinorin A for mental health disorders)
+Axsome Therapeutics, Inc. (NASDAQ: AXSM)
+Aytu Biopharma, Inc. (NASDAQ: AYTU)
+Baudax Bio, Inc. (NASDAQ: BXRX)
+Baxter International Inc. (NYSE: BAX)
+Biodesix, Inc. (NASDAQ: BDSX)
+Biomea Fusion, Inc. (NASDAQ: BMEA)
+Cellectar Biosciences, Inc. (NASDAQ: CLRB)
+Celularity Inc. (NASDAQ: CELU)
+Codex DNA, Inc. (NASDAQ: DNAY)
+CytomX Therapeutics, Inc. (NASDAQ: CTMX)
+DiaMedica Therapeutics Inc. (NASDAQ: DMAC) (reacted to its second-quarter results)
+Dicerna Pharmaceuticals, Inc. (NASDAQ: DRNA)
+Edgewise Therapeutics, Inc. (NASDAQ: EWTX)
+Ensysce Biosciences, Inc. (NASDAQ: ENSC)
+Epizyme, Inc. (NASDAQ: EPZM)
+Exicure, Inc. (NASDAQ: XCUR) (announced its second-quarter results)
+EyeGate Pharmaceuticals, Inc. (NASDAQ: EYEG)
+FibroGen, Inc. (NASDAQ: FGEN)
+Flexion Therapeutics, Inc. (NASDAQ: FLXN)
+Grifols, S.A. (NASDAQ: GRFS)
+Heron Therapeutics, Inc. (NASDAQ: HRTX)
+HOOKIPA Pharma Inc. (NASDAQ: HOOK) (reacted to its second-quarter result)
+Hoth Therapeutics, Inc. (NASDAQ: HOTH)
+IMARA Inc. (NASDAQ: IMRA)
+IN8bio, Inc. (NASDAQ: INAB)
+Incyte Corporation (NASDAQ: INCY)
+Inhibikase Therapeutics, Inc. (NASDAQ: IKT)
+iRhythm Technologies, Inc. (NASDAQ: IRTC)
+Karyopharm Therapeutics Inc. (NASDAQ: KPTI)
+Kiniksa Pharmaceuticals, Ltd. (NASDAQ: KNSA)
+Kronos Bio, Inc. (NASDAQ: KRON)
+Lava Therapeutics B.V. (NASDAQ: LVTX)
+Liminal BioSciences Inc. (NASDAQ: LMNL)
+Lumos Pharma, Inc. (NASDAQ: LUMO)
+MediciNova, Inc. (NASDAQ: MNOV)
+Moleculin Biotech, Inc. (NASDAQ: MBRX) (reacted to its second-quarter ...",2021-08-13 11:43:01+00:00,https://www.benzinga.com/general/biotech/21/08/22484625/the-daily-biotech-pulse-modernas-vaccine-produces-durable-response-against-variants-fda-approves-,Benzinga,0.04074074074074074,0.17592592592592593,neutral,0.04074074074074074,False,False,True,False,False,False,False,False,0.0,3102,"['PASG', 'ACAD', 'AXSM', 'BMEA', 'ZIOP', 'SESN', 'TXMD', 'IMRA', 'ALKS', 'VYGR', 'DNAY', 'BAX', 'XCUR', 'EPZM', 'LUMO', 'ARNA', 'TLGT', 'ALZN', 'BIO', 'ARDS', 'KPTI', 'SONN', 'ATAI', 'AYTU', 'ENSC', 'JNJ', 'ALLO', 'DRNA', 'FMTX', 'DVAX', 'AGLE', 'CELU', 'ME', 'ORTX', 'FLXN', 'TRVN', 'PROG', 'GILD', 'ABVC', 'HCWB', 'PFE', 'HOTH', 'HRTX', 'VYNE', 'HBIO', 'IRTC', 'CADL', 'ALIM', 'DMAC', 'EYEG', 'SPRB', 'HOOK', 'MYOV', 'INAB', 'IRWD', 'HARP', 'CLRB', 'KRON', 'IBB', 'ADGI', 'TNYA', 'BPTH', 'AKRO', 'JAGX', 'PRAX', 'INCY', 'CODX', 'ZGNX', 'TFFP', 'ZIVO', 'BDSX', 'JAZZ', 'ZEAL', 'GRFS', 'MRNA', 'FGEN', 'IKT', 'MBRX', 'GTBP', 'BIOL', 'BNTX', 'TRIL', 'PBLA', 'MNOV', 'IPSC', 'VECT', 'LMNL', 'PMCB', 'LVTX', 'NBIX', 'MDNA', 'RPID', 'BXRX', 'CAPR', 'EWTX', 'NKTR', 'ITRM', 'APRE', 'TARA', 'CTMX', 'ACHL', 'RMTI', 'KNSA', 'INVA', 'RVMD']",CADL,2021-08-13
+"The Week Ahead In Biotech: Fate Therapeutics Data Readout, RenovoRx IPO In Focus Amid Tapering Earnings News Flow","Biopharma stocks retreated in the week ending Aug. 13, defying the optimism that was found in the broader market. Earnings continued to dominate the headlines, with small- and mid-cap companies among those reporting during the week.
+On the regulatory front, the Food and Drug Administration kept its tryst with the PDUFA goal date for Jazz Pharmaceuticals, Inc. (NASDAQ: JAZZ)'s sleep disorder drug and issued a positive verdict. Merck & Co, Inc. (NYSE: MRK) and Eisai Co. ,Ltd. (OTC: ESALY) received approval for Keytruda-Lenvima combo for the first-line treatment of advanced kidney cancer.
+Moderna, Inc. (NASDAQ: MRNA) and Pfizer, Inc. (NYSE: PFE)-BioNTech SE (NASDAQ: BNTX) received a third authorization for their respective COVID-19 vaccines to be used in immuno-compromised individuals. Moderna shares, however, came off its all-time high amid valuation concerns.
+On the other hand, Sesen Bio, Inc. (NASDAQ: SESN)'s regulatory application for Vicineum for the treatment of BCG-unresponsive non-muscle invasive bladder cancer was issued a complete response letter.
+Positive clinical readout catalyzed a strong move in Fulcrum Therapeutics, Inc. ...",2021-08-15 15:05:59+00:00,https://www.benzinga.com/general/biotech/21/08/22498723/the-week-ahead-in-biotech-fate-therapeutics-data-readout-renovorx-ipo-in-focus-amid-tapering-earn,Benzinga,0.11728787878787879,0.4239242424242424,positive,0.11728787878787879,True,False,True,False,False,False,False,False,0.0,1269,"['PSTV', 'CRTX', 'MRNA', 'IBB', 'BNTX', 'JAZZ', 'ABSI', 'MRK', 'CADL', 'PFE', 'CRBU', 'CTKB', 'MLSS', 'ELYM', 'BIOC', 'FATE', 'AXSM', 'DRMA', 'SOPH', 'SSKN', 'SESN', 'ETON', 'OSMT', 'FULC']",CADL,2021-08-15
+"The Daily Biotech Pulse: AzurRx Jumps On Data, Agios' Regulatory Application For Mitapivat Accepted For Priority Review, FDA Nod For GlaxoSmithKline","Here's a roundup of top developments in the biotech space over the last 24 hours.
+Scaling The Peaks
+(Biotech Stocks Hitting 52-week Highs Aug. 17)
+
+AbbVie Inc. (NYSE: ABBV)
+Alkermes plc (NASDAQ: ALKS)
+Century Therapeutics Inc (NASDAQ: IPSC)
+Gilead Sciences, Inc. (NASDAQ: GILD)
+GlaxoSmithKline plc (NYSE: GSK)
+Edward Lifesciences Corp (NYSE: EW)
+Eli Lilly and Company (NYSE: LLY) (announced reorganization of business units)
+Innoviva Inc (NASDAQ: INVA)
+Intuitive Surgical, Inc. (NASDAQ: ISRG)
+Johnson & Johnson (NYSE: JNJ)
+Maravai Lifesciences Holdings Inc (NASDAQ: MRVI)
+NanoVibronix, Inc. (NASDAQ: NAOV)
+Novo Nordisk A/S (NYSE: NVO)
+Nuvalent Inc (NASDAQ: NUVL)
+Omega Therapeutics Inc (NASDAQ: OMGA)
+Pfizer, Inc. (NYSE: PFE)
+Regeneron Pharmaceuticals Inc (NASDAQ: REGN) (moved on news COVID-19-affected Texas Governor Greg Abbott is being treated with the company's antibody treatment)
+Quest Diagnostics Incorporated (NYSE: DGX)
+ResMed Inc. (NYSE: RMD)
+Virpax Pharmaceuticals Inc (NASDAQ: VRPX) (moved on announcement regarding FDA response for pursuing MMS019 as a prophylactic treatment against SARS and influenza viruses for daily use as an OTC product)
+West Pharmaceutical Services, Inc. (NYSE: WST)
+
+Down In The Dumps
+(Biotech Stocks Hitting 52-week Lows Aug. 17)
+
+4D pharma plc (NASDAQ: LBPS)
+Absci Corporation (NASDAQ: ABSI)
+ABVC BioPharma, Inc. (NASDAQ: ABVC)
+ACADIA Pharmaceuticals Inc. (NASDAQ: ACAD)
+AcelRx Pharmaceuticals Inc (NASDAQ: ACRX) (reacted to its second-quarter results)
+Achieve Life Sciences, Inc. (NASDAQ: ACHV)
+Acurx Pharmaceuticals, Inc. (NASDAQ: ACXP) (announced its second-quarter results)
+Adaptive Biotechnologies Corporation (NASDAQ: ADPT)
+Adicet Bio Inc (NASDAQ: ACET)
+Adverum Biotechnologies, Inc. (NASDAQ: ADVM)
+ADMA Biologics Inc (NASDAQ: ADMA)
+Agile Therapeutics, Inc. (NASDAQ: AGRX)
+Akouos Inc (NASDAQ: AKUS)
+Akoya Biosciences, Inc. (NASDAQ: AKYA)
+Alzamend Neuro Inc (NASDAQ: ALZN)
+Angion Biomedica Corp. (NASDAQ: ANGN)
+Applied Genetic Technologies Corporation (NASDAQ: AGTC)
+Aptinyx Inc. (NASDAQ: APTX)
+Aptose Biosciences Inc. (NASDAQ: APTO)
+Aravive, Inc. (NASDAQ: ARAV)
+Arena Pharmaceuticals, Inc. (NASDAQ: ARNA)
+Assertio Holdings, Inc. (NASDAQ: ASRT)
+Athenex, Inc. (NASDAQ: ATNX)
+Athira Pharma, Inc. (NASDAQ: ATHA) (announced its second-quarter results)
+Avenue Therapeutics, Inc. (NASDAQ: ATXI)
+AVITA Medical, Inc. (NASDAQ: RCEL)
+Axsome Therapeutics, Inc. (NASDAQ: AXSM)
+Aytu Biopharma, Inc. (NASDAQ: AYTU)
+AzurRx BioPharma Inc (NASDAQ: AZRX)
+Biocept Inc (NASDAQ: BIOC) (reacted to its quarterly results)
+Biodesix, Inc. (NASDAQ: BDSX)
+Biomea Fusion, Inc. (NASDAQ: BMEA)
+BiondVax Pharmaceuticals Ltd. (NASDAQ: BVXV)
+BioXcel Therapeutics Inc. (NASDAQ: BTAI)
+Caladrius Biosciences, Inc. (NASDAQ: CLBS)
+Candel Therapeutics Inc (NASDAQ: CADL) (IPOed July 30)
+Catalyst Biosciences Inc (NASDAQ: CBIO)
+Cellectis S.A. (NASDAQ: CLLS)
+Chemomab Therapeutics Ltd. (NASDAQ: CMMB)
+CNS Pharmaceuticals, Inc. (NASDAQ: CNSP)
+Concert Pharmaceuticals Inc (NASDAQ: CNCE)
+ContraFect Corporation (NASDAQ: CFRX)
+Cue Biopharma Inc (NASDAQ: CUE)
+CymaBay Therapeutics Inc (NASDAQ: CBAY)
+CytomX Therapeutics Inc (NASDAQ: CTMX)
+Deciphera Pharmaceuticals, Inc. (NASDAQ: DCPH)
+Diffusion Pharmaceuticals Inc. (NASDAQ: DFFN)
+DURECT Corporation (NASDAQ: DRRX)
+Edgewise Therapeutics, Inc. (NASDAQ: EWTX)
+Eloxx Pharmaceuticals, Inc. (NASDAQ: ELOX)
+Ensysce Biosciences, Inc. (NASDAQ: ENSC) (announced its second-quarter results)
+Enveric Biosciences, Inc. (NASDAQ: ENVB)
+Epizyme, ...",2021-08-18 11:37:55+00:00,https://www.benzinga.com/general/biotech/21/08/22553371/the-daily-biotech-pulse-azurrx-jumps-on-data-agios-regulatory-application-for-mitapivat-accepted-,Benzinga,0.12063492063492064,0.22936507936507938,positive,0.12063492063492064,False,False,True,False,True,False,False,False,0.0,3635,"['NAOV', 'MOR', 'TSHA', 'AGRX', 'MDNA', 'ZIOP', 'VRPX', 'CLBS', 'MRNA', 'INVA', 'RXST', 'INDP', 'MDGL', 'ACAD', 'UPC', 'ADPT', 'KNSA', 'DGX', 'CMMB', 'PULM', 'FREQ', 'LIXT', 'IRTC', 'ACET', 'ONCR', 'ANGN', 'XCUR', 'EW', 'LBPS', 'NBRV', 'RCEL', 'TXMD', 'ICPT', 'SNOA', 'ALKS', 'PRAX', 'HRTX', 'APTX', 'GSK', 'EWTX', 'CBIO', 'CABA', 'ABBV', 'SLNO', 'ARNA', 'BDSX', 'CFRX', 'XERS', 'JNJ', 'BMEA', 'ANAB', 'LMNL', 'EPZM', 'ATXI', 'DRRX', 'GLTO', 'TTOO', 'ETON', 'LLY', 'RXRX', 'CTMX', 'TARA', 'ESPR', 'ATNX', 'GILD', 'MRVI', 'CBAY', 'ASRT', 'NVO', 'AKYA', 'AXSM', 'PASG', 'IMRA', 'KMDA', 'ACHV', 'HOOK', 'KNTE', 'MRNS', 'STRO', 'PFE', 'RNAZ', 'TLGT', 'SONN', 'AGIO', 'DCPH', 'IBB', 'SGTX', 'RYTM', 'ORTX', 'RGC', 'OMIC', 'KURA', 'KROS', 'BIOC', 'IFRX', 'INSM', 'PBLA', 'ZIVO', 'HOTH', 'RMD', 'ALZN', 'AYTU', 'QLGN', 'GLYC', 'SCPH', 'ISRG', 'NBTX', 'FGEN', 'ARAV', 'WST', 'UNCY', 'DFFN', 'FMTX', 'KPTI', 'CUE', 'MBRX', 'SCPS', 'ADMA', 'PHIO', 'ACRX', 'ACXP', 'ABVC', 'PROG', 'GNCA', 'EVFM', 'NKTR', 'ENVB', 'APTO', 'ITMR', 'ONCS', 'ABSI', 'VIVE', 'ADVM', 'AKUS', 'AGTC', 'ELOX', 'PSTI', 'PALI', 'CLLS', 'XFOR', 'SIBN', 'ENSC', 'SYRS', 'VYNE', 'CNCE', 'IPSC', 'REGN', 'GMTX', 'BVXV', 'STOK', 'VECT', 'CADL', 'AZRX', 'ATHA', 'FLXN', 'BTAI', 'RMTI', 'LGVN', 'MCRB', 'CNSP', 'NUVL', 'OMGA']",CADL,2021-08-18
+"The Daily Biotech Pulse: J&J Announces CEO Transition, FibroGen's Roxadustat Approved In Europe, GeoVax, Sorrento Announce COVID-19 Vaccine Data","Here's a roundup of top developments in the biotech space over the last 24 hours.
+Scaling The Peaks
+(Biotech Stocks Hitting 52-week Highs Aug. 19)
+
+Alkermes plc (NASDAQ: ALKS)
+Edwards Lifesciences Corporation (NYSE: EW)
+Monte Rosa Therapeutics, Inc. (NASDAQ: GLUE)
+Novo Nordisk A/S (NYSE: NVO)
+Intuitive Surgical, Inc. (NASDAQ: ISRG)
+Regeneron Pharmaceuticals, Inc. (NASDAQ: REGN)
+ResMed Inc. (NYSE: RMD)
+West Pharmaceutical Services, Inc. (NYSE: WST)
+Zoetis Inc. (NYSE: ZTS)
+
+Down In The Dumps
+(Biotech Stocks Hitting 52-week Lows Aug. 19)
+
+ABVC BioPharma, Inc. (NASDAQ: ABVC)
+ACADIA Pharmaceuticals Inc. (NASDAQ: ACAD)
+Accelerate Diagnostics, Inc. (NASDAQ: AXDX)
+Adicet Bio, Inc. (NASDAQ: ACET)
+ADMA Biologics, Inc. (NASDAQ: ADMA)
+Adverum Biotechnologies, Inc. (NASDAQ: ADVM)
+Akouos, Inc. (NASDAQ: AKUS)
+Annexon, Inc. (NASDAQ: ANNX)
+Applied Genetic Technologies Corporation (NASDAQ: AGTC)
+Aptinyx Inc. (NASDAQ: APTX)
+Aptose Biosciences Inc. (NASDAQ: APTO)
+Aravive, Inc. (NASDAQ: ARAV)
+Ardelyx, Inc. (NASDAQ: ARDX)
+Arena Pharmaceuticals, Inc. (NASDAQ: ARNA)
+Aridis Pharmaceuticals, Inc. (NASDAQ: ARDS)
+Assertio Holdings, Inc. (NASDAQ: ASRT)
+Atara Biotherapeutics, Inc. (NASDAQ: ATRA)
+AVROBIO, Inc. (NASDAQ: AVRO)
+Axsome Therapeutics, Inc. (NASDAQ: AXSM)
+Biomea Fusion, Inc. (NASDAQ: BMEA)
+BioSig Technologies, Inc. (NASDAQ: BSGM)
+bluebird bio, Inc. (NASDAQ: BLUE)
+Candel Therapeutics, Inc. (NASDAQ: CADL) (IPOed July 27)
+Catabasis Pharmaceuticals, Inc. (NASDAQ: CATB)
+Catalyst Biosciences, Inc. (NASDAQ: CBIO)
+Cellectar Biosciences, Inc. (NASDAQ: CLRB)
+Cellectis S.A. (NASDAQ: CLLS)
+Checkmate Pharmaceuticals, Inc. (NASDAQ: CMPI)
+Chemomab Therapeutics Ltd. (NASDAQ: CMMB)
+Clovis Oncology, Inc. (NASDAQ: CLVS)
+CNS Pharmaceuticals, Inc. (NASDAQ: CNSP)
+Codex DNA, Inc. (NASDAQ: DNAY)
+CymaBay Therapeutics, Inc. (NASDAQ: CBAY)
+CytomX Therapeutics, Inc. (NASDAQ: CTMX)
+Deciphera Pharmaceuticals, Inc. (NASDAQ: DCPH)
+Edgewise Therapeutics, Inc. (NASDAQ: EWTX)
+Eiger BioPharmaceuticals, Inc. (NASDAQ: EIGR)
+Epizyme, Inc. (NASDAQ: EPZM)
+FibroGen, Inc. (NASDAQ: FGEN)
+Flexion Therapeutics, Inc. (NASDAQ: FLXN)
+Gemini Therapeutics, Inc. (NASDAQ: GMTX)
+Global Blood Therapeutics, Inc. (NASDAQ: GBT)
+GlycoMimetics, Inc. (NASDAQ: GLYC)
+Graphite Bio, Inc. (NASDAQ: GRPH)
+Harpoon Therapeutics, Inc. (NASDAQ: HARP)
+HCW Biologics Inc. (NASDAQ: HCWB)
+Hepion Pharmaceuticals, Inc. (NASDAQ: HEPA)
+Heron Therapeutics, Inc. (NASDAQ: HRTX)
+Histogen Inc. (NASDAQ: HSTO)
+Immunocore Holdings plc (NASDAQ: IMCR)
+IN8bio, Inc. (NASDAQ: INAB) (IPOed July 30)
+InflaRx N.V. (NASDAQ: IFRX)
+InMed Pharmaceuticals Inc. (NASDAQ: INM)
+iRhythm Technologies, Inc. (NASDAQ: IRTC)
+Kala Pharmaceuticals, Inc. (NASDAQ: KALA)
+Karyopharm Therapeutics Inc. (NASDAQ: KPTI)
+Keros Therapeutics, Inc. (NASDAQ: KROS)
+Kinnate Biopharma Inc. (NASDAQ: KNTE)
+Kiromic BioPharma, Inc. (NASDAQ: KRBP)
+Kronos Bio, Inc. (NASDAQ: KRON)
+Kura Oncology, Inc. (NASDAQ: KURA)
+Lantern Pharma Inc. (NASDAQ: LTRN) (announced  preclinical data for LP-184 in glioblastoma)
+Liminal BioSciences Inc. (NASDAQ: LMNL)
+Madrigal Pharmaceuticals, Inc. (NASDAQ: MDGL)
+MaxCyte, Inc. (NASDAQ: MXCT)
+Metacrine, Inc. (NASDAQ: MTCR)
+Nektar Therapeutics (NASDAQ: NKTR)
+Neoleukin ...",2021-08-20 11:45:43+00:00,https://www.benzinga.com/general/biotech/21/08/22592426/the-daily-biotech-pulse-j-j-announces-ceo-transition-fibrogens-roxadustat-approved-in-europe-geov,Benzinga,0.05740740740740741,0.15925925925925927,neutral,0.05740740740740741,False,False,False,False,False,False,True,False,0.0,3343,"['ADVM', 'EWTX', 'AXDX', 'MRKR', 'ACAD', 'INM', 'AKUS', 'RGC', 'SYRS', 'BMEA', 'GLYC', 'HARP', 'ACET', 'BSGM', 'ANNX', 'RMD', 'KDMN', 'RXRX', 'FATE', 'XFOR', 'ALKS', 'FGEN', 'PMVP', 'WST', 'TTNP', 'MDGL', 'IMPL', 'KPTI', 'TRVI', 'ARNA', 'ADMA', 'VYNE', 'GOVX', 'IRTC', 'DNAY', 'AGTC', 'STOK', 'IBB', 'APTO', 'MTCR', 'ONCS', 'URGN', 'UNCY', 'FLXN', 'CNSP', 'ISRG', 'TRIL', 'ONCR', 'KALA', 'GLUE', 'ARDX', 'HEPA', 'NKTR', 'CLLS', 'KRON', 'KRBP', 'CLVS', 'NCNA', 'HCWB', 'SAGE', 'LMNL', 'NLTX', 'MCRB', 'SIOX', 'TLSA', 'DCPH', 'CADL', 'ATRA', 'TARA', 'REGN', 'CATB', 'KNTE', 'SIBN', 'IFRX', 'INAB', 'HRTX', 'PASG', 'RMTI', 'GBT', 'SGTX', 'CMPI', 'APTX', 'RXST', 'TTOO', 'KROS', 'SGMO', 'CBIO', 'SCPS', 'GRPH', 'AVRO', 'MXCT', 'CBAY', 'QLGN', 'SPPI', 'CTMX', 'IMCR', 'ARDS', 'OTIC', 'HSTO', 'AXSM', 'KURA', 'GMTX', 'EPZM', 'ASRT', 'CLRB', 'PLRX', 'EW', 'EIGR', 'TLIS', 'PTCT', 'ORTX', 'RYTM', 'LTRN', 'JNJ', 'ABVC', 'CMMB', 'BLUE', 'ARAV', 'SRNE', 'PROG', 'NVO']",CADL,2021-08-20
+"The Daily Biotech Pulse: MacroGenics' Clinical Trial Disappointment, Sanofi to Buy Kadmon, Alector Loses 2 Key Executives, ADMA's FDA Nod","Here's a roundup of top developments in the biotech space over the last 24 hours.
+Scaling The Peaks
+(Biotech Stocks Hitting 52-week Highs Sept. 7)
+
+Adial Pharmaceuticals, Inc. (NASDAQ: ADIL)
+Axonics, Inc. (NASDAQ: AXNX)
+Bio-Rad Laboratories, Inc. (NYSE: BIO)
+Candel Therapeutics, Inc. (NASDAQ: CADL) (announced completion of patient enrollment in the pivotal phase 3 study of CAN-2409 in prostate cancer)
+Cardiol Therapeutics Inc. (NASDAQ: CRDL) (announced addition to its board)
+Caribou Biosciences, Inc. (NASDAQ: CRBU)
+Catalent, Inc. (NASDAQ: CTLT)
+Celldex Therapeutics, Inc. (NASDAQ: CLDX)
+Cerevel Therapeutics Holdings, Inc. (NASDAQ: CERE)
+Crinetics Pharmaceuticals, Inc. (NASDAQ: CRNX)
+Day One Biopharmaceuticals, Inc. (NASDAQ: DAWN)
+Edwards Lifesciences Corporation (NYSE: EW)
+Erasca, Inc. (NASDAQ: ERAS)
+IDEAYA Biosciences, Inc. (NASDAQ: IDYA)
+Imago BioSciences, Inc. (NASDAQ: IMGO)
+INmune Bio, Inc. (NASDAQ: INMB)
+Insulet Corporation (NASDAQ: PODD)
+Intuitive Surgical, Inc. (NASDAQ: ISRG)
+Lyell Immunopharma, Inc. (NASDAQ: LYEL)
+Medpace Holdings, Inc. (NASDAQ: MEDP)
+MiMedx Group, Inc. (NASDAQ: MDXG)
+Monte Rosa Therapeutics, Inc. (NASDAQ: GLUE)
+Nuvalent, Inc. (NASDAQ: NUVL)
+PAVmed Inc. (NASDAQ: PAVM)
+Protagonist Therapeutics, Inc. (NASDAQ: PTGX) (reacted to an executive appointment)
+Psychemedics Corporation (NASDAQ: PMD)
+Quest Diagnostics Incorporated (NYSE: DGX)
+ResMed Inc. (NYSE: RMD)
+Repligen Corporation (NASDAQ: RGEN)
+ShockWave Medical, Inc. (NASDAQ: SWAV)
+Surrozen, Inc. (NASDAQ: SRZN) ( reacted  to positive analyst action)
+Syneos Health, Inc. (NASDAQ: SYNH)
+Tandem Diabetes Care, Inc. (NASDAQ: TNDM) (reacted to the news of inclusion of the stock to the S&P MidCap 400 Index)
+Tango Therapeutics, Inc. (NASDAQ: TNGX)
+Verve Therapeutics, Inc. (NASDAQ: VERV)
+Zentalis Pharmaceuticals, Inc. (NASDAQ: ZNTL)
+
+Down In The Dumps
+
+No NYSE- or Nasdaq-listed stock hit 52-week lows Tuesday.
+
+Stocks In Focus
+
+
+MacroGenics' Breast Cancer Combo Drug Flunks a Late-stage Study
+MacroGenics, Inc. (NASDAQ: MGNX) announced final overall survival results of the SOPHIA Phase 3 study evaluating Margenza in adult patients with metastatic HER2-positive breast cancer, showing no statistically significant advantage for Margenza, plus chemotherapy, compared to that of patients who received ...",2021-09-08 11:32:07+00:00,https://www.benzinga.com/general/biotech/21/09/22842406/the-daily-biotech-pulse-macrogenics-clinical-trial-disappointment-sanofi-to-buy-kadmon-alector-lo,Benzinga,0.04978114478114479,0.3984006734006734,neutral,0.04978114478114479,False,True,True,False,False,False,False,False,0.0,2434,"['MGNX', 'ALEC', 'CLDX', 'CRDL', 'TNDM', 'SWAV', 'ISRG', 'TNGX', 'CTLT', 'IDYA', 'PMD', 'ASND', 'PODD', 'AFMD', 'CRDF', 'RGEN', 'ADMA', 'MRVI', 'AZN', 'HCM', 'DSGN', 'BIO', 'PTGX', 'IMPL', 'BMY', 'DGX', 'KDMN', 'LYEL', 'EW', 'MEDP', 'VERV', 'RMD', 'PAVM', 'GLUE', 'DAWN', 'ADIL', 'ERAS', 'CERE', 'SYNH', 'IMGO', 'MDXG', 'CRNX', 'CADL', 'NUVL', 'INMB', 'CRBU', 'BLUE', 'AXNX', 'SRZN']",CADL,2021-09-08
+"The Daily Biotech Pulse: ProQR-Lilly R&D Partnership, Sanofi's Pemphigus Trial Disappointment, Humanigen's COVID-19 Drug Denied Emergency Use Authorization","Here's a roundup of top developments in the biotech space over the last 24 hours:
+Scaling The Peaks
+(Biotech Stocks Hitting 52-week Highs Sept. 8)
+
+Abbott Laboratories (NYSE: ABT)
+Candel Therapeutics, Inc. (NASDAQ: CADL) (announced its quarterly results)
+Cardiol Therapeutics Inc. (NASDAQ: CRDL)
+Catalent, Inc. (NASDAQ: CTLT)
+Celldex Therapeutics, Inc. (NASDAQ: CLDX)
+Crinetics Pharmaceuticals, Inc. (NASDAQ: CRNX)
+DexCom, Inc. (NASDAQ: DXCM)
+Edwards Lifesciences Corporation (NYSE: EW)
+ICU Medical, Inc. (NASDAQ: ICUI) (announced a deal to buy Smiths Medical division for $2.35 billion in cash)
+IDEAYA Biosciences, Inc. (NASDAQ: IDYA)
+Insulet Corporation (NASDAQ: PODD)
+Intuitive Surgical, Inc. (NASDAQ: ISRG)
+Kadmon Holdings, Inc. (NASDAQ: KDMN) - announced a deal to be bought by Sanofi (NASDAQ: SNY)
+Kezar Life Sciences, Inc. (NASDAQ: KZR)
+Medtronic plc (NYSE: MDT)
+MiMedx Group, Inc. (NASDAQ: MDXG)
+Nuvalent, Inc. (NASDAQ: NUVL) (announced its second-quarter results)
+Quest Diagnostics Incorporated (NYSE: DGX)
+ResMed Inc. (NYSE: RMD)
+Stryker Corporation (NYSE: SYK)
+Tandem Diabetes Care, Inc. (NASDAQ: TNDM)
+Thermo Fisher Scientific Inc. (NYSE: TMO)
+West Pharmaceutical Services, Inc. (NYSE: WST)
+Zentalis Pharmaceuticals, Inc. (NASDAQ: ZNTL)
+
+Down In The Dumps
+(Biotech Stocks Hitting 52-week Lows Sept. 8)
+
+4D pharma plc (NASDAQ: LBPS)
+Absci Corporation (NASDAQ: ABSI)
+BioVie Inc. (NASDAQ: BIVI)
+Esperion Therapeutics, Inc. (NASDAQ: ESPR)
+Inozyme Pharma, Inc. (NASDAQ: INZY)
+Madrigal Pharmaceuticals, Inc. (NASDAQ: MDGL)
+MeiraGTx Holdings plc (NASDAQ: MGTX)
+Silverback Therapeutics, Inc. (NASDAQ: SBTX)
+T2 Biosystems, Inc. (NASDAQ: TTOO)
+Trevi Therapeutics, Inc. (NASDAQ: TRVI)
+
+Stocks In Focus
+ProQR Announces Licensing Agreement With Lilly For Genetic, Nervous System Disorders
+ProQR Therapeutics N.V. (NASDAQ: PRQR) announced a global licensing and research collaboration with  Eli Lilly and Company (NYSE: LLY) for discovery, development and commercialization of potential new medicines for genetic disorders in the liver and nervous system.
+The companies will use ProQR's proprietary Axiomer RNA editing platform to progress new drug targets toward clinical development and commercialization.
+The companies will collaborate to develop up to five targets.
+Under the terms of the agreement, ProQR will receive $50 million, consisting of an upfront payment of $20 million, as well as an equity investment in its ordinary shares of $30 million. ProQR is also eligible to receive up to approximately $1.25 billion for development, regulatory and commercialization milestones, as well as tiered royalties of up to mid-single digit percentage on product sales.
+ProQR was surging 13.66% to $7.74 in premarket trading, while Lilly shares were retreating 1.42% to $251.22.
+Cardiff Reports Positive Phase 1b/2 Data For Onvansertib Combo In Colorectal Cancer
+Cardiff Oncology, Inc. (NASDAQ: CRDF) announced Phase 1b/2 ...",2021-09-09 12:17:06+00:00,https://www.benzinga.com/general/biotech/21/09/22862843/the-daily-biotech-pulse-proqr-lilly-r-d-partnership-sanofis-pemphigus-trial-disappointment-humani,Benzinga,0.03715277777777778,0.4256313131313131,neutral,0.03715277777777778,False,True,True,True,True,False,False,False,0.0,3079,"['RMD', 'MDGL', 'IVA', 'LBPS', 'SNY', 'MYOV', 'SVA', 'ABSI', 'SYK', 'KALV', 'CLDX', 'IMRX', 'TMO', 'BIVI', 'DXCM', 'CADL', 'WST', 'HGEN', 'IBB', 'CRDL', 'MGTX', 'ICUI', 'MDXG', 'XERS', 'ISRG', 'NUVL', 'KZR', 'PODD', 'ESPR', 'CRNX', 'TRIB', 'TNDM', 'DTIL', 'ABT', 'CTLT', 'TRVI', 'AZN', 'TTOO', 'IDYA', 'DGX', 'RYTM', 'EW', 'PRQR', 'CRDF', 'LLY', 'MDT', 'SBBP', 'INZY', 'PFE', 'KDMN', 'SBTX']",CADL,2021-09-09
+Candel Therapeutics Reports Third Quarter 2021 Financial Results and Recent Corporate Highlights,"NEEDHAM, Mass., Nov.  12, 2021  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (“Candel” or “the Company”) (Nasdaq: CADL), a late clinical stage biopharmaceutical company developing novel oncolytic viral immunotherapies, today reported financial results for the third quarter ended September 30, 2021 and provided a corporate update.",2021-11-12 13:00:00+00:00,https://www.globenewswire.com/news-release/2021/11/12/2333368/0/en/Candel-Therapeutics-Reports-Third-Quarter-2021-Financial-Results-and-Recent-Corporate-Highlights.html,GlobeNewswire Inc.,-0.0375,0.10625,neutral,0.0375,False,False,False,False,False,False,False,False,0.0,430,['CADL'],CADL,2021-11-12
+"The Week Ahead In Biotech (Nov. 14-Nov. 20): BioMarin FDA Decision, Tapering Earnings News Flow, Conference Presentations And More","Biotech stocks declined for the second straight week amid a broader market pullback, along with earnings news from small- and micro-cap companies and presentations at multiple conferences.
+Among the biggest news of the week is Johnson & Johnson's (NYSE: JNJ)  announcement  regarding the spin-off of its Consumer Health business.
+Eton Pharmaceuticals, Inc. (NASDAQ: ETON)'s topiramate oral solution  received  approval from the Food and Drug Administration for certain types of seizures in patients two years of age and older and as a preventative treatment of migraine in patients 12 years of age and older.
+Azurity Pharma, the sponsor of the new drug application, had purchased topiramate, along with two other neurology candidates from Eton. Eton is eligible to receive a $5 million milestone payment and also royalties on sales.
+Oncorus, Inc. (NASDAQ: ONCR) was among the biggest decliners of the week following the company's presentation of early-stage data for a cancer immunotherapy candidate at the Society for Immunotherapy of Cancer conference.
+Here are the key upcoming catalysts that a biotech investor should focus on in the unfolding week:
+Conferences
+Society For Immunotherapy of Cancer: Nov. 10-14 (hybrid event, to be held in Washington D.C. and to be available virtually)
+American Association for the Study of Liver Diseases, AASLD, The Liver Meeting 2021: Nov. 12-15 (virtual meeting)
+American Hear Association, or AHA, Scientific Sessions: Nov. 13-15
+Guggenheim Healthcare Talks: 3rd Annual Neuro/Immunology Conference: Nov. 15-16 (virtual)
+The Stifel 2021 Virtual Healthcare Conference: Nov. 15-17
+The 34th International Papillomavirus Conference: Nov. 15-19 (virtual)
+Jefferies London Healthcare Conference: Nov. 16-17 (in London) and Nov. 18-19 (virtual)
+2021 Society For Neuro-Oncology, SNO, Annual Meeting: Nov. 18-21 (in Boston)
+The American Society For Dermatologic Surgery, or ASDS, virtual Annual Meeting: Nov. 19-21
+PDUFA Dates 
+The FDA is scheduled to rule on BioMarin Pharmaceutical Inc.'s (NASDAQ: BMRN) NDA for vosoritide, ...",2021-11-14 14:57:21+00:00,https://www.benzinga.com/general/biotech/21/11/24077175/the-week-ahead-in-biotech-nov-14-nov-20-biomarin-fda-decision-tapering-earnings-news-flow-confere,Benzinga,0.07152540442014126,0.25619161540214175,neutral,0.07152540442014126,True,False,True,False,False,False,False,False,0.0,2192,"['OSMT', 'PLX', 'SNDX', 'PHAS', 'AMRN', 'DRIO', 'GMDA', 'ATHX', 'CBAY', 'CNTX', 'BMRN', 'PRQR', 'MIST', 'EDAP', 'VBLT', 'MIRM', 'IBB', 'AYTU', 'PLSE', 'PSTV', 'ICCC', 'PAVM', 'TFFP', 'BMY', 'URGN', 'INVO', 'JNJ', 'RMED', 'ONCR', 'ROK', 'PRPO', 'VACC', 'ACRX', 'KALA', 'CADL', 'MLSS', 'OPTN', 'DRMA', 'CMRX', 'EVFM', 'VTYX', 'BIOC', 'KZR', 'UTRS', 'TRVN', 'ETON', 'XLO', 'MDWD']",CADL,2021-11-14
+Candel Therapeutics and Partnership for Accelerating Cancer Therapies (PACT) to Collaborate on Lung Cancer Trial for CAN-2409,"NEEDHAM, Mass., Dec.  10, 2021  (GLOBE NEWSWIRE) --  Candel Therapeutics, Inc. (Nasdaq: CADL), a late clinical stage biopharmaceutical company developing novel oncolytic viral immunotherapies, today announced a collaboration with Partnership for Accelerating Cancer Therapies (PACT) and the Cancer Immune Monitoring and Analysis Centers – Cancer Immunologic Data Commons (CIMAC-CIDC) to profile the biomarker response to a combination of CAN-2409 + valacyclovir in combination with anti-PD-1 and PD-L1 immune checkpoint inhibitors in patients with non-small cell lung cancer (NSCLC).",2021-12-10 13:00:00+00:00,https://www.globenewswire.com/news-release/2021/12/10/2350030/0/en/Candel-Therapeutics-and-Partnership-for-Accelerating-Cancer-Therapies-PACT-to-Collaborate-on-Lung-Cancer-Trial-for-CAN-2409.html,GlobeNewswire Inc.,-0.3,0.6,negative,0.3,False,False,False,True,False,False,False,False,0.0,710,['CADL'],CADL,2021-12-10
+Bionaut Labs and Candel Therapeutics Announce Strategic Collaboration in Precision-Targeted Delivery of Oncolytic Viral Immunotherapies,"LOS ANGELES and NEEDHAM, Mass., Dec.  15, 2021  (GLOBE NEWSWIRE) -- Bionaut Labs, a company focused on revolutionizing the treatment of central nervous system disorders (CNS) with its Bionaut™ precision medicine treatment modality, and Candel Therapeutics, Inc. (Nasdaq: CADL), a late clinical-stage biopharmaceutical company developing novel oncolytic viral immunotherapies, today announced a strategic collaboration to investigate the use of Bionaut’s remote-controlled microscale robots for precision delivery of Candel’s oncolytic viral immunotherapy agents to specific brain tumors.",2021-12-15 10:00:00+00:00,https://www.globenewswire.com/news-release/2021/12/15/2352354/0/en/Bionaut-Labs-and-Candel-Therapeutics-Announce-Strategic-Collaboration-in-Precision-Targeted-Delivery-of-Oncolytic-Viral-Immunotherapies.html,GlobeNewswire Inc.,-0.09999999999999999,0.325,neutral,0.09999999999999999,False,False,False,False,False,False,False,False,0.0,724,['CADL'],CADL,2021-12-15
+Candel Therapeutics Appoints Dr. Francesca Barone as Chief Scientific Officer,"NEEDHAM, Mass., Feb.  03, 2022  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Nasdaq: CADL), a late clinical stage biopharmaceutical company developing novel oncolytic viral immunotherapies, today announced that Francesca Barone, M.D., Ph.D., has been named as the company’s Chief Scientific Officer.",2022-02-03 13:00:00+00:00,https://www.globenewswire.com/news-release/2022/02/03/2378444/0/en/Candel-Therapeutics-Appoints-Dr-Francesca-Barone-as-Chief-Scientific-Officer.html,GlobeNewswire Inc.,-0.3,0.6,negative,0.3,False,False,False,False,False,False,False,False,0.0,380,['CADL'],CADL,2022-02-03
+Candel Therapeutics Announces Release of Initial Data on CAN-2409 in a Phase 2 Clinical Trial Showing Cytotoxic T Cell Response and Disease Control in Patients with Non-Small Cell Lung Cancer,"Candel to host investor event and webcast at 6:30 am CDT on June 4NEEDHAM, Mass., May  26, 2022  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Nasdaq: CADL), a late clinical stage biopharmaceutical company developing novel oncolytic viral immunotherapies, today announced the publication of abstract #9037 at the American Society of Clinical Oncology (ASCO) Annual Meeting taking place June 3-7, 2022, in Chicago. The abstract summarizes initial data as of January 10, 2022, from Candel’s open-label phase 2 clinical trial evaluating CAN-2409 in combination with anti-PD-1 or PD-L1 agents in patients with stage III/IV non-small cell lung cancer (NSCLC) who have had an inadequate response to immune checkpoint inhibitor treatment. The data presented in the poster will include additional data not included in the abstract from a total of 20 patients as of April 20, 2022, including 16 patients from cohort 2. “The achievement of an 87.5 percent disease control rate in patients whose cancer was progressing on anti-PD-1 treatment at enrollment bolsters the evidence of CAN-2409’s potential to induce immunization against cancer neoantigens in both injected tumors and uninjected metastases so that resistance to checkpoint blockade can be overcome,” said Paul Peter Tak, MD, PhD, FMedSci, President and CEO of Candel. “The occurrence of abscopal effects and clinically meaningful and durable activity, supported by significant biomarker responses and prior monotherapy activity data, strengthens our belief that this investigational agent has the potential to improve outcomes for patients with NSCLC who are progressing on anti-PD-1 agents.”Experimental treatment with CAN-2409 plus valacyclovir in combination with anti-PD-1 agents appeared to be well tolerated. The most common treatment-related adverse events were transient flu-like symptoms, such as chills, fever and fatigue, with no grade 4 and two grade 3 events reported.",2022-05-26 21:30:00+00:00,https://www.globenewswire.com/news-release/2022/05/26/2451690/0/en/Candel-Therapeutics-Announces-Release-of-Initial-Data-on-CAN-2409-in-a-Phase-2-Clinical-Trial-Showing-Cytotoxic-T-Cell-Response-and-Disease-Control-in-Patients-with-Non-Small-Cell-.html,GlobeNewswire Inc.,0.062499999999999986,0.4732142857142857,neutral,0.062499999999999986,False,False,False,False,True,False,True,False,0.0,2126,['CADL'],CADL,2022-05-26
+Candel Therapeutics Reports Second Quarter 2022 Financial Results and Recent Corporate Highlights,"NEEDHAM, Mass., Aug.  05, 2022  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Candel or the Company) (Nasdaq: CADL), a late clinical stage biopharmaceutical company focused on helping patients fight cancer with oncolytic viral immunotherapies, today reported financial results for the second quarter ended June 30, 2022 and provided a corporate update.",2022-08-05 12:00:00+00:00,https://www.globenewswire.com/news-release/2022/08/05/2493177/0/en/Candel-Therapeutics-Reports-Second-Quarter-2022-Financial-Results-and-Recent-Corporate-Highlights.html,GlobeNewswire Inc.,-0.0375,0.10625,neutral,0.0375,False,False,True,False,False,False,False,False,0.0,452,['CADL'],CADL,2022-08-05
+"Tesla, AT&T, AMD, Nvidia, Candel Therapeutics: Why These 5 Stocks Are Seeing High Attention Today","Major U.S. indices closed in the red on Thursday as investors continued to digest higher Treasury yields as well as key earnings. The yield in the benchmark U.S. 10-year Treasuries topped 4.239%, a level unseen since 2008. As the U.S. stock market declined for the second straight day, Benzinga dives into five stocks that are seeing high interest among retail investors today.
+1. AT&T Inc. (NYSE: T): Shares of the telecommunications company surged over 7% after it reported revenue of $29.64 billion, beating a consensus estimate of $29.56-billion. AT&T ...Full story available on Benzinga.com",2022-10-21 02:26:10+00:00,https://www.benzinga.com/news/earnings/22/10/29354025/tesla-at-t-amd-nvidia-candel-therapuetics-whats-happening-with-these-top-5-trending-stocks,Benzinga,0.11325,0.398,positive,0.11325,True,False,True,False,False,False,False,False,0.0,694,"['NVDA', 'AMD', 'T', 'TSLA', 'CADL']",CADL,2022-10-21
+Why Huntington Bancshares Shares Surged Around 10%; Here Are 72 Biggest Movers From Friday,"Gainers
+
+Huadi International Group Co., Ltd. (NASDAQ: HUDI) jumped 89.3% to close at $58.92 on Friday.
+Altamira Therapeutics Ltd. (NASDAQ: CYTO) climbed 58.6% to close at $0.5197 on Friday after the company announced divestiture of its inner ear development assets.
+Missfresh Limited (NASDAQ: MF) gained 57.5% to close at $2.52.
+Enservco Corporation (NYSE: ENSV) climbed 37.4% to close at $2.02.
+Kaleyra, Inc. (NYSE: KLR) gained 24.9% to close at $0.8616.
+Veris Residential, Inc. (NYSE: VRE) surged 23.3% to close at $15.31 after Kushner Companies made an offer to acquire the company for $16 per share.
+Matinas BioPharma Holdings, Inc. (NYSE: MTNB) rose 22.2% to settle at $0.8538. Matinas BioPharma announced interim data from the Phase 2 EnACT trial of MAT2203 for the treatment of cryptococcal meningitis, exceeding primary endpoint threshold.
+Candel Therapeutics, Inc. (NASDAQ: CADL) gained 21.6% to close at $1.80.
+Energy Focus, Inc (NASDAQ: EFOI) shares climbed 21.5% to close at $0.4900. Energy Focus, last month, named Lesley Matt as CEO.
+Leju Holdings Limited (NYSE: LEJU) gained 21.1% to settle at $1.61.
+Rail Vision Ltd. (NASDAQ: RVSN) gained 20.5% to close at $0.5898.
+Rockley Photonics Holdings Limited (NYSE: RKLY) surged 20.1% to settle at $0.6262.
+The Boston Beer Company, Inc. (NYSE: SAM) jumped 19.7% to close at $402.28 after the company reported better-than-expected Q3 adjusted EPS and sales results.
+MacroGenics, Inc. (NASDAQ: MGNX) rose 19.4% to close at $4.80.
+TuanChe Limited (NASDAQ: TC) climbed 19.1% to settle at $7.87.
+Zentek Ltd. (NASDAQ: ZTEK) gained 18.9% to close at $1.57.
+Yunji Inc. (NASDAQ: YJ) rose 18.6% to close at $1.02.
+Snow Lake Resources Ltd. (NASDAQ: LITM) climbed 18.5% to close at $2.43.
+Biohaven Ltd. (NYSE: BHVN) gained 17.7% to close at $14.08. Biohaven reported pricing of public offering of 25 million common shares at a price of $10.50 per share.
+Amprius Technologies, Inc. (NASDAQ: AMPX) climbed 17.6% to close at $11.11. Amprius Technologies was awarded a $50 million cost-sharing grant from the U.S. Department of Energy's Office of Manufacturing and Energy Supply Chains.
+Healthcare Triangle, Inc. (NASDAQ: HCTI) gained 17.2% to close at $0.3875.
+AppTech Payments Corp. (NASDAQ: APCX) gained 16.4% to settle at $0.8849.
+Pacific Biosciences of California, Inc. (NASDAQ: PACB) climbed 16.3% to close at $7.77.
+Biotricity, Inc. (NASDAQ: BTCY) rose 15.7% to close at $1.10.
+uCloudlink Group Inc. (NASDAQ: ...",2022-10-24 09:37:02+00:00,https://www.benzinga.com/news/22/10/29374553/why-huntington-bancshares-shares-surged-around-10-here-are-72-biggest-movers-from-friday,Benzinga,0.15816326530612243,0.4051020408163265,positive,0.15816326530612243,False,True,False,False,False,False,True,False,0.0,2553,"['SIEN', 'ASTI', 'KAL', 'SAM', 'ZTEK', 'AUPH', 'COMS', 'BNTX', 'SLB', 'BTOG', 'VRE', 'EFOI', 'NMTR', 'TC', 'STRY', 'SGRY', 'FFIN', 'CALT', 'THC', 'ILAG', 'BTCY', 'HA', 'UCL', 'PACB', 'RBT', 'AMPX', 'SNES', 'HBAN', 'NLSP', 'HCA', 'ERNA', 'SNAP', 'NVAX', 'HUDI', 'HCTI', 'CYTO', 'RVSN', 'MVST', 'APCX', 'BHVN', 'SIVB', 'NXTP', 'PINS', 'KALA', 'SRCE', 'KPLT', 'FNHC', 'SLGG', 'ALF', 'AUID', 'MGNX', 'TWTR', 'KLR', 'CYH', 'CADL', 'LEJU', 'YJ', 'MF', 'RKLY', 'ATRA', 'IMUX', 'PEI', 'STAB', 'MTNB', 'ZVO', 'PLL', 'LITM', 'ENSV', 'MRNA', 'RHI', 'QNGY']",CADL,2022-10-24
+Candel Therapeutics Upcoming Investor Conference Participation for November,"NEEDHAM, Mass., Nov.  01, 2022  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Nasdaq: CADL), a clinical stage biopharmaceutical company developing novel viral immunotherapies, today announced that Paul Peter Tak, MD, PhD, FMedSci, President and Chief Executive Officer, will participate in the following investor conferences in November:",2022-11-01 12:00:00+00:00,https://www.globenewswire.com/news-release/2022/11/01/2545395/0/en/Candel-Therapeutics-Upcoming-Investor-Conference-Participation-for-November.html,GlobeNewswire Inc.,0.0,0.1,neutral,0.0,False,False,False,False,False,False,False,False,0.0,415,['CADL'],CADL,2022-11-01
+Candel Therapeutics Announces Late-Breaking Oral Presentation at SITC Annual Meeting with Data on CAN-2409 in Combination with Nivolumab in a Phase 1 Mechanistic Clinical Trial in Patients with High-Grade Glioma,"NEEDHAM, Mass., Nov.  11, 2022  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Nasdaq: CADL), a clinical stage biopharmaceutical company developing novel viral immunotherapies, today announced presentation of late-breaking data from a phase 1 mechanistic clinical trial of CAN-2409, Candel’s lead viral immunotherapy in development, in combination with nivolumab and standard of care treatment in patients with high-grade glioma. Data were presented at the 37th Annual Meeting of Society for Immunotherapy of Cancer (SITC) today in Boston.",2022-11-11 17:00:00+00:00,https://www.globenewswire.com/news-release/2022/11/11/2554350/0/en/Candel-Therapeutics-Announces-Late-Breaking-Oral-Presentation-at-SITC-Annual-Meeting-with-Data-on-CAN-2409-in-Combination-with-Nivolumab-in-a-Phase-1-Mechanistic-Clinical-Trial-in-.html,GlobeNewswire Inc.,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.2,752,['CADL'],CADL,2022-11-11
+"Candel Therapeutics to Host Virtual R&D Day on December 6, 2022","NEEDHAM, Mass., Nov.  29, 2022  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (“Candel” or “the Company”) (Nasdaq: CADL), a clinical stage biopharmaceutical company developing novel viral immunotherapies, today announced it will host a virtual Research and Development (R&D) Day from 11:00 am – 1:30 pm ET on Tuesday, December 6, 2022.",2022-11-29 13:00:00+00:00,https://www.globenewswire.com/news-release/2022/11/29/2563926/0/en/Candel-Therapeutics-to-Host-Virtual-R-D-Day-on-December-6-2022.html,GlobeNewswire Inc.,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,400,['CADL'],CADL,2022-11-29
+"Benzinga's Top Ratings Upgrades, Downgrades For December 2, 2022","Upgrades
+For UDR Inc (NYSE:UDR), Morgan Stanley upgraded the previous rating of Equal-Weight to Overweight. In the third quarter, UDR showed an EPS of $0.60, compared to $0.51 from the year-ago quarter. The stock has a 52-week-high of $61.06 and a 52-week-low of $37.18. At the end of the last trading period, UDR closed at $40.88.   
+Canaccord Genuity upgraded the previous rating for The Toronto-Dominion Bank (NYSE:TD) from Hold to Buy. For the fourth quarter, Toronto-Dominion Bank had an EPS of $1.64, compared to year-ago quarter EPS of $1.66. The current stock performance of Toronto-Dominion Bank shows a 52-week-high of $86.02 and a 52-week-low of $57.27. Moreover, at the end of the last trading period, the closing price was at $68.37.   
+See all analyst ratings upgrades.
+Downgrades
+China Renaissance downgraded the previous rating for XPeng Inc (NYSE:XPEV) from Buy to Hold. For the third quarter, XPeng had an EPS of $0.36, compared to year-ago quarter EPS of $0.27. The stock has a 52-week-high of $56.45 and a 52-week-low of $6.18. At the end of the last trading period, XPeng closed at $9.97.   
+Canaccord Genuity downgraded the previous rating for Canadian Imperial Bank of Commerce (NYSE:CM) from Buy to Hold. Canadian Imperial Bank earned $1.05 in the fourth quarter, compared to $1.34 in the year-ago quarter. At the moment, the stock has a 52-week-high of $132.48 and a 52-week-low of $39.72. Canadian Imperial Bank closed at $44.53 at the end of the last trading period.   
+Baird downgraded the previous rating for National Storage Affiliates Trust (NYSE:NSA) from Outperform to Neutral. For the third quarter, National Storage had an EPS of $0.72, compared to year-ago quarter EPS of $0.57. At the moment, the stock has a 52-week-high of $70.04 and a 52-week-low of $36.75. National Storage closed at $39.76 at the end of the last trading period.   
+According to BMO Capital, the prior rating for Pebblebrook Hotel Trust (NYSE:PEB) was changed from Outperform to Market Perform. In the third quarter, Pebblebrook Hotel showed an EPS of $0.66, compared to $0.16 from the year-ago quarter. The stock has a 52-week-high of $26.14 and a 52-week-low of $14.01. At the end of the last trading period, Pebblebrook Hotel closed at $16.61.   
+For The Hain Celestial Group Inc (NASDAQ:HAIN), Evercore ISI Group downgraded the previous rating of Outperform to In-Line. For the first quarter, Hain Celestial Group had an EPS of $0.10, compared to year-ago quarter EPS of $0.25. At the moment, the stock has a 52-week-high of $43.53 and a 52-week-low of $15.23. Hain Celestial Group closed at $18.74 at the end of the last trading period.   
+Barclays downgraded the previous rating for Black Knight Inc (NYSE:BKI) from Overweight to Equal-Weight. Black Knight earned $0.56 in the third quarter, compared to $0.60 in the year-ago quarter. The current stock performance of Black Knight shows a 52-week-high of $84.27 and a 52-week-low of $52.00. Moreover, at the end of the last trading period, the closing price was at $61.95.   
+Barclays downgraded the previous rating for Bright Horizons Family Solutions Inc (NYSE:BFAM) from Overweight to Equal-Weight. Bright Horizons Family earned $0.66 in the third quarter, compared to $0.64 in the year-ago quarter. The stock has a 52-week-high of $140.02 and a 52-week-low of $54.19. At the end of the last trading period, Bright Horizons Family closed at $74.84.   
+For Ecolab Inc (NYSE:ECL), Barclays downgraded the previous rating of Overweight to Equal-Weight. Ecolab earned $1.30 in the third quarter, compared to $1.38 in the year-ago quarter. The current stock performance of Ecolab shows a 52-week-high of $237.38 and a 52-week-low of $131.04. Moreover, at the end of the last trading period, the closing price was at $151.94.   
+According to Barclays, the prior rating for TransUnion (NYSE:TRU) was changed from Overweight to Equal-Weight. In the third quarter, TransUnion showed an EPS of $0.93, compared to $1.01 from the year-ago quarter. At the moment, the stock has a 52-week-high of $120.36 and a 52-week-low of $50.32. TransUnion closed at $62.47 at the end of the last trading period.   
+According to Barclays, the prior rating for Blackstone Inc (NYSE:BX) was changed from Overweight to Equal-Weight. For the third quarter, Blackstone had an EPS of $1.06, compared to year-ago quarter EPS of $1.28. The current stock performance of Blackstone shows a 52-week-high of $146.04 and a 52-week-low of $79.55. Moreover, at the end of the last trading period, the closing price was at $85.04.   
+According to Morgan Stanley, the prior rating for AvalonBay Communities Inc (NYSE:AVB) was changed from Overweight to Equal-Weight. For the third quarter, AvalonBay Communities had an EPS of $2.50, compared to year-ago quarter EPS of $2.06. At the moment, the stock has a 52-week-high of $259.05 and a 52-week-low of $158.35. AvalonBay Communities closed at $174.18 at the end of the last trading period.   
+According to Oppenheimer, the prior rating for AppHarvest Inc (NASDAQ:APPH) was changed from Outperform to Perform. For the third quarter, AppHarvest had an EPS of $0.23, compared to year-ago quarter EPS of $0.17. The stock has a 52-week-high of $7.05 and a 52-week-low of $0.83. At the end of the last trading period, AppHarvest closed at $0.90.   
+RBC Capital downgraded the previous rating for DoorDash Inc (NYSE:DASH) from Outperform to Sector Perform. For the third quarter, DoorDash had an EPS of $0.77, compared to year-ago quarter EPS of $0.30. The current stock performance of DoorDash shows a 52-week-high of $185.28 and a 52-week-low of $41.37. Moreover, at the end of the ...Full story available on Benzinga.com",2022-12-02 15:00:49+00:00,https://www.benzinga.com/analyst-ratings/upgrades/22/12/29940344/benzingas-top-ratings-upgrades-downgrades-for-december-2-2022,Benzinga,0.001243781094527367,0.1572139303482587,neutral,0.001243781094527367,False,True,True,False,False,False,False,False,0.0,5756,"['RUM', 'UDR', 'NYAX', 'PEB', 'BEAT', 'ASAN', 'CAKE', 'ANGI', 'CRWD', 'COHR', 'COMP', 'AMTI', 'HAIN', 'QLYS', 'XPEV', 'AVB', 'QLYS', 'EOSE', 'BKI', 'BFAM', 'DASH', 'BX', 'SQZ', 'ASLE', 'CM', 'IAC', 'APPH', 'CRM', 'NSA', 'ENVX', 'ECL', 'VIAV', 'CADL', 'EW', 'LITE', 'SLDP', 'RIO', 'ZG', 'ZFOX', 'TD', 'BHVN', 'AMPX', 'TRU', 'IPA']",CADL,2022-12-02
+Candel Therapeutics R&D Day Presentations Spotlight its Advanced Pipeline and Capabilities to Develop Novel Viral Immunotherapies for Patients with Cancer,"NEEDHAM, Mass., Dec.  06, 2022  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (“Candel” or “the Company”) (Nasdaq: CADL), a clinical stage biopharmaceutical company developing novel viral immunotherapies, today held its Research and Development Day to provide an extensive overview of the Company’s unique viral immunotherapy platforms and to review updated clinical data from its oncology-focused pipeline.",2022-12-06 21:26:00+00:00,https://www.globenewswire.com/news-release/2022/12/06/2568809/0/en/Candel-Therapeutics-R-D-Day-Presentations-Spotlight-its-Advanced-Pipeline-and-Capabilities-to-Develop-Novel-Viral-Immunotherapies-for-Patients-with-Cancer.html,GlobeNewswire Inc.,0.25833333333333336,0.6444444444444445,positive,0.25833333333333336,False,False,False,False,False,False,False,False,0.0,563,['CADL'],CADL,2022-12-06
+Candel Therapeutics to Participate in Upcoming B. Riley Oncology Conference,"NEEDHAM, Mass., Jan.  12, 2023  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Nasdaq: CADL), a clinical stage biopharmaceutical company developing novel viral immunotherapies, today announced that Paul Peter Tak, MD, PhD, FMedSci, President and Chief Executive Officer, will participate in a virtual fireside chat at B. Riley Securities’ 3rd Annual Oncology Conference. Details are as follows:",2023-01-12 13:00:00+00:00,https://www.globenewswire.com/news-release/2023/01/12/2587826/0/en/Candel-Therapeutics-to-Participate-in-Upcoming-B-Riley-Oncology-Conference.html,GlobeNewswire Inc.,0.0,0.0,neutral,0.0,False,False,True,False,False,False,False,False,0.0,471,['CADL'],CADL,2023-01-12
+Why Tupperware Brands Shares Are Trading Lower By Over 40%? Here Are Other Stocks Moving In Monday's Mid-Day Session,"Gainers
+
+PLx Pharma Inc. (NASDAQ: PLXP) gained 128.2% to $0.2399 after dropping over 13% on Thursday.
+Jeffs' Brands Ltd (NASDAQ: JFBR) gained 81.5% to $1.3214. Jeffs' Brands recently completed the acquisition of a 49% interest in a company that owns Wellution, a top seller brand on Amazon, for $3 million.
+GlucoTrack, Inc. (NASDAQ: GCTK) gained 78.1% to $2.1200 after jumping around 222% on Thursday.
+OncoSec Medical Incorporated (NASDAQ: ONCS) rose 39.3% to $1.5608 after the company announced it is seeking withdrawal of its registration statement.
+Guardforce AI Co., Limited (NASDAQ: GFAI) shares jumped 36.7% to $17.43 amid continued volatility in AI stocks.
+Arrival (NASDAQ: ARVL) gained 36% to $0.1665 after the company announced a business combination with Kensington Capital Acquisition Corp. V.
+Ebix, Inc. (NASDAQ: EBIX) gained 31.6% to $17.17. Ebix named executive Amit K. Garg as CFO effective April 21. EbixCash Limited, a subsidiary of Ebix, received Securities and Exchange Board of India clearance for its proposed initial public offering.
+Unique Fabricating, Inc. (NASDAQ: UFAB) rose 28.3% to $0.1999.
+Better Therapeutics, Inc. (NASDAQ: BTTX) surged 21.3% to $1.48. Better Therapeutics announced a $6.5 million private placement.
+Troika Media Group, Inc. (NASDAQ: TRKA) rose 19.3% to $0.2815.
+TG Therapeutics, Inc. (NASDAQ: TGTX) gained 18.4% to $18.33. TG Therapeutics recently reported positive CHMP opinion for BRIUMVI (ublituximab-xiiy) for treatment of relapsing forms of multiple sclerosis in adults.
+The Arena Group Holdings, Inc. (NYSE: AREN) shares gained 16.5% to $4.7069. The Arena Group recently raised $11.5 million via secondary stock offering 2.96m shares at $3.88 per share.
+Candel Therapeutics, Inc. (NASDAQ: CADL) surged 15.8% to $1.61.
+EHang Holdings Limited (NASDAQ: EH) jumped 14.4% to $10.56.
+Syneos Health, Inc. (NASDAQ: SYNH) gained 13% to $39.44.
+Eos Energy Enterprises, Inc. (NASDAQ: ...",2023-04-10 16:42:04+00:00,https://www.benzinga.com/news/23/04/31730119/why-tupperware-brands-shares-are-trading-lower-by-over-40-here-are-other-stocks-moving-in-mondays-mi,Benzinga,0.17559031877213696,0.40866784730421096,positive,0.17559031877213696,False,True,True,False,False,False,True,False,0.0,2048,"['PXMD', 'JFBR', 'BRFH', 'EOSE', 'OBIO', 'TGTX', 'ARVL', 'AUDC', 'APLM', 'MGNX', 'MSGM', 'EBIX', 'UHG', 'COCP', 'OUST', 'GRVY', 'OCTO', 'EH', 'TRKA', 'WDFC', 'UFAB', 'EJH', 'BPT', 'AREN', 'LTRY', 'GBX', 'PLXP', 'CLXT', 'CADL', 'MU', 'SECO', 'IDW', 'PXD', 'AREB', 'GFAI', 'TUP', 'SYNH', 'BTTX', 'WDC', 'ELOX', 'PEAR', 'XOM', 'YVR', 'VORB', 'AMBO', 'WE', 'GCTK', 'ONCS', 'KSPN', 'MICS', 'ELEV']",CADL,2023-04-10
+Why ToughBuilt Industries Shares Are Trading Lower By Over 46%? Here Are Other Stocks Moving In Wednesday's Mid-Day Session,"Gainers
+
+Advanced Health Intelligence Ltd. (NASDAQ: AHI) shares jumped 209.5% to $2.29 after the company signed a Letter of Intention with UAE-Based e-script medicine management company Pharmak Pharmacy.
+Ocean Biomedical, Inc.  (NASDAQ: OCEA) shares gained 30.1% to $6.92 after the company announced a share price target increase to $17.63 by Fundamental Research Corp on results from an independent study showing glioblastoma tumor suppression, received patents and recent financing.
+LumiraDx Limited (NASDAQ: LMDX) shares surged 20% to $0.42 after the company received UK approval for its COVID Ultra and COVID & RSV Tests.
+Catalyst Biosciences, Inc. (NASDAQ: CBIO) gained 19.7% to $0.3489.
+PureCycle Technologies, Inc. (NASDAQ: PCT) climbed 17% to $9.29. PureCycle Technologies successfully produced the first run of Ultra-Pure Recycled (UPR) resin from post-industrial recycled material at commercial scale.
+Mullen Automotive, Inc. (NASDAQ: MULN) gained 16.8% to $0.1876. Mullen Automotive announced an investor financing moratorium for the balance of 2023. The company said it has sufficient capital on hand for at least the next 12 months.
+World Acceptance Corporation (NASDAQ: WRLD) surged 14.6% to $143.73.
+Greenidge Generation Holdings Inc.  (NASDAQ: GREE) shares gained 13.2% to $3.51.
+Candel Therapeutics, Inc. (NASDAQ: CADL) rose 12.9% to $1.40.
+Hut 8 Mining Corp. (NYSE: HUT) gained 12.5% to $2.8791.
+Argo Blockchain plc (NASDAQ: ARBK) climbed 12.3% to $1.3024.
+Nikola Corporation ...",2023-06-21 16:57:18+00:00,https://www.benzinga.com/news/23/06/32952118/why-toughbuilt-industries-shares-are-trading-lower-by-over-46-here-are-other-stocks-moving-in-wednes,Benzinga,0.1366883116883117,0.37510822510822517,positive,0.1366883116883117,False,False,False,False,False,False,True,False,0.0,1622,"['EVLO', 'ARBK', 'GRNQ', 'LMDX', 'SQFT', 'BFRI', 'RVSN', 'HUT', 'MULN', 'WRLD', 'TBLT', 'TIVC', 'NAVB', 'GREE', 'BCEL', 'VEDU', 'SKIN', 'MSGE', 'GRFX', 'WORX', 'NKLA', 'VCIG', 'TMC', 'TCJH', 'EVGN', 'PCT', 'CJET', 'QURE', 'GRCL', 'AHI', 'TLIS', 'VQS', 'OCEA', 'LITE', 'CADL', 'CBIO', 'FFIE', 'VYGR', 'IRNT']",CADL,2023-06-21
+Candel Therapeutics to Participate in the Canaccord Genuity 43rd Annual Growth Conference,"NEEDHAM, Mass., Aug.  02, 2023  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Candel or the Company) (Nasdaq: CADL), a clinical stage biopharmaceutical company focused on developing viral immunotherapies to help patients fight cancer, today announced that Paul Peter Tak, MD, PhD, FMedSci, President and Chief Executive Officer, will participate in a fireside chat at the upcoming Canaccord Genuity 43rd Annual Growth Conference, taking place August 7-10, 2023, in Boston.",2023-08-02 12:00:00+00:00,https://www.globenewswire.com/news-release/2023/08/02/2716816/0/en/Candel-Therapeutics-to-Participate-in-the-Canaccord-Genuity-43rd-Annual-Growth-Conference.html,GlobeNewswire Inc.,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,564,['CADL'],CADL,2023-08-02
+Candel Therapeutics Reports Second Quarter 2023 Financial Results and Recent Corporate Highlights,"NEEDHAM, Mass., Aug.  10, 2023  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Candel or the Company) (Nasdaq: CADL), a clinical stage biopharmaceutical company focused on developing viral immunotherapies to help patients fight cancer, today reported financial results for the second quarter ended June 30, 2023, and provided a corporate update.",2023-08-10 12:00:00+00:00,https://www.globenewswire.com/news-release/2023/08/10/2722588/0/en/Candel-Therapeutics-Reports-Second-Quarter-2023-Financial-Results-and-Recent-Corporate-Highlights.html,GlobeNewswire Inc.,0.0,0.03571428571428571,neutral,0.0,False,False,True,False,False,False,False,False,0.0,444,['CADL'],CADL,2023-08-10
+Candel Therapeutics to Participate in the H.C. Wainwright 25th Annual Global Investment Conference,"NEEDHAM, Mass., Sept.  06, 2023  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Candel or the Company) (Nasdaq: CADL), a clinical stage biopharmaceutical company focused on developing viral immunotherapies to help patients fight cancer, today announced that Paul Peter Tak, MD, PhD, FMedSci, President and Chief Executive Officer, will present at the upcoming H.C. Wainwright 25th Annual Global Investment Conference taking place September 11-13, 2023, in New York City.",2023-09-06 12:00:00+00:00,https://www.globenewswire.com/news-release/2023/09/06/2738304/0/en/Candel-Therapeutics-to-Participate-in-the-H-C-Wainwright-25th-Annual-Global-Investment-Conference.html,GlobeNewswire Inc.,0.03409090909090909,0.11363636363636363,neutral,0.03409090909090909,False,False,False,False,False,False,False,False,0.0,570,['CADL'],CADL,2023-09-06
+Candel Therapeutics Announces Three Abstracts Accepted for Poster Presentations at SITC 2023 Annual Meeting,"NEEDHAM, Mass., Sept.  27, 2023  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Nasdaq: CADL), a clinical stage biopharmaceutical company focused on developing and commercializing viral immunotherapies to help patients fight cancer, today announced the Company will present three posters at the Society for Immunotherapy of Cancer’s (SITC) 38th Annual Meeting taking place November 3-5, 2023 in San Diego, CA and virtually.",2023-09-27 13:40:00+00:00,https://www.globenewswire.com/news-release/2023/09/27/2750513/0/en/Candel-Therapeutics-Announces-Three-Abstracts-Accepted-for-Poster-Presentations-at-SITC-2023-Annual-Meeting.html,GlobeNewswire Inc.,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,532,['CADL'],CADL,2023-09-27
+Candel Therapeutics Announces Nature Publication Showing Extended Survival Associated with Immune Activation in Patients with Recurrent High-Grade Glioma Treated with CAN-3110,"NEEDHAM, Mass., Oct.  18, 2023  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (the Company or Candel) (Nasdaq: CADL), a clinical stage biopharmaceutical company focused on developing viral immunotherapies to help patients fight cancer, today announced that Nature published results from the ongoing first-in-human phase 1 investigator-sponsored clinical trial of CAN-3110, a first-in-class, replication-competent herpes simplex virus-1 (HSV-1) oncolytic viral immunotherapy candidate, in patients with recurrent high-grade glioma (HGG), of which 86.7% were glioblastoma, that had returned after standard of care (SoC) treatment.",2023-10-18 15:00:00+00:00,https://www.globenewswire.com/news-release/2023/10/18/2762584/0/en/Candel-Therapeutics-Announces-Nature-Publication-Showing-Extended-Survival-Associated-with-Immune-Activation-in-Patients-with-Recurrent-High-Grade-Glioma-Treated-with-CAN-3110.html,GlobeNewswire Inc.,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,805,['CADL'],CADL,2023-10-18
+Candel Therapeutics Announces Initial Positive Interim Data from Randomized Phase 2 Clinical Trial of CAN-2409 in Non-Metastatic Pancreatic Cancer,"NEEDHAM, Mass., Nov.  03, 2023  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Candel or the Company) (Nasdaq: CADL), a clinical stage biopharmaceutical company focused on developing viral immunotherapies to help patients fight cancer, today announced initial positive interim survival and immunological biomarker data from the ongoing randomized phase 2 clinical trial of CAN-2409 plus valacyclovir (prodrug) together with standard of care (SoC) chemoradiation followed by resection for borderline resectable pancreatic ductal adenocarcinoma (PDAC). Data were presented today in a poster session titled ‘Neoadjuvant CAN-2409+Prodrug Plus Chemoradiation for Borderline Resectable or Locally Advanced Non-Metastatic Pancreatic Adenocarcinoma (PDAC) at the 2023 Society for Immunotherapy (SITC) Annual Meeting.",2023-11-03 16:00:00+00:00,https://www.globenewswire.com/news-release/2023/11/03/2773326/0/en/Candel-Therapeutics-Announces-Initial-Positive-Interim-Data-from-Randomized-Phase-2-Clinical-Trial-of-CAN-2409-in-Non-Metastatic-Pancreatic-Cancer.html,GlobeNewswire Inc.,0.14242424242424243,0.2818181818181818,positive,0.14242424242424243,False,False,True,False,False,False,False,False,0.0,956,['CADL'],CADL,2023-11-03
+Candel Therapeutics Presents Preclinical Data from its enLIGHTEN™ Discovery Platform at SITC,"NEEDHAM, Mass., Nov.  04, 2023  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (the Company or Candel) (Nasdaq: CADL), a clinical stage biopharmaceutical company focused on developing viral immunotherapies to help patients fight cancer, today will present two posters during the 2023 Society for Immunotherapy of Cancer (SITC) Annual Meeting in San Diego focused on the enLIGHTEN™ Discovery Platform.",2023-11-04 12:00:00+00:00,https://www.globenewswire.com/news-release/2023/11/04/2773546/0/en/Candel-Therapeutics-Presents-Preclinical-Data-from-its-enLIGHTEN-Discovery-Platform-at-SITC.html,GlobeNewswire Inc.,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,493,['CADL'],CADL,2023-11-04
+Candel Therapeutics Receives FDA Fast Track Designation for CAN-2409 in Pancreatic Cancer,"NEEDHAM, Mass., Dec.  12, 2023  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Candel or the Company) (Nasdaq: CADL), a clinical stage biopharmaceutical company focused on developing multimodal biological immunotherapies to help patients fight cancer, today announced that the U.S. Food and Drug Administration (FDA) granted Fast Track Designation for its lead investigational adenovirus asset CAN-2409 plus prodrug (valacyclovir) for the treatment of patients with pancreatic ductal adenocarcinoma (PDAC) to improve overall survival.",2023-12-12 13:00:00+00:00,https://www.globenewswire.com/news-release/2023/12/12/2794671/0/en/Candel-Therapeutics-Receives-FDA-Fast-Track-Designation-for-CAN-2409-in-Pancreatic-Cancer.html,GlobeNewswire Inc.,0.13333333333333333,0.39999999999999997,positive,0.13333333333333333,False,False,True,False,False,False,False,False,0.0,625,['CADL'],CADL,2023-12-12
+US Stocks Edge Lower; Inflation Rate Slows to 3.1% In November,"U.S. stocks traded slightly lower this morning, following the release of inflation data on Tuesday.
+Following the market opening Tuesday, the Dow traded down 0.04% to 36,389.01 while the NASDAQ fell 0.18% to 14,406.14. The S&P 500 also fell, dropping, 0.27% to 4,610.13.
+Check This Out:  Microsoft, U.S. Bancorp And 2 Other Stocks Insiders Are Selling
+ 
+Leading and Lagging Sectors
+ 
+Industrials shares rose by 0.8% on Tuesday.
+In trading on Tuesday, communication services shares fell by 1.5%.
+ 
+Top Headline
+ 
+The annual inflation rate in the U.S. eased to 3.1% in November, recording the lowest reading in five months, compared to 3.2% in October.
+ 
+Equities Trading UP
+ 
+Aditxt, Inc.  (NASDAQ: ADTX) shares shot up 103% to $7.70 after the company entered into definitive agreement to acquire Evofem Biosciences.
+Shares of  C4 Therapeutics, Inc. (NASDAQ: CCCC) got a boost, surging 56% to $1.8350 after the company announced a license and research collaboration with Merck to discover and develop degrader-antibody conjugates.
+Candel Therapeutics, Inc. (NASDAQ: CADL) shares ...",2023-12-12 14:42:14+00:00,https://www.benzinga.com/news/earnings/23/12/36198092/us-stocks-edge-lower-inflation-rate-slows-to-3-1-in-november,Benzinga,0.09325396825396824,0.3543650793650794,neutral,0.09325396825396824,False,True,True,False,True,False,False,False,0.0,1145,"['CCCC', 'ACHV', 'ADTX', 'HCDI', 'CADL', 'IONM']",CADL,2023-12-12
+Why Johnson Controls International Shares Are Trading Lower By Over 6%? Here Are Other Stocks Moving In Tuesday's Mid-Day Session,"Shares of Johnson Controls International plc (NYSE: JCI) moved lower during Tuesday’s session following weak quarterly results.
+Johnson Controls reported fourth-quarter FY23 sales growth of 2.7% year-on-year to $6.91 billion (+2% organically), missing the consensus of $7.09 billion. Adjusted EPS of $1.05 (+6% Y/Y) below the consensus of $1.09, according to Benzinga Pro.
+Johnson Controls International shares fell 6.2% to $53.05 on Tuesday.
+Here are some other stocks moving in today's mid-day session.
+Gainers
+
+Aditxt, Inc.  (NASDAQ: ADTX) shares jumped 140.5% to $9.14 after the company entered into definitive agreement to acquire Evofem Biosciences.
+C4 Therapeutics, Inc. (NASDAQ: CCCC) gained 57.5% to $1.8590 after the company announced a license and research collaboration with Merck to discover and develop degrader-antibody conjugates.
+Candel Therapeutics, Inc. (NASDAQ: CADL) shares climbed 48% to $1.24 after the company announced it received FDA Fast Track Designation for CAN-2409 in pancreatic cancer.
+Icosavax, Inc.  (NASDAQ: ICVX) rose climbed 47.1% to $15.43 after AstraZeneca announced plans to buy Icosavax in a deal valued at up to $1.1 billion. Concurrently, Icosavax released topline interim results for its Phase 2 study of IVX-A12, a combination virus-like particle (VLP) vaccine candidate targeting both respiratory syncytial virus (RSV) and human metapneumovirus (hMPV).
+Clean Earth Acquisitions Corp. (NASDAQ: CLIN) gained 41.3% to $6.71. Clean Earth and Alternus Energy announced continuation of business combination close process.
+Bruush Oral Care Inc. (NASDAQ: BRSH) shares rose 24.1% to $0.2022 after gaining over 5% on Monday.
+Spectaire Holdings Inc. (NASDAQ: SPEC) gained 23.7% to ...",2023-12-12 18:22:22+00:00,https://www.benzinga.com/news/23/12/36203637/why-johnson-controls-international-shares-are-trading-lower-by-over-6-here-are-other-stocks-moving-i,Benzinga,0.09345238095238095,0.3946428571428572,neutral,0.09345238095238095,False,True,True,False,True,False,False,False,0.0,1850,"['BRSH', 'SBOW', 'HPCO', 'CMND', 'NOGN', 'BON', 'ACHV', 'HRYU', 'CLNE', 'ADTX', 'PAPL', 'EGLE', 'HCDI', 'CAVA', 'ORCL', 'BQ', 'SVMH', 'SPEC', 'ADEX', 'AAGR', 'JCI', 'GOTU', 'ODC', 'LCID', 'ICG', 'CADL', 'GGE', 'ICVX', 'CCCC', 'INAB', 'CLIN', 'IONM', 'ACLX', 'GPRO', 'KNTK', 'APPS', 'IXHL', 'BLBD']",CADL,2023-12-12
+Candel (CADL) Rises on FDA's Fast Track Status for CAN-2409,"The FDA gives Fast Track designation to Candel's (CADL) lead candidate, CAN-2409 plus prodrug (valacyclovir), for the treatment of patients with pancreatic cancer.",2023-12-13 17:21:00+00:00,https://www.zacks.com/stock/news/2197531/candel-cadl-rises-on-fdas-fast-track-status-for-can-2409,Zacks Investment Research,0.2,0.6,positive,0.2,False,False,True,False,False,False,False,False,0.0,224,"['PBYI', 'DERM', 'CADL', 'TRDA']",CADL,2023-12-13
+Candel Therapeutics Sets Path to Success: Recent Achievements Pave the Way for a Promising 2024 Propelled by Key Value Drivers and Catalysts,Candel Therapeutics Sets Path to Success: Recent Achievements Pave the Way for a Promising 2024 Propelled by Key Value Drivers and Catalysts,2024-02-05 13:00:00+00:00,https://www.globenewswire.com/news-release/2024/02/05/2823461/0/en/Candel-Therapeutics-Sets-Path-to-Success-Recent-Achievements-Pave-the-Way-for-a-Promising-2024-Propelled-by-Key-Value-Drivers-and-Catalysts.html,GlobeNewswire Inc.,0.125,0.4375,positive,0.125,False,False,False,False,False,False,False,False,0.0,282,['CADL'],CADL,2024-02-05
+CAN-3110 Receives FDA Fast Track Designation for Treatment of Recurrent High-Grade Glioma,"NEEDHAM, Mass., Feb.  13, 2024  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Candel or the Company) (Nasdaq: CADL), a clinical stage biopharmaceutical company focused on developing multimodal biological immunotherapies to help patients fight cancer, today announced that the U.S. Food and Drug Administration (FDA) granted Fast Track Designation for CAN-3110 -- a first-in-class, replication-competent herpes simplex virus-1 (HSV-1) oncolytic viral immunotherapy candidate – for the treatment of patients with recurrent high-grade glioma (HGG) to improve overall survival.",2024-02-13 12:30:00+00:00,https://www.globenewswire.com/news-release/2024/02/13/2828140/0/en/CAN-3110-Receives-FDA-Fast-Track-Designation-for-Treatment-of-Recurrent-High-Grade-Glioma.html,GlobeNewswire Inc.,0.13333333333333333,0.39999999999999997,positive,0.13333333333333333,False,False,True,False,False,False,False,False,0.0,665,['CADL'],CADL,2024-02-13
+Candel Therapeutics Reports Fourth Quarter and Full Year 2023 Financial Results and Recent Corporate Highlights,"NEEDHAM, Mass., March  28, 2024  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Candel or the Company) (Nasdaq: CADL), a clinical stage biopharmaceutical company focused on developing multimodal biological immunotherapies to help patients fight cancer, today reported financial results for the fourth quarter and year ended December 31, 2023, and provided a corporate update.",2024-03-28 12:05:00+00:00,https://www.globenewswire.com/news-release/2024/03/28/2853970/0/en/Candel-Therapeutics-Reports-Fourth-Quarter-and-Full-Year-2023-Financial-Results-and-Recent-Corporate-Highlights.html,GlobeNewswire Inc.,0.04375,0.1,neutral,0.04375,False,False,False,False,False,False,False,False,0.0,488,['CADL'],CADL,2024-03-28
+Candel Therapeutics Announces Oral Presentation During the 5th Glioblastoma Drug Development Summit with Update on Phase 1b Clinical Trial of CAN-3110 in Recurrent High-Grade Glioma,"NEEDHAM, Mass., March  28, 2024  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Candel or the Company) (Nasdaq: CADL), a clinical stage biopharmaceutical company focused on developing and commercializing viral immunotherapies to help patients fight cancer, today announced the presentation of updated data from an ongoing phase 1b clinical trial of its herpes simplex virus-1 (HSV-1) replication-competent viral immunotherapy candidate, CAN-3110, in patients with rHGG that has recurred after standard of care (SoC) treatment. The data were presented today during the 5th Glioblastoma Drug Development Summit in Boston, Massachusetts.",2024-03-28 20:05:00+00:00,https://www.globenewswire.com/news-release/2024/03/28/2854466/0/en/Candel-Therapeutics-Announces-Oral-Presentation-During-the-5th-Glioblastoma-Drug-Development-Summit-with-Update-on-Phase-1b-Clinical-Trial-of-CAN-3110-in-Recurrent-High-Grade-Gliom.html,GlobeNewswire Inc.,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,817,['CADL'],CADL,2024-03-28
+Nasdaq Surges 1%; ConAgra Brands Posts Upbeat Earnings,"U.S. stocks traded higher midway through trading, with the Nasdaq Composite gaining more than 150 points on Thursday.
+The Dow traded up 0.49% to 39,319.03 while the NASDAQ rose 1% to 16,4340. The S&P 500 also rose, gaining, 0.75% to 5,250.72.
+Check This Out:  Insiders Buying Walgreens And 2 Other Stocks
+ 
+Leading and Lagging Sectors
+ 
+Real estate shares jumped by 1.1% on Thursday.
+In trading on Thursday, health care shares rose by just 0.01%.
+ 
+Top Headline
+ 
+ConAgra Brands Inc  (NYSE: CAG) reported better-than-expected third-quarter financial results.
+ConAgra reported a third-quarter FY24 sales decline of 1.7% year-on-year to $3.03 billion, beating the analyst consensus estimate of $3.01 billion. Adjusted EPS of 69 cents beat the consensus estimate of 65 cents.
+ConAgra reaffirmed its outlook for FY24 Organic net sales to decrease between 1.0% and 2.0% compared to fiscal 2023.
+ 
+Equities Trading UP
+ 
+TC Biopharm (Holdings) Plc (NASDAQ: TCBP) shares shot up 76% to $2.2850. TCBP announced execution of non-binding letter of intent for acquisition of NK Platform Technologies.
+Shares of  Allurion Technologies Inc.  (NASDAQ: ALUR) got a boost, surging 116% to $3.73 after the company announced the commercial availability of its Virtual Care Suite in the ...",2024-04-04 15:58:56+00:00,https://www.benzinga.com/news/earnings/24/04/38095150/nasdaq-surges-1-conagra-brands-posts-upbeat-earnings,Benzinga,0.2840909090909091,0.45681818181818185,positive,0.2840909090909091,True,True,True,False,False,False,False,False,0.0,1326,"['CAG', 'ACHL', 'CADL', 'EFTR', 'TCBP', 'KWE', 'ALUR']",CADL,2024-04-04
+Why STAAR Surgical Shares Are Trading Higher By Around 13%? Here Are Other Stocks Moving In Thursday's Mid-Day Session,"Shares of  STAAR Surgical Company (NASDAQ: STAA) rose sharply during Thursday’s session after the company issued strong preliminary first-quarter net sales guidance.
+STAAR Surgical shares jumped 13.3% to $44.30 on Thursday.
+Here are some other stocks moving in today's mid-day session.
+Gainers
+
+TC Biopharm (Holdings) Plc (NASDAQ: TCBP) shares climbed 130.1% to $2.9790. TCBP announced execution of non-binding letter of intent for acquisition of NK Platform Technologies.
+Allurion Technologies Inc.  (NASDAQ: ALUR) gained 70% to $2.8801 after the company announced the commercial availability of its Virtual Care Suite in the United States. Also, Chardan Capital initiated coverage on the stock with a Buy rating and announced a $5 price target.
+Tevogen Bio Holdings Inc. (NASDAQ: TVGN) shares climbed 40.6% to $3.58. Tevogen Bio, on Wednesday, appointed Tapan V Shah as Head of Investor Relations and Corporate Development.
+HWH International Inc. (NASDAQ: HWH) gained 38.8% to $2.1765.
+Candel Therapeutics, Inc. (NASDAQ: CADL) rose 36.3% to $2.2899 after the company announced interim data from the randomized phase 2 clinical trial of CAN-2409 in non-metastatic prostate cancer.
+MacroGenics, Inc. (NASDAQ: MGNX) climbed 27.8% to $17.47. MacroGenics announced TAMARACK study data will not be presented at the ASCO Annual Meeting.
+E-Home Household Service Holdings Limited (NASDAQ: EJH) gained 27% to $2.22.
+Reliance Global Group, Inc. (NASDAQ: RELI) gained 24.6% to $0.46 after the company reported FY23 earnings.
+Simulations Plus, Inc. (NASDAQ: SLP) rose 22.5% to $47.12 after the company posted better-than-expected results for its second quarter.
+Vast Renewables Limited (NASDAQ: VSTE) gained 22.3% to $8.81.
+Sportsman's Warehouse Holdings, Inc. (NASDAQ: SPWH) gained 21.3% to $3.7950 following a narrower-than-expected quarterly loss.
+Gorilla Technology Group Inc. (NASDAQ: GRRR) jumped 19% to $0.8729 after the company reported a year-over-year increase in FY23 sales results.
+Levi Strauss & Co.  (NYSE: LEVI) shares rose 18.3% to $22.10 after the company reported upbeat earnings ...",2024-04-04 17:21:21+00:00,https://www.benzinga.com/news/24/04/38097023/why-staar-surgical-shares-are-trading-higher-by-around-13-here-are-other-stocks-moving-in-thursdays,Benzinga,0.09327380952380952,0.435952380952381,neutral,0.09327380952380952,True,True,True,False,False,False,False,False,0.0,2211,"['GCTS', 'ACHL', 'PARA', 'EJH', 'NVX', 'MGNX', 'CADL', 'ABIO', 'SPWH', 'EFTR', 'AXTI', 'HUBS', 'TCBP', 'CASA', 'LW', 'LGVC', 'MSTR', 'EIGR', 'KYCH', 'GRRR', 'RENT', 'ZETA', 'SLNA', 'SLP', 'VSTE', 'KWE', 'STAA', 'FLGC', 'FAAS', 'GTI', 'AQST', 'ALUR', 'MXL', 'RELI', 'TVGN', 'ONMD', 'SMXT', 'HWH', 'BB', 'LEVI', 'XTIA', 'ENPH', 'ADXN', 'DXYZ', 'VIEW', 'KTRA']",CADL,2024-04-04
+Dow Dips Over 200 Points; RPM International Shares Fall After Q3 Results,"U.S. stocks turned lower toward the end of trading, with the Dow Jones index falling more than 200 points on Thursday.
+The Dow traded down 0.59% to 38,894.58 while the NASDAQ fell 0.10% to 16,261.88. The S&P 500 also fell, dropping, 0.28% to 5,197.03.
+Check This Out:  Insiders Buying Walgreens And 2 Other Stocks
+ 
+Leading and Lagging Sectors
+ 
+Communication services shares jumped by 1.1% on Thursday.
+In trading on Thursday, health care shares rose by just 0.1%.
+ 
+Top Headline
+ 
+Shares of  RPM International Inc. (NYSE: RPM) fell more than 5% on Thursday after the company reported third-quarter FY24 results.
+Sales rose 0.4% Y/Y to $1.523 billion, slightly beating the consensus of $1.518 billion. Adjusted EPS of 52 cents exceeded the consensus of 46 cents.
+ 
+Equities Trading UP
+ 
+TC Biopharm (Holdings) Plc (NASDAQ: TCBP) shares shot up 59% to $2.0597. TCBP announced execution of non-binding letter of intent for acquisition of NK Platform Technologies.
+Shares of  Allurion Technologies Inc.  (NASDAQ: ALUR) got a boost, surging 101% to $3.46 after the company announced the commercial availability of its Virtual Care Suite in the United States. Also, Chardan Capital initiated coverage on the stock ...",2024-04-04 18:39:49+00:00,https://www.benzinga.com/news/earnings/24/04/38098514/dow-dips-over-200-points-rpm-international-shares-fall-after-q3-results,Benzinga,0.20479797979797978,0.38459595959595966,positive,0.20479797979797978,False,True,True,False,False,False,False,False,0.0,1287,"['RPM', 'ACHL', 'CADL', 'EFTR', 'TCBP', 'KWE', 'ALUR']",CADL,2024-04-04
+Candel (CADL) Up on Upbeat Data From Pancreatic Cancer Study,Candel's (CADL) CAN-2409 demonstrates improvements in estimated median overall survival versus the control group in treating borderline resectable pancreatic ductal adenorcarcinoma. The stock rises.,2024-04-05 16:10:00+00:00,https://www.zacks.com/stock/news/2251363/candel-cadl-up-on-upbeat-data-from-pancreatic-cancer-study,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,True,False,False,False,False,False,0.0,260,"['LGND', 'ANIP', 'ADMA', 'CADL']",CADL,2024-04-05
+Candel Therapeutics Presents Preclinical Data at AACR on Immunotherapy Candidate for Induction of Tertiary Lymphoid Structures in Solid Tumors,"NEEDHAM, Mass., April  09, 2024  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Candel or the Company) (Nasdaq: CADL), a clinical stage biopharmaceutical company focused on developing multimodal biological immunotherapies to help patients fight cancer, today announced the presentation of a poster during the American Association for Cancer Research (AACR) Annual Meeting, taking place April 5 through 10 in San Diego, which focused on a first-in-class multimodal immunotherapy candidate for induction of tertiary lymphoid structures (TLS), being developed as a novel therapeutic strategy for solid tumors from Candel’s enLIGHTEN™ Discovery Platform.",2024-04-09 12:00:00+00:00,https://www.globenewswire.com/news-release/2024/04/09/2859909/0/en/Candel-Therapeutics-Presents-Preclinical-Data-at-AACR-on-Immunotherapy-Candidate-for-Induction-of-Tertiary-Lymphoid-Structures-in-Solid-Tumors.html,GlobeNewswire Inc.,0.025,0.125,neutral,0.025,False,False,False,False,False,False,False,False,0.0,794,['CADL'],CADL,2024-04-09
+Why Fastenal Shares Are Trading Lower By Around 7%? Here Are Other Stocks Moving In Thursday's Mid-Day Session,"Shares of  Fastenal Company (NASDAQ: FAST) fell sharply during Thursday’s session following worse-than-expected first-quarter financial results.
+Fastenal reported first-quarter FY24 sales growth of 1.9% Y/Y to $1.895 billion, missing the consensus of $1.914 billion. The company's first-quarter EPS was 52 cents, missing the consensus of 53 cents.
+Fastenal shares dipped 6.7% to $69.73 on Thursday.
+Here are some other stocks moving in today's mid-day session.
+Gainers
+
+Rallybio Corporation (NASDAQ: RLYB) shares climbed 89.6% to $3.09 after the company announced a collaboration with Johnson & Johnson to advance therapeutics for pregnant individuals at risk of FNAIT.
+Rent the Runway, Inc. (NASDAQ: RENT) shares jumped 74.5% to $12.91 after the company reported mixed fourth-quarter financial results and issued guidance.
+Eliem Therapeutics, Inc.  (NASDAQ: ELYM) jumped 59.6% to $4.2650. The company announced that it entered into a definitive acquisition agreement to acquire Tenet and it also entered into a securities purchase agreement for a $120 million private placement.
+Akanda Corp. (NASDAQ: AKAN) gained 36% to $0.1632. Akanda, last month, announced a plan to evaluate opportunities in Bitcoin, Blockchain and AI applications in the cannabis industry.
+Alpine Immune Sciences, Inc. (NASDAQ: ALPN) rose 36.6% to $64.25 after Vertex entered into an agreement to acquire the company.
+Candel Therapeutics, Inc. (NASDAQ: CADL) surged 29.6% to $6.61 after the company received FDA orphan drug designation for CAN-2409 for the treatment of pancreatic cancer.
+Enliven Therapeutics, Inc. (NASDAQ: ELVN) gained 26% to $24.97. Enliven Therapeutics announced proof ...",2024-04-11 17:33:07+00:00,https://www.benzinga.com/news/24/04/38208091/why-fastenal-shares-are-trading-lower-by-around-7-here-are-other-stocks-moving-in-thursdays-mid-day,Benzinga,0.025595238095238095,0.3172619047619048,neutral,0.025595238095238095,False,True,True,False,False,False,False,False,0.0,1778,"['APVO', 'ELYM', 'GL', 'SPRC', 'ICCT', 'AKAN', 'ACOR', 'LOVE', 'SLNA', 'CLRO', 'VERB', 'GVH', 'FAST', 'ENLV', 'GYRE', 'RENT', 'JFU', 'SUUN', 'KMX', 'RCEL', 'WD', 'AIH', 'ELVN', 'NKLA', 'ALPN', 'STEP', 'NRIX', 'MRIN', 'WNW', 'ESPR', 'JANX', 'VBIV', 'NYXH', 'GCT', 'CADL', 'ANAB', 'RLYB']",CADL,2024-04-11
+Candel (CADL) Up as Pancreatic Cancer Drug Gets Orphan Drug Tag,"Candel (CADL) rallies 43% as the FDA grants the orphan drug designation to its lead candidate, CAN-2409, for treating non-metastatic pancreatic cancer.",2024-04-12 14:00:00+00:00,https://www.zacks.com/stock/news/2254598/candel-cadl-up-as-pancreatic-cancer-drug-gets-orphan-drug-tag,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,True,False,False,False,False,False,0.0,216,"['ADMA', 'FGEN', 'ANVS', 'CADL']",CADL,2024-04-12
+Candel Therapeutics to Host Non-Small Cell Lung Cancer (NSCLC) R&D Breakfast Panel During 2024 ASCO Annual Meeting,Management and scientific/medical thought leaders to discuss topline overall survival data from phase 2 clinical trial of CAN-2409 in NSCLC Management and scientific/medical thought leaders to discuss topline overall survival data from phase 2 clinical trial of CAN-2409 in NSCLC,2024-05-20 12:00:00+00:00,https://www.globenewswire.com/news-release/2024/05/20/2884797/0/en/Candel-Therapeutics-to-Host-Non-Small-Cell-Lung-Cancer-NSCLC-R-D-Breakfast-Panel-During-2024-ASCO-Annual-Meeting.html,GlobeNewswire Inc.,0.0,0.0,neutral,0.0,False,False,False,False,False,False,True,False,0.0,395,['CADL'],CADL,2024-05-20
+Candel Therapeutics Reports Prolonged Overall Survival in Phase 2 Clinical Trial of CAN-2409 for Advanced Non-Small Cell Lung Cancer (NSCLC) in Patients Non-Responsive to Immune Checkpoint Inhibitor (ICI) Treatment at 2024 ASCO Annual Meeting,"NEEDHAM, Mass., May  23, 2024  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Candel or the Company) (Nasdaq: CADL), a clinical stage biopharmaceutical company focused on developing multimodal biological immunotherapies to help patients fight cancer, today announced topline overall survival data from its phase 2 clinical trial of CAN-2409, a multimodal biological immunotherapy candidate, plus valacyclovir (prodrug), together with standard of care (SoC) immune checkpoint inhibitor (ICI) therapy in patients with Stage III/IV non-small cell lung cancer (NSCLC) inadequately responding to ICI (anti-PD-(L)1) therapy.  The data will be presented at the 2024 American Society of Clinical Oncology (ASCO) Annual Meeting, to be held in Chicago, May 31 to June 4, 2024, by Charu Aggarwal, MD, MPH, FASCO, Leslye M. Heisler Associate Professor for Lung Cancer Excellence at the Perelman School of Medicine, University of Pennsylvania and Co-Principal Investigator of the clinical trial.",2024-05-23 21:00:00+00:00,https://www.globenewswire.com/news-release/2024/05/23/2887676/0/en/Candel-Therapeutics-Reports-Prolonged-Overall-Survival-in-Phase-2-Clinical-Trial-of-CAN-2409-for-Advanced-Non-Small-Cell-Lung-Cancer-NSCLC-in-Patients-Non-Responsive-to-Immune-Chec.html,GlobeNewswire Inc.,0.08,0.12,neutral,0.08,False,False,False,False,False,False,False,False,0.0,1226,['CADL'],CADL,2024-05-23
+Candel (CADL) Reports Upbeat Data From Lung Cancer Study,Candel's (CADL) CAN-2409 prolongs overall survival in a phase II study for treating patients with advanced non-small cell lung cancer who are non-responsive to immune checkpoint inhibitor therapy.,2024-05-24 15:42:00+00:00,https://www.zacks.com/stock/news/2278806/candel-cadl-reports-upbeat-data-from-lung-cancer-study,Zacks Investment Research,0.2,0.3,positive,0.2,False,False,False,False,False,False,False,False,0.0,254,"['NERV', 'MRNS', 'KRYS', 'CADL']",CADL,2024-05-24
+Candel (CADL) Stock Skyrockets 431% Year to Date: Here's Why,"Candel (CADL) surges 431% in the year-to-date period, driven by positive developmental and regulatory updates from the clinical program for CAN-2409 across two different cancer indications.",2024-05-28 15:07:00+00:00,https://www.zacks.com/stock/news/2280202/candel-cadl-stock-skyrockets-431-year-to-date-heres-why,Zacks Investment Research,0.11363636363636363,0.5727272727272728,positive,0.11363636363636363,False,False,True,False,False,False,False,False,0.0,251,"['ENTX', 'ANVS', 'ALXO', 'CADL']",CADL,2024-05-28
+Candel Therapeutics to Join Russell 3000® Index,"NEEDHAM, Mass., June  11, 2024  (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Candel or the Company) (Nasdaq: CADL), a clinical stage biopharmaceutical company focused on developing multimodal biological immunotherapies to help patients fight cancer, today announced that the Company is set to join the broad-market Russell 3000 Index at the conclusion of the 2024 Russell US Indexes annual reconstitution, effective at the open of US equity markets on Monday, July 1, 2024, according to a preliminary list of additions posted Friday, May 24, 2024.",2024-06-11 12:00:00+00:00,https://www.globenewswire.com/news-release/2024/06/11/2896707/0/en/Candel-Therapeutics-to-Join-Russell-3000-Index.html,GlobeNewswire Inc.,0.3,0.65,positive,0.3,False,False,False,False,False,False,False,False,0.0,598,['CADL'],CADL,2024-06-11
+Candel Therapeutics executive sells over $63k in company stock - Investing.com,"Candel Therapeutics' Interim Chief Financial Officer Charles Schoch sold over $63,000 worth of company stock to cover tax withholding obligations related to the vesting of restricted stock units. The transaction indicates continued investment in the company's future.",2024-07-19 12:41:10+00:00,https://www.investing.com/news/company-news/candel-therapeutics-executive-sells-over-63k-in-company-stock-93CH-3526968,Investing.com,0.075,0.15625,neutral,0.075,False,False,False,False,False,False,False,False,0.0,347,['CADL'],CADL,2024-07-19
+Milestone Pharmaceuticals Appoints Industry Veteran Joseph Papa to its Board of Directors,"Milestone Pharmaceuticals announced the appointment of Joseph Papa, a renowned pharmaceutical and healthcare leader, to its Board of Directors. Papa's extensive experience in the industry is expected to provide strategic guidance as Milestone prepares for the potential approval of its investigational drug CARDAMYST for the treatment of paroxysmal supraventricular tachycardia.",2024-09-04 12:00:00+00:00,https://www.globenewswire.com/news-release/2024/09/04/2940428/0/en/Milestone-Pharmaceuticals-Appoints-Industry-Veteran-Joseph-Papa-to-its-Board-of-Directors.html,GlobeNewswire Inc.,-0.025,0.43333333333333335,neutral,0.025,False,False,False,False,False,False,True,False,0.0,469,"['MIST', 'EBS', 'BLCO', 'PRGO', 'CADL']",CADL,2024-09-04
+Candel Therapeutics Announces $80 Million Proposed Public Offering,"Candel Therapeutics, a clinical-stage biopharmaceutical company, announced the launch of an $80 million public offering of its common stock and pre-funded warrants. The company plans to use the proceeds to continue the development of its product candidates, including preparing the submission of a Biologics License Application for CAN-2409 in prostate cancer.",2024-12-12 21:51:00+00:00,https://www.globenewswire.com/news-release/2024/12/12/2996546/0/en/Candel-Therapeutics-Announces-80-Million-Proposed-Public-Offering.html,GlobeNewswire Inc.,-0.09999999999999999,0.2111111111111111,neutral,0.09999999999999999,False,False,False,False,True,False,False,False,0.0,428,['CADL'],CADL,2024-12-12

@@ -1,0 +1,11 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2022-06-08,0.125,,1,0.125,0.0,0,0,0,0,0,0,0,0,185.0,DIVZ
+2022-06-29,0.0533,,1,0.0533,0.0,0,0,0,0,0,0,0,0,184.0,DIVZ
+2022-07-13,-0.5062,,1,0.5062,0.0,0,0,1,0,0,1,0,0,198.0,DIVZ
+2022-08-11,0.0,,1,0.0,0.0,0,0,0,0,0,1,0,0,319.0,DIVZ
+2022-11-08,1.0,,1,1.0,0.0,0,0,0,0,0,1,0,0,121.0,DIVZ
+2022-12-18,-0.125,,1,0.125,0.0,0,0,0,0,0,0,0,0,154.0,DIVZ
+2023-02-04,0.25,,1,0.25,0.0,0,0,0,0,0,1,0,0,268.0,DIVZ
+2023-08-05,0.4333,,1,0.4333,0.0,0,0,0,0,0,1,0,0,253.0,DIVZ
+2023-09-24,0.0,,1,0.0,0.0,0,0,0,0,0,0,0,0,191.0,DIVZ
+2024-09-25,0.0,,1,0.0,0.0,0,0,0,0,0,0,1,0,341.0,DIVZ

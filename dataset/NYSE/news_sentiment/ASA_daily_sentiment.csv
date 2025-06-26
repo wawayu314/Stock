@@ -1,0 +1,10 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2021-08-26,-0.15,,1,0.15,0.0,0,0,0,0,0,0,0,0,208.0,ASA
+2022-06-12,0.5,,1,0.5,0.0,0,0,0,0,0,1,0,0,189.0,ASA
+2022-06-22,0.0583,,1,0.0583,0.0,0,0,0,0,0,0,0,0,187.0,ASA
+2023-01-09,0.3,,1,0.3,0.0,0,0,0,0,0,0,0,0,81.0,ASA
+2023-11-15,0.1862,,1,0.1862,0.0,0,1,0,0,0,0,0,0,817.0,ASA
+2023-11-20,0.2,,1,0.2,0.0,0,1,0,0,0,0,1,0,730.0,ASA
+2023-11-29,0.1577,,1,0.1577,0.0,0,1,0,0,0,0,1,0,799.0,ASA
+2023-12-22,0.2,,1,0.2,0.0,0,1,0,0,0,0,0,0,758.0,ASA
+2023-12-28,0.2235,,1,0.2235,0.0,0,1,0,0,0,0,0,0,740.0,ASA

@@ -1,0 +1,8 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2024-03-18,0.1167,0.0176,2,0.1167,0.0,1,2,1,0,1,1,0,0,1725.0,BNAI
+2024-03-19,0.0415,,1,0.0415,0.0,1,0,0,0,0,0,1,0,848.0,BNAI
+2024-03-21,0.0625,,1,0.0625,0.0,1,0,0,0,0,0,0,0,806.0,BNAI
+2024-03-22,0.0656,,1,0.0656,0.0,1,0,0,0,1,0,0,0,1845.0,BNAI
+2024-05-29,0.1341,,1,0.1341,0.0,0,0,1,0,0,0,1,0,577.0,BNAI
+2024-08-22,0.1,,1,0.1,0.0,0,0,0,0,0,0,1,0,301.0,BNAI
+2024-10-30,0.0,,1,0.0,0.0,0,1,0,0,0,0,0,0,360.0,BNAI

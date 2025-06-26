@@ -1,0 +1,805 @@
+title,description,published_utc,article_url,publisher,sentiment_polarity,sentiment_subjectivity,sentiment_label,sentiment_confidence,keywords_earnings,keywords_acquisition,keywords_regulation,keywords_partnership,keywords_product,keywords_financial,keywords_leadership,keywords_lawsuit,urgency_score,text_length,tickers,ticker,date
+"DiamondRock Hospitality (DRH) Reports Q1 Loss, Tops Revenue Estimates","DiamondRock Hospitality (DRH) delivered FFO and revenue surprises of 20.00% and 9.24%, respectively, for the quarter ended March 2021. Do the numbers hold clues to what lies ahead for the stock?",2021-05-06 23:05:11+00:00,http://www.zacks.com/stock/news/1512476/diamondrock-hospitality-drh-reports-q1-loss-tops-revenue-estimates?cid=CS-ZC-FT-tale_of_the_tape|yseop_template_4-1512476,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,265,['DRH'],DRH,2021-05-06
+Diamondrock Hospitality Co (DRH) Q1 2021 Earnings Call Transcript,"DRH earnings call for the period ending March 31, 2021.",2021-05-07 23:01:06+00:00,https://www.fool.com/earnings/call-transcripts/2021/05/07/diamondrock-hospitality-co-drh-q1-2021-earnings-ca/?source=iedfolrf0000001,The Motley Fool,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,122,['DRH'],DRH,2021-05-07
+Rents Are Surging Again,"Driven by an intensifying housing shortage as robust demand clashes with historically low supply, data this week showed that home values and rents are both rising at historic rates.",2021-05-29 18:00:00+00:00,https://seekingalpha.com/article/4432051-rents-are-surging-again?source=feed,Seeking Alpha,0.0,0.15,neutral,0.0,False,False,False,False,False,False,False,False,0.0,206,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AIW', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMC', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BPYU', 'BPYUP', 'BRG', 'BRMK', 'BRT', 'BRX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLNC', 'CLNY', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DEA', 'DEI', 'DHC', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GME', 'GMRE', 'GNL', 'GOOD', 'GOODM', 'GOODN', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HD', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDO', 'LFT', 'LOW', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NXRT', 'NYC', 'NYMT', 'NYMTM', 'NYMTN', 'NYMTO', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'OPINI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'QQQ', 'QTS', 'RC', 'RCA', 'RDFN', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SNR', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SPGS', 'SPGS.U', 'SPY', 'SQFT', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TOL', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WRI', 'WSR', 'WY', 'XHB', 'XHR', 'XLB', 'XLE', 'XLI', 'XLRE']",DRH,2021-05-29
+REITs Getting Short Squeezed,"Real estate equities led the gains for the second-straight week. REITs were active participants in ""meme mania,"" led by heavily-shorted retail and hotel REITs. Click to read more...",2021-06-05 17:00:00+00:00,https://seekingalpha.com/article/4433243-reits-getting-short-squeezed,Seeking Alpha,0.14166666666666666,0.42500000000000004,positive,0.14166666666666666,False,False,True,False,False,False,False,False,0.0,211,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AIW', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BPYU', 'BPYUP', 'BRG', 'BRMK', 'BRT', 'BRX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLNC', 'CLNY', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DEA', 'DEI', 'DHC', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODM', 'GOODN', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDO', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDRR', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NXRT', 'NYC', 'NYMT', 'NYMTM', 'NYMTN', 'NYMTO', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'OPINI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'QTS', 'RC', 'RCA', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SNR', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SQFT', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TOL', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'W', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WRI', 'WSR', 'WY', 'XHB', 'XHR', 'XLB', 'XLRE', 'XLY', 'Z', 'ZG', 'EEM']",DRH,2021-06-05
+Inflation Is Worse Than It Looks,U.S. equity markets rallied to fresh record highs this past week as long-term interest rates retreated despite inflation data showing the highest annual rise in consumer prices in decades.,2021-06-12 15:00:00+00:00,https://seekingalpha.com/article/4434464-inflation-is-worse-looks,Seeking Alpha,-0.11666666666666668,0.45,negative,0.11666666666666668,False,False,False,False,False,False,False,False,0.0,222,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AIW', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMC', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BB', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BPYU', 'BPYUP', 'BRG', 'BRMK', 'BRT', 'BRX', 'BX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLNC', 'CLNY', 'CLOV', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DEA', 'DEI', 'DHC', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EEM', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODM', 'GOODN', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDO', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NXRT', 'NYC', 'NYMT', 'NYMTM', 'NYMTN', 'NYMTO', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'OPINI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'QTS', 'RC', 'RCA', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SNR', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SPY', 'SQFT', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USO', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'WELL', 'WEN', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WRI', 'WSR', 'WY', 'XHB', 'XHR', 'XLE', 'XLRE']",DRH,2021-06-12
+Fed Sparks Sell-Off As Shortages Worsen,U.S. equity markets slid to their worst week since February. Click here to read why REITs are now the top-performing asset class.,2021-06-19 14:00:00+00:00,https://seekingalpha.com/article/4435627-fed-sparks-sell-off-shortages-worsen,Seeking Alpha,-1.0,1.0,negative,1.0,False,False,False,False,False,False,False,False,0.0,170,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AIW', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMH', 'AMT', 'AMZN', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BAM', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BPYU', 'BPYUP', 'BRG', 'BRMK', 'BRT', 'BRX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLNC', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DEA', 'DEI', 'DHC', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EEM', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLD', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODM', 'GOODN', 'GOOG', 'GOOGL', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDO', 'LEN', 'LEN.B', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'MSFT', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NXRT', 'NYC', 'NYMT', 'NYMTM', 'NYMTN', 'NYMTO', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'QTS', 'RC', 'RCA', 'RDFN', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SNR', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SQFT', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USD', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WRI', 'WSR', 'WY', 'XHB', 'XHR', 'XLB', 'XLE', 'XLF', 'XLRE']",DRH,2021-06-19
+Walking An Inflation Tightrope,The wave of REIT dividend boosts continued this week with mall REIT Simon Property and shopping center REIT Saul Centers joining 65 other REITs that have raised payouts this year.,2021-06-26 15:00:00+00:00,https://seekingalpha.com/article/4436700-walking-inflation-tightrope,Seeking Alpha,-0.1125,0.2375,negative,0.1125,False,False,False,False,False,True,False,False,0.0,211,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AIW', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BPYU', 'BPYUP', 'BRG', 'BRMK', 'BRT', 'BRX', 'BX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'BRSP', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DBRG', 'DEA', 'DEI', 'DHC', 'DISH', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EEM', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODM', 'GOODN', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBWY', 'KIM', 'KKR', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDO', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NXRT', 'NYC', 'NYMT', 'NYMTM', 'NYMTN', 'NYMTO', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'QTS', 'RC', 'RCA', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SNR', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SPY', 'SQFT', 'SQFTP', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'T', 'TBB', 'TBC', 'THC', 'TIP', 'TMUS', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'VZ', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WRI', 'WSR', 'WY', 'XHB', 'XHR', 'XLE', 'XLF', 'XLI', 'XLRE']",DRH,2021-06-26
+Where’s housekeeping? Hotels cutting back on daily cleaning after pandemic,"Executives of some of the nation's biggest hotel chains, including Hilton, Marriott and Hyatt, have signaled that pandemic-induced changes may become the norm. Some of those changes could result in fewer hotel employees and diminished offerings for hotel customers, including room cleaning, room service, complimentary breakfasts and other food service.",2021-07-06 12:01:00+00:00,https://www.marketwatch.com/story/wheres-housekeeping-hotels-cutting-back-on-daily-cleaning-after-pandemic-11625159416,MarketWatch,-0.08499999999999999,0.355,neutral,0.08499999999999999,False,False,False,False,False,False,False,False,0.0,429,"['HLT', 'MAR', 'H', 'DRH']",DRH,2021-07-06
+DiamondRock Hospitality (DRH) Tops Q2 FFO and Revenue Estimates,"DiamondRock Hospitality (DRH) delivered FFO and revenue surprises of 266.67% and 15.17%, respectively, for the quarter ended June 2021. Do the numbers hold clues to what lies ahead for the stock?",2021-08-06 00:55:12+00:00,https://www.zacks.com/stock/news/1775789/diamondrock-hospitality-drh-tops-q2-ffo-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,260,['DRH'],DRH,2021-08-06
+DiamondRock Hospitality Company (DRH) Q2 2021 Earnings Call Transcript,"DRH earnings call for the period ending June 30, 2021.",2021-08-06 20:00:47+00:00,https://www.fool.com/earnings/call-transcripts/2021/08/06/diamondrock-hospitality-company-drh-q2-2021-earnin/,The Motley Fool,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,126,['DRH'],DRH,2021-08-06
+Home Sweet Home,"Housing Starts, Building Permits, Existing Home Sales, New Home Sales, and Homebuilder Sentiment all topped expectations. Follow here for more.",2021-09-25 15:30:00+00:00,https://seekingalpha.com/article/4457062-home-sweet-home,Seeking Alpha,0.3287878787878788,0.5348484848484848,positive,0.3287878787878788,False,False,False,False,False,False,False,False,0.0,160,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BRG', 'BRMK', 'BRT', 'BRX', 'BX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DBRG', 'DEA', 'DEI', 'DHC', 'DHI', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EEM', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODN', 'GOODO', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBH', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDM', 'LANDO', 'LEN', 'LEN.B', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'MTH', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NVR', 'NXRT', 'NYC', 'NYMT', 'NYMTL', 'NYMTM', 'NYMTN', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PECO', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'RC', 'RCA', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RMRM', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SQFT', 'SQFTP', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TOL', 'TPH', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USD', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WSR', 'WY', 'XHB', 'XHR', 'XLE', 'XLF', 'XLRE', 'XLU']",DRH,2021-09-25
+Help Wanted: Shortages Intensify,U.S. equity markets bounced back following the worst week since February. The Equity REIT Index declined 0.4% while Mortgage REITs gained 0.7%. Read to know more.,2021-10-09 14:00:00+00:00,https://seekingalpha.com/article/4459157-help-wanted-shortages-intensify,Seeking Alpha,-0.125,0.4,negative,0.125,False,False,False,False,False,False,False,False,0.0,196,"['AAIC', 'AAIN', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BRG', 'BRMK', 'BRT', 'BRX', 'BX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DBRG', 'DEA', 'DEI', 'DHC', 'DHI', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EEM', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODN', 'GOODO', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBH', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDM', 'LANDO', 'LEN', 'LEN.B', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'MRK', 'MS', 'MTH', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NVR', 'NXRT', 'NYC', 'NYMT', 'NYMTL', 'NYMTM', 'NYMTN', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PECO', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'RC', 'RCA', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SEVN', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SQFT', 'SQFTP', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TOL', 'TPH', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPS', 'WRE', 'WSR', 'WY', 'XHB', 'XHR', 'XLRE', 'Z', 'ZG', 'SPY', 'XLE']",DRH,2021-10-09
+DiamondRock Hospitality (DRH) Q3 FFO Meet Estimates,"DiamondRock Hospitality (DRH) delivered FFO and revenue surprises of 0.00% and 12.20%, respectively, for the quarter ended September 2021. Do the numbers hold clues to what lies ahead for the stock?",2021-11-04 22:55:06+00:00,https://www.zacks.com/stock/news/1823953/diamondrock-hospitality-drh-q3-ffo-meet-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,251,['DRH'],DRH,2021-11-04
+DiamondRock Hospitality Company (DRH) Q3 2021 Earnings Call Transcript,"DRH earnings call for the period ending September 30, 2021.",2021-11-05 18:01:24+00:00,https://www.fool.com/earnings/call-transcripts/2021/11/05/diamondrock-hospitality-company-drh-q3-2021-earnin/,The Motley Fool,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,131,['DRH'],DRH,2021-11-05
+Are Earnings Estimates Going Down?,"Earnings and revenue growth has come down in the ongoing Q3 earnings season from the first-half's breakneck speed, but...",2021-11-05 21:03:00+00:00,https://www.zacks.com/commentary/1824713/are-earnings-estimates-going-down,Zacks Investment Research,-0.15555555555555559,0.2888888888888889,negative,0.15555555555555559,True,False,False,False,False,False,False,False,0.0,157,"['AMZN', 'DIS', 'DRH', 'PYPL']",DRH,2021-11-05
+DiamondRock Hospitality (DRH) Matches Q4 FFO Estimates,"DiamondRock Hospitality (DRH) delivered FFO and revenue surprises of 0% and 5.06%, respectively, for the quarter ended December 2021. Do the numbers hold clues to what lies ahead for the stock?",2022-02-17 22:35:07+00:00,https://www.zacks.com/stock/news/1869567/diamondrock-hospitality-drh-matches-q4-ffo-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,249,"['DRH', 'DOC']",DRH,2022-02-17
+Why Hotel Stocks Jumped This Week,Hotels are hot despite inflation picking up.,2022-04-15 14:06:35+00:00,https://www.fool.com/investing/2022/04/15/why-hotel-stocks-jumped-this-week/,The Motley Fool,0.25,0.8500000000000001,positive,0.25,False,False,False,False,False,False,False,False,0.0,79,"['PK', 'H', 'DRH']",DRH,2022-04-15
+Medical Properties (MPW) Q1 FFO Meet Estimates,"Medical Properties (MPW) delivered FFO and revenue surprises of 0% and 0.20%, respectively, for the quarter ended March 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-04-28 13:15:08+00:00,https://www.zacks.com/stock/news/1910047/medical-properties-mpw-q1-ffo-meet-estimates,Zacks Investment Research,0.0,0.03333333333333333,neutral,0.0,True,False,False,False,False,False,False,False,0.0,233,"['MPW', 'DRH']",DRH,2022-04-28
+What's in the Cards for Intercontinental (ICE) in Q1 Earnings?,"Solid index business, growth in ICE Global Network offering and listings as well as increased adoption of digital workflow tools are likely to aid first-quarter results of Intercontinental (ICE).",2022-05-03 15:09:00+00:00,https://www.zacks.com/stock/news/1914516/whats-in-the-cards-for-intercontinental-ice-in-q1-earnings,Zacks Investment Research,0.0,0.275,neutral,0.0,True,False,False,False,False,False,False,False,0.0,259,"['ICE', 'ABR', 'DRH', 'BRP']",DRH,2022-05-03
+"Diversified Healthcare (DHC) Reports Q1 Loss, Misses Revenue Estimates","Diversified Healthcare (DHC) delivered FFO and revenue surprises of -350% and 2.76%, respectively, for the quarter ended March 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-05-03 22:25:12+00:00,https://www.zacks.com/stock/news/1914962/diversified-healthcare-dhc-reports-q1-loss-misses-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,264,"['DHC', 'DRH']",DRH,2022-05-03
+Global Medical REIT (GMRE) Q1 FFO Lag Estimates,"Global Medical REIT (GMRE) delivered FFO and revenue surprises of -7.69% and 4.03%, respectively, for the quarter ended March 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-05-04 23:15:08+00:00,https://www.zacks.com/stock/news/1916286/global-medical-reit-gmre-q1-ffo-lag-estimates,Zacks Investment Research,0.0,0.02,neutral,0.0,True,False,False,False,False,False,False,False,0.0,240,"['GMRE', 'DRH']",DRH,2022-05-04
+DiamondRock Hospitality (DRH) Surpasses Q1 FFO and Revenue Estimates,"DiamondRock Hospitality (DRH) delivered FFO and revenue surprises of 100% and 8.65%, respectively, for the quarter ended March 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-05-05 23:15:12+00:00,https://www.zacks.com/stock/news/1917384/diamondrock-hospitality-drh-surpasses-q1-ffo-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,262,"['DRH', 'FCRD']",DRH,2022-05-05
+Analyst Ratings for Diamondrock Hospitality,"Analysts have provided the following ratings for Diamondrock Hospitality (NYSE:DRH) within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+1
+2
+0
+1
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+0
+0
+1
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+1
+
+
+3M Ago
+0
+1
+0
+0
+0
+
+
+
+These 4 analysts have an average price target of $11.25 versus the current price of Diamondrock Hospitality at $10.325, implying  upside.
+Below is a summary of how these 4 analysts rated Diamondrock Hospitality over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock and the greater the ...Full story available on Benzinga.com",2022-05-18 13:24:15+00:00,https://www.benzinga.com/analyst-ratings/22/05/27275244/analyst-ratings-for-diamondrock-hospitality,Benzinga,0.14393939393939392,0.3732323232323232,positive,0.14393939393939392,False,False,False,False,False,False,False,False,0.0,711,['DRH'],DRH,2022-05-18
+Ryman Hospitality Properties (RHP) Moves 6.1% Higher: Will This Strength Last?,Ryman Hospitality Properties (RHP) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might help the stock continue moving higher in the near term.,2022-06-27 13:28:00+00:00,https://www.zacks.com/stock/news/1944403/ryman-hospitality-properties-rhp-moves-61-higher-will-this-strength-last,Zacks Investment Research,0.15714285714285717,0.3619047619047619,positive,0.15714285714285717,True,False,False,False,False,False,False,False,0.0,292,"['RHP', 'DRH']",DRH,2022-06-27
+How Much Upside is Left in DiamondRock Hospitality (DRH)? Wall Street Analysts Think 27%,"The mean of analysts' price targets for DiamondRock Hospitality (DRH) points to a 26.5% upside in the stock. While this highly sought-after metric has not proven reasonably effective, strong agreement among analysts in raising earnings estimates does indicate an upside in the stock.",2022-07-18 13:55:27+00:00,https://www.zacks.com/stock/news/1953622/how-much-upside-is-left-in-diamondrock-hospitality-drh-wall-street-analysts-think-27,Zacks Investment Research,0.18013888888888888,0.49347222222222226,positive,0.18013888888888888,True,False,False,False,False,False,False,False,0.0,373,['DRH'],DRH,2022-07-18
+Erie Indemnity (ERIE) Lags Q2 Earnings Estimates,"Erie Indemnity (ERIE) delivered earnings and revenue surprises of -5.56% and 2.64%, respectively, for the quarter ended June 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-07-28 22:35:05+00:00,https://www.zacks.com/stock/news/1960247/erie-indemnity-erie-lags-q2-earnings-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,240,"['ERIE', 'DRH']",DRH,2022-07-28
+Easterly Government Properties (DEA) Q2 FFO and Revenues Miss Estimates,"Easterly Government Properties (DEA) delivered FFO and revenue surprises of -2.94% and 2.83%, respectively, for the quarter ended June 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-08-02 12:35:08+00:00,https://www.zacks.com/stock/news/1961925/easterly-government-properties-dea-q2-ffo-and-revenues-miss-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,273,"['DEA', 'DRH']",DRH,2022-08-02
+DiamondRock Hospitality (DRH) Surpasses Q2 FFO and Revenue Estimates,"DiamondRock Hospitality (DRH) delivered FFO and revenue surprises of 16.13% and 6.70%, respectively, for the quarter ended June 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-08-03 23:25:10+00:00,https://www.zacks.com/stock/news/1963481/diamondrock-hospitality-drh-surpasses-q2-ffo-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,263,"['DRH', 'CIO']",DRH,2022-08-03
+DiamondRock Hospitality (DRH) Just Overtook the 200-Day Moving Average,Is it a good or bad thing when a stock surpasses resistance at the 200-day simple moving average?,2022-08-12 13:30:04+00:00,https://www.zacks.com/stock/news/1967709/diamondrock-hospitality-drh-just-overtook-the-200-day-moving-average,Zacks Investment Research,-0.059999999999999984,0.4847619047619047,neutral,0.059999999999999984,False,False,False,False,False,False,False,False,0.0,169,['DRH'],DRH,2022-08-12
+"Benzinga's Top Ratings Upgrades, Downgrades For August 29, 2022","Upgrades
+According to Argus Research, the prior rating for AstraZeneca PLC (NASDAQ:AZN) was changed from Hold to Buy. For the second quarter, AstraZeneca had an EPS of $0.86, compared to year-ago quarter EPS of $0.45. At the moment, the stock has a 52-week-high of $71.70 and a 52-week-low of $55.50. AstraZeneca closed at $66.32 at the end of the last trading period.   
+According to RBC Capital, the prior rating for The Toronto-Dominion Bank (NYSE:TD) was changed from Sector Perform to Outperform. In the third quarter, Toronto-Dominion Bank showed an EPS of $1.62, compared to $1.60 from the year-ago quarter. At the moment, the stock has a 52-week-high of $86.02 and a 52-week-low of $58.64. Toronto-Dominion Bank closed at $66.60 at the end of the last trading period.   
+For Apple Hospitality REIT Inc (NYSE:APLE), Wells Fargo upgraded the previous rating of Underweight to Equal-Weight. In the second quarter, Apple Hospitality REIT showed an EPS of $0.48, compared to $0.30 from the year-ago quarter. The stock has a 52-week-high of $18.69 and a 52-week-low of $14.29. At the end of the last trading period, Apple Hospitality REIT closed at $16.34.   
+For Park Hotels & Resorts Inc (NYSE:PK), Wells Fargo upgraded the previous rating of Equal-Weight to Overweight. For the second quarter, Park Hotels & Resorts had an EPS of $0.61, compared to year-ago quarter EPS of $0.16. The stock has a 52-week-high of $20.57 and a 52-week-low of $12.90. At the end of the last trading period, Park Hotels & Resorts closed at $14.22.   
+For Host Hotels & Resorts Inc (NASDAQ:HST), Wells Fargo upgraded the previous rating of Equal-Weight to Overweight. In the second quarter, Host Hotels & Resorts showed an EPS of $0.58, compared to $0.12 from the year-ago quarter. The current stock performance of Host Hotels & Resorts shows a 52-week-high of $21.63 and a 52-week-low of $15.10. Moreover, at the end of the last trading period, the closing price was at $18.24.   
+For Calithera Biosciences Inc (NASDAQ:CALA), HC Wainwright & Co. upgraded the previous rating of Neutral to Buy. In the second quarter, Calithera Biosciences showed an EPS of $1.59, compared to $3.80 from the year-ago quarter. The current stock performance of Calithera Biosciences shows a 52-week-high of $5.10 and a 52-week-low of $0.14. Moreover, at the end of the last trading period, the closing price was at $3.27.   
+According to Piper Sandler, the prior rating for Envista Holdings Corp (NYSE:NVST) was changed from Neutral to Overweight. Envista Holdings earned $0.48 in the second quarter, compared to $0.53 in the year-ago quarter. At the moment, the stock has a 52-week-high of $52.03 and a 52-week-low of $35.24. Envista Holdings closed at $36.60 at the end of the last trading period.   
+See all analyst ratings upgrades.
+Downgrades
+For Jowell Global Ltd (NASDAQ:JWEL), TD Securities downgraded the previous rating of Buy to Action List Buy. NoneThe stock has a 52-week-high of $25.78 and a 52-week-low of $0.96. At the end of the last trading period, Jowell Global closed at $1.23.   
+Consumer Edge Research downgraded the previous rating for The Hain Celestial Group Inc (NASDAQ:HAIN) from Overweight to Equal-Weight. For the fourth quarter, Hain Celestial Group had an EPS of $0.08, compared to year-ago quarter EPS of $0.39. The stock has a 52-week-high of $43.53 and a 52-week-low of $21.20. At the end of the last trading period, Hain Celestial Group closed at $21.28.   
+According to JMP Securities, the prior rating for Avalara Inc (NYSE:AVLR) was changed from Market Outperform to Market Perform. Avalara earned $0.02 in the second quarter, compared to $0.02 in the year-ago quarter. The stock has a 52-week-high of $129.34 and a 52-week-low of $66.39. At the end of the last trading period, Avalara closed ...Full story available on Benzinga.com",2022-08-29 14:11:27+00:00,https://www.benzinga.com/analyst-ratings/upgrades/22/08/28668943/benzingas-top-ratings-upgrades-downgrades-for-august-29-2022,Benzinga,-0.01818181818181818,0.09696969696969701,neutral,0.01818181818181818,False,True,True,False,False,False,False,False,0.0,3899,"['DENN', 'CALA', 'HAIN', 'XENE', 'AZN', 'APLE', 'CHH', 'PK', 'COO', 'MOLN', 'DOW', 'DCPH', 'DRH', 'JWEL', 'HST', 'AVLR', 'HT', 'TIGO', 'LSI', 'NVST', 'TD', 'IGMS', 'WLK', 'BATL', 'PEB', 'SEAT', 'LYB', 'MOND', 'CCEL', 'VIGL', 'AERI', 'SMFL']",DRH,2022-08-29
+Expert Ratings for Diamondrock Hospitality,"Diamondrock Hospitality (NYSE:DRH) has observed the following analyst ratings within the last quarter:
+
+
+
+ 
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+1
+3
+0
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+0
+0
+0
+0
+0
+
+
+2M Ago
+0
+1
+1
+0
+0
+
+
+3M Ago
+0
+0
+1
+0
+0
+
+
+
+In the last 3 months, 4 analysts have offered 12-month price targets for Diamondrock Hospitality. The company has an average price target of $10.25 with a high of $11.00 and a low of $10.00.
+Below is a summary of how these 4 analysts rated Diamondrock Hospitality over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock and the greater the number of ...Full story available on Benzinga.com",2022-08-29 16:21:42+00:00,https://www.benzinga.com/analyst-ratings/22/08/28671613/expert-ratings-for-diamondrock-hospitality,Benzinga,0.1348051948051948,0.3561038961038961,positive,0.1348051948051948,False,False,False,False,False,False,False,False,0.0,767,['DRH'],DRH,2022-08-29
+"Benzinga's Top Ratings Upgrades, Downgrades For October 18, 2022","Upgrades
+According to Jefferies, the prior rating for Target Corp (NYSE:TGT) was changed from Hold to Buy. Target earned $0.39 in the second quarter, compared to $3.64 in the year-ago quarter. The current stock performance of Target shows a 52-week-high of $254.87 and a 52-week-low of $137.16. Moreover, at the end of the last trading period, the closing price was at $149.25.   
+According to Redburn Partners, the prior rating for MongoDB Inc (NASDAQ:MDB) was changed from Sell to Neutral. For the second quarter, MongoDB had an EPS of $0.23, compared to year-ago quarter EPS of $0.24. The stock has a 52-week-high of $519.54 and a 52-week-low of $166.61. At the end of the last trading period, MongoDB closed at $182.35.   
+For Diamondrock Hospitality Co (NYSE:DRH), Evercore ISI Group upgraded the previous rating of In-Line to Outperform. In the second quarter, Diamondrock Hospitality showed an EPS of $0.36, compared to $0.05 from the year-ago quarter. At the moment, the stock has a 52-week-high of $11.14 and a 52-week-low of $7.18. Diamondrock Hospitality closed at $8.50 at the end of the last trading period.   
+B of A Securities upgraded the previous rating for Owens-Corning Inc (NYSE:OC) from Underperform to Buy. Owens-Corning earned $3.83 in the second quarter, compared to $2.60 in the year-ago quarter. The stock has a 52-week-high of $101.12 and a 52-week-low of $72.97. At the end of the last trading period, Owens-Corning closed at $82.43.   
+For Juniper Networks Inc (NYSE:JNPR), Piper Sandler upgraded the previous rating of Underweight to Neutral. In the second quarter, Juniper Networks showed an EPS of $0.42, compared to $0.43 from the year-ago quarter. The current stock performance of Juniper Networks shows a 52-week-high of $38.14 and a 52-week-low of $25.18. Moreover, at the end of the last trading period, the closing price was at $26.61.   
+Raymond James upgraded the previous rating for Enviva Inc (NYSE:EVA) from Outperform to Strong Buy. In the second quarter, Enviva showed an EPS of $0.26, compared to $0.24 from the year-ago quarter. At the moment, the stock has a 52-week-high of $91.06 and a 52-week-low of $45.88. Enviva closed at $52.31 at the end of the last trading period.   
+According to Goldman Sachs, the prior rating for EOG Resources Inc (NYSE:EOG) was changed from Neutral to Buy. For the second quarter, EOG Resources had an EPS of $2.74, compared to year-ago quarter EPS of $1.73. The stock has a 52-week-high of $147.99 and a 52-week-low of $88.29. At the end of the last trading period, EOG Resources closed at $120.90.   
+Cowen & Co. upgraded the previous rating for Xylem Inc (NYSE:XYL) from Market Perform to Outperform. In the second quarter, Xylem showed an EPS of $0.66, compared to $0.66 from the year-ago quarter. At the moment, the stock has a 52-week-high of $121.05 and a 52-week-low of $72.08. Xylem closed at $90.55 at the end of the last trading period.   
+According to Barclays, the prior rating for Jamf Holding Corp (NASDAQ:JAMF) was changed from Equal-Weight to Overweight. For the second quarter, Jamf Holding had an EPS of $0.03, compared to year-ago quarter EPS of $0.05. The current stock performance of Jamf Holding shows a 52-week-high of $39.62 and a 52-week-low of $19.20. Moreover, at the end of the last trading period, the closing price was at $21.34.   
+RBC Capital upgraded the previous rating for PotlatchDeltic Corp (NASDAQ:PCH) from Sector Perform to Outperform. For the second quarter, PotlatchDeltic had an EPS of $1.61, compared to year-ago quarter EPS of $2.77. The current stock performance of PotlatchDeltic shows a 52-week-high of $60.70 and a 52-week-low of $39.10. Moreover, at the end of the last trading period, the closing price was at $42.63.   
+See all analyst ratings upgrades.
+Downgrades
+According to Roth Capital, the prior rating for Acushnet Holdings Corp (NYSE:GOLF) was changed from Buy to Neutral. Acushnet Hldgs earned $0.91 in the second quarter, compared to $1.08 in the year-ago quarter. The current stock performance of Acushnet Hldgs shows a 52-week-high of $53.94 and a 52-week-low of $37.46. Moreover, at the end of the last trading period, the closing price was at $45.76.   
+William Blair downgraded the previous rating for Green Dot Corp (NYSE:GDOT) from Outperform to Market Perform. Green Dot earned $0.74 in the second quarter, compared to $0.68 in the year-ago quarter. At the moment, the stock has a 52-week-high of $38.14 and a 52-week-low of $17.50. Green Dot closed at $19.29 at the end of the last trading period.   
+Barclays downgraded the previous rating for The Descartes Systems Group Inc (NASDAQ:DSGX) from Equal-Weight to Underweight. In the second quarter, Descartes Systems Gr showed an EPS of $0.27, compared to $0.27 from the year-ago quarter. The current stock performance of Descartes Systems Gr shows a 52-week-high of $82.86 and a 52-week-low of $56.19. Moreover, at the end of the last trading period, the closing price was at $68.36.   
+Deutsche Bank downgraded the previous rating for Packaging Corp of America (NYSE:PKG) from Hold to Sell. For the second quarter, Packaging Corp of America had an EPS of $3.23, compared to year-ago quarter EPS of $2.17. At the moment, the stock has a 52-week-high of $168.50 and a 52-week-low of $110.56. Packaging Corp of America closed at $115.94 at the end of the last trading period.   
+According to Deutsche Bank, the prior rating for International Paper Co (NYSE:IP) was changed from Hold to Sell. International Paper earned $1.24 in the second quarter, compared to $1.06 in the year-ago quarter. The current stock performance of International Paper shows a 52-week-high of $50.23 and a 52-week-low of $30.69. Moreover, at the end of the last trading period, the closing price was at $33.23.   
+For Masco Corp (NYSE:MAS), B of A Securities downgraded the previous rating of Neutral to Underperform. Masco earned $1.14 in the second quarter, compared to $1.14 in the year-ago quarter. The current stock performance of Masco shows a 52-week-high of $71.06 and a 52-week-low of $45.27. Moreover, at the end of the last trading period, the closing price was at $47.81.   
+For Hayward Holdings Inc (NYSE:HAYW), B of A Securities downgraded the previous rating of Neutral to Underperform. Hayward Holdings earned $0.29 in the second quarter, compared to $0.31 in the year-ago quarter. At the moment, the stock has a 52-week-high of $26.38 and a 52-week-low of $8.30. Hayward Holdings closed at $9.01 at the end of the last trading period.   
+According to Wedbush, the prior rating for Carvana Co (NYSE:CVNA) was changed from Outperform to Neutral. For the second quarter, Carvana had an EPS of $2.35, compared to year-ago quarter EPS of $0.26. The stock has a 52-week-high of $240.58 and a 52-week-low of $17.05. At the end of the last trading period, Carvana closed at $18.22.   
+B of A Securities downgraded the previous rating for Mohawk Industries Inc (NYSE:MHK) from Neutral to Underperform. In the second quarter, Mohawk Industries showed an EPS of $4.41, compared to $4.45 from the year-ago quarter. The stock has a 52-week-high of $192.00 and a 52-week-low of $88.84. At the end of the last trading period, Mohawk Industries closed at $96.51.   
+According to JMP Securities, the prior rating for Palomar Holdings Inc ...Full story available on Benzinga.com",2022-10-18 14:21:57+00:00,https://www.benzinga.com/analyst-ratings/upgrades/22/10/29307446/benzingas-top-ratings-upgrades-downgrades-for-october-18-2022,Benzinga,-0.02751937984496124,0.11744186046511626,neutral,0.02751937984496124,False,True,True,False,False,False,False,False,0.0,7417,"['PATH', 'DSP', 'ESQ', 'DRH', 'JAMF', 'ACMR', 'MDB', 'EOG', 'XYL', 'DSGX', 'SYNH', 'EW', 'RFP', 'DXCM', 'PLMR', 'IP', 'GMED', 'EXEL', 'NBSE', 'KMB', 'PDCE', 'GOLF', 'KROS', 'MAS', 'MDT', 'RNG', 'ISRG', 'PTIC', 'MHK', 'TNDM', 'JNPR', 'HAYW', 'OC', 'NGM', 'NUVA', 'KNBE', 'PCH', 'EVA', 'PEGA', 'WKME', 'PKG', 'BNTC', 'PODD', 'FORG', 'RPM', 'ZBH', 'ABT', 'PROK', 'SPG', 'DOMO', 'BAX', 'SYK', 'BBLG', 'BSX', 'TGT', 'TTD', 'BSY', 'GDOT', 'CVNA', 'CLX']",DRH,2022-10-18
+The Necessity Retail (RTL) Misses Q3 FFO Estimates,"The Necessity Retail (RTL) delivered FFO and revenue surprises of -10.34% and 0.44%, respectively, for the quarter ended September 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-11-02 23:05:11+00:00,https://www.zacks.com/stock/news/2012998/the-necessity-retail-rtl-misses-q3-ffo-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,248,"['RTL', 'DRH']",DRH,2022-11-02
+"Benzinga's Top Ratings Upgrades, Downgrades For December 5, 2022","Upgrades
+According to JP Morgan, the prior rating for Callon Petroleum Co (NYSE:CPE) was changed from Underweight to Neutral. Callon Petroleum earned $4.04 in the third quarter, compared to $2.93 in the year-ago quarter. The stock has a 52-week-high of $66.48 and a 52-week-low of $31.23. At the end of the last trading period, Callon Petroleum closed at $41.23.   
+JP Morgan upgraded the previous rating for Murphy Oil Corp (NYSE:MUR) from Neutral to Overweight. Murphy Oil earned $1.84 in the third quarter, compared to $0.24 in the year-ago quarter. The stock has a 52-week-high of $51.28 and a 52-week-low of $23.50. At the end of the last trading period, Murphy Oil closed at $45.68.   
+Morgan Stanley upgraded the previous rating for United Airlines Holdings Inc (NASDAQ:UAL) from Equal-Weight to Overweight. United Airlines Holdings earned $2.81 in the third quarter, compared to $1.02 in the year-ago quarter. The stock has a 52-week-high of $53.12 and a 52-week-low of $30.54. At the end of the last trading period, United Airlines Holdings closed at $43.89.   
+According to Morgan Stanley, the prior rating for Huntington Bancshares Inc (NASDAQ:HBAN) was changed from Equal-Weight to Overweight. Huntington Bancshares earned $0.39 in the third quarter, compared to $0.35 in the year-ago quarter. The current stock performance of Huntington Bancshares shows a 52-week-high of $17.79 and a 52-week-low of $11.67. Moreover, at the end of the last trading period, the closing price was at $15.46.   
+BTIG upgraded the previous rating for Domino's Pizza Inc (NYSE:DPZ) from Neutral to Buy. For the third quarter, Domino's Pizza had an EPS of $2.79, compared to year-ago quarter EPS of $3.24. The stock has a 52-week-high of $567.57 and a 52-week-low of $299.41. At the end of the last trading period, Domino's Pizza closed at $382.76.   
+For MGM Resorts International (NYSE:MGM), Truist Securities upgraded the previous rating of Hold to Buy. For the third quarter, MGM Resorts Intl had an EPS of $1.39, compared to year-ago quarter EPS of $0.03. The stock has a 52-week-high of $49.00 and a 52-week-low of $26.41. At the end of the last trading period, MGM Resorts Intl closed at $37.08.   
+For Ritchie Bros Auctioneers Inc (NYSE:RBA), Scotiabank upgraded the previous rating of Sector Perform to Sector Outperform. In the third quarter, Ritchie Bros Auctioneers showed an EPS of $0.53, compared to $0.45 from the year-ago quarter. At the moment, the stock has a 52-week-high of $72.73 and a 52-week-low of $48.65. Ritchie Bros Auctioneers closed at $54.45 at the end of the last trading period.   
+For Comcast Corp (NASDAQ:CMCSA), Wells Fargo upgraded the previous rating of Underweight to Equal-Weight. Comcast earned $0.96 in the third quarter, compared to $0.87 in the year-ago quarter. The stock has a 52-week-high of $53.31 and a 52-week-low of $28.39. At the end of the last trading period, Comcast closed at $35.86.   
+See all analyst ratings upgrades.
+Downgrades
+According to Loop Capital, the prior rating for NetApp Inc (NASDAQ:NTAP) was changed from Buy to Hold. For the second quarter, NetApp had an EPS of $1.48, compared to year-ago quarter EPS of $1.28. At the moment, the stock has a 52-week-high of $96.82 and a 52-week-low of $60.56. NetApp closed at $66.43 at the end of the last trading period.   
+JP Morgan downgraded the previous rating for Laredo Petroleum Inc (NYSE:LPI) from Neutral to Underweight. Laredo Petroleum earned $5.30 in the third quarter, compared to $1.84 in the year-ago quarter. The stock has a 52-week-high of $120.86 and a 52-week-low of $51.23. At the end of the last trading period, Laredo Petroleum closed at $61.54.   
+B of A Securities downgraded the previous rating for Liberty Global PLC (NASDAQ:LBTYA) from Buy to Neutral. For the third quarter, Liberty Global had an EPS of $4.87, compared to year-ago quarter EPS of $0.48. The stock has a 52-week-high of $29.08 and a 52-week-low of $15.22. At the end of the last trading period, Liberty Global closed at $19.63.   
+According to JP Morgan, the prior rating for Imperial Oil Ltd (AMEX:IMO) was changed from Neutral to Underweight. For the third quarter, Imperial Oil had an EPS of $2.48, compared to year-ago quarter EPS of $1.02. The current stock performance of Imperial Oil shows a 52-week-high of $58.98 and a 52-week-low of $31.71. Moreover, at the end of the last trading period, the closing price was at $55.93.   
+JP Morgan downgraded the previous rating for Spire Inc (NYSE:SR) from Overweight to Neutral. Spire earned $0.66 in the fourth quarter, compared to $0.32 in the year-ago quarter. At the moment, the stock has a 52-week-high of $79.24 and a 52-week-low of $59.88. Spire closed at $68.74 at the end of the last trading period.   
+Vertical Research downgraded the previous rating for Wabash National Corp (NYSE:WNC) from Buy to Hold. For the third quarter, Wabash National had an EPS of $0.73, compared to year-ago quarter EPS of $0.22. At the moment, the stock has a 52-week-high of $26.20 and a 52-week-low of $12.23. Wabash National closed at $25.99 at the end of the last trading period.   
+Morgan Stanley downgraded the previous rating for Allegiant Travel Co (NASDAQ:ALGT) from Overweight to Equal-Weight. For the third quarter, Allegiant Travel had an EPS of $0.54, compared to year-ago quarter EPS of $0.66. At the moment, the stock has a 52-week-high of $196.66 and a 52-week-low of $63.78. Allegiant Travel closed at $81.90 at the end of the last trading period.   
+According to RBC Capital, the prior rating for Canadian Imperial Bank of Commerce (NYSE:CM) was changed from Outperform to Sector Perform. Canadian Imperial Bank earned $1.05 in the fourth quarter, compared to $1.34 in the year-ago quarter. The stock has a 52-week-high of $132.48 and a 52-week-low of $39.72. At the end of the last trading period, Canadian Imperial Bank closed at $44.13.   
+According to B of A Securities, the prior rating for Angel Oak Mortgage Inc (NYSE:AOMR) was changed from Buy to Underperform. For the third quarter, Angel Oak Mortgage had an EPS of $0.84, compared to year-ago quarter EPS of $0.25. The stock has a 52-week-high of $17.93 and a 52-week-low of $6.42. At the end of the last trading period, Angel Oak Mortgage closed at $6.65.   
+According to Goldman Sachs, the prior rating for Daqo New Energy Corp (NYSE:DQ) was changed from Buy to Neutral. Daqo New Energy earned $7.70 in the third quarter, compared to $3.84 in the year-ago quarter. The stock has a 52-week-high of $77.18 and a 52-week-low of $32.20. At the end of the last trading period, Daqo New Energy closed at $54.03.   
+According to Deutsche Bank, the prior rating for Starbucks Corp (NASDAQ:SBUX) was changed from Buy to Hold. In the fourth quarter, Starbucks showed an EPS of $0.81, compared to $1.00 from the year-ago quarter. At the moment, the stock has a 52-week-high of $117.80 and a ...Full story available on Benzinga.com",2022-12-05 15:01:01+00:00,https://www.benzinga.com/analyst-ratings/upgrades/22/12/29959013/benzingas-top-ratings-upgrades-downgrades-for-december-5-2022,Benzinga,-0.02559328221978826,0.09273457466228548,neutral,0.02559328221978826,False,True,True,False,False,False,False,False,0.0,6998,"['VLY', 'AKTX', 'CFR', 'WBS', 'MCG', 'CHH', 'CM', 'WH', 'IMO', 'MCG', 'CPE', 'WNC', 'ALGT', 'PK', 'DPZ', 'H', 'CADE', 'DNLI', 'DRH', 'DQ', 'CMCSA', 'OZK', 'FL', 'PEB', 'EWBC', 'KDNY', 'HST', 'UAL', 'HBAN', 'TVTX', 'MAR', 'DAWN', 'JBLU', 'HOWL', 'MGM', 'LPI', 'LBTYA', 'AOMR', 'MUR', 'PB', 'NTAP', 'OPAL', 'RBA', 'PB', 'RCII', 'VANI', 'SHO', 'NYCB', 'SBUX', 'RXO', 'SNV', 'NYCB', 'UTHR', 'SR', 'HLT', 'ZION', 'TEX', 'XHR', 'ALK']",DRH,2022-12-05
+The 'D' Word,Disinflation dominated the discussion after the closely-watched CPI-ex-Shelter Index was negative for the fifth month in the past six.,2023-01-15 14:00:00+00:00,https://seekingalpha.com/article/4570023-the-d-word,Seeking Alpha,-0.275,0.325,negative,0.275,False,False,False,False,False,False,False,False,0.0,148,"['DRH', 'SOHO', 'UE', 'BBBY', 'VICI', 'OFC', 'BX', 'STAG', 'TRNO', 'REXR', 'INDT', 'WPC', 'GTY', 'BNL', 'PSTL', 'GOOD', 'OHI', 'REM', 'SEVN', 'ORC', 'EARN', 'EFC', 'PFFR', 'PFF', 'RWT', 'CCI', 'O', 'PEAK', 'SUI', 'VNQ', 'RQI', 'RNP', 'IYR', 'XLRE', 'RFI', 'KBWY', 'SCHH', 'NRO', 'FREL', 'SRVR', 'JRS', 'DRN', 'USRT', 'ICF', 'RWR', 'DRV', 'URE', 'SRS', 'FRI', 'REK', 'PSR', 'BBRE', 'PPTY', 'VRAI']",DRH,2023-01-15
+DiamondRock Hospitality (DRH) Matches Q4 FFO Estimates,"DiamondRock Hospitality (DRH) delivered FFO and revenue surprises of 0% and 1.98%, respectively, for the quarter ended December 2022. Do the numbers hold clues to what lies ahead for the stock?",2023-02-21 13:55:06+00:00,https://www.zacks.com/stock/news/2056775/diamondrock-hospitality-drh-matches-q4-ffo-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,249,"['DRH', 'NTST']",DRH,2023-02-21
+DiamondRock Hospitality (DRH) Matches Q4 FFO Estimates,"DiamondRock Hospitality (DRH) delivered FFO and revenue surprises of 0% and 1.98%, respectively, for the quarter ended December 2022. Do the numbers hold clues to what lies ahead for the stock?",2023-02-21 13:55:06+00:00,https://www.zacks.com/stock/news/2056775/diamondrock-hospitality-drh-matches-q4-ffo-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,249,"['DRH', 'NTST']",DRH,2023-02-21
+Where Diamondrock Hospitality Stands With Analysts,"Diamondrock Hospitality (NYSE:DRH) has observed the following analyst ratings within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+0
+4
+0
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+0
+0
+0
+0
+0
+
+
+2M Ago
+0
+0
+2
+0
+0
+
+
+3M Ago
+0
+0
+1
+0
+0
+
+
+
+According to 4 analyst offering 12-month price targets in the last 3 months, Diamondrock Hospitality has an average price target of $9.25 with a high of $10.50 and a low of $8.00. 
+Below is a summary of how these 4 analysts rated Diamondrock Hospitality over the past 3 months. The greater the number of bullish ratings, the more positive ...Full story available on Benzinga.com",2023-03-27 19:00:22+00:00,https://www.benzinga.com/analyst-ratings/23/03/31518311/where-diamondrock-hospitality-stands-with-analysts,Benzinga,0.10671328671328671,0.345034965034965,positive,0.10671328671328671,False,False,False,False,False,False,False,False,0.0,709,['DRH'],DRH,2023-03-27
+"Benzinga's Top Ratings Upgrades, Downgrades For March 30, 2023","Upgrades
+For Palisade Bio Inc (NASDAQ:PALI), Maxim Group upgraded the previous rating of Hold to Buy. For the fourth quarter, Palisade Bio had an EPS of $16.16, compared to year-ago quarter EPS of $37.00. At the moment, the stock has a 52-week-high of $57.00 and a 52-week-low of $1.55. Palisade Bio closed at $1.68 at the end of the last trading period.   
+For Paylocity Holding Corp (NASDAQ:PCTY), DA Davidson upgraded the previous rating of Neutral to Buy. In the second quarter, Paylocity Holding showed an EPS of $1.12, compared to $0.64 from the year-ago quarter. At the moment, the stock has a 52-week-high of $275.48 and a 52-week-low of $152.12. Paylocity Holding closed at $191.60 at the end of the last trading period.   
+For Paycom Software Inc (NYSE:PAYC), DA Davidson upgraded the previous rating of Neutral to Buy. For the fourth quarter, Paycom Software had an EPS of $1.73, compared to year-ago quarter EPS of $1.11. The current stock performance of Paycom Software shows a 52-week-high of $402.58 and a 52-week-low of $255.95. Moreover, at the end of the last trading period, the closing price was at $285.87.   
+According to Craig-Hallum, the prior rating for 1-800-Flowers.com Inc (NASDAQ:FLWS) was changed from Hold to Buy. For the second quarter, 1-800-Flowers.com had an EPS of $1.28, compared to year-ago quarter EPS of $1.34. The current stock performance of 1-800-Flowers.com shows a 52-week-high of $14.93 and a 52-week-low of $5.82. Moreover, at the end of the last trading period, the closing price was at $10.91.   
+Canaccord Genuity upgraded the previous rating for Neurocrine Biosciences Inc (NASDAQ:NBIX) from Hold to Buy. In the fourth quarter, Neurocrine Biosciences showed an EPS of $1.24, compared to $0.04 from the year-ago quarter. The current stock performance of Neurocrine Biosciences shows a 52-week-high of $129.00 and a 52-week-low of $75.27. Moreover, at the end of the last trading period, the closing price was at $97.10.   
+Evercore ISI Group upgraded the previous rating for Juniper Networks Inc (NYSE:JNPR) from In-Line to Outperform. In the fourth quarter, Juniper Networks showed an EPS of $0.65, compared to $0.56 from the year-ago quarter. At the moment, the stock has a 52-week-high of $38.14 and a 52-week-low of $25.18. Juniper Networks closed at $33.37 at the end of the last trading period.   
+According to MoffettNathanson, the prior rating for Crown Castle Inc (NYSE:CCI) was changed from Market Perform to Outperform. Crown Castle earned $1.85 in the fourth quarter, compared to $1.77 in the year-ago quarter. At the moment, the stock has a 52-week-high of $199.92 and a 52-week-low of $121.72. Crown Castle closed at $130.97 at the end of the last trading period.   
+For American Tower Corp (NYSE:AMT), MoffettNathanson upgraded the previous rating of Market Perform to Outperform. American Tower earned $2.34 in the fourth quarter, compared to $2.10 in the year-ago quarter. The stock has a 52-week-high of $282.43 and a 52-week-low of $178.59. At the end of the last trading period, American Tower closed at $198.49.   
+MoffettNathanson upgraded the previous rating for SBA Communications Corp (NASDAQ:SBAC) from Market Perform to Outperform. In the fourth quarter, SBA Comms showed an EPS of $0.94, compared to $0.44 from the year-ago quarter. The stock has a 52-week-high of $379.99 and a 52-week-low of $236.37. At the end of the last trading period, SBA Comms closed at $254.17.   
+Wells Fargo upgraded the previous rating for Apple Hospitality REIT Inc (NYSE:APLE) from Equal-Weight to Overweight. In the fourth quarter, Apple Hospitality REIT showed an EPS of $0.33, compared to $0.26 from the year-ago quarter. The current stock performance of Apple Hospitality REIT shows a 52-week-high of $18.69 and a 52-week-low of $13.66. Moreover, at the end of the last trading period, the closing price was at $14.88.   
+Canaccord Genuity upgraded the previous rating for Globus Medical Inc (NYSE:GMED) from Hold to Buy. For the fourth quarter, Globus Medical had an EPS of $0.59, compared to year-ago quarter EPS of $0.49. The current stock performance of Globus Medical shows a 52-week-high of $81.53 and a 52-week-low of $50.92. Moreover, at the end of the last trading period, the closing price was at $53.47.   
+For Diamondrock Hospitality Co (NYSE:DRH), Wells Fargo upgraded the previous rating of Equal-Weight to Overweight. Diamondrock Hospitality earned $0.23 in the fourth quarter, compared to $0.09 in the year-ago quarter. The current stock performance of Diamondrock Hospitality shows a 52-week-high of $11.14 and a 52-week-low of $7.14. Moreover, at the end of the last trading period, the closing price was at $7.73.   
+For Walmart Inc (NYSE:WMT), Evercore ISI Group upgraded the previous rating of In-Line to Outperform. Walmart earned $1.71 in the fourth quarter, compared to $1.53 in the year-ago quarter. At the moment, the stock has a 52-week-high of $160.77 and a 52-week-low of $117.28. Walmart closed at $144.23 at the end of the last trading period.   
+According to B of A Securities, the prior rating for The Interpublic Group of Companies Inc (NYSE:IPG) was changed from Neutral to Buy. In the fourth quarter, Interpublic Gr of Cos showed an EPS of $1.02, compared to $0.82 from the year-ago quarter. At the moment, the stock has a 52-week-high of $39.52 and a 52-week-low of $25.14. Interpublic Gr of Cos closed at $35.32 at the end of the last trading period.   
+JP Morgan ...Full story available on Benzinga.com",2023-03-30 15:00:38+00:00,https://www.benzinga.com/analyst-ratings/upgrades/23/03/31586190/benzingas-top-ratings-upgrades-downgrades-for-march-30-2023,Benzinga,-0.02708333333333334,0.10729166666666669,neutral,0.02708333333333334,False,True,True,False,False,False,False,False,0.0,5568,"['WCN', 'ITGR', 'WMT', 'PK', 'WM', 'HLLY', 'CUTR', 'SCCO', 'CRNX', 'FLWS', 'SPB', 'BCEL', 'JNPR', 'SHLS', 'REYN', 'LCUT', 'SPWR', 'IMVT', 'NBIX', 'VSTM', 'PALI', 'SBAC', 'GMED', 'VRDN', 'SCHW', 'PCTY', 'IMCR', 'AMT', 'CCI', 'PCTY', 'ERAS', 'DRH', 'PAYC', 'IMRX', 'GD', 'XHR', 'XOS', 'HRL', 'APLE', 'FLNC', 'IPG', 'DRVN', 'PM', 'NEXA']",DRH,2023-03-30
+Getty Realty (GTY) Q1 FFO Surpass Estimates,"Getty Realty (GTY) delivered FFO and revenue surprises of 7.69% and 1.51%, respectively, for the quarter ended March 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-04-26 21:45:21+00:00,https://www.zacks.com/stock/news/2085385/getty-realty-gty-q1-ffo-surpass-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,227,"['GTY', 'DRH']",DRH,2023-04-26
+National Storage (NSA) Misses Q1 FFO and Revenue Estimates,"National Storage (NSA) delivered FFO and revenue surprises of -5.71% and 1.34%, respectively, for the quarter ended March 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-05-01 21:55:12+00:00,https://www.zacks.com/stock/news/2087707/national-storage-nsa-misses-q1-ffo-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,247,"['NSA', 'DRH']",DRH,2023-05-01
+DiamondRock Hospitality (DRH) Tops Q1 FFO and Revenue Estimates,"DiamondRock Hospitality (DRH) delivered FFO and revenue surprises of 5.88% and 4.60%, respectively, for the quarter ended March 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-05-04 22:05:16+00:00,https://www.zacks.com/stock/news/2090455/diamondrock-hospitality-drh-tops-q1-ffo-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,258,"['DRH', 'VTR']",DRH,2023-05-04
+DiamondRock Hospitality (DRH) Reports Q1 Earnings: What Key Metrics Have to Say,"The headline numbers for DiamondRock Hospitality (DRH) give insight into how the company performed in the quarter ended March 2023, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",2023-05-05 00:00:05+00:00,https://www.zacks.com/stock/news/2090594/diamondrock-hospitality-drh-reports-q1-earnings-what-key-metrics-have-to-say,Zacks Investment Research,0.16666666666666666,0.8333333333333334,positive,0.16666666666666666,True,False,False,False,False,False,False,False,0.0,323,['DRH'],DRH,2023-05-05
+Implied Volatility Surging for DiamondRock Hospitality (DRH) Stock Options,Investors need to pay close attention to DiamondRock Hospitality (DRH) stock based on the movements in the options market lately.,2023-06-22 14:18:00+00:00,https://www.zacks.com/stock/news/2111828/implied-volatility-surging-for-diamondrock-hospitality-drh-stock-options,Zacks Investment Research,-0.3,0.6,negative,0.3,False,False,False,False,False,False,False,False,0.0,205,['DRH'],DRH,2023-06-22
+NNN REIT (NNN) Q2 FFO and Revenues Lag Estimates,"NNN REIT (NNN) delivered FFO and revenue surprises of -1.23% and 0.48%, respectively, for the quarter ended June 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-08-02 13:45:06+00:00,https://www.zacks.com/stock/news/2131106/nnn-reit-nnn-q2-ffo-and-revenues-lag-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,228,"['NNN', 'DRH']",DRH,2023-08-02
+DiamondRock Hospitality (DRH) Q2 FFO and Revenues Miss Estimates,"DiamondRock Hospitality (DRH) delivered FFO and revenue surprises of -5.88% and 1.58%, respectively, for the quarter ended June 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-08-03 22:05:12+00:00,https://www.zacks.com/stock/news/2132322/diamondrock-hospitality-drh-q2-ffo-and-revenues-miss-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,259,"['DRH', 'HR']",DRH,2023-08-03
+Here's What Key Metrics Tell Us About DiamondRock Hospitality (DRH) Q2 Earnings,"The headline numbers for DiamondRock Hospitality (DRH) give insight into how the company performed in the quarter ended June 2023, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",2023-08-04 02:00:15+00:00,https://www.zacks.com/stock/news/2132494/heres-what-key-metrics-tell-us-about-diamondrock-hospitality-drh-q2-earnings,Zacks Investment Research,0.16666666666666666,0.8333333333333334,positive,0.16666666666666666,True,False,False,False,False,False,False,False,0.0,322,['DRH'],DRH,2023-08-04
+Expert Ratings for Diamondrock Hospitality,"Diamondrock Hospitality (NYSE:DRH) has observed the following analyst ratings within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+1
+3
+0
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+0
+0
+1
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+0
+1
+1
+0
+0
+
+
+
+In the last 3 months, 4 analysts have offered 12-month price targets for Diamondrock Hospitality. The company has an average price target of $9.38 with a high of $10.00 and a low of $8.50. 
+Below is a summary of how these 4 analysts rated Diamondrock Hospitality over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock and the ...Full story available on Benzinga.com",2023-09-15 19:00:55+00:00,https://www.benzinga.com/analyst-ratings/23/09/34627172/expert-ratings-for-diamondrock-hospitality,Benzinga,0.10671328671328671,0.345034965034965,positive,0.10671328671328671,False,False,False,False,False,False,False,False,0.0,744,['DRH'],DRH,2023-09-15
+DiamondRock Hospitality (DRH) Reports Q3 Earnings: What Key Metrics Have to Say,"The headline numbers for DiamondRock Hospitality (DRH) give insight into how the company performed in the quarter ended September 2023, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",2023-11-01 14:00:08+00:00,https://www.zacks.com/stock/news/2176463/diamondrock-hospitality-drh-reports-q3-earnings-what-key-metrics-have-to-say,Zacks Investment Research,0.16666666666666666,0.8333333333333334,positive,0.16666666666666666,True,False,False,False,False,False,False,False,0.0,327,['DRH'],DRH,2023-11-01
+Where Diamondrock Hospitality Stands With Analysts,"Diamondrock Hospitality (NYSE:DRH) has observed the following analyst ratings within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+1
+3
+0
+0
+
+
+Last 30D
+0
+1
+0
+0
+0
+
+
+1M Ago
+0
+0
+1
+0
+0
+
+
+2M Ago
+0
+0
+1
+0
+0
+
+
+3M Ago
+0
+0
+1
+0
+0
+
+
+
+According to 4 analyst offering 12-month price targets in the last 3 months, Diamondrock Hospitality has an average price target of $9.25 with a high of $10.00 and a low of $8.50. 
+Below is a summary of how ...Full story available on Benzinga.com",2023-11-13 15:00:12+00:00,https://www.benzinga.com/analyst-ratings/23/11/35751499/where-diamondrock-hospitality-stands-with-analysts,Benzinga,0.04555555555555556,0.2988888888888888,neutral,0.04555555555555556,False,False,False,False,False,False,False,False,0.0,577,['DRH'],DRH,2023-11-13
+The Latest Analyst Ratings for Diamondrock Hospitality,"Within the last quarter, Diamondrock Hospitality (NYSE:DRH) has observed the following analyst ratings: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+1
+3
+0
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+0
+1
+0
+0
+0
+
+
+2M Ago
+0
+0
+1
+0
+0
+
+
+3M Ago
+0
+0
+1
+0
+0
+
+
+
+In the last 3 months, 4 analysts have offered 12-month price targets for Diamondrock Hospitality. The company has an average price target of $9.38 with a high of $10.00 and a low of $9.00. 
+Below is a ...Full story available on Benzinga.com",2023-12-08 18:00:37+00:00,https://www.benzinga.com/analyst-ratings/23/12/36157585/the-latest-analyst-ratings-for-diamondrock-hospitality,Benzinga,0.091,0.359,neutral,0.091,False,False,False,False,False,False,False,False,0.0,576,['DRH'],DRH,2023-12-08
+Deep Dive Into Diamondrock Hospitality Stock: Analyst Perspectives (5 Ratings),"Analysts' ratings for Diamondrock Hospitality (NYSE:DRH) over the last quarter vary from bullish to bearish, as provided by 5 analysts.
+In the table below, you'll find a summary of their recent ratings, revealing the shifting sentiments over the past 30 days and comparing them to the previous months.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+2
+3
+0
+0
+
+
+Last 30D
+0
+1
+0
+0
+0
+
+
+1M Ago
+0
+0
+1
+0
+0
+
+
+2M Ago
+0
+1
+1
+0
+0
+
+
+3M Ago
+0
+0
+1
+0
+0
+
+
+
+Analysts provide deeper insights through their assessments of 12-month price targets, revealing an average target of $9.7, a high estimate of $11.00, and a low estimate of $9.00. This upward trend is apparent, with the current average reflecting a 5.78% increase from the previous average price target of $9.17.
+
+Deciphering Analyst Ratings: An In-Depth Analysis
+An in-depth analysis of recent analyst actions unveils how financial experts perceive Diamondrock Hospitality. The following summary outlines key analysts, their recent evaluations, and adjustments to ratings and price targets.
+
+
+
+Analyst
+Analyst Firm
+Action Taken
+Rating
+Current Price Target
+Prior Price Target
+
+
+
+
+Keegan Carl
+Wolfe Research
+Announces
+Outperform
+$11.00
+-
+
+
+Dori Kesten
+Wells Fargo
+Raises
+Equal-Weight
+$10.00
+$9.00
+
+
+Dori Kesten
+Wells Fargo
+Announces
+Equal-Weight
+$9.00
+-
+
+
+Dori Kesten
+Wells Fargo
+Lowers
+Overweight
+$9.50
+$10.00
+
+
+Stephen Grambling
+Morgan Stanley
+Raises
+Equal-Weight
+$9.00
+$8.50
+
+
+
+Key Insights:
+
+Action Taken: In response to dynamic market conditions and company performance, analysts update their recommendations. Whether they 'Maintain', 'Raise', or 'Lower' their stance, it signifies their reaction to recent developments related to Diamondrock Hospitality. ...Full story available on Benzinga.com",2024-01-10 14:00:16+00:00,https://www.benzinga.com/analyst-ratings/24/01/36575907/deep-dive-into-diamondrock-hospitality-stock-analyst-perspectives-5-ratings,Benzinga,-0.014111111111111107,0.32411111111111107,neutral,0.014111111111111107,False,False,False,False,False,False,False,False,0.0,1855,['DRH'],DRH,2024-01-10
+Community Healthcare Trust (CHCT) Q4 FFO and Revenues Lag Estimates,"Community Healthcare Trust (CHCT) delivered FFO and revenue surprises of -1.61% and 1.66%, respectively, for the quarter ended December 2023. Do the numbers hold clues to what lies ahead for the stock?",2024-02-13 23:00:05+00:00,https://www.zacks.com/stock/news/2225823/community-healthcare-trust-chct-q4-ffo-and-revenues-lag-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,270,"['CHCT', 'DRH']",DRH,2024-02-13
+Countdown to DiamondRock Hospitality (DRH) Q4 Earnings: A Look at Estimates Beyond Revenue and EPS,"Beyond analysts' top -and-bottom-line estimates for DiamondRock Hospitality (DRH), evaluate projections for some of its key metrics to gain a better insight into how the business might have performed for the quarter ended December 2023.",2024-02-19 14:15:51+00:00,https://www.zacks.com/stock/news/2227876/countdown-to-diamondrock-hospitality-drh-q4-earnings-a-look-at-estimates-beyond-revenue-and-eps,Zacks Investment Research,0.3333333333333333,0.6666666666666666,positive,0.3333333333333333,True,False,False,False,False,False,False,False,0.0,336,['DRH'],DRH,2024-02-19
+Industrial Logistics Properties Trust (ILPT) Q4 FFO Meet Estimates,"Industrial Logistics Properties Trust (ILPT) delivered FFO and revenue surprises of 0% and 1.53%, respectively, for the quarter ended December 2023. Do the numbers hold clues to what lies ahead for the stock?",2024-02-20 23:15:07+00:00,https://www.zacks.com/stock/news/2228910/industrial-logistics-properties-trust-ilpt-q4-ffo-meet-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,276,"['ILPT', 'DRH']",DRH,2024-02-20
+DiamondRock Hospitality (DRH) Q4 FFO Match Estimates,"DiamondRock Hospitality (DRH) delivered FFO and revenue surprises of 0% and 1.73%, respectively, for the quarter ended December 2023. Do the numbers hold clues to what lies ahead for the stock?",2024-02-22 22:45:04+00:00,https://www.zacks.com/stock/news/2230506/diamondrock-hospitality-drh-q4-ffo-match-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,247,"['DRH', 'CLPR']",DRH,2024-02-22
+Here's What Key Metrics Tell Us About DiamondRock Hospitality (DRH) Q4 Earnings,"The headline numbers for DiamondRock Hospitality (DRH) give insight into how the company performed in the quarter ended December 2023, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",2024-02-22 23:30:07+00:00,https://www.zacks.com/stock/news/2230558/heres-what-key-metrics-tell-us-about-diamondrock-hospitality-drh-q4-earnings,Zacks Investment Research,0.16666666666666666,0.8333333333333334,positive,0.16666666666666666,True,False,False,False,False,False,False,False,0.0,326,['DRH'],DRH,2024-02-22
+Assessing Diamondrock Hospitality: Insights From 4 Financial Analysts,"In the last three months, 4 analysts have published ratings on Diamondrock Hospitality (NYSE:DRH), offering a diverse range of perspectives from bullish to bearish.
+The table below summarizes their recent ratings, showcasing the evolving sentiments within the past 30 days and comparing them to the preceding months.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+1
+1
+2
+0
+0
+
+
+Last 30D
+1
+0
+0
+0
+0
+
+
+1M Ago
+0
+0
+0
+0
+0
+
+
+2M Ago
+0
+1
+0
+0
+0
+
+
+3M Ago
+0
+0
+2
+0
+0
+
+
+
+The 12-month price targets assessed by analysts reveal further insights, featuring an average target of $10.12, a high estimate of $11.00, and a low estimate of $9.00. Surpassing the previous average price target of $9.50, the current average has increased by 6.53%.
+
+Exploring Analyst Ratings: An In-Depth Overview
+The perception of Diamondrock Hospitality by financial experts is analyzed through recent analyst actions. The following summary presents key analysts, their recent evaluations, and adjustments to ratings and price targets.
+
+
+
+Analyst
+Analyst Firm
+Action Taken
+Rating
+Current Price Target
+Prior Price Target
+
+
+
+
+Simon Yarmak
+Stifel
+Raises
+Buy
+$10.50
+$10.00
+
+
+Keegan Carl
+Wolfe Research
+Announces
+Outperform
+$11.00
+-
+
+
+Dori Kesten
+Wells Fargo
+Raises
+Equal-Weight
+$10.00
+$9.00
+
+
+Dori Kesten
+Wells Fargo
+Announces
+Equal-Weight
+$9.00
+-
+
+
+
+Key Insights:
+
+Action Taken: Responding to changing market dynamics and company performance, analysts update their recommendations. Whether they 'Maintain', 'Raise', or 'Lower' their stance, it signifies their response to recent developments related to Diamondrock Hospitality. This offers insight into analysts' perspectives ...Full story available on Benzinga.com",2024-02-23 14:00:46+00:00,https://www.benzinga.com/insights/analyst-ratings/24/02/37284323/assessing-diamondrock-hospitality-insights-from-4-financial-analysts,Benzinga,-0.007126436781609199,0.31517241379310346,neutral,0.007126436781609199,False,True,False,False,False,False,False,False,0.0,1779,['DRH'],DRH,2024-02-23
+Key Takeaways From Diamondrock Hospitality Analyst Ratings,"Analysts' ratings for Diamondrock Hospitality (NYSE:DRH) over the last quarter vary from bullish to bearish, as provided by 4 analysts.
+The following table summarizes their recent ratings, shedding light on the changing sentiments within the past 30 days and comparing them to the preceding months.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+1
+1
+2
+0
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+1
+0
+0
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+0
+1
+1
+0
+0
+
+
+
+Analysts have set 12-month price targets for Diamondrock Hospitality, revealing an average target of $10.62, a high estimate of $11.00, and a low estimate of $10.00. Observing a 9.82% increase, the current average has risen from the previous average price target of $9.67. 
+
+Breaking Down Analyst Ratings: A Detailed Examination
+The standing of Diamondrock Hospitality among financial experts is revealed through an in-depth exploration of recent analyst actions. The summary below outlines key analysts, their recent evaluations, and adjustments to ratings and price targets.
+
+
+
+Analyst
+Analyst Firm
+Action Taken
+Rating
+Current Price Target
+Prior Price Target
+
+
+
+
+Patrick Scholes
+Truist Securities
+Raises
+Hold
+$11.00
+$10.00
+
+
+Simon Yarmak
+Stifel
+Raises
+Buy
+$10.50
+$10.00
+
+
+Keegan Carl
+Wolfe Research
+Announces
+Outperform
+$11.00
+-
+
+
+Dori Kesten
+Wells Fargo
+Raises
+Equal-Weight
+$10.00
+$9.00
+
+
+
+Key Insights:
+
+Action Taken: Analysts respond to changes in market conditions and company performance, frequently updating their recommendations. Whether they 'Maintain', 'Raise' or 'Lower' their stance, it reflects their reaction to recent developments related to Diamondrock Hospitality. This information offers a snapshot of how analysts perceive the current state of the company.
+Rating: Analysts unravel qualitative evaluations for stocks, ranging from 'Outperform' to 'Underperform'. These ratings offer insights into expectations for ...Full story available on Benzinga.com",2024-03-14 14:00:25+00:00,https://www.benzinga.com/insights/analyst-ratings/24/03/37703227/key-takeaways-from-diamondrock-hospitality-analyst-ratings,Benzinga,0.016296296296296302,0.36602693602693614,neutral,0.016296296296296302,False,True,True,False,False,False,False,False,0.2,2007,['DRH'],DRH,2024-03-14
+Gaming and Leisure Properties (GLPI) Misses Q1 FFO Estimates,"Gaming and Leisure Properties (GLPI) delivered FFO and revenue surprises of -1.08% and 1.46%, respectively, for the quarter ended March 2024. Do the numbers hold clues to what lies ahead for the stock?",2024-04-25 21:30:07+00:00,https://www.zacks.com/stock/news/2262709/gaming-and-leisure-properties-glpi-misses-q1-ffo-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,263,"['GLPI', 'DRH']",DRH,2024-04-25
+Can Arbor Realty (ABR) Retain Its Beat Streak in Q1 Earnings?,"While growth in servicing revenues is expected to have aided Arbor Realty's (ABR) Q1 earnings, a decline in revenues from mortgage servicing rights is likely to have been a headwind.",2024-04-30 16:30:00+00:00,https://www.zacks.com/stock/news/2265391/can-arbor-realty-abr-retain-its-beat-streak-in-q1-earnings,Zacks Investment Research,-0.05,0.7,neutral,0.05,True,False,False,False,False,False,False,False,0.0,245,"['OHI', 'ABR', 'DRH']",DRH,2024-04-30
+NNN REIT (NNN) Q1 FFO and Revenues Top Estimates,"NNN REIT (NNN) delivered FFO and revenue surprises of 1.20% and 0.75%, respectively, for the quarter ended March 2024. Do the numbers hold clues to what lies ahead for the stock?",2024-05-01 13:40:03+00:00,https://www.zacks.com/stock/news/2265960/nnn-reit-nnn-q1-ffo-and-revenues-top-estimates,Zacks Investment Research,0.25,0.3,positive,0.25,True,False,False,False,False,False,False,False,0.0,228,"['NNN', 'DRH']",DRH,2024-05-01
+DiamondRock Hospitality (DRH) Q1 FFO and Revenues Beat Estimates,"DiamondRock Hospitality (DRH) delivered FFO and revenue surprises of 6.25% and 2.51%, respectively, for the quarter ended March 2024. Do the numbers hold clues to what lies ahead for the stock?",2024-05-02 21:30:06+00:00,https://www.zacks.com/stock/news/2267407/diamondrock-hospitality-drh-q1-ffo-and-revenues-beat-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,259,"['DRH', 'GMRE']",DRH,2024-05-02
+Here's What Key Metrics Tell Us About DiamondRock Hospitality (DRH) Q1 Earnings,"While the top- and bottom-line numbers for DiamondRock Hospitality (DRH) give a sense of how the business performed in the quarter ended March 2024, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",2024-05-02 23:00:08+00:00,https://www.zacks.com/stock/news/2267544/heres-what-key-metrics-tell-us-about-diamondrock-hospitality-drh-q1-earnings,Zacks Investment Research,0.2,0.65,positive,0.2,True,False,False,False,False,False,False,False,0.0,340,['DRH'],DRH,2024-05-02
+Apple Hospitality: Its Recovery Has Removed Any Opportunity,"Apple Hospitality offers exposure to the hotel industry, but may not be the best dividend option due to low yield and lack of growth potential. See more here.",2024-06-21 04:32:13+00:00,https://seekingalpha.com/article/4700282-apple-hospitality-its-recovery-has-removed-any-opportunity,Seeking Alpha,0.24583333333333335,0.41250000000000003,positive,0.24583333333333335,False,False,False,False,False,True,False,False,0.0,219,"['PK', 'SHO', 'DRH', 'PEB', 'XHR', 'APLE']",DRH,2024-06-21

@@ -1,0 +1,12 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2022-09-22,0.3846,,1,0.3846,0.0,1,0,0,0,0,0,0,0,1135.0,BNRG
+2022-11-28,0.2455,0.1132,2,0.2455,0.0,1,0,1,0,0,0,2,0,1559.5,BNRG
+2023-04-11,0.1843,0.0218,2,0.1843,0.0,0,2,0,0,2,0,0,0,1434.5,BNRG
+2023-04-12,0.2413,,1,0.2413,0.0,0,1,1,0,0,0,0,1,1934.0,BNRG
+2023-07-19,0.161,,1,0.161,0.0,0,1,1,0,0,0,1,0,1100.0,BNRG
+2023-07-26,0.75,,1,0.75,0.0,0,1,0,0,0,0,0,0,245.0,BNRG
+2023-09-15,0.2958,,1,0.2958,0.0,0,0,1,0,1,0,0,0,1612.0,BNRG
+2023-11-22,0.1149,,1,0.1149,0.0,1,0,0,0,0,0,0,0,1312.0,BNRG
+2024-04-10,0.1069,,1,0.1069,0.0,0,0,0,0,0,0,0,0,1858.0,BNRG
+2024-08-19,0.0688,,1,0.0688,0.0,0,0,0,0,0,0,0,0,411.0,BNRG
+2024-12-23,0.0667,,1,0.0667,0.0,0,0,0,0,0,0,0,0,331.0,BNRG

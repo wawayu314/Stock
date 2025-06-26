@@ -1,0 +1,10 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2021-05-29,0.0,,1,0.0,0.0,0,0,0,0,0,0,0,0,206.0,DRW
+2021-06-05,0.1417,,1,0.1417,0.0,0,0,1,0,0,0,0,0,211.0,DRW
+2021-06-12,-0.1167,,1,0.1167,0.0,0,0,0,0,0,0,0,0,222.0,DRW
+2021-06-19,-1.0,,1,1.0,0.0,0,0,0,0,0,0,0,0,170.0,DRW
+2021-06-26,-0.1125,,1,0.1125,0.0,0,0,0,0,0,1,0,0,211.0,DRW
+2021-09-25,0.3288,,1,0.3288,0.0,0,0,0,0,0,0,0,0,160.0,DRW
+2021-10-09,-0.125,,1,0.125,0.0,0,0,0,0,0,0,0,0,196.0,DRW
+2021-11-02,0.0562,,1,0.0562,0.0,0,0,0,0,0,0,0,0,192.0,DRW
+2022-02-18,0.0,,1,0.0,0.0,1,1,0,0,0,0,0,0,213.0,DRW

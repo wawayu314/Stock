@@ -1,0 +1,11 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2023-01-26,0.0235,,1,0.0235,0.0,0,1,0,0,0,0,0,0,4015.0,COYA
+2023-03-21,0.0,,1,0.0,0.0,0,0,0,0,0,0,0,0,234.0,COYA
+2023-05-03,0.043,,1,0.043,0.0,0,1,1,0,0,0,0,0,4149.0,COYA
+2023-05-16,0.2,,1,0.2,0.0,0,0,0,0,0,0,0,0,305.0,COYA
+2023-05-18,0.0316,,1,0.0316,0.0,0,1,1,0,0,0,0,0,4105.0,COYA
+2023-06-06,0.0613,,1,0.0613,0.0,0,0,1,0,0,1,0,0,1159.0,COYA
+2023-06-08,0.0272,0.0941,2,0.0665,0.0,0,0,1,0,0,0,0,0,737.0,COYA
+2023-07-17,0.041,,1,0.041,0.0,0,0,0,0,0,0,0,0,577.0,COYA
+2023-09-03,0.4,,1,0.4,0.0,0,1,0,0,0,0,0,0,232.0,COYA
+2023-12-07,0.0,,1,0.0,0.0,0,0,0,0,0,0,0,0,229.0,COYA

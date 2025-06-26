@@ -1,0 +1,397 @@
+title,description,published_utc,article_url,publisher,sentiment_polarity,sentiment_subjectivity,sentiment_label,sentiment_confidence,keywords_earnings,keywords_acquisition,keywords_regulation,keywords_partnership,keywords_product,keywords_financial,keywords_leadership,keywords_lawsuit,urgency_score,text_length,tickers,ticker,date
+Cummins spinoff Atmus Filtration’s stock soars 14% in trading debut,"Atmus makes products for commercial vehicles and agriculture, construction, mining and power-generation vehicles and equipment.",2023-05-26 18:28:00+00:00,https://www.marketwatch.com/story/atmus-filtrations-stock-soars-14-in-trading-debut-d746dc8a,MarketWatch,0.0,0.0,neutral,0.0,False,False,False,False,True,False,False,False,0.0,196,"['ATMU', 'CMI', 'KVUE', 'JNJ', 'IPO']",ATMU,2023-05-26
+"Benzinga's Top Ratings Upgrades, Downgrades For June 20, 2023","Upgrades
+Tudor Pickering upgraded the previous rating for EQT Corp (NYSE:EQT) from Hold to Buy. EQT earned $1.70 in the first quarter, compared to $0.81 in the year-ago quarter. At the moment, the stock has a 52-week-high of $51.95 and a 52-week-low of $28.11. EQT closed at $39.64 at the end of the last trading period.   
+According to Wells Fargo, the prior rating for Ball Corp (NYSE:BALL) was changed from Underweight to Equal-Weight. Ball earned $0.69 in the first quarter, compared to $1.37 in the year-ago quarter. At the moment, the stock has a 52-week-high of $74.34 and a 52-week-low of $46.00. Ball closed at $58.43 at the end of the last trading period.   
+Morgan Stanley upgraded the previous rating for Avis Budget Group Inc (NASDAQ:CAR) from Equal-Weight to Overweight. Avis Budget Gr earned $7.72 in the first quarter, compared to $9.99 in the year-ago quarter. The current stock performance of Avis Budget Gr shows a 52-week-high of $251.26 and a 52-week-low of $131.85. Moreover, at the end of the last trading period, the closing price was at $204.29.   
+According to Morgan Stanley, the prior rating for US Foods Holding Corp (NYSE:USFD) was changed from Equal-Weight to Overweight. In the first quarter, US Foods Hldg showed an EPS of $0.50, compared to $0.36 from the year-ago quarter. The stock has a 52-week-high of $42.36 and a 52-week-low of $25.55. At the end of the last trading period, US Foods Hldg closed at $41.65.   
+According to Morgan Stanley, the prior rating for Baidu Inc (NASDAQ:BIDU) was changed from Equal-Weight to Overweight. In the first quarter, Baidu showed an EPS of $2.34, compared to $1.77 from the year-ago quarter. The current stock performance of Baidu shows a 52-week-high of $160.88 and a 52-week-low of $73.59. Moreover, at the end of the last trading period, the closing price was at $145.11.   
+Credit Suisse upgraded the previous rating for Studio City International Holdings Ltd (NYSE:MSC) from Neutral to Outperform. In the first quarter, Studio City Intl Hldgs showed an EPS of $0.17, compared to $0.54 from the year-ago quarter.  
+According to Credit Suisse, the prior rating for Melco Resorts and Entertainment Ltd (NASDAQ:MLCO) was changed from Neutral to Outperform. Melco Resorts and Enter earned $0.14 in the first quarter, compared to $0.37 in the year-ago quarter. At the moment, the stock has a 52-week-high of $14.46 and a 52-week-low of $4.70. Melco Resorts and Enter closed at $12.52 at the end of the last trading period.   
+JMP Securities upgraded the previous rating for EPR Properties (NYSE:EPR) from Market Perform to Market Outperform. For the first quarter, EPR Props had an EPS of $1.26, compared to year-ago quarter EPS of $1.10. The stock has a 52-week-high of $55.90 and a 52-week-low of $33.92. At the end of the last trading period, EPR Props closed at $45.80.   
+For Philip Morris International Inc (NYSE:PM), Citigroup upgraded the previous rating of Neutral to Buy. Philip Morris Intl earned $1.38 in the first quarter, compared to $1.58 in the year-ago quarter. The current stock performance of Philip Morris Intl shows a 52-week-high of $105.62 and a 52-week-low of $82.85. Moreover, at the end of the last trading period, the closing price was at $94.89.   
+Keybanc upgraded the previous rating for Universal Stainless & Alloy Products Inc (NASDAQ:USAP) from Sector Weight to Overweight. In the first quarter, Universal Stainless showed an EPS of $0.06, compared to $0.18 from the year-ago quarter. The current stock performance of Universal Stainless shows a 52-week-high of $12.34 and a 52-week-low of $6.56. Moreover, at the end of the last trading period, the closing price was at $12.00.   
+See all analyst ratings upgrades.
+Downgrades
+For Nike Inc (NYSE:NKE), OTR Global downgraded the previous rating of Positive to Mixed. Nike earned $0.79 in the third quarter, compared to $0.87 in the year-ago quarter. At the moment, the stock has a 52-week-high of $131.31 and a 52-week-low of $82.24. Nike closed at $113.59 at the end of the last trading period.   
+For Portland General Electric Co (NYSE:POR), Guggenheim downgraded the previous rating of Buy to Neutral. Portland Gen Electric earned $0.80 in the first quarter, compared to $0.67 in the year-ago quarter. The stock has a 52-week-high of $56.26 and a 52-week-low of $41.68. At the end of the last trading period, Portland Gen Electric closed at $48.67.   
+Wedbush downgraded the previous rating for Surface Oncology Inc (NASDAQ:SURF) from Outperform to Neutral. Surface Oncology earned $0.33 in the first quarter, compared to $0.13 in the year-ago quarter. At the moment, the stock has a 52-week-high of $2.14 and a 52-week-low of $0.56. Surface Oncology closed at $0.79 at the end of the last trading period.   
+Baird downgraded the previous rating for Surface Oncology Inc (NASDAQ:SURF) from Outperform to Neutral. Surface Oncology earned $0.33 in the first quarter, compared to $0.13 in the year-ago quarter. The current stock performance of Surface Oncology shows a 52-week-high of $2.14 and a 52-week-low of $0.56. Moreover, at the end of the last trading period, the closing price was at $0.79.   
+Morgan Stanley downgraded the previous rating for Performance Food Group Co (NYSE:PFGC) from Overweight to Equal-Weight. In the third quarter, Performance Food Gr showed an EPS of $0.83, compared to $0.51 from the year-ago quarter. The stock has a 52-week-high of $63.22 and a 52-week-low of $38.81. At the end of the last trading period, Performance Food Gr closed at $56.31.   
+For Surface Oncology Inc (NASDAQ:SURF), HC Wainwright & Co. downgraded the previous rating of Buy to Neutral. Surface Oncology earned $0.33 in the first quarter, compared to $0.13 in the year-ago quarter. The current stock performance of Surface Oncology shows a 52-week-high of $2.14 and a 52-week-low of $0.56. Moreover, at the end of the last trading period, the closing price was at $0.79.   
+Raymond James downgraded the previous rating for Palantir Technologies Inc (NYSE:PLTR) from Strong Buy to Outperform. In the first quarter, Palantir Technologies showed an EPS of $0.05, compared to $0.02 from the year-ago quarter. The current stock performance of Palantir Technologies shows a 52-week-high of $17.16 and a 52-week-low of $5.84. Moreover, at the end ...Full story available on Benzinga.com",2023-06-20 15:02:52+00:00,https://www.benzinga.com/analyst-ratings/upgrades/23/06/32927370/benzingas-top-ratings-upgrades-downgrades-for-june-20-2023,Benzinga,0.036174242424242414,0.19244318181818176,neutral,0.036174242424242414,False,True,True,False,True,False,False,False,0.0,6403,"['TYGO', 'MAN', 'RGNX', 'ATMU', 'MMC', 'USFD', 'ACGL', 'MOH', 'MLCO', 'BIDU', 'NKE', 'GTES', 'CALC', 'PEG', 'MSC', 'ENTG', 'PGR', 'MIST', 'USAP', 'PM', 'GMVD', 'AIG', 'POR', 'CALT', 'ALL', 'RE', 'LMND', 'CAR', 'RHI', 'PLTR', 'CB', 'RNR', 'ABCM', 'CNC', 'TRV', 'GLTO', 'EPR', 'WTW', 'CFLT', 'EQT', 'AON', 'GTLB', 'ESI', 'PFGC', 'BALL', 'HIG', 'SURF']",ATMU,2023-06-20
+Atmus Filtration Technologies (ATMU) Q2 2023 Earnings Call Transcript,"ATMU earnings call for the period ending June 30, 2023.",2023-08-09 21:00:22+00:00,https://www.fool.com/earnings/call-transcripts/2023/08/09/atmus-filtration-technologies-atmu-q2-2023-earning/,The Motley Fool,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,126,['ATMU'],ATMU,2023-08-09
+Expert Ratings for Atmus Filtration Techs,"Atmus Filtration Techs (NYSE:ATMU) has observed the following analyst ratings within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+2
+5
+0
+0
+0
+
+
+Last 30D
+0
+2
+0
+0
+0
+
+
+1M Ago
+0
+0
+0
+0
+0
+
+
+2M Ago
+2
+3
+0
+0
+0
+
+
+3M Ago
+0
+0
+0
+0
+0
+
+
+
+According to 7 analyst offering 12-month price targets in the last 3 months, Atmus Filtration Techs has an average price target of $26.57 with a high of $30.00 and a low of $24.00. 
+Below is a summary of how these 7 analysts rated ...Full story available on Benzinga.com",2023-08-10 18:00:24+00:00,https://www.benzinga.com/analyst-ratings/23/08/33719294/expert-ratings-for-atmus-filtration-techs,Benzinga,0.04555555555555556,0.2988888888888888,neutral,0.04555555555555556,False,False,False,False,False,False,False,False,0.0,592,['ATMU'],ATMU,2023-08-10
+Atmus Filtration Technologies (ATMU) Q3 2023 Earnings Call Transcript,"ATMU earnings call for the period ending September 30, 2023.",2023-11-03 23:45:14+00:00,https://www.fool.com/earnings/call-transcripts/2023/11/03/atmus-filtration-technologies-atmu-q3-2023-earning/,The Motley Fool,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,131,['ATMU'],ATMU,2023-11-03
+"Atmus Filtration (ATMU) Is a Great Choice for 'Trend' Investors, Here's Why","Atmus Filtration (ATMU) made it through our ""Recent Price Strength"" screen and could be a great choice for investors looking to make a profit from stocks that are currently on the move.",2023-12-15 13:50:06+00:00,https://www.zacks.com/stock/news/2198529/atmus-filtration-atmu-is-a-great-choice-for-trend-investors-heres-why,Zacks Investment Research,0.4,0.5375,positive,0.4,True,False,False,False,False,False,False,False,0.0,262,['ATMU'],ATMU,2023-12-15
+Best Value Stocks to Buy for December 18th,"ACR, RYI and ATMU made it to the Zacks Rank #1 (Strong Buy) value stocks list on December 18, 2023.",2023-12-18 09:46:00+00:00,https://www.zacks.com/commentary/2199131/best-value-stocks-to-buy-for-december-18th,Zacks Investment Research,0.2111111111111111,0.6444444444444444,positive,0.2111111111111111,False,True,False,False,False,False,False,False,0.0,143,"['RYI', 'ACR', 'ATMU']",ATMU,2023-12-18
+Best Value Stocks to Buy for December 26th,"ATMU, TAST and DTEGY made it to the Zacks Rank #1 (Strong Buy) value stocks list on December 26, 2023.",2023-12-26 08:47:00+00:00,https://www.zacks.com/commentary/2201970/best-value-stocks-to-buy-for-december-26th,Zacks Investment Research,0.2111111111111111,0.6444444444444444,positive,0.2111111111111111,False,True,False,False,False,False,False,False,0.0,146,"['TAST', 'ATMU']",ATMU,2023-12-26
+New Strong Buy Stocks for December 26th,"TAST, KNF, ESE, DTEGY and ATMU have been added to the Zacks Rank #1 (Strong Buy) List on December 26, 2023.",2023-12-26 11:05:00+00:00,https://www.zacks.com/commentary/2201387/new-strong-buy-stocks-for-december-26th,Zacks Investment Research,0.05075757575757571,0.7053030303030303,neutral,0.05075757575757571,False,True,False,False,False,False,False,False,0.0,148,"['ESE', 'TAST', 'ATMU', 'KNF']",ATMU,2023-12-26
+Best Growth Stocks to Buy for December 28th,"ARCO, BECN and ATMU made it to the Zacks Rank #1 (Strong Buy) growth stocks list on December 28, 2023.",2023-12-28 07:18:00+00:00,https://www.zacks.com/commentary/2202928/best-growth-stocks-to-buy-for-december-28th,Zacks Investment Research,0.2111111111111111,0.6444444444444444,positive,0.2111111111111111,False,True,False,False,False,False,False,False,0.0,147,"['BECN', 'ARCO', 'ATMU']",ATMU,2023-12-28
+Will Atmus Filtration (ATMU) Beat Estimates Again in Its Next Earnings Report?,Atmus Filtration (ATMU) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.,2024-01-26 17:10:09+00:00,https://www.zacks.com/stock/news/2216609/will-atmus-filtration-atmu-beat-estimates-again-in-its-next-earnings-report,Zacks Investment Research,0.18367346938775508,0.5622448979591836,positive,0.18367346938775508,True,False,False,False,False,False,False,False,0.0,268,['ATMU'],ATMU,2024-01-26
+Xylem (XYL) Gears Up to Post Q4 Earnings: Is a Beat in Store?,"Xylem's (XYL) fourth-quarter 2023 results are likely to have gained from strength across its utilities and industrial water applications markets. However, a weak residential end market might have hurt its results.",2024-02-02 13:34:00+00:00,https://www.zacks.com/stock/news/2220112/xylem-xyl-gears-up-to-post-q4-earnings-is-a-beat-in-store,Zacks Investment Research,-0.1875,0.8125,negative,0.1875,True,False,False,False,False,False,False,False,0.0,276,"['IR', 'XYL', 'ALRM', 'ATMU']",ATMU,2024-02-02
+Is a Beat in Store for Atmus Filtration (ATMU) in Q4 Earnings?,Atmus Filtration's (ATMU) fourth-quarter performance is expected to have gained from solid demand in first-fit markets. Growing popularity of its Fleetguard brand is likely to have aided results.,2024-02-12 17:08:00+00:00,https://www.zacks.com/stock/news/2224945/is-a-beat-in-store-for-atmus-filtration-atmu-in-q4-earnings,Zacks Investment Research,-0.03333333333333333,0.5,neutral,0.03333333333333333,True,False,False,False,False,False,False,False,0.0,259,"['FLS', 'NDSN', 'ALRM', 'ATMU']",ATMU,2024-02-12
+Atmus Filtration Technologies (ATMU) Q4 2023 Earnings Call Transcript,"ATMU earnings call for the period ending December 31, 2023.",2024-02-14 22:00:19+00:00,https://www.fool.com/earnings/call-transcripts/2024/02/14/atmus-filtration-technologies-atmu-q4-2023-earning/,The Motley Fool,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,130,['ATMU'],ATMU,2024-02-14
+Wall Street Analysts See a 25.37% Upside in Atmus Filtration (ATMU): Can the Stock Really Move This High?,"The consensus price target hints at a 25.4% upside potential for Atmus Filtration (ATMU). While empirical research shows that this sought-after metric is hardly effective, an upward trend in earnings estimate revisions could mean that the stock will witness an upside in the near term.",2024-02-22 14:55:07+00:00,https://www.zacks.com/stock/news/2230213/wall-street-analysts-see-a-2537-upside-in-atmus-filtration-atmu-can-the-stock-really-move-this-high,Zacks Investment Research,0.12107142857142858,0.5325,positive,0.12107142857142858,True,False,False,False,False,False,False,False,0.0,392,['ATMU'],ATMU,2024-02-22
+Here's Why Applied Industrial (AIT) is an Attractive Pick Now,Applied Industrial (AIT) is set to benefit from strength in the Service Center Based Distribution segment and accretive acquisitions. AIT's measures to reward its shareholders are encouraging.,2024-02-26 10:35:00+00:00,https://www.zacks.com/stock/news/2231352/heres-why-applied-industrial-ait-is-an-attractive-pick-now,Zacks Investment Research,0.35000000000000003,0.55,positive,0.35000000000000003,False,True,False,False,False,False,False,False,0.0,255,"['AIT', 'AZZ', 'BRC', 'ATMU']",ATMU,2024-02-26
+"Donaldson (DCI) Q2 Earnings & Revenues Top Estimates, Rise Y/Y","Donaldson's (DCI) Q2 revenues increase 5.8% year over year, driven by impressive performances of its Mobile Solutions and Industrial Solutions segments.",2024-02-29 17:54:00+00:00,https://www.zacks.com/stock/news/2234154/donaldson-dci-q2-earnings-revenues-top-estimates-rise-yy,Zacks Investment Research,0.75,0.75,positive,0.75,True,False,False,False,False,False,False,False,0.0,216,"['TTEK', 'DCI', 'BRC', 'ATMU']",ATMU,2024-02-29
+Tetra Tech (TTEK) Wins $375M Multiple-Award Contract From NASA,Tetra Tech (TTEK) clinches a $375 million multiple-award deal from NASA to provide technical support services for assessing and restoring contaminated sites throughout the United States.,2024-03-01 15:59:00+00:00,https://www.zacks.com/stock/news/2234708/tetra-tech-ttek-wins-375m-multiple-award-contract-from-nasa,Zacks Investment Research,0.15,0.15000000000000002,positive,0.15,False,False,False,False,False,False,False,False,0.0,250,"['TTEK', 'AIT', 'DCI', 'ATMU']",ATMU,2024-03-01
+Reasons to Add Donaldson (DCI) Stock to Your Portfolio Now,"Donaldson (DCI) is set to benefit from strength across its industrial filtration solutions business, acquisitions and shareholder-friendly policies.",2024-03-06 14:21:00+00:00,https://www.zacks.com/stock/news/2236607/reasons-to-add-donaldson-dci-stock-to-your-portfolio-now,Zacks Investment Research,0.0,0.0,neutral,0.0,False,True,False,False,False,False,False,False,0.0,208,"['TTEK', 'AIT', 'DCI', 'ATMU']",ATMU,2024-03-06
+Here's Why You Should Hold on to Cintas (CTAS) Stock Now,Cintas (CTAS) is set to gain from strength in the Uniform Rental and Facility Services segment. The company's measures to reward its shareholders are encouraging.,2024-03-07 13:01:00+00:00,https://www.zacks.com/stock/news/2237122/heres-why-you-should-hold-on-to-cintas-ctas-stock-now,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,220,"['TTEK', 'CTAS', 'AIT', 'ATMU']",ATMU,2024-03-07
+Parker-Hannifin (PH) Up 46.5% in a Year: Will the Trend Last?,Steady demand across end markets and strength in the Diversified Industrial International segment are supporting Parker-Hannifin's (PH) growth. PH's measures to reward its shareholders are impressive.,2024-03-07 13:17:00+00:00,https://www.zacks.com/stock/news/2237143/parker-hannifin-ph-up-465-in-a-year-will-the-trend-last,Zacks Investment Research,0.2833333333333333,0.36333333333333334,positive,0.2833333333333333,False,False,False,False,False,False,False,False,0.0,263,"['TTEK', 'PH', 'AIT', 'ATMU']",ATMU,2024-03-07
+EnerSys (ENS) Banks on Solid Order Level Amid Forex Woes,"EnerSys (ENS) is set to benefit from the solid momentum in the Specialty segment and accretive acquisitions. However, forex woes remain a concern.",2024-03-08 16:10:00+00:00,https://www.zacks.com/stock/news/2238099/enersys-ens-banks-on-solid-order-level-amid-forex-woes,Zacks Investment Research,0.0,0.1,neutral,0.0,False,True,False,False,False,False,False,False,0.0,204,"['TTEK', 'AIT', 'ENS', 'ATMU']",ATMU,2024-03-08
+Here's Why You Should Invest in Emerson (EMR) Stock Right Now,Emerson (EMR) is set to gain from strength in the Intelligent Devices business unit and the acquisition of Afag and Flexim. Its measures to reward its shareholders are noteworthy.,2024-03-08 16:13:00+00:00,https://www.zacks.com/stock/news/2238101/heres-why-you-should-invest-in-emerson-emr-stock-right-now,Zacks Investment Research,0.5428571428571429,0.7178571428571429,positive,0.5428571428571429,False,True,False,False,False,False,False,False,0.0,242,"['EMR', 'TTEK', 'AIT', 'ATMU']",ATMU,2024-03-08
+Here's Why You Should Avoid Kennametal (KMT) Stock for Now,"Lower volume in aerospace and defense end markets, and increasing costs are weighing on Kennametal (KMT). Unfavorable foreign currency movement is an added concern.",2024-03-11 13:21:00+00:00,https://www.zacks.com/stock/news/2238710/heres-why-you-should-avoid-kennametal-kmt-stock-for-now,Zacks Investment Research,-0.125,0.125,negative,0.125,False,False,False,False,False,False,False,False,0.0,224,"['TTEK', 'AIT', 'KMT', 'ATMU']",ATMU,2024-03-11
+"iRobot (IRBT) Provides Q1 FY24 Outlook, Restates FY24 View",iRobot (IRBT) expects a gross margin of 22-23% and an adjusted gross margin of 23-24% for the first quarter of 2024.,2024-03-12 15:58:00+00:00,https://www.zacks.com/stock/news/2239404/irobot-irbt-provides-q1-fy24-outlook-restates-fy24-view,Zacks Investment Research,0.08333333333333333,0.1111111111111111,neutral,0.08333333333333333,False,False,False,False,False,False,False,False,0.0,176,"['TTEK', 'AIT', 'IRBT', 'ATMU']",ATMU,2024-03-12
+Is Atmus Filtration Technologies Inc. (ATMU) Stock Outpacing Its Industrial Products Peers This Year?,"Here is how Atmus Filtration Technologies (ATMU) and Cadre Holdings, Inc. (CDRE) have performed compared to their sector so far this year.",2024-03-13 13:40:11+00:00,https://www.zacks.com/stock/news/2239921/is-atmus-filtration-technologies-inc-atmu-stock-outpacing-its-industrial-products-peers-this-year,Zacks Investment Research,0.1,1.0,neutral,0.1,False,False,True,False,True,False,False,False,0.0,241,"['ATMU', 'CDRE']",ATMU,2024-03-13
+Here's Why Hold Strategy is Apt for RBC Bearings (RBC) Stock,Recovery in build rates from OEMs and stability in the aftermarket bode well for RBC Bearings (RBC). The company's measures to reward its shareholders are promising.,2024-03-13 18:02:00+00:00,https://www.zacks.com/stock/news/2240245/heres-why-hold-strategy-is-apt-for-rbc-bearings-rbc-stock,Zacks Investment Research,0.4,0.75,positive,0.4,False,False,False,False,False,False,False,False,0.0,227,"['TTEK', 'RBC', 'AIT', 'ATMU']",ATMU,2024-03-13
+Here's Why You Should Hold Zebra (ZBRA) in Your Portfolio Now,"Zebra (ZBRA) gains from solid demand for RFID and software products, and cost-saving initiatives. However, weak demand for data capture and mobile computing solutions affects its performance.",2024-03-14 12:07:00+00:00,https://www.zacks.com/stock/news/2240544/heres-why-you-should-hold-zebra-zbra-in-your-portfolio-now,Zacks Investment Research,-0.1875,0.3625,negative,0.1875,False,False,False,False,True,False,False,False,0.0,254,"['PH', 'JBT', 'ZBRA', 'ATMU']",ATMU,2024-03-14
+Alcoa (AA) Inks Definitive Deal to Acquire Alumina for $2.2B,Alcoa's (AA) acquisition of Alumina will enable it to effectively manage the current portfolio restructuring actions in AWAC and flourish through better operational focus and financial flexibility.,2024-03-14 13:10:00+00:00,https://www.zacks.com/stock/news/2240559/alcoa-aa-inks-definitive-deal-to-acquire-alumina-for-22b,Zacks Investment Research,0.275,0.42500000000000004,positive,0.275,False,True,False,False,False,False,False,False,0.0,259,"['TTEK', 'AA', 'PH', 'ATMU']",ATMU,2024-03-14
+Cintas (CTAS) Boosts Product Portfolio With Paris Uniform Buyout,The acquisition of Paris Uniform is in line with Cintas' (CTAS) strategy of acquiring businesses to strengthen its business and product portfolio.,2024-03-14 16:32:00+00:00,https://www.zacks.com/stock/news/2240944/cintas-ctas-boosts-product-portfolio-with-paris-uniform-buyout,Zacks Investment Research,0.0,0.0,neutral,0.0,False,True,False,False,True,False,False,False,0.0,212,"['TTEK', 'CTAS', 'AIT', 'ATMU']",ATMU,2024-03-14
+iRobot (IRBT) Exhibits Strong Prospects Despite Headwinds,"While solid product offerings and innovation capabilities bode well for iRobot (IRBT), decreasing robot units shipped is a major headwind.",2024-03-14 16:45:00+00:00,https://www.zacks.com/stock/news/2240961/irobot-irbt-exhibits-strong-prospects-despite-headwinds,Zacks Investment Research,0.16527777777777777,0.4444444444444444,positive,0.16527777777777777,False,False,False,False,True,False,False,False,0.0,197,"['TTEK', 'AIT', 'IRBT', 'ATMU']",ATMU,2024-03-14
+How Atmus (ATMU) Stock Stands Out in a Strong Industry,"Atmus (ATMU) has seen solid earnings estimate revision activity over the past month, and belongs to a strong industry as well.",2024-03-15 12:30:00+00:00,https://www.zacks.com/stock/news/2241216/how-atmus-atmu-stock-stands-out-in-a-strong-industry,Zacks Investment Research,0.15416666666666665,0.4541666666666666,positive,0.15416666666666665,True,False,False,False,False,False,False,False,0.0,182,['ATMU'],ATMU,2024-03-15
+Reasons to Retain IDEX (IEX) Stock in Your Portfolio Now,Solid momentum in the FSDP segment and accretive acquisitions augur well for IDEX (IEX). The company's measures to reward its shareholders are encouraging.,2024-03-15 16:06:00+00:00,https://www.zacks.com/stock/news/2241590/reasons-to-retain-idex-iex-stock-in-your-portfolio-now,Zacks Investment Research,0.0,0.1,neutral,0.0,False,True,False,False,False,False,False,False,0.0,213,"['TTEK', 'AIT', 'IEX', 'ATMU']",ATMU,2024-03-15
+Reasons to Retain Stanley Black (SWK) Stock in Your Portfolio,"Strength in the engineered fastening business, driven by solid demand in aerospace and auto end markets, is aiding Stanley Black (SWK).",2024-03-18 15:53:00+00:00,https://www.zacks.com/stock/news/2242401/reasons-to-retain-stanley-black-swk-stock-in-your-portfolio,Zacks Investment Research,-0.1111111111111111,0.32222222222222224,negative,0.1111111111111111,False,False,False,False,False,False,False,False,0.0,198,"['TTEK', 'SWK', 'AIT', 'ATMU']",ATMU,2024-03-18
+3 Stocks With Upgraded Broker Ratings Worth Betting on Now,"Brokers have better insights into stocks and macroeconomic factors. So, one should follow broker rating upgrades to pick stocks like PACCAR (PCAR), Atmus Filtration Technologies (ATMU) and PagSeguro (PAGS).",2024-03-21 10:47:00+00:00,https://www.zacks.com/stock/news/2243893/3-stocks-with-upgraded-broker-ratings-worth-betting-on-now,Zacks Investment Research,0.4,0.3,positive,0.4,False,False,False,False,False,False,False,False,0.0,266,"['PCAR', 'PAGS', 'ATMU']",ATMU,2024-03-21
+"Recent Price Trend in Atmus Filtration (ATMU) is Your Friend, Here's Why","Atmus Filtration (ATMU) could be a great choice for investors looking to make a profit from fundamentally strong stocks that are currently on the move. It is one of the several stocks that made it through our ""Recent Price Strength"" screen.",2024-03-21 12:50:03+00:00,https://www.zacks.com/stock/news/2243954/recent-price-trend-in-atmus-filtration-atmu-is-your-friend-heres-why,Zacks Investment Research,0.20555555555555557,0.3972222222222222,positive,0.20555555555555557,True,False,False,False,False,False,False,False,0.0,314,['ATMU'],ATMU,2024-03-21
+"Zacks.com featured highlights PACCAR, Atmus Filtration and PagSeguro Digital","PACCAR, Atmus Filtration and PagSeguro Digital have been highlighted in this Screen of The Week article.",2024-03-22 08:47:00+00:00,https://www.zacks.com/stock/news/2244560/zackscom-featured-highlights-paccar-atmus-filtration-and-pagseguro-digital,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,182,"['PCAR', 'PAGS', 'ATMU']",ATMU,2024-03-22
+Are Industrial Products Stocks Lagging  Atmus Filtration Technologies Inc. (ATMU) This Year?,Here is how Atmus Filtration Technologies (ATMU) and Packaging Corp. (PKG) have performed compared to their sector so far this year.,2024-03-29 13:40:13+00:00,https://www.zacks.com/stock/news/2247904/are-industrial-products-stocks-lagging-atmus-filtration-technologies-inc-atmu-this-year,Zacks Investment Research,0.1,1.0,neutral,0.1,False,False,True,False,True,False,False,False,0.0,226,"['ATMU', 'PKG']",ATMU,2024-03-29
+Reasons Why Tetra Tech (TTEK) Should be in Your Portfolio,"Tetra Tech (TTEK) is set to benefit from strength across its businesses, acquired assets and shareholder-friendly policies.",2024-04-01 11:31:00+00:00,https://www.zacks.com/stock/news/2248180/reasons-why-tetra-tech-ttek-should-be-in-your-portfolio,Zacks Investment Research,0.0,0.0,neutral,0.0,False,True,False,False,False,False,False,False,0.0,182,"['TTEK', 'DCI', 'FTEK', 'ATMU']",ATMU,2024-04-01
+3 Stocks to Buy From the Thriving Pollution Control Industry,"Strong demand for pollution abatement products amid strict government regulations favors the Zacks Pollution Control industry's near-term prospects. DCI, ATMU and FTEK are set to capitalize on the buoyancy.",2024-04-04 12:48:00+00:00,https://www.zacks.com/commentary/2250392/3-stocks-to-buy-from-the-thriving-pollution-control-industry,Zacks Investment Research,0.4333333333333333,0.7333333333333333,positive,0.4333333333333333,False,True,True,False,True,False,False,False,0.0,268,"['DCI', 'FTEK', 'ATMU']",ATMU,2024-04-04
+"Zacks Industry Outlook Highlights Donaldson, Atmus Filtration Technologies and Fuel Tech","Donaldson, Atmus Filtration Technologies and Fuel Tech have been highlighted in this Industry Outlook article.",2024-04-05 09:10:00+00:00,https://www.zacks.com/stock/news/2250848/zacks-industry-outlook-highlights-donaldson-atmus-filtration-technologies-and-fuel-tech,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,200,"['FTEK', 'DC', 'ATMU']",ATMU,2024-04-05
+"Atmus Filtration (ATMU) is on the Move, Here's Why the Trend Could be Sustainable",Atmus Filtration (ATMU) could be a solid choice for shorter-term investors looking to capitalize on the recent price trend in fundamentally sound stocks. It is one of the many stocks that passed through our shorter-term trading strategy-based screen.,2024-04-08 12:50:07+00:00,https://www.zacks.com/stock/news/2251736/atmus-filtration-atmu-is-on-the-move-heres-why-the-trend-could-be-sustainable,Zacks Investment Research,0.225,0.3125,positive,0.225,False,False,False,False,False,False,False,False,0.0,333,['ATMU'],ATMU,2024-04-08
+Will Atmus Filtration (ATMU) Beat Estimates Again in Its Next Earnings Report?,Atmus Filtration (ATMU) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.,2024-04-09 16:10:13+00:00,https://www.zacks.com/stock/news/2252866/will-atmus-filtration-atmu-beat-estimates-again-in-its-next-earnings-report,Zacks Investment Research,0.18367346938775508,0.5622448979591836,positive,0.18367346938775508,True,False,False,False,False,False,False,False,0.0,268,['ATMU'],ATMU,2024-04-09
+How to Boost Your Portfolio with Top Industrial Products Stocks Set to Beat Earnings,Finding stocks expected to beat quarterly earnings estimates becomes an easier task with our Zacks Earnings ESP.,2024-04-10 12:50:10+00:00,https://www.zacks.com/stock/news/2253143/how-to-boost-your-portfolio-with-top-industrial-products-stocks-set-to-beat-earnings,Zacks Investment Research,0.2,0.45,positive,0.2,True,False,False,False,True,False,False,False,0.0,198,"['AIT', 'ATMU']",ATMU,2024-04-10
+3 Buy-Rated Stocks Flexing Relative Strength,"While the market has taken a small breather as of late, there have been many big-time winners throughout the last month, including these three. Analysts are bullish on their outlooks, with all three carrying a favorable Zacks Rank.",2024-04-10 19:27:00+00:00,https://www.zacks.com/commentary/2253625/3-buy-rated-stocks-flexing-relative-strength,Zacks Investment Research,-0.1416666666666667,0.41111111111111115,negative,0.1416666666666667,False,True,False,False,False,False,False,False,0.0,277,"['KALU', 'EXAS', 'ATMU']",ATMU,2024-04-10
+Atmus Filtration Technologies (ATMU) Advances While Market Declines: Some Information for Investors,"Atmus Filtration Technologies (ATMU) reachead $32.35 at the closing of the latest trading day, reflecting a +0.09% change compared to its last close.",2024-04-10 22:15:19+00:00,https://www.zacks.com/stock/news/2253706/atmus-filtration-technologies-atmu-advances-while-market-declines-some-information-for-investors,Zacks Investment Research,0.25,0.48333333333333334,positive,0.25,False,False,False,False,False,False,False,False,0.0,250,['ATMU'],ATMU,2024-04-10
+"Zacks Investment Ideas feature highlights: Exact Sciences, Kaiser Aluminum and Atmus Filtration Technologies","Exact Sciences, Kaiser Aluminum and Atmus Filtration Technologies are part of the Zacks Investment Ideas article.",2024-04-11 11:52:00+00:00,https://www.zacks.com/stock/news/2253787/zacks-investment-ideas-feature-highlights-exact-sciences-kaiser-aluminum-and-atmus-filtration-technologies,Zacks Investment Research,0.25,0.25,positive,0.25,False,False,False,False,False,False,False,False,0.0,223,"['KALU', 'EXAS', 'ATMU']",ATMU,2024-04-11
+The Analyst Verdict: Atmus Filtration Techs In The Eyes Of 4 Experts,"4 analysts have expressed a variety of opinions on Atmus Filtration Techs (NYSE:ATMU) over the past quarter, offering a diverse set of opinions from bullish to bearish.
+In the table below, you'll find a summary of their recent ratings, revealing the shifting sentiments over the past 30 days and comparing them to the previous months.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+4
+0
+0
+0
+
+
+Last 30D
+0
+1
+0
+0
+0
+
+
+1M Ago
+0
+2
+0
+0
+0
+
+
+2M Ago
+0
+1
+0
+0
+0
+
+
+3M Ago
+0
+0
+0
+0
+0
+
+
+
+Providing deeper insights, analysts have established 12-month price targets, indicating an average target of $34.25, along with a high estimate of $38.00 and a low estimate of $29.00. This upward trend is apparent, with the current average reflecting a 12.92% increase from the previous average price target of $30.33.
+
+Exploring Analyst Ratings: An In-Depth Overview
+The analysis of recent analyst actions sheds light on the perception of Atmus Filtration Techs by financial experts. The following summary presents key analysts, their recent evaluations, and adjustments to ratings and price targets.
+
+
+
+Analyst
+Analyst Firm
+Action Taken
+Rating
+Current Price Target
+Prior Price Target
+
+
+
+
+Tami Zakaria
+JP Morgan
+Raises
+Overweight
+$38.00
+$36.00
+
+
+Tami Zakaria
+JP Morgan
+Raises
+Overweight
+$36.00
+$27.00
+
+
+Bobby Brooks
+Northland Capital Markets
+Announces
+Outperform
+$34.00
+-
+
+
+Robert Mason
+Baird
+Raises
+Outperform
+$29.00
+$28.00
+
+
+
+Key Insights:
+
+Action Taken: Responding to changing market ...Full story available on Benzinga.com",2024-04-15 13:00:32+00:00,https://www.benzinga.com/insights/analyst-ratings/24/04/38247743/the-analyst-verdict-atmus-filtration-techs-in-the-eyes-of-4-experts,Benzinga,-0.010123456790123456,0.3477777777777778,neutral,0.010123456790123456,False,False,False,False,False,False,False,False,0.0,1607,['ATMU'],ATMU,2024-04-15
+Has Atmus Filtration Technologies Inc. (ATMU) Outpaced Other Industrial Products Stocks This Year?,Here is how Atmus Filtration Technologies (ATMU) and Kaiser Aluminum (KALU) have performed compared to their sector so far this year.,2024-04-15 13:40:10+00:00,https://www.zacks.com/stock/news/2255267/has-atmus-filtration-technologies-inc-atmu-outpaced-other-industrial-products-stocks-this-year,Zacks Investment Research,-0.012499999999999997,0.6875,neutral,0.012499999999999997,False,False,True,False,True,False,False,False,0.0,233,"['ATMU', 'KALU']",ATMU,2024-04-15
+This Analyst With 85% Accuracy Rate Sees More Than 37% Upside In AMD - Here Are 5 Stock Picks For Last Week From Wall Street's Most Accurate Analysts,"U.S. stocks closed mixed on Friday, with the S&P 500 falling for a sixth straight session. The index fell over 3% last week to record its worst weekly performance since March 2023. However, the Dow Jones index edged higher by 0.01% for the week.
+Wall Street analysts make new stock picks on a daily basis. Unfortunately for investors, not all analysts have particularly impressive track records at predicting market movements. Even when it comes to one single stock, analyst ratings and price targets can vary widely, leaving investors confused about which analyst’s opinion to trust.
+Benzinga’s Analyst Ratings API is a collection of the highest-quality stock ratings curated by the Benzinga news desk via direct partnerships with major sell-side banks. Benzinga displays overnight ratings changes on a daily basis three hours prior to the U.S. equity market opening. Data specialists at investment dashboard provider Toggle.ai recently uncovered that the analyst insights Benzinga Pro subscribers and Benzinga readers regularly receive can successfully be used as trading indicators to outperform the stock market.
+Top Analyst Picks: Fortunately, any Benzinga ...Full story available on Benzinga.com",2024-04-22 11:21:11+00:00,https://www.benzinga.com/news/24/04/38353889/this-analyst-with-85-accuracy-rate-sees-more-than-37-upside-in-amd-here-are-5-stock-picks-for-last-w,Benzinga,0.11212722462722462,0.4282378115711449,positive,0.11212722462722462,False,False,False,True,False,False,False,False,0.0,1352,"['BECN', 'AMD', 'DHI', 'HPE', 'ATMU']",ATMU,2024-04-22
+Top 5 Industrial Product Stocks Set to Beat on Earnings,"We have narrowed our search to five industrial product stocks that are poised to beat on earnings results next week. These are: AIT, GTLS, ATMU, IR, TKR.",2024-04-23 12:01:00+00:00,https://www.zacks.com/stock/news/2259910/top-5-industrial-product-stocks-set-to-beat-on-earnings,Zacks Investment Research,0.25,0.25,positive,0.25,True,False,False,False,True,False,False,False,0.0,210,"['AIT', 'IR', 'TKR', 'GTLS', 'ATMU']",ATMU,2024-04-23
+What's in the Offing for Allegion (ALLE) This Earnings Season?,Weakness in the Allegion Americas segment and increasing costs are to dent Allegion's (ALLE) first-quarter 2024 results.,2024-04-23 14:03:00+00:00,https://www.zacks.com/stock/news/2260372/whats-in-the-offing-for-allegion-alle-this-earnings-season,Zacks Investment Research,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,184,"['ATR', 'GTLS', 'ALLE', 'ATMU']",ATMU,2024-04-23
+"Danaher (DHR) Q1 Earnings Beat, Biotechnology Sales Dip Y/Y","While Danaher (DHR) surpasses first-quarter earnings and revenue estimates, its performance is hurt by a decrease in core sales in the Biotechnology segment.",2024-04-23 15:29:00+00:00,https://www.zacks.com/stock/news/2260391/danaher-dhr-q1-earnings-beat-biotechnology-sales-dip-yy,Zacks Investment Research,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,218,"['DHR', 'AIT', 'CSL', 'ATMU']",ATMU,2024-04-23
+"The Zacks Analyst Blog Highlights Ingersoll Rand, Applied Industrial Technologies, Chart Industries, Atmus Filtration Technologies and The Timken","Ingersoll Rand, Applied Industrial Technologies, Chart Industries, Atmus Filtration Technologies and The Timken are part of the Zacks top Analyst Blog.",2024-04-24 12:36:00+00:00,https://www.zacks.com/stock/news/2261100/the-zacks-analyst-blog-highlights-ingersoll-rand-applied-industrial-technologies-chart-industries-atmus-filtration-technologies-and-the-timken,Zacks Investment Research,0.5,0.5,positive,0.5,False,False,False,False,False,False,False,False,0.0,298,"['AIT', 'IR', 'TKR', 'GTLS', 'ATMU']",ATMU,2024-04-24
+"IDEX (IEX) Q1 Earnings Surpass Estimates, Revenues Down Y/Y",IDEX's (IEX) first-quarter 2024 revenues decrease 5.3% due to lower sales in the Health & Science Technologies segment.,2024-04-24 12:40:00+00:00,https://www.zacks.com/stock/news/2261148/idex-iex-q1-earnings-surpass-estimates-revenues-down-yy,Zacks Investment Research,-0.14027777777777778,0.3319444444444445,negative,0.14027777777777778,True,False,False,False,False,False,False,False,0.0,180,"['CAT', 'AIT', 'IEX', 'ATMU']",ATMU,2024-04-24
+Illinois Tool (ITW) to Report Q1 Earnings: What to Expect?,Illinois Tool's (ITW) first-quarter results are likely to gain from strength across Automotive OEM and Food Equipment units. Softness in Specialty Products and Construction Products units might have weighed on results.,2024-04-25 14:04:00+00:00,https://www.zacks.com/stock/news/2262479/illinois-tool-itw-to-report-q1-earnings-what-to-expect,Zacks Investment Research,0.0,1.0,neutral,0.0,True,False,False,False,True,False,False,False,0.0,278,"['ITW', 'PH', 'IR', 'ATMU']",ATMU,2024-04-25
+Here's How You Should Play 3M (MMM) Stock Ahead of Q1 Earnings,"Weakness in the Safety and Industrial unit is likely to dent 3M's (MMM) first-quarter 2024 results. However, strength in the Transportation and Electronics unit is expected to provide some relief.",2024-04-25 17:05:00+00:00,https://www.zacks.com/stock/news/2262648/heres-how-you-should-play-3m-mmm-stock-ahead-of-q1-earnings,Zacks Investment Research,-0.05,0.7,neutral,0.05,True,False,False,False,False,False,False,False,0.0,260,"['MMM', 'GTLS', 'AXON', 'ATMU']",ATMU,2024-04-25
+Zebra Technologies (ZBRA) to Post Q1 Earnings: What to Expect,Weakness in the Asset Intelligence & Tracking and Enterprise Visibility & Mobility segments are likely to have hurt Zebra Technologies' (ZBRA) first-quarter performance.,2024-04-26 16:13:00+00:00,https://www.zacks.com/stock/news/2263545/zebra-technologies-zbra-to-post-q1-earnings-what-to-expect,Zacks Investment Research,0.0,1.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,232,"['PH', 'IR', 'ZBRA', 'ATMU']",ATMU,2024-04-26
+Howmet Aerospace (HWM) to Post Q1 Earnings: What to Expect?,"Strength in the Engine products segment due to growth in commercial aerospace, defense aerospace and industrial gas turbine markets is likely to aid Howmet Aerospace's (HWM) first-quarter 2024 results.",2024-04-29 14:07:00+00:00,https://www.zacks.com/stock/news/2264220/howmet-aerospace-hwm-to-post-q1-earnings-what-to-expect,Zacks Investment Research,-0.041666666666666664,0.4583333333333333,neutral,0.041666666666666664,True,False,False,False,True,False,False,False,0.0,262,"['PH', 'IR', 'HWM', 'ATMU']",ATMU,2024-04-29
+Powell (POWL) Gears Up to Post Q2 Earnings: Is a Beat Likely?,"Powell's (POWL) second-quarter fiscal 2024 results are expected to benefit from solid momentum across petrochemical, oil and gas sectors, partly offset by cost inflation.",2024-04-29 14:11:00+00:00,https://www.zacks.com/stock/news/2264258/powell-powl-gears-up-to-post-q2-earnings-is-a-beat-likely,Zacks Investment Research,-0.03333333333333333,0.5,neutral,0.03333333333333333,True,False,True,False,False,False,False,False,0.0,233,"['GTLS', 'POWL', 'AXON', 'ATMU']",ATMU,2024-04-29
+What to Note Ahead of Johnson Controls' (JCI) Q2 Earnings?,Johnson Controls' (JCI) fiscal second-quarter results are likely to benefit from continued improvement in the HVAC & Controls business.,2024-04-29 16:26:00+00:00,https://www.zacks.com/stock/news/2264381/what-to-note-ahead-of-johnson-controls-jci-q2-earnings,Zacks Investment Research,0.0,1.0,neutral,0.0,True,False,True,False,False,False,False,False,0.0,195,"['JCI', 'GTLS', 'AXON', 'ATMU']",ATMU,2024-04-29
+Xylem (XYL) to Post Q1 Earnings: What's in the Offing?,Xylem's (XYL) first-quarter 2024 results are likely to gain from strength across its utilities and industrial end markets despite weakness in the residential building solutions end market.,2024-04-30 13:47:00+00:00,https://www.zacks.com/stock/news/2265191/xylem-xyl-to-post-q1-earnings-whats-in-the-offing,Zacks Investment Research,0.0,1.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,244,"['GTLS', 'XYL', 'AXON', 'ATMU']",ATMU,2024-04-30
+Xylem (XYL) to Post Q1 Earnings: What's in the Offing? (revised),Xylem's (XYL) first-quarter 2024 results are likely to gain from strength across its utilities and industrial end markets despite weakness in the residential building solutions end market.,2024-04-30 22:29:00+00:00,https://www.zacks.com/stock/news/2265515/xylem-xyl-to-post-q1-earnings-whats-in-the-offing-revised,Zacks Investment Research,0.0,1.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,254,"['GTLS', 'XYL', 'AXON', 'ATMU']",ATMU,2024-04-30
+Is a Beat in Store for Atmus Filtration (ATMU) in Q1 Earnings?,Atmus Filtration's (ATMU) first-quarter performance is expected to benefit from solid momentum in first-fit markets and robust demand for the Fleetguard brand.,2024-05-01 11:38:00+00:00,https://www.zacks.com/stock/news/2265722/is-a-beat-in-store-for-atmus-filtration-atmu-in-q1-earnings,Zacks Investment Research,-0.05,0.25,neutral,0.05,True,False,False,False,False,False,False,False,0.0,223,"['GTLS', 'AXON', 'YOU', 'ATMU']",ATMU,2024-05-01
+AXON Gears Up to Report Q1 Earnings: What's in the Cards?,Axon's (AXON) first-quarter 2024 earnings are expected to have gained from strong demand for TASER devices and higher cartridge revenues.,2024-05-01 11:50:00+00:00,https://www.zacks.com/stock/news/2265748/axon-gears-up-to-report-q1-earnings-whats-in-the-cards,Zacks Investment Research,0.19444444444444442,0.5444444444444444,positive,0.19444444444444442,True,False,False,False,False,False,False,False,0.0,196,"['GTLS', 'AXON', 'YOU', 'ATMU']",ATMU,2024-05-01
+Ingersoll Rand (IR) to Post Q1 Earnings: Is a Beat in Store?,"Ingersoll Rand's (IR) Q1 results are likely to benefit from strong demand, pricing actions and contributions from acquisitions. However, high operating expenses might have affected its margins.",2024-05-01 12:32:00+00:00,https://www.zacks.com/stock/news/2265901/ingersoll-rand-ir-to-post-q1-earnings-is-a-beat-in-store,Zacks Investment Research,0.19777777777777775,0.7577777777777778,positive,0.19777777777777775,True,True,False,False,False,False,False,False,0.0,255,"['PH', 'IR', 'AXON', 'ATMU']",ATMU,2024-05-01
+Parker-Hannifin (PH) to Post Q3 Earnings: Is a Beat in Store?,"Parker-Hannifin's (PH) fiscal third-quarter performance is expected to have gained from solid demand for its products across the aerospace, oil & gas and agriculture end markets.",2024-05-01 12:33:00+00:00,https://www.zacks.com/stock/news/2265900/parker-hannifin-ph-to-post-q3-earnings-is-a-beat-in-store,Zacks Investment Research,-0.05,0.25,neutral,0.05,True,False,False,False,True,False,False,False,0.0,241,"['PH', 'IR', 'AXON', 'ATMU']",ATMU,2024-05-01
+Are Industrial Products Stocks Lagging  Applied Industrial Technologies (AIT) This Year?,Here is how Applied Industrial Technologies (AIT) and Atmus Filtration Technologies (ATMU) have performed compared to their sector so far this year.,2024-05-01 13:40:11+00:00,https://www.zacks.com/stock/news/2265943/are-industrial-products-stocks-lagging-applied-industrial-technologies-ait-this-year,Zacks Investment Research,0.1,1.0,neutral,0.1,False,False,True,False,True,False,False,False,0.0,238,"['AIT', 'ATMU']",ATMU,2024-05-01
+Should You Buy Atmus (ATMU) Ahead of Earnings?,Atmus (ATMU) is seeing favorable earnings estimate revision activity and has a positive Zacks Earnings ESP heading into earnings season.,2024-05-02 13:59:00+00:00,https://www.zacks.com/stock/news/2267048/should-you-buy-atmus-atmu-ahead-of-earnings,Zacks Investment Research,0.22727272727272727,0.5454545454545454,positive,0.22727272727272727,True,True,False,False,False,False,False,False,0.0,184,['ATMU'],ATMU,2024-05-02
+Atmus Filtration Technologies (ATMU) Q1 2024 Earnings Call Transcript,"ATMU earnings call for the period ending March 31, 2024.",2024-05-03 19:15:10+00:00,https://www.fool.com/earnings/call-transcripts/2024/05/03/atmus-filtration-technologies-atmu-q1-2024-earning/,The Motley Fool,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,127,['ATMU'],ATMU,2024-05-03
+Analyst Expectations For Atmus Filtration Techs's Future,"In the preceding three months, 7 analysts have released ratings for Atmus Filtration Techs (NYSE:ATMU), presenting a wide array of perspectives from bullish to bearish.
+The table below offers a condensed view of their recent ratings, showcasing the changing sentiments over the past 30 days and comparing them to the preceding months.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+1
+6
+0
+0
+0
+
+
+Last 30D
+0
+1
+0
+0
+0
+
+
+1M Ago
+1
+2
+0
+0
+0
+
+
+2M Ago
+0
+2
+0
+0
+0
+
+
+3M Ago
+0
+1
+0
+0
+0
+
+
+
+Providing deeper insights, analysts have established 12-month price targets, indicating an average target of $34.86, along with a high estimate of $38.00 and a low estimate of $29.00. This current average reflects an increase of 11.84% from the previous average price target of $31.17. 
+
+Decoding Analyst Ratings: A Detailed Look
+The analysis of recent analyst actions sheds light on the perception of Atmus Filtration Techs by financial experts. The following summary presents key analysts, their recent evaluations, and adjustments to ratings and price targets.
+
+
+
+Analyst
+Analyst Firm
+Action Taken
+Rating
+Current Price Target
+Prior Price Target
+
+
+
+
+Joseph O'Dea
+Wells Fargo
+Lowers
+Overweight
+$36.00
+$37.00
+
+
+Robert Mason
+Baird
+Raises
+Outperform
+$37.00
+$29.00
+
+
+Jerry Revich
+Goldman Sachs
+Raises
+Buy
+$34.00
+$30.00
+
+
+Tami Zakaria
+JP Morgan
+Raises
+Overweight
+$38.00
+$36.00
+
+
+Tami Zakaria
+JP Morgan
+Raises
+Overweight
+$36.00
+$27.00
+
+
+Bobby Brooks
+Northland Capital Markets
+Announces
+Outperform
+$34.00
+-
+
+
+Robert Mason
+Baird
+Raises
+Outperform
+$29.00
+$28.00
+
+
+
+Key Insights:
+
+Action Taken: In response to dynamic market conditions and company performance, analysts update their ...Full story available on Benzinga.com",2024-05-06 14:00:17+00:00,https://www.benzinga.com/insights/analyst-ratings/24/05/38643660/analyst-expectations-for-atmus-filtration-techss-future,Benzinga,0.017011494252873564,0.34706896551724137,neutral,0.017011494252873564,False,True,False,False,True,False,False,False,0.0,1781,['ATMU'],ATMU,2024-05-06
+New Strong Buy Stocks for May 10th,"ASC, DXPE, ATMU, EAT and BRBR have been added to the Zacks Rank #1 (Strong Buy) List on May 10, 2024.",2024-05-10 10:29:00+00:00,https://www.zacks.com/commentary/2270667/new-strong-buy-stocks-for-may-10th,Zacks Investment Research,0.05075757575757571,0.7053030303030303,neutral,0.05075757575757571,False,True,False,False,False,False,False,False,0.0,137,"['EAT', 'DXPE', 'ASC', 'BRBR', 'ATMU']",ATMU,2024-05-10
+Tetra Tech (TTEK) Buys Convergence & Boosts Product Portfolio,Tetra Tech (TTEK) acquires Convergence to offer a comprehensive line of integrated automation platform solutions to its clients.,2024-05-10 15:46:00+00:00,https://www.zacks.com/stock/news/2272360/tetra-tech-ttek-buys-convergence-boosts-product-portfolio,Zacks Investment Research,0.0,0.0,neutral,0.0,False,True,False,False,True,False,False,False,0.0,191,"['TTEK', 'DCI', 'FTEK', 'ATMU']",ATMU,2024-05-10
+Time to Buy These Highly Recommended Industrial Products Stocks,Now appears to be a good time to buy these three industrial products stocks which all have an average broker recommendation of 1.0 on a scale of 1 to 5 (Strong Buy to Strong Sell).,2024-05-14 20:43:00+00:00,https://www.zacks.com/commentary/2273759/time-to-buy-these-highly-recommended-industrial-products-stocks,Zacks Investment Research,0.31533333333333335,0.6013333333333334,positive,0.31533333333333335,False,True,False,False,True,False,False,False,0.0,245,"['AIT', 'BDC', 'ATMU']",ATMU,2024-05-14
+"Take the Zacks Approach to Beat the Markets: Goldman Sachs, Rush Street Interactive, Atmus Filtration Technologies in Focus","Last week, our time-tested methodologies served investors well in navigating the market. Check out some of our achievements from the past three months.",2024-05-20 12:13:00+00:00,https://www.zacks.com/stock/news/2275931/take-the-zacks-approach-to-beat-the-markets-goldman-sachs-rush-street-interactive-atmus-filtration-technologies-in-focus,Zacks Investment Research,-0.125,0.15833333333333333,negative,0.125,False,False,False,False,False,False,False,False,0.0,276,"['GS', 'WMT', 'MMM', 'DGX', 'ETN', 'TSCO', 'SFM', 'VIRT', 'NOBL', 'RSI', 'DPRO', 'ATMU']",ATMU,2024-05-20
+Do Options Traders Know Something About Atmus Filtration (ATMU) Stock We Don't?,Investors need to pay close attention to Atmus Filtration (ATMU) stock based on the movements in the options market lately.,2024-06-14 11:11:00+00:00,https://www.zacks.com/stock/news/2288272/do-options-traders-know-something-about-atmus-filtration-atmu-stock-we-dont,Zacks Investment Research,-0.3,0.6,negative,0.3,False,False,False,False,False,False,False,False,0.0,204,['ATMU'],ATMU,2024-06-14
+3 Pollution Control Stocks to Watch Despite Industry Headwinds,"Higher adoption of alternative fuels and electric vehicles, along with high innovation costs, dampens the prospects of the Zacks Pollution Control industry. TTEK, DCI and ATMU are some stocks worth watching.",2024-06-26 13:51:00+00:00,https://www.zacks.com/commentary/2293495/3-pollution-control-stocks-to-watch-despite-industry-headwinds,Zacks Investment Research,0.23666666666666666,0.38000000000000006,positive,0.23666666666666666,False,False,False,False,True,False,False,False,0.0,271,"['TTEK', 'DCI', 'ATMU']",ATMU,2024-06-26
+"Zacks Industry Outlook Highlights Tetra Tech, Donaldson and Atmus Filtration","Tetra Tech, Donaldson and Atmus Filtration have been highlighted in this Industry Outlook article.",2024-06-27 11:46:00+00:00,https://www.zacks.com/stock/news/2294106/zacks-industry-outlook-highlights-tetra-tech-donaldson-and-atmus-filtration,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,176,"['TTEK', 'DCI', 'ATMU']",ATMU,2024-06-27

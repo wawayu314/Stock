@@ -1,0 +1,920 @@
+title,description,published_utc,article_url,publisher,sentiment_polarity,sentiment_subjectivity,sentiment_label,sentiment_confidence,keywords_earnings,keywords_acquisition,keywords_regulation,keywords_partnership,keywords_product,keywords_financial,keywords_leadership,keywords_lawsuit,urgency_score,text_length,tickers,ticker,date
+NASDAQ Jumps Over 1% as Tech Sparks Late Rally,NASDAQ Jumps Over 1% as Tech Sparks Late Rally,2020-05-05 13:15:00+00:00,https://www.zacks.com/registration/ultimatetrader/welcome/eoffer/30c3?adid=ZU_CONTENT_SYND&cid=CS-ZC-FT-zucommentary-25228,Zacks Investment Research,-0.3,0.6,negative,0.3,False,False,False,False,False,False,False,False,0.0,94,"['BNFT', 'HLIT', 'DPZ', 'SPOT', 'VIRT', 'CLX', 'CNX', 'YUMC', 'STNG', 'EDIT', 'NTLA', 'BLUE', 'AMZN', 'AAPL', 'NFLX', 'MSFT', 'DIS', 'LYFT', 'UBER', 'GRUB', 'SQ', 'BMY', 'HLT']",CNX,2020-05-05
+"Dow, S&P Jump Over 3% on Encouraging Vaccine Data","Dow, S&P Jump Over 3% on Encouraging Vaccine Data",2020-05-19 13:15:00+00:00,https://www.zacks.com/registration/ultimatetrader/welcome/eoffer/30c3?adid=ZU_CONTENT_SYND&cid=CS-ZC-FT-zucommentary-25390,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,100,"['CVX', 'COG', 'SIMO', 'GSKY', 'AINV', 'NVDA', 'SDOW', 'SPXS', 'NOMD', 'CNX', 'FLO', 'HUM', 'HEXO', 'CCL', 'UAL', 'DAL', 'LUV', 'C', 'WFC', 'BAC', 'JPM', 'MRNA', 'WMT', 'HD']",CNX,2020-05-19
+What's in the Offing for CNX Resources' (CNX) Q1 Earnings ?,CNX Resources' (CNX) first-quarter earnings are likely to have benefited from cost management initiatives and lower share outstanding.,2021-04-26 12:50:00+00:00,http://www.zacks.com/stock/news/1455772/whats-in-the-offing-for-cnx-resources-cnx-q1-earnings-?cid=CS-ZC-FT-analyst_blog|earnings_preview-1455772,Zacks Investment Research,0.25,0.9375,positive,0.25,True,False,False,False,False,False,True,False,0.0,195,"['CNX', 'EOG', 'MTDR', 'AR']",CNX,2021-04-26
+CNX Resources Corporation. (CNX) Q1 Earnings and Revenues Beat Estimates,"CNX Resources Corporation. (CNX) delivered earnings and revenue surprises of 28.57% and 16.62%, respectively, for the quarter ended March 2021. Do the numbers hold clues to what lies ahead for the stock?",2021-04-29 14:25:05+00:00,http://www.zacks.com/stock/news/1473250/cnx-resources-corporation-cnx-q1-earnings-and-revenues-beat-estimates?cid=CS-ZC-FT-tale_of_the_tape|yseop_template_4-1473250,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,277,['CNX'],CNX,2021-04-29
+CNX Resources (CNX) Q1 Earnings & Revenues Beat Estimates,CNX Resources' (CNX) first-quarter earnings trump estimates backed by an increase in commodity prices.,2021-04-29 15:54:00+00:00,http://www.zacks.com/stock/news/1473753/cnx-resources-cnx-q1-earnings-revenues-beat-estimates?cid=CS-ZC-FT-analyst_blog|earnings_article-1473753,Zacks Investment Research,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,161,"['EQT', 'CNX', 'DVN', 'OXY']",CNX,2021-04-29
+CNX Resources Corporation (CNX) Q1 2021 Earnings Call Transcript,"CNX earnings call for the period ending March 31, 2021.",2021-04-30 06:00:44+00:00,https://www.fool.com/earnings/call-transcripts/2021/04/30/cnx-resources-corporation-cnx-q1-2021-earnings-cal/?source=iedfolrf0000001,The Motley Fool,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,121,['CNX'],CNX,2021-04-30
+"Devon Energy (DVN) Q1 Earnings Beat Estimates, Revenues Lag",Devon Energy's (DVN) first-quarter earnings beat estimates. The company continues to generate high volume of oil production from superior quality assets.,2021-05-05 12:23:00+00:00,http://www.zacks.com/stock/news/1504007/devon-energy-dvn-q1-earnings-beat-estimates-revenues-lag?cid=CS-ZC-FT-analyst_blog|earnings_article-1504007,Zacks Investment Research,0.43,0.72,positive,0.43,True,False,False,False,True,False,False,False,0.0,214,"['HES', 'CNX', 'DVN', 'MTDR']",CNX,2021-05-05
+"Murphy Oil (MUR) Q1 Earnings Surpass, Revenues Miss Mark","Murphy Oil (MUR) reports net income in Q1 against loss expectation. However, its top line misses the consensus mark.",2021-05-06 16:34:00+00:00,http://www.zacks.com/stock/news/1511031/murphy-oil-mur-q1-earnings-surpass-revenues-miss-mark?cid=CS-ZC-FT-analyst_blog|earnings_article-1511031,Zacks Investment Research,0.25,0.25,positive,0.25,True,False,False,False,False,False,False,False,0.0,174,"['HES', 'CNX', 'MUR', 'MTDR']",CNX,2021-05-06
+"Occidental (OXY) Q1 Loss Narrower Than Expected, Sales Top",Occidental Petroleum's (OXY) first-quarter total production exceeds the guided range due to strong contribution from Permian Resources assets.,2021-05-11 14:38:00+00:00,http://www.zacks.com/stock/news/1535654/occidental-oxy-q1-loss-narrower-than-expected-sales-top?cid=CS-ZC-FT-analyst_blog|earnings_article-1535654,Zacks Investment Research,0.14166666666666666,0.5516666666666666,positive,0.14166666666666666,True,False,False,False,True,False,False,False,0.0,202,"['CNX', 'MUR', 'DVN', 'OXY']",CNX,2021-05-11
+Off To The RACES: Natural Gas Equities Crushing FAANG Stocks,A collection of loathed natural gas equities has trounced the performance of the much-loved FAANG equities.,2021-05-26 16:54:41+00:00,https://seekingalpha.com/article/4431395-off-to-the-races-natural-gas-equities-crushing-faang-stocks?source=feed,Seeking Alpha,0.19999999999999998,0.5666666666666668,positive,0.19999999999999998,False,False,False,False,False,False,False,False,0.0,169,"['AAPL', 'ABBV', 'AM', 'AMZN', 'AR', 'ARKK', 'BAC', 'BMY', 'BRK.A', 'BRK.B', 'CCIV', 'CNX', 'CRM', 'DIA', 'EQT', 'FB', 'GOOG', 'GOOGL', 'MRK', 'PFE', 'QQQ', 'RRC', 'SPY', 'SWN', 'TSLA', 'XLE', 'XLU', 'XME', 'XOM']",CNX,2021-05-26
+Tracking Southeastern Asset Management Portfolio - Q1 2021 Update,"Southeastern’s 13F portfolio value increased from $4.48B to $4.68B this quarter. The number of positions decreased from 25 to 24. The top three are Lumen, CNX Resources, and Mattel Inc.",2021-06-14 05:57:04+00:00,https://seekingalpha.com/article/4434642-southeastern-asset-management-portfolio-q1-2021-update,Seeking Alpha,0.04999999999999999,0.6,neutral,0.04999999999999999,False,False,False,False,False,False,True,False,0.0,252,"['AMG', 'BABA', 'BATRA', 'BATRK', 'BIDU', 'BIIB', 'CABO', 'CMCSA', 'CNHI', 'CNX', 'DD', 'DEI', 'ESRT', 'FDX', 'FWONA', 'FWONK', 'GE', 'GHC', 'H', 'KODK', 'LAZ', 'LUMN', 'MAT', 'MGM', 'MGR', 'MLCO', 'PCH', 'RE', 'RLGY', 'TCOM', 'WMB', 'YY']",CNX,2021-06-14
+Here are Wall Street’s 20 favorite energy stocks as crude oil hits a 6-year high,Some of these oil stocks feature attractive dividend yields.,2021-07-10 14:39:00+00:00,https://www.marketwatch.com/story/here-are-wall-streets-20-favorite-energy-stocks-as-crude-oil-hits-a-6-year-high-11625575911,MarketWatch,0.19000000000000003,0.885,positive,0.19000000000000003,False,False,False,False,False,True,False,False,0.0,142,"['REGI', 'ET', 'PDCE', 'CNX', 'PXD', 'LPG', 'BCEI', 'DVN', 'EQT', 'PVAC', 'GPRE', 'COP', 'MPC', 'VLO', 'TALO', 'BKR', 'CVX', 'EPD', 'EOG', 'PSX']",CNX,2021-07-10
+Why CNX Resources Corporation. (CNX) is a Top Value Stock for the Long-Term,The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.,2021-07-20 13:48:00+00:00,https://www.zacks.com/stock/news/1764251/why-cnx-resources-corporation-cnx-is-a-top-value-stock-for-the-long-term,Zacks Investment Research,0.3444444444444444,0.4444444444444445,positive,0.3444444444444444,False,False,False,False,False,False,False,False,0.0,224,['CNX'],CNX,2021-07-20
+CNX Resources Corporation. (CNX) Earnings Expected to Grow: Should You Buy?,CNX Resources Corporation. (CNX) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2021-07-22 19:03:50+00:00,https://www.zacks.com/stock/news/1766323/cnx-resources-corporation-cnx-earnings-expected-to-grow-should-you-buy,Zacks Investment Research,0.03714285714285714,0.7871428571428571,neutral,0.03714285714285714,True,True,False,False,False,False,False,False,0.0,259,['CNX'],CNX,2021-07-22
+CNX Resources (CNX) to Report Q2 Earnings: What's in Store?,"CNX Resources' (CNX) earnings are expected to have benefited from cost management, lower shares outstanding and a decline in capital servicing costs.",2021-07-26 15:39:00+00:00,https://www.zacks.com/stock/news/1767670/cnx-resources-cnx-to-report-q2-earnings-whats-in-store,Zacks Investment Research,0.2,0.6375,positive,0.2,True,False,False,False,False,False,True,False,0.0,210,"['DVN', 'APA', 'CNX', 'MTDR']",CNX,2021-07-26
+CNX Resources Corporation. (CNX) Lags Q2 Earnings and Revenue Estimates,"CNX Resources Corporation. (CNX) delivered earnings and revenue surprises of -28.00% and -8.04%, respectively, for the quarter ended June 2021. Do the numbers hold clues to what lies ahead for the stock?",2021-07-29 13:35:05+00:00,https://www.zacks.com/stock/news/1770395/cnx-resources-corporation-cnx-lags-q2-earnings-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,276,['CNX'],CNX,2021-07-29
+CNX Resources (CNX) Q2 Earnings & Revenues Miss Estimates,CNX Resources' (CNX) second-quarter earnings and revenues are lower than expected. The company reiterates its production guidance for 2021.,2021-07-29 16:11:00+00:00,https://www.zacks.com/stock/news/1770684/cnx-resources-cnx-q2-earnings-revenues-miss-estimates,Zacks Investment Research,-0.1,0.4,neutral,0.1,True,False,True,False,True,False,False,False,0.0,198,"['DVN', 'COP', 'OXY', 'CNX']",CNX,2021-07-29
+CNX Resources Corporation (CNX) Q2 2021 Earnings Call Transcript,"CNX earnings call for the period ending June 30, 2021.",2021-07-30 02:32:08+00:00,https://www.fool.com/earnings/call-transcripts/2021/07/29/cnx-resources-corporation-cnx-q2-2021-earnings-cal/,The Motley Fool,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,120,['CNX'],CNX,2021-07-30
+Occidental (OXY) Q2 Earnings and Revenues Beat Estimates,Occidental Petroleum's (OXY) second-quarter earnings and revenues are better than expected. The company benefits from strong realized commodity prices.,2021-08-04 15:42:00+00:00,https://www.zacks.com/stock/news/1774419/occidental-oxy-q2-earnings-and-revenues-beat-estimates,Zacks Investment Research,0.27777777777777773,0.5444444444444444,positive,0.27777777777777773,True,False,True,False,False,False,False,False,0.0,209,"['DVN', 'OXY', 'CNX', 'CLR']",CNX,2021-08-04
+Devon Energy (DVN) Q2 Earnings & Revenues Surpass Estimates,Devon Energy's (DVN) second-quarter earnings and revenues are better than expected. The company gains from strong production and improved commodity realized prices.,2021-08-04 15:55:00+00:00,https://www.zacks.com/stock/news/1774455/devon-energy-dvn-q2-earnings-revenues-surpass-estimates,Zacks Investment Research,0.27777777777777773,0.5444444444444444,positive,0.27777777777777773,True,False,True,False,True,False,False,False,0.0,225,"['DVN', 'OXY', 'CNX', 'CLR']",CNX,2021-08-04
+"Plains All American (PAA) Q2 Earnings Miss, Revenues Beat","Plains All American (PAA) reports mixed second-quarter results, with earnings missing estimates but revenues surpassing the same.",2021-08-04 16:00:00+00:00,https://www.zacks.com/stock/news/1774456/plains-all-american-paa-q2-earnings-miss-revenues-beat,Zacks Investment Research,-0.04,0.08499999999999999,neutral,0.04,True,False,True,False,False,False,False,False,0.0,188,"['DVN', 'PAA', 'CNX', 'CLR']",CNX,2021-08-04
+"Murphy Oil (MUR) Q2 Earnings Beat, Revenues Miss Estimates","Murphy Oil (MUR) reports net income in Q2 against the prior-year's loss figure. Also, its top line improves year over year.",2021-08-05 17:25:00+00:00,https://www.zacks.com/stock/news/1775461/murphy-oil-mur-q2-earnings-beat-revenues-miss-estimates,Zacks Investment Research,0.25,0.25,positive,0.25,True,False,False,False,False,False,False,False,0.0,183,"['OXY', 'CNX', 'MUR', 'CLR']",CNX,2021-08-05
+"Q2 13F Roundup: How Buffett, Einhorn, Ackman And Others Adjusted Their Portfolios","The latest round of 13F filings from institutional investors is out, revealing to the world the stocks that some of the richest and most successful investors have been buying and selling.
+Takeaways From 13F Season: Investors who follow particular fund managers can easily look up what each was buying and selling in the quarter, but other investors may be more interested in overall themes from 13F filings. The second quarter of 2021 was another big quarter for the S&P 500, and investors were likely interested in what top managers were buying and selling heading into the second half of 2021.
+
+Google parent Alphabet has the attention of fund managers, with Tepper selling and Soros buying.
+Alibaba had a brutal quarter in part due to a regulatory crackdown on big tech stocks in China, and fund managers took notice. Tepper was selling while Cooperman was buying the dip.
+Buffett continued accumulating Kroger shares while selling off health care investments.
+Several fund managers traded ETFs to play particular themes. Despite a booming U.S. Market, Cooperman invested in developed markets outside of the U.S. & Canada by buying the EFA ETF, while Smith made big bets on small and mid-cap stocks by buying the IWR and IWM funds.
+
+Here’s a rundown of how the smart money was playing some of the most popular stocks last quarter.
+Related Link: The Case For A Stock Market Bubble: 'Speculation Pervading Society' 
+David Einhorn’s Greenlight Capital
+Notable Q2 Buys/Increases:
+
+GoPro Inc (NASDAQ: GPRO)
+Teck ...",2021-08-17 16:50:26+00:00,https://www.benzinga.com/news/21/08/22539855/q2-13f-roundup-how-buffett-einhorn-ackman-and-others-adjusted-their-portfolios,Benzinga,0.1309151785714286,0.41331845238095244,positive,0.1309151785714286,False,True,True,False,False,False,False,False,0.0,1596,"['PZZA', 'WBT', 'LH', 'EFA', 'FB', 'A', 'VIAC', 'LOW', 'FOA', 'ON', 'ACM', 'EHC', 'MGM', 'IWM', 'BABA', 'BMY', 'BHC', 'MRK', 'IWR', 'GOOGL', 'CAG', 'CTVA', 'MU', 'LQD', 'ADT', 'CONE', 'CNX', 'NLOK', 'NKE', 'SPY', 'TMUS', 'CVX', 'APG', 'ODP', 'AMZN', 'FOXA', 'DIS', 'OGN', 'OXY', 'BIIB', 'FOX', 'DK', 'ABNB', 'SJR', 'CMCSA', 'TWTR', 'DPZ', 'TEN', 'CVLT', 'HLT', 'FOE', 'THS', 'EBAY', 'EXPE', 'GPRO', 'GM', 'VG', 'GOOG', 'AXTA', 'HLF', 'XRX', 'INTC', 'QSR', 'IEP', 'VOO', 'MSFT', 'UBER', 'KR', 'CSOD', 'NFLX', 'TECK', 'LAD', 'PEAK']",CNX,2021-08-17
+Tracking David Einhorn's Portfolio - Q2 2021 Update,David Einhorn's 13F stock portfolio value increased from $1.44B to $1.59B this quarter. Read here about the largest three positions that are at ~42% of the portfolio.,2021-09-07 06:00:09+00:00,https://seekingalpha.com/article/4453804-david-einhorn-portfolio-q2-2021-update,Seeking Alpha,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,219,"['AAWW', 'ADT', 'AER', 'ALIT', 'APG', 'BHF', 'BHFAL', 'BHFAN', 'BHFAO', 'BHFAP', 'CC', 'CEIX', 'CHNG', 'CNX', 'CNXC', 'CPRI', 'DNMR', 'FUBO', 'GANX', 'GLD', 'GPK', 'GPRO', 'GRBK', 'JACK', 'JOBY', 'KPLT', 'MET', 'NBSE', 'NWS', 'NWSA', 'ODP', 'OPAD', 'PLBY', 'REZI', 'SATS', 'SNX', 'SONO', 'SPY', 'SRNG', 'SRNGU', 'SRNGW', 'TECK', 'TWTR', 'UNH', 'XOG', 'GLRE']",CNX,2021-09-07
+Is CNX Resources (CNX) Stock a Solid Choice Right Now?,"CNX Resources (CNX) has seen solid earnings estimate revision activity over the past month, and belongs to a strong industry as well.",2021-09-17 12:22:00+00:00,https://www.zacks.com/stock/news/1797731/is-cnx-resources-cnx-stock-a-solid-choice-right-now,Zacks Investment Research,0.0938095238095238,0.3438095238095238,neutral,0.0938095238095238,True,False,False,False,False,False,False,False,0.0,189,['CNX'],CNX,2021-09-17
+CNX Resources Corporation (CNX) Stock Jumps 11.1%: Will It Continue to Soar?,CNX Resources Corporation. (CNX) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might help the stock continue moving higher in the near term.,2021-09-28 11:48:00+00:00,https://www.zacks.com/stock/news/1801703/cnx-resources-corporation-cnx-stock-jumps-111-will-it-continue-to-soar,Zacks Investment Research,0.16999999999999998,0.39333333333333337,positive,0.16999999999999998,True,False,False,False,False,False,False,False,0.0,288,['CNX'],CNX,2021-09-28
+Energy stocks have perked up — here are Wall Street’s favorite sector plays,"A combination of economic growth, rising demand and supply disruptions point to more upside for oil prices and energy stocks.",2021-10-11 19:47:00+00:00,https://www.marketwatch.com/story/energy-stocks-have-perked-up-here-are-wall-streets-favorite-sector-plays-11633697929,MarketWatch,0.39999999999999997,0.5666666666666667,positive,0.39999999999999997,False,False,True,False,False,False,False,False,0.0,202,"['MID', 'CLNE', 'REGI', 'ESTE', 'NESR', 'CNX', 'EQT', 'GPRE', 'XPRO', 'LPG', 'TALO', 'PDCE', 'CHK', 'BCEI', 'NEX', 'FLMN', 'DEN', 'OAS', 'UUUU', 'NOG', 'HES']",CNX,2021-10-11
+Can CNX Resources Corporation. (CNX) Climb 33% to Reach the Level Wall Street Analysts Expect?,"The mean of analysts' price targets for CNX Resources Corporation. (CNX) points to a 32.9% upside in the stock. While this highly sought-after metric has not proven reasonably effective, strong agreement among analysts in raising earnings estimates does indicate an upside in the stock.",2021-10-12 13:16:00+00:00,https://www.zacks.com/stock/news/1809673/can-cnx-resources-corporation-cnx-climb-33-to-reach-the-level-wall-street-analysts-expect,Zacks Investment Research,0.22020833333333334,0.6902083333333333,positive,0.22020833333333334,True,False,False,False,False,False,False,False,0.0,382,['CNX'],CNX,2021-10-12
+Earnings Estimates Rising for CNX Resources Corporation. (CNX): Will It Gain?,"CNX Resources Corporation. (CNX) shares have started gaining and might continue moving higher in the near term, as indicated by solid earnings estimate revisions.",2021-10-12 16:20:06+00:00,https://www.zacks.com/stock/news/1809769/earnings-estimates-rising-for-cnx-resources-corporation-cnx-will-it-gain,Zacks Investment Research,0.11666666666666665,0.3333333333333333,positive,0.11666666666666665,True,False,False,False,False,False,False,False,0.0,241,['CNX'],CNX,2021-10-12
+CNX vs. FANG: Which Stock Should Value Investors Buy Now?,CNX vs. FANG: Which Stock Is the Better Value Option?,2021-10-13 15:40:07+00:00,https://www.zacks.com/stock/news/1810136/cnx-vs-fang-which-stock-should-value-investors-buy-now,Zacks Investment Research,0.5,0.5,positive,0.5,False,True,False,False,False,False,False,False,0.0,112,"['CNX', 'FANG']",CNX,2021-10-13
+Natural Gas: Price Falls But Fundamentals Remain Bullish,"The bullish supply/demand fundamentals are likely to spur natural gas prices. The upward trend should aid gas-weighted producers like SBOW, RRC, GDP, CRK, EQT and CNX.",2021-10-18 11:11:00+00:00,https://www.zacks.com/stock/news/1811364/natural-gas-price-falls-but-fundamentals-remain-bullish,Zacks Investment Research,0.06666666666666667,0.6,neutral,0.06666666666666667,False,False,False,False,False,False,False,False,0.0,225,"['CRK', 'RRC', 'EQT', 'CNX', 'LNG', 'GDP', 'SBOW']",CNX,2021-10-18
+Why This 1 Value Stock Could Be a Great Addition to Your Portfolio,"Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",2021-10-18 14:00:05+00:00,https://www.zacks.com/stock/news/1811527/why-this-1-value-stock-could-be-a-great-addition-to-your-portfolio,Zacks Investment Research,0.41111111111111115,0.6611111111111111,positive,0.41111111111111115,False,False,False,False,False,False,False,False,0.0,195,['CNX'],CNX,2021-10-18
+"The Zacks Analyst Blog Highlights: Range Resources, Comstock Resources, EQT Corporation, CNX Resources and Cheniere Energy","The Zacks Analyst Blog Highlights: Range Resources, Comstock Resources, EQT Corporation, CNX Resources and Cheniere Energy",2021-10-19 10:47:00+00:00,https://www.zacks.com/stock/news/1812221/the-zacks-analyst-blog-highlights-range-resources-comstock-resources-eqt-corporation-cnx-resources-and-cheniere-energy,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,246,"['CRK', 'RRC', 'EQT', 'CNX', 'LNG']",CNX,2021-10-19
+CNX Resources Corporation. (CNX) Earnings Expected to Grow: What to Know Ahead of Next Week's Release,CNX Resources Corporation. (CNX) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2021-10-21 19:02:37+00:00,https://www.zacks.com/stock/news/1814442/cnx-resources-corporation-cnx-earnings-expected-to-grow-what-to-know-ahead-of-next-weeks-release,Zacks Investment Research,0.03095238095238095,0.655952380952381,neutral,0.03095238095238095,True,False,False,False,True,False,False,False,0.0,285,['CNX'],CNX,2021-10-21
+CNX Resources (CNX) to Report Q3 Earnings: What's in Store?,"CNX Resources' (CNX) third-quarter earnings are expected to have benefited from lower shares outstanding, strong production from assets and efficient management of expenses.",2021-10-25 15:08:00+00:00,https://www.zacks.com/stock/news/1815869/cnx-resources-cnx-to-report-q3-earnings-whats-in-store,Zacks Investment Research,0.27777777777777773,0.6694444444444444,positive,0.27777777777777773,True,False,False,False,True,False,True,False,0.0,234,"['APA', 'CNX', 'EOG', 'CLR']",CNX,2021-10-25
+Antero Resources (AR) to Report Q3 Earnings: What's in Store?,Lower production volumes are expected to have hurt Antero Resources' (AR) Q3 earnings.,2021-10-26 15:07:00+00:00,https://www.zacks.com/stock/news/1816818/antero-resources-ar-to-report-q3-earnings-whats-in-store,Zacks Investment Research,-0.1,0.4,neutral,0.1,True,False,False,False,True,False,False,False,0.0,149,"['CNX', 'SM', 'PSXP', 'AR']",CNX,2021-10-26
+"CNX Resources (CNX) Tops Q3 Earnings Estimates, Ups '21 View",CNX Resources' (CNX) third-quarter earnings and revenues are better than expected. The company upwardly revises its 2021 production guidance.,2021-10-28 16:31:00+00:00,https://www.zacks.com/stock/news/1818977/cnx-resources-cnx-tops-q3-earnings-estimates-ups-21-view,Zacks Investment Research,0.2,0.45,positive,0.2,True,False,False,False,True,False,False,False,0.0,203,"['DVN', 'COP', 'OXY', 'CNX']",CNX,2021-10-28
+CNX Resources Corporation (CNX) Q3 2021 Earnings Call Transcript,"CNX earnings call for the period ending September 30, 2021.",2021-10-29 02:01:10+00:00,https://www.fool.com/earnings/call-transcripts/2021/10/28/cnx-resources-corporation-cnx-q3-2021-earnings-cal/,The Motley Fool,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,125,['CNX'],CNX,2021-10-29
+CNX or LNG: Which Is the Better Value Stock Right Now?,CNX vs. LNG: Which Stock Is the Better Value Option?,2021-10-29 15:40:12+00:00,https://www.zacks.com/stock/news/1820032/cnx-or-lng-which-is-the-better-value-stock-right-now,Zacks Investment Research,0.42857142857142855,0.5119047619047619,positive,0.42857142857142855,False,False,False,False,False,False,False,False,0.0,108,"['CNX', 'LNG']",CNX,2021-10-29
+A Historic Capital Rotation Is Quietly Marching On,"There has been an ongoing historic capital rotation in the markets that can be traced to the March 23, 2020 broader market lows. Read what to know here.",2021-10-29 18:31:35+00:00,https://seekingalpha.com/article/4463555-a-historic-capital-rotation-is-quietly-marching-on,Seeking Alpha,0.0,0.1111111111111111,neutral,0.0,False,False,False,False,False,False,False,False,0.0,204,"['AAPL', 'AMZN', 'AR', 'BRK.A', 'BRK.B', 'BTU', 'CLF', 'CNX', 'COP', 'CRM', 'CVX', 'DIA', 'EQT', 'FB', 'GDX', 'GOOG', 'GOOGL', 'IWM', 'LCID', 'MSFT', 'NFLX', 'OXY', 'QQQ', 'RRC', 'SPY', 'SWN', 'TSLA', 'X', 'XLE', 'XME', 'XOM', 'XOP']",CNX,2021-10-29
+Wall Street Analysts Think CNX Resources Corporation. (CNX) Could Surge 28%: Read This Before Placing a Bet,"The mean of analysts' price targets for CNX Resources Corporation. (CNX) points to a 28.3% upside in the stock. While this highly sought-after metric has not proven reasonably effective, strong agreement among analysts in raising earnings estimates does indicate an upside in the stock.",2021-11-01 15:32:00+00:00,https://www.zacks.com/stock/news/1820888/wall-street-analysts-think-cnx-resources-corporation-cnx-could-surge-28-read-this-before-placing-a-bet,Zacks Investment Research,0.22020833333333334,0.6902083333333333,positive,0.22020833333333334,True,False,False,False,False,False,False,False,0.0,395,['CNX'],CNX,2021-11-01
+Best Value Stocks to Buy for November 3rd,"DOW, IBCP, CLS, and CNX made it to the Zacks Rank #1 (Strong Buy) value stocks list on November 3, 2021.",2021-11-03 12:27:00+00:00,https://www.zacks.com/commentary/1822489/best-value-stocks-to-buy-for-november-3rd,Zacks Investment Research,0.15833333333333333,0.4833333333333333,positive,0.15833333333333333,False,True,False,False,False,False,False,False,0.0,147,"['DOW', 'CNX', 'CLS', 'IBCP']",CNX,2021-11-03
+Best Growth Stocks to Buy for November 3rd,"DOW, CNX, OXY, and KLAC made it to the Zacks Rank #1 (Strong Buy) growth stocks list on November 3, 2021",2021-11-03 13:44:00+00:00,https://www.zacks.com/commentary/1822622/best-growth-stocks-to-buy-for-november-3rd,Zacks Investment Research,0.15833333333333333,0.4833333333333333,positive,0.15833333333333333,False,True,False,False,False,False,False,False,0.0,148,"['OXY', 'KLAC', 'DOW', 'CNX']",CNX,2021-11-03
+New Strong Buy Stocks for November 3rd,"CNX, DOW, SNDR, HLIT, and OPCH have been added to the Zacks Rank #1 (Strong Buy) List on November 3, 2021.",2021-11-03 14:11:00+00:00,https://www.zacks.com/commentary/1821726/new-strong-buy-stocks-for-november-3rd,Zacks Investment Research,0.04060606060606057,0.5642424242424242,neutral,0.04060606060606057,False,True,False,False,False,False,False,False,0.0,146,"['HLIT', 'DOW', 'CNX', 'SNDR', 'OPCH']",CNX,2021-11-03
+Devon Energy (DVN) Q3 Earnings & Revenues Beat Estimates,Devon Energy's (DVN) third-quarter earnings are better than expected. The company continues to benefit from strong production from the Delaware Basin.,2021-11-03 14:27:00+00:00,https://www.zacks.com/stock/news/1822740/devon-energy-dvn-q3-earnings-revenues-beat-estimates,Zacks Investment Research,0.27777777777777773,0.5444444444444444,positive,0.27777777777777773,True,False,False,False,True,False,False,False,0.0,208,"['DVN', 'COP', 'CNX', 'MPC']",CNX,2021-11-03
+"Murphy Oil (MUR) Q3 Earnings Beat Estimates, Revenues Rise Y/Y",Murphy Oil's (MUR) Q3 performance pleases investors with better-than-expected net income and revenues. Both metrics also improve year over year.,2021-11-04 14:00:00+00:00,https://www.zacks.com/stock/news/1823608/murphy-oil-mur-q3-earnings-beat-estimates-revenues-rise-yy,Zacks Investment Research,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,208,"['DVN', 'COP', 'CNX', 'MUR']",CNX,2021-11-04
+Best Growth Stocks to Buy for November 5th,"GPI, OLN, CNX, and DOW made it to the Zacks Rank #1 (Strong Buy) growth stocks list on November 5, 2021.",2021-11-05 14:30:00+00:00,https://www.zacks.com/commentary/1824336/best-growth-stocks-to-buy-for-november-5th,Zacks Investment Research,0.2111111111111111,0.6444444444444444,positive,0.2111111111111111,False,True,False,False,False,False,False,False,0.0,148,"['DOW', 'CNX', 'GPI', 'OLN']",CNX,2021-11-05
+Best Growth Stocks to Buy for November 9th,"NMR, CNX, DOW, and ARCB made it to the Zacks Rank #1 (Strong Buy) growth stocks list on November 9, 2021",2021-11-09 13:39:00+00:00,https://www.zacks.com/commentary/1825703/best-growth-stocks-to-buy-for-november-9th,Zacks Investment Research,0.2111111111111111,0.6444444444444444,positive,0.2111111111111111,False,True,False,False,False,False,False,False,0.0,148,"['NMR', 'DOW', 'CNX', 'ARCB']",CNX,2021-11-09
+"After Golden Cross, CNX Resources Corporation. (CNX)'s Technical Outlook is Bright",Good things could be on the horizon when a stock experiences a golden cross event. How should investors react?,2021-11-17 15:00:10+00:00,https://www.zacks.com/stock/news/1828869/after-golden-cross-cnx-resources-corporation-cnxs-technical-outlook-is-bright,Zacks Investment Research,0.2857142857142857,0.35714285714285715,positive,0.2857142857142857,False,False,False,False,False,False,False,False,0.0,194,['CNX'],CNX,2021-11-17
+Does CNX Resources Corporation. (CNX) Have the Potential to Rally 26% as Wall Street Analysts Expect?,"The mean of analysts' price targets for CNX Resources Corporation. (CNX) points to a 26.3% upside in the stock. While this highly sought-after metric has not proven reasonably effective, strong agreement among analysts in raising earnings estimates does indicate an upside in the stock.",2021-11-17 15:26:00+00:00,https://www.zacks.com/stock/news/1828908/does-cnx-resources-corporation-cnx-have-the-potential-to-rally-26-as-wall-street-analysts-expect,Zacks Investment Research,0.17616666666666667,0.7521666666666667,positive,0.17616666666666667,True,False,False,False,False,False,False,False,0.0,389,['CNX'],CNX,2021-11-17
+Natural Gas Gains 5.7% for the Week: What's Behind the Rise?,"The steady flow of LNG demand is likely to support natural gas prices. The upward trend should aid gas-weighted producers like CNX Resources (CNX), Goodrich Petroleum (GDP), Comstock Resources (CRK) and Antero Resources (AR).",2021-11-22 12:26:00+00:00,https://www.zacks.com/stock/news/1830225/natural-gas-gains-57-for-the-week-whats-behind-the-rise,Zacks Investment Research,-0.006666666666666677,0.6,neutral,0.006666666666666677,False,False,False,False,False,False,False,False,0.0,287,"['CRK', 'CNX', 'AR', 'GDP']",CNX,2021-11-22
+"The Zacks Analyst Blog Highlights: CNX Resources, Goodrich Petroleum, Comstock Resources and Antero Resources","The Zacks Analyst Blog Highlights: CNX Resources, Goodrich Petroleum, Comstock Resources and Antero Resources",2021-11-23 10:42:00+00:00,https://www.zacks.com/stock/news/1830680/the-zacks-analyst-blog-highlights-cnx-resources-goodrich-petroleum-comstock-resources-and-antero-resources,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,220,"['CRK', 'CNX', 'AR', 'GDP']",CNX,2021-11-23
+Can CNX Resources (CNX) Stock Continue to Grow Earnings?,"If you are looking for a fast-growing stock that is still seeing plenty of opportunities on the horizon, make sure to consider CNX Resources (CNX).",2021-11-23 16:31:00+00:00,https://www.zacks.com/stock/news/1830998/can-cnx-resources-cnx-stock-continue-to-grow-earnings,Zacks Investment Research,0.5,0.8888888888888888,positive,0.5,True,False,False,False,False,False,False,False,0.0,205,['CNX'],CNX,2021-11-23
+Know Why Natural Gas Prices Ended 7.5% Higher Past Week,"The steady flow of LNG demand is likely to spur natural gas demand and prices. This should aid gas-weighted producers like CNX Resources (CNX), Chesapeake Energy (CHK), Comstock Resources (CRK) and Antero Resources (AR).",2021-11-29 12:33:00+00:00,https://www.zacks.com/stock/news/1832625/know-why-natural-gas-prices-ended-75-higher-past-week,Zacks Investment Research,0.061111111111111095,0.5083333333333333,neutral,0.061111111111111095,False,False,False,False,False,False,False,False,0.0,277,"['CHK', 'CRK', 'CNX', 'AR']",CNX,2021-11-29
+"The Zacks Analyst Blog Highlights: CNX Resources, Chesapeake Energy, Comstock Resources and Antero Resources","The Zacks Analyst Blog Highlights: CNX Resources, Chesapeake Energy, Comstock Resources and Antero Resources",2021-11-30 12:44:00+00:00,https://www.zacks.com/stock/news/1833204/the-zacks-analyst-blog-highlights-cnx-resources-chesapeake-energy-comstock-resources-and-antero-resources,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,218,"['CHK', 'CRK', 'CNX', 'AR']",CNX,2021-11-30
+Is CNX Resources (CNX) Stock a Solid Choice Right Now?,"CNX Resources (CNX) has seen solid earnings estimate revision activity over the past month, and belongs to a strong industry as well.",2021-12-01 13:41:00+00:00,https://www.zacks.com/stock/news/1833754/is-cnx-resources-cnx-stock-a-solid-choice-right-now,Zacks Investment Research,0.0938095238095238,0.3438095238095238,neutral,0.0938095238095238,True,False,False,False,False,False,False,False,0.0,189,['CNX'],CNX,2021-12-01
+CNX vs. FANG: Which Stock Is the Better Value Option?,CNX vs. FANG: Which Stock Is the Better Value Option?,2021-12-01 16:40:09+00:00,https://www.zacks.com/stock/news/1833995/cnx-vs-fang-which-stock-is-the-better-value-option,Zacks Investment Research,0.5,0.5,positive,0.5,False,False,False,False,False,False,False,False,0.0,108,"['CNX', 'FANG']",CNX,2021-12-01
+Are These Oils-Energy Stocks a Great Value Stocks Right Now?,"Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.",2021-12-03 15:09:00+00:00,https://www.zacks.com/stock/news/1835093/are-these-oils-energy-stocks-a-great-value-stocks-right-now,Zacks Investment Research,0.3365079365079365,0.7615079365079365,positive,0.3365079365079365,True,False,False,False,False,False,False,False,0.0,325,"['CNX', 'CRK']",CNX,2021-12-03
+Ignore the Rough Week: Natural Gas Is Still Attractive,"The steady flow of LNG demand is likely to support natural gas demand and prices. This should aid gas-weighted producers like CNX Resources (CNX), Chesapeake Energy (CHK), Range Resources (RRC) and Comstock Resources (CRK).",2021-12-06 12:05:00+00:00,https://www.zacks.com/stock/news/1835636/ignore-the-rough-week-natural-gas-is-still-attractive,Zacks Investment Research,0.17777777777777778,0.6166666666666666,positive,0.17777777777777778,False,False,False,False,False,False,False,False,0.0,279,"['CHK', 'CRK', 'RRC', 'CNX']",CNX,2021-12-06
+"The Zacks Analyst Blog Highlights: CNX Resources, Chesapeake Energy, Range Resources and Comstock Resources","The Zacks Analyst Blog Highlights: CNX Resources, Chesapeake Energy, Range Resources and Comstock Resources",2021-12-07 11:55:00+00:00,https://www.zacks.com/stock/news/1836153/the-zacks-analyst-blog-highlights-cnx-resources-chesapeake-energy-range-resources-and-comstock-resources,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,216,"['CHK', 'CRK', 'RRC', 'CNX']",CNX,2021-12-07
+Encouraging EIA Data Unable to Stop Natural Gas Price Slump,"Natural gas' future course will depend on demand for winter heating. As of now, investors should stay put in companies like CNX Resources (CNX), Range Resources (RRC) and Comstock Resources (CRK).",2021-12-13 12:47:00+00:00,https://www.zacks.com/stock/news/1838421/encouraging-eia-data-unable-to-stop-natural-gas-price-slump,Zacks Investment Research,-0.07500000000000001,0.35625,neutral,0.07500000000000001,False,False,False,False,False,False,False,False,0.0,257,"['CHK', 'CRK', 'RRC', 'CNX']",CNX,2021-12-13
+Will Higher Activity Boost Halliburton (HAL) Q4 Earnings?,"Halliburton (HAL) beat the Zacks Consensus Estimate in three of the last four quarters, delivering an earnings surprise of 12.5%, on average.",2022-01-20 13:54:00+00:00,https://www.zacks.com/stock/news/1854573/will-higher-activity-boost-halliburton-hal-q4-earnings,Zacks Investment Research,0.03333333333333333,0.3222222222222222,neutral,0.03333333333333333,True,False,False,False,False,False,False,False,0.0,200,"['CVX', 'HAL', 'VLO', 'CNX']",CNX,2022-01-20
+CNX Resources Corporation. (CNX) Reports Next Week: Wall Street Expects Earnings Growth,CNX Resources Corporation. (CNX) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2022-01-20 20:02:01+00:00,https://www.zacks.com/stock/news/1854956/cnx-resources-corporation-cnx-reports-next-week-wall-street-expects-earnings-growth,Zacks Investment Research,0.05714285714285714,0.7071428571428571,neutral,0.05714285714285714,True,False,False,False,False,False,False,False,0.0,271,['CNX'],CNX,2022-01-20
+Murphy Oil (MUR) to Report Q4 Earnings: What's in Store?,Murphy Oil's (MUR) fourth-quarter earnings are expected to have benefited from strong production in the Eagle Ford Shale and a recovery in commodity prices.,2022-01-21 15:28:00+00:00,https://www.zacks.com/stock/news/1855404/murphy-oil-mur-to-report-q4-earnings-whats-in-store,Zacks Investment Research,0.16666666666666663,0.5666666666666667,positive,0.16666666666666663,True,False,False,False,True,False,False,False,0.0,214,"['CVX', 'CNX', 'MUR', 'VNOM']",CNX,2022-01-21
+Is a Surprise Coming for CNX Resources (CNX) This Earnings Season?,CNX Resources (CNX) is seeing favorable earnings estimate revision activity and has a positive Zacks Earnings ESP heading into earnings season.,2022-01-24 13:48:00+00:00,https://www.zacks.com/stock/news/1856006/is-a-surprise-coming-for-cnx-resources-cnx-this-earnings-season,Zacks Investment Research,0.22727272727272727,0.5454545454545454,positive,0.22727272727272727,True,False,False,False,False,False,False,False,0.0,211,['CNX'],CNX,2022-01-24
+CNX Resources (CNX) to Report Q4 Earnings: What to Expect,CNX Resources' (CNX) fourth-quarter earnings are likely to have gained from strong production volumes and lower shares outstanding.,2022-01-24 14:58:00+00:00,https://www.zacks.com/stock/news/1856139/cnx-resources-cnx-to-report-q4-earnings-what-to-expect,Zacks Investment Research,0.3111111111111111,0.8694444444444445,positive,0.3111111111111111,True,False,False,False,True,False,False,False,0.0,190,"['CVX', 'CNX', 'MUR', 'VNOM']",CNX,2022-01-24
+This Is Why Chevron (CVX) is Set for Strong Q4 Earnings,Surging commodity prices and higher refined product sales are likely to have boosted Chevron's (CVX) profit levels in the fourth quarter.,2022-01-25 12:46:00+00:00,https://www.zacks.com/stock/news/1856640/this-is-why-chevron-cvx-is-set-for-strong-q4-earnings,Zacks Investment Research,0.17083333333333334,0.5583333333333333,positive,0.17083333333333334,True,False,False,False,True,False,False,False,0.0,194,"['CVX', 'XOM', 'VLO', 'CNX']",CNX,2022-01-25
+CNX Resources Corporation. (CNX) Lags Q4 Earnings and Revenue Estimates,"CNX Resources Corporation. (CNX) delivered earnings and revenue surprises of -36.73% and 15.21%, respectively, for the quarter ended December 2021. Do the numbers hold clues to what lies ahead for the stock?",2022-01-27 13:55:04+00:00,https://www.zacks.com/stock/news/1858126/cnx-resources-corporation-cnx-lags-q4-earnings-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,280,"['CNX', 'CDEV']",CNX,2022-01-27
+CNX Resources (CNX) Q4 Earnings & Revenues Lag Estimates,CNX Resources (CNX) fourth-quarter earnings and revenues are lower than expected. CNX continues to properly execute the seven-year growth plan.,2022-01-27 16:24:00+00:00,https://www.zacks.com/stock/news/1858370/cnx-resources-cnx-q4-earnings-revenues-lag-estimates,Zacks Investment Research,-0.05,0.25,neutral,0.05,True,False,False,False,False,False,False,False,0.0,201,"['DVN', 'OXY', 'CNX', 'LNG']",CNX,2022-01-27
+Here's Why CNX Resources Corporation. (CNX) is a Strong Momentum Stock,The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.,2022-02-02 15:00:07+00:00,https://www.zacks.com/stock/news/1861319/heres-why-cnx-resources-corporation-cnx-is-a-strong-momentum-stock,Zacks Investment Research,0.32222222222222224,0.5222222222222223,positive,0.32222222222222224,False,False,False,False,False,False,False,False,0.0,219,['CNX'],CNX,2022-02-02
+Occidental (OXY) Q4 Earnings and Revenues Beat Estimates,Occidental's (OXY) fourth-quarter earnings are better than expected. OXY is poised to gain from strong production from domestic assets.,2022-02-25 15:03:00+00:00,https://www.zacks.com/stock/news/1873474/occidental-oxy-q4-earnings-and-revenues-beat-estimates,Zacks Investment Research,0.20833333333333331,0.43333333333333335,positive,0.20833333333333331,True,False,False,False,True,False,False,False,0.0,193,"['DVN', 'OXY', 'CNX', 'LNG']",CNX,2022-02-25
+Are You a Momentum Investor? This 1 Stock Could Be the Perfect Pick,"Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service.",2022-03-09 15:00:07+00:00,https://www.zacks.com/stock/news/1879649/are-you-a-momentum-investor-this-1-stock-could-be-the-perfect-pick,Zacks Investment Research,0.6444444444444445,0.7444444444444445,positive,0.6444444444444445,False,False,False,False,False,False,False,False,0.0,241,['CNX'],CNX,2022-03-09
+Cost Management & Strong US Production Aid Devon Energy (DVN),"Devon Energy (DVN), with steady investments, cost management and strong U.S production, is poised for growth.  However, a highly competitive industry and regulations are headwinds.",2022-03-14 17:58:00+00:00,https://www.zacks.com/stock/news/1881775/cost-management-strong-us-production-aid-devon-energy-dvn,Zacks Investment Research,0.2983333333333333,0.6266666666666667,positive,0.2983333333333333,False,False,True,False,True,False,True,False,0.0,243,"['DVN', 'MRO', 'CNX', 'MPC']",CNX,2022-03-14
+Here's Why CNX Resources Corporation. (CNX) is a Strong Growth Stock,The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.,2022-03-17 14:00:07+00:00,https://www.zacks.com/stock/news/1883452/heres-why-cnx-resources-corporation-cnx-is-a-strong-growth-stock,Zacks Investment Research,0.32222222222222224,0.5222222222222223,positive,0.32222222222222224,False,False,False,False,False,False,False,False,0.0,217,['CNX'],CNX,2022-03-17
+"CNX Resources (CNX): Strong Industry, Solid Earnings Estimate Revisions","CNX Resources (CNX) has seen solid earnings estimate revision activity over the past month, and belongs to a strong industry as well.",2022-03-28 12:46:00+00:00,https://www.zacks.com/stock/news/1888268/cnx-resources-cnx-strong-industry-solid-earnings-estimate-revisions,Zacks Investment Research,0.12333333333333332,0.3833333333333333,positive,0.12333333333333332,True,False,False,False,False,False,False,False,0.0,206,['CNX'],CNX,2022-03-28
+Is CNX Resources Corporation. (CNX) Outperforming Other Oils-Energy Stocks This Year?,Here is how CNX Resources Corporation. (CNX) and Peabody Energy (BTU) have performed compared to their sector so far this year.,2022-03-30 13:40:06+00:00,https://www.zacks.com/stock/news/1889698/is-cnx-resources-corporation-cnx-outperforming-other-oils-energy-stocks-this-year,Zacks Investment Research,-0.012499999999999997,0.6875,neutral,0.012499999999999997,False,False,True,False,False,False,False,False,0.0,214,"['CNX', 'BTU']",CNX,2022-03-30
+Is CNX Resources (CNX) a Great Growth Stock?,"If you are looking for a fast-growing stock that is still seeing plenty of opportunities on the horizon, make sure to consider CNX Resources (CNX).",2022-03-31 12:42:00+00:00,https://www.zacks.com/stock/news/1890319/is-cnx-resources-cnx-a-great-growth-stock,Zacks Investment Research,0.65,0.8194444444444444,positive,0.65,False,False,False,False,False,False,False,False,0.0,193,['CNX'],CNX,2022-03-31
+Are You Looking for a Top Momentum Pick? Why CNX Resources Corporation. (CNX) is a Great Choice,Does CNX Resources Corporation. (CNX) have what it takes to be a top stock pick for momentum investors? Let's find out.,2022-03-31 16:00:05+00:00,https://www.zacks.com/stock/news/1890553/are-you-looking-for-a-top-momentum-pick-why-cnx-resources-corporation-cnx-is-a-great-choice,Zacks Investment Research,0.6,0.5833333333333334,positive,0.6,False,False,False,False,False,False,False,False,0.0,216,['CNX'],CNX,2022-03-31
+Looking for Oils and Energy Stocks? The Zacks Rank Can Help You Find Winners,"Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Rank.",2022-04-05 13:00:06+00:00,https://www.zacks.com/stock/news/1892977/looking-for-oils-and-energy-stocks-the-zacks-rank-can-help-you-find-winners,Zacks Investment Research,-0.2916666666666667,0.7583333333333333,negative,0.2916666666666667,False,False,False,False,False,False,False,False,0.0,197,['CNX'],CNX,2022-04-05
+Best Momentum Stocks to Buy for April 5th,"TH, OXY, and CNX made it to the Zacks Rank #1 (Strong Buy) momentum stocks list on April 5, 2022.",2022-04-05 14:00:00+00:00,https://www.zacks.com/commentary/1892877/best-momentum-stocks-to-buy-for-april-5th,Zacks Investment Research,0.2111111111111111,0.6444444444444444,positive,0.2111111111111111,False,True,False,False,False,False,False,False,0.0,140,"['OXY', 'CNX', 'TH']",CNX,2022-04-05
+Why CNX Resources Corporation. (CNX) is a Top Value Stock for the Long-Term,"Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",2022-04-07 13:44:55+00:00,https://www.zacks.com/stock/news/1894763/why-cnx-resources-corporation-cnx-is-a-top-value-stock-for-the-long-term,Zacks Investment Research,0.3111111111111111,0.5777777777777778,positive,0.3111111111111111,False,False,False,False,False,False,False,False,0.0,204,['CNX'],CNX,2022-04-07
+3 Stocks to Buy as Natural Gas Rallies to Highest Since 2008,"An encouraging macro backdrop has accelerated the tailwinds for natural gas equities. In this context, companies like AR, CNX and CRK look particularly interesting.",2022-04-11 11:57:00+00:00,https://www.zacks.com/stock/news/1896886/3-stocks-to-buy-as-natural-gas-rallies-to-highest-since-2008,Zacks Investment Research,0.2333333333333333,0.43333333333333335,positive,0.2333333333333333,False,True,False,False,False,False,False,False,0.0,226,"['CRK', 'CNX', 'AR']",CNX,2022-04-11
+"CNBC's Final Trades: Raytheon Technologies, CNX Resources, Cash And This Defensive Play","On CNBC’s “Halftime Report Final Trades,” Bryn Talkington of Requisite Capital Management recommended to “stay defensive.” She named JPMorgan Equity Premium Income ETF (NYSE: JEPI) as her final trade. “Take advantage of covered calls. ...",2022-04-12 12:12:15+00:00,https://www.benzinga.com/trading-ideas/long-ideas/22/04/26584251/cnbcs-final-trades-raytheon-technologies-cnx-resources-cash-and-this-defensive-play,Benzinga,0.0,1.0,neutral,0.0,False,False,False,False,False,False,True,False,0.0,327,"['CNX', 'RTX', 'JEPI']",CNX,2022-04-12
+Clearbridge Small Cap Strategy Portfolio Manager Commentary Q1 2022,ClearBridge Small Cap Strategy outperformed its Index benchmark during Q1. Who were the leading detractors and contributors? Click here to find out.,2022-04-15 04:10:00+00:00,https://seekingalpha.com/article/4501584-clearbridge-small-cap-strategy-portfolio-manager-commentary-q1-2022,Seeking Alpha,-0.25,0.4,negative,0.25,False,False,False,False,False,False,False,False,0.0,217,"['LNTH', 'CCS', 'NOVA', 'WSFS', 'HQY', 'CNX', 'HP', 'AGO', 'TWOU', 'GT', 'DTC', 'SGH', 'DINO', 'ITRI', 'GPI', 'NVCR', 'RARE', 'CSGS', 'FTDR', 'INSW', 'CVET', 'HNST']",CNX,2022-04-15
+Is CNX Resources (CNX) Outperforming Other Oils-Energy Stocks This Year?,Here is how CNX Resources Corporation. (CNX) and Peabody Energy (BTU) have performed compared to their sector so far this year.,2022-04-15 13:40:10+00:00,https://www.zacks.com/stock/news/1900270/is-cnx-resources-cnx-outperforming-other-oils-energy-stocks-this-year,Zacks Investment Research,-0.012499999999999997,0.6875,neutral,0.012499999999999997,False,False,True,False,False,False,False,False,0.0,201,"['CNX', 'BTU']",CNX,2022-04-15
+What's in Store for NextEra Energy (NEP) in Q1 Earnings?,NextEra Energy Partners' (NEP) first-quarter results are likely to benefit from acquisitions and contributions from organic assets.,2022-04-19 13:11:00+00:00,https://www.zacks.com/stock/news/1902247/whats-in-store-for-nextera-energy-nep-in-q1-earnings,Zacks Investment Research,0.0,1.0,neutral,0.0,True,True,False,False,False,False,False,False,0.0,189,"['DVN', 'OKE', 'CNX', 'NEP']",CNX,2022-04-19
+Will Higher Energy Prices Aid Vista (VIST) in Q1 Earnings?,"While higher commodity prices are likely to have boosted Vista Oil & Gas' (VIST) profit levels in the first quarter, escalation in lifting costs might have played spoilsport.",2022-04-21 12:06:00+00:00,https://www.zacks.com/stock/news/1904230/will-higher-energy-prices-aid-vista-vist-in-q1-earnings,Zacks Investment Research,0.1875,0.5833333333333334,positive,0.1875,True,False,False,False,False,False,False,False,0.0,234,"['CVX', 'CNX', 'AR', 'VIST']",CNX,2022-04-21
+"Benzinga's Top Ratings Upgrades, Downgrades For April 21, 2022","Upgrades
+
+Argus Research upgraded the previous rating for State Street Corporation (NYSE:STT) from Hold to Buy. For the first quarter, State Street had an EPS of $1.59, compared to year-ago quarter EPS of $1.47. The stock has a 52-week-high of $104.87 and a 52-week-low of $72.40. At the end of the last trading period, State Street closed at $75.91.
+According to Compass Point, the prior rating for MarketAxess Holdings Inc (NASDAQ:MKTX) was changed from Sell to Neutral. For the first quarter, MarketAxess Holdings had an EPS of $1.73, compared to year-ago quarter EPS of $2.11. The stock has a 52-week-high of $539.06 and a 52-week-low of $256.25. At the end of the last trading period, MarketAxess Holdings closed at $273.93.
+According to Piper Sandler, the prior rating for Southwestern Energy Co (NYSE:SWN) was changed from Neutral to Overweight. Southwestern Energy earned $0.31 in the fourth quarter, compared to $0.18 in the year-ago quarter. At the moment, the stock has a 52-week-high of $8.68 and a 52-week-low of $3.81. Southwestern Energy closed at $8.23 at the end of the last trading period.
+For Harmonic Inc (NASDAQ:HLIT), Barclays upgraded the previous rating of Equal-Weight to Overweight. For the fourth quarter, Harmonic had an EPS of $0.16, compared to year-ago quarter EPS of $0.20. At the moment, the stock has a 52-week-high of $12.22 and a 52-week-low of $6.69. Harmonic closed at $8.72 at the end of the last trading period.
+RBC Capital upgraded the previous rating for Exxon Mobil Corp (NYSE:XOM) from Sector Perform to Outperform. Exxon Mobil earned $2.05 in the fourth quarter, compared to $0.03 in the year-ago quarter. At the moment, the stock has a 52-week-high of $91.50 and a 52-week-low of $52.10. Exxon Mobil closed at $87.96 at the end of the last trading period.
+
+See all analyst ratings upgrades.
+ 
+Downgrades
+
+B of A Securities downgraded the previous rating for NRG Energy Inc (NYSE:NRG) from Buy to Neutral. In the fourth quarter, NRG Energy showed an EPS of $1.74, compared to $0.70 from the year-ago quarter. At the moment, the stock has a 52-week-high of $46.10 and a 52-week-low of $31.94. NRG Energy closed at $41.27 at the end of the last trading period.
+According to Evercore ISI Group, the prior rating for Carvana Co (NYSE:CVNA) was changed from Outperform to In-Line. In the first quarter, Carvana showed an EPS of $2.89, compared to $0.46 from the year-ago quarter. At the moment, the stock has a 52-week-high of $376.83 and a 52-week-low of $92.15. Carvana closed at $92.50 at the end of the last trading period.
+For Netflix Inc (NASDAQ:NFLX), Loop Capital downgraded the previous rating of Buy to ...Full story available on Benzinga.com",2022-04-21 14:04:21+00:00,https://www.benzinga.com/analyst-ratings/upgrades/22/04/26738587/benzingas-top-ratings-upgrades-downgrades-for-april-21-2022,Benzinga,0.00376344086021506,0.12580645161290324,neutral,0.00376344086021506,False,True,True,False,False,False,False,False,0.0,2756,"['ETWO', 'BHLB', 'RRC', 'UWMC', 'COOP', 'SMG', 'EVGO', 'FULT', 'STT', 'SWN', 'FTCI', 'HLIT', 'XOM', 'NYXH', 'MCRI', 'CHPT', 'MKTX', 'PBF', 'NFLX', 'PFSI', 'ACC', 'TWTR', 'CMA', 'ENOV', 'CNX', 'YTEN', 'CVX', 'CVNA', 'EFX', 'SNBR', 'NGG', 'BLNK', 'NRG', 'BFC', 'OCN', 'ATHA', 'RIO']",CNX,2022-04-21
+CNX vs. EQT: Which Stock Should Value Investors Buy Now?,CNX vs. EQT: Which Stock Is the Better Value Option?,2022-04-21 15:40:11+00:00,https://www.zacks.com/stock/news/1904459/cnx-vs-eqt-which-stock-should-value-investors-buy-now,Zacks Investment Research,0.5,0.5,positive,0.5,False,True,False,False,False,False,False,False,0.0,110,"['CNX', 'EQT']",CNX,2022-04-21
+CNX Resources Corporation. (CNX) Earnings Expected to Grow: What to Know Ahead of Next Week's Release,CNX Resources Corporation. (CNX) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2022-04-21 19:01:59+00:00,https://www.zacks.com/stock/news/1904667/cnx-resources-corporation-cnx-earnings-expected-to-grow-what-to-know-ahead-of-next-weeks-release,Zacks Investment Research,0.03095238095238095,0.655952380952381,neutral,0.03095238095238095,True,False,False,False,True,False,False,False,0.0,285,['CNX'],CNX,2022-04-21
+Best Momentum Stocks to Buy for April 25th,"CNX, ARCO, and OGE made it to the Zacks Rank #1 (Strong Buy) momentum stocks list on April 25, 2022.",2022-04-25 14:00:00+00:00,https://www.zacks.com/commentary/1906866/best-momentum-stocks-to-buy-for-april-25th,Zacks Investment Research,0.2111111111111111,0.6444444444444444,positive,0.2111111111111111,False,True,False,False,False,False,False,False,0.0,144,"['OGE', 'CNX', 'ARCO']",CNX,2022-04-25
+EQT Corporation (EQT) Misses Q1 Earnings and Revenue Estimates,"EQT Corporation (EQT) delivered earnings and revenue surprises of -22.12% and 6.31%, respectively, for the quarter ended March 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-04-27 21:55:14+00:00,https://www.zacks.com/stock/news/1909654/eqt-corporation-eqt-misses-q1-earnings-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,256,"['EQT', 'CNX']",CNX,2022-04-27
+CNX Resources Corporation. (CNX) Q1 Earnings Surpass Estimates,"CNX Resources Corporation. (CNX) delivered earnings and revenue surprises of 31.67% and 14.38%, respectively, for the quarter ended March 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-04-28 12:45:11+00:00,https://www.zacks.com/stock/news/1909991/cnx-resources-corporation-cnx-q1-earnings-surpass-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,267,"['CNX', 'CPE']",CNX,2022-04-28
+New Strong Buy Stocks for May 4th,"WIRE, CNX, PATK, BZH, and GASS have been added to the Zacks Rank #1 (Strong Buy) List on May 4, 2022.",2022-05-04 10:56:00+00:00,https://www.zacks.com/commentary/1914144/new-strong-buy-stocks-for-may-4th,Zacks Investment Research,0.05075757575757571,0.7053030303030303,neutral,0.05075757575757571,False,True,False,False,False,False,False,False,0.0,136,"['CNX', 'BZH', 'GASS', 'WIRE', 'PATK']",CNX,2022-05-04
+Best Momentum Stocks to Buy for May 4th,"WIRE, CNX, and CSL made it to the Zacks Rank #1 (Strong Buy) momentum stocks list on May 4, 2022.",2022-05-04 14:00:00+00:00,https://www.zacks.com/commentary/1915301/best-momentum-stocks-to-buy-for-may-4th,Zacks Investment Research,0.2111111111111111,0.6444444444444444,positive,0.2111111111111111,False,True,False,False,False,False,False,False,0.0,138,"['CNX', 'CSL', 'WIRE']",CNX,2022-05-04
+What Makes CNX Resources Corporation. (CNX) a New Strong Buy Stock,"CNX Resources Corporation. (CNX) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #1 (Strong Buy).",2022-05-04 16:00:07+00:00,https://www.zacks.com/stock/news/1915742/what-makes-cnx-resources-corporation-cnx-a-new-strong-buy-stock,Zacks Investment Research,0.09060606060606056,0.6642424242424243,neutral,0.09060606060606056,True,True,False,False,False,False,False,False,0.0,235,['CNX'],CNX,2022-05-04
+New Strong Buy Stocks for May 6th,"APA, CNX, AN, LSEA, and LPX have been added to the Zacks Rank #1 (Strong Buy) List on May 6, 2022.",2022-05-06 11:06:00+00:00,https://www.zacks.com/commentary/1916475/new-strong-buy-stocks-for-may-6th,Zacks Investment Research,0.05075757575757571,0.7053030303030303,neutral,0.05075757575757571,False,True,False,False,False,False,False,False,0.0,133,"['APA', 'AN', 'CNX', 'LPX', 'LSEA']",CNX,2022-05-06
+Occidental's (OXY) Q1 Earnings and Revenues Beat Estimates,Occidental's (OXY) first-quarter earnings are better than expected and the company continues to benefit from the improvement in commodity prices.,2022-05-11 13:30:00+00:00,https://www.zacks.com/stock/news/1922701/occidentals-oxy-q1-earnings-and-revenues-beat-estimates,Zacks Investment Research,0.2,0.45,positive,0.2,True,False,False,False,False,False,False,False,0.0,205,"['DVN', 'OXY', 'CNX', 'MUR']",CNX,2022-05-11
+Is Chesapeake Energy (CHK) Stock Outpacing Its Oils-Energy Peers This Year?,Here is how Chesapeake Energy (CHK) and CNX Resources Corporation. (CNX) have performed compared to their sector so far this year.,2022-05-18 13:40:07+00:00,https://www.zacks.com/stock/news/1925855/is-chesapeake-energy-chk-stock-outpacing-its-oils-energy-peers-this-year,Zacks Investment Research,0.1,1.0,neutral,0.1,False,False,True,False,False,False,False,False,0.0,207,"['CHK', 'CNX']",CNX,2022-05-18
+Capitalize on the Energy Sector's Strength With These 3 Stocks,"The energy sector has been blistering hot throughout 2022, rewarding investors with a multitude of gains. Don't get left behind.",2022-05-25 22:43:00+00:00,https://www.zacks.com/commentary/1929343/capitalize-on-the-energy-sectors-strength-with-these-3-stocks,Zacks Investment Research,0.0875,0.6375,neutral,0.0875,False,False,True,False,False,False,False,False,0.0,192,"['CNX', 'MPC', 'TTE']",CNX,2022-05-25
+What Makes CNX Resources Corporation. (CNX) a Strong Momentum Stock: Buy Now?,Does CNX Resources Corporation. (CNX) have what it takes to be a top stock pick for momentum investors? Let's find out.,2022-05-27 16:00:07+00:00,https://www.zacks.com/stock/news/1930531/what-makes-cnx-resources-corporation-cnx-a-strong-momentum-stock-buy-now,Zacks Investment Research,0.4666666666666667,0.6166666666666667,positive,0.4666666666666667,False,True,False,False,False,False,False,False,0.0,198,['CNX'],CNX,2022-05-27
+"Ranger Oil Corporation (ROCC) Soars to 52-Week High, Time to Cash Out?","Ranger Oil (ROCC) is at a 52-week high, but can investors hope for more gains in the future? We take a look at the company's fundamentals for clues.",2022-05-30 13:15:08+00:00,https://www.zacks.com/stock/news/1931117/ranger-oil-corporation-rocc-soars-to-52-week-high-time-to-cash-out,Zacks Investment Research,0.20500000000000002,0.42624999999999996,positive,0.20500000000000002,False,False,False,False,False,False,False,False,0.0,220,"['ROCC', 'CNX']",CNX,2022-05-30
+Will CNX Resources Corporation. (CNX) Gain on Rising Earnings Estimates?,"CNX Resources Corporation. (CNX) shares have started gaining and might continue moving higher in the near term, as indicated by solid earnings estimate revisions.",2022-05-30 16:20:06+00:00,https://www.zacks.com/stock/news/1931403/will-cnx-resources-corporation-cnx-gain-on-rising-earnings-estimates,Zacks Investment Research,0.11666666666666665,0.3333333333333333,positive,0.11666666666666665,True,False,False,False,False,False,False,False,0.0,236,['CNX'],CNX,2022-05-30
+Why Is Diamondback (FANG) Up 11.7% Since Last Earnings Report?,Diamondback (FANG) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.,2022-06-01 16:04:00+00:00,https://www.zacks.com/stock/news/1932491/why-is-diamondback-fang-up-117-since-last-earnings-report,Zacks Investment Research,0.0,0.03333333333333333,neutral,0.0,True,False,False,False,False,False,False,False,0.0,193,"['FANG', 'CNX']",CNX,2022-06-01
+Continental Resources (CLR) Up 10.8% Since Last Earnings Report: Can It Continue?,Continental Resources (CLR) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.,2022-06-03 15:32:12+00:00,https://www.zacks.com/stock/news/1933803/continental-resources-clr-up-108-since-last-earnings-report-can-it-continue,Zacks Investment Research,0.0,0.03333333333333333,neutral,0.0,True,False,False,False,False,False,False,False,0.0,221,"['CLR', 'CNX']",CNX,2022-06-03
+Why CNX Resources Corporation. (CNX) is a Top Value Stock for the Long-Term,The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.,2022-06-06 13:40:05+00:00,https://www.zacks.com/stock/news/1934884/why-cnx-resources-corporation-cnx-is-a-top-value-stock-for-the-long-term,Zacks Investment Research,0.3444444444444444,0.4444444444444445,positive,0.3444444444444444,False,False,False,False,False,False,False,False,0.0,224,['CNX'],CNX,2022-06-06
+Is China Shenhua Energy Co. (CSUAY) Stock Outpacing Its Oils-Energy Peers This Year?,Here is how China Shenhua Energy Co. (CSUAY) and CNX Resources Corporation. (CNX) have performed compared to their sector so far this year.,2022-06-06 13:40:10+00:00,https://www.zacks.com/stock/news/1934869/is-china-shenhua-energy-co-csuay-stock-outpacing-its-oils-energy-peers-this-year,Zacks Investment Research,0.1,1.0,neutral,0.1,False,False,True,False,False,False,False,False,0.0,225,['CNX'],CNX,2022-06-06
+"Devon (DVN) to Buy RimRock Oil and Gas, Expand in Williston","Devon Energy (DVN) enters into a definitive deal to acquire RimRock Oil and Gas, which will further expand its position in the Williston Basin.",2022-06-10 13:09:00+00:00,https://www.zacks.com/stock/news/1937453/devon-dvn-to-buy-rimrock-oil-and-gas-expand-in-williston,Zacks Investment Research,0.0,0.5,neutral,0.0,False,True,False,False,False,False,False,False,0.0,204,"['DVN', 'CNX', 'OAS', 'WLL']",CNX,2022-06-10
+CNX Resources Corporation. (CNX) Stock Moves -0.13%: What You Should Know,"CNX Resources Corporation. (CNX) closed at $23.24 in the latest trading session, marking a -0.13% move from the prior day.",2022-06-10 22:00:14+00:00,https://www.zacks.com/stock/news/1937721/cnx-resources-corporation-cnx-stock-moves--013-what-you-should-know,Zacks Investment Research,0.13333333333333333,0.3333333333333333,positive,0.13333333333333333,False,False,False,False,False,False,False,False,0.0,197,['CNX'],CNX,2022-06-10
+"Natural Gas Names Continue to Surge, Hits New 52-Week Highs","Natural gas stocks like CRK, SWN, CNX, AR and RRC are on a roll as soaring prices of the fuel push them to new highs.",2022-06-13 12:04:00+00:00,https://www.zacks.com/stock/news/1938045/natural-gas-names-continue-to-surge-hits-new-52-week-highs,Zacks Investment Research,0.11818181818181818,0.42727272727272725,positive,0.11818181818181818,False,False,False,False,False,False,False,False,0.0,178,"['CRK', 'RRC', 'SWN', 'CNX', 'AR']",CNX,2022-06-13
+CNX Resources Corporation. (CNX) is a Great Momentum Stock: Should You Buy?,Does CNX Resources Corporation. (CNX) have what it takes to be a top stock pick for momentum investors? Let's find out.,2022-06-14 16:00:07+00:00,https://www.zacks.com/stock/news/1938867/cnx-resources-corporation-cnx-is-a-great-momentum-stock-should-you-buy,Zacks Investment Research,0.65,0.625,positive,0.65,False,True,False,False,False,False,False,False,0.0,196,['CNX'],CNX,2022-06-14
+Does CNX Resources Corporation. (CNX) Have the Potential to Rally 27% as Wall Street Analysts Expect?,"The mean of analysts' price targets for CNX Resources Corporation. (CNX) points to a 27.2% upside in the stock. While this highly sought-after metric has not proven reasonably effective, strong agreement among analysts in raising earnings estimates does indicate an upside in the stock.",2022-06-16 13:55:15+00:00,https://www.zacks.com/stock/news/1939849/does-cnx-resources-corporation-cnx-have-the-potential-to-rally-27-as-wall-street-analysts-expect,Zacks Investment Research,0.17616666666666667,0.7521666666666667,positive,0.17616666666666667,True,False,False,False,False,False,False,False,0.0,389,['CNX'],CNX,2022-06-16
+CNX Resources Corporation. (CNX) Gains But Lags Market: What You Should Know,"CNX Resources Corporation. (CNX) closed at $17.70 in the latest trading session, marking a +1.61% move from the prior day.",2022-06-21 22:00:18+00:00,https://www.zacks.com/stock/news/1941929/cnx-resources-corporation-cnx-gains-but-lags-market-what-you-should-know,Zacks Investment Research,0.13333333333333333,0.3333333333333333,positive,0.13333333333333333,False,False,False,False,False,False,False,False,0.0,200,['CNX'],CNX,2022-06-21
+New Strong Buy Stocks for June 22nd,"LNG, CNX, BECN, CPLP, and LAD have been added to the Zacks Rank #1 (Strong Buy) List on June 22, 2022.",2022-06-22 12:27:00+00:00,https://www.zacks.com/commentary/1941506/new-strong-buy-stocks-for-june-22nd,Zacks Investment Research,0.05075757575757571,0.7053030303030303,neutral,0.05075757575757571,False,True,False,False,False,False,False,False,0.0,139,"['CNX', 'BECN', 'LNG', 'LAD', 'CPLP']",CNX,2022-06-22
+Has CNX Resources (CNX) Outpaced Other Oils-Energy Stocks This Year?,Here is how CNX Resources Corporation. (CNX) and China Shenhua Energy Co. (CSUAY) have performed compared to their sector so far this year.,2022-06-22 13:40:09+00:00,https://www.zacks.com/stock/news/1942178/has-cnx-resources-cnx-outpaced-other-oils-energy-stocks-this-year,Zacks Investment Research,-0.012499999999999997,0.6875,neutral,0.012499999999999997,False,False,True,False,False,False,False,False,0.0,209,['CNX'],CNX,2022-06-22
+Diamondback (FANG) to Further Augment Shareholder Returns,"In good news for investors, Diamondback Energy Inc. (FANG) unveils a plan to increase capital returns to shareholders.",2022-06-23 11:46:00+00:00,https://www.zacks.com/stock/news/1942709/diamondback-fang-to-further-augment-shareholder-returns,Zacks Investment Research,0.35,0.55,positive,0.35,False,False,False,False,False,False,False,False,0.0,177,"['CNX', 'MPC', 'FANG', 'HPK']",CNX,2022-06-23
+Shell's (SHEL) Nigerian Asset Sale Unaffected by Legal Issues,Shell's (SHEL) 30% divestment plan of its Nigerian joint venture is not likely to be affected by the recent Supreme Court ruling.,2022-06-24 11:27:00+00:00,https://www.zacks.com/stock/news/1943373/shells-shel-nigerian-asset-sale-unaffected-by-legal-issues,Zacks Investment Research,0.037500000000000006,0.3875,neutral,0.037500000000000006,False,False,False,True,False,False,False,True,0.0,192,"['CNX', 'MUSA', 'CPG', 'SHEL']",CNX,2022-06-24
+Cheniere (LNG) to Advance With Texas Corpus Expansion Project,"Cheniere Energy, Inc. (LNG) issues a full notice for Bechtel Energy to proceed with the construction of the CCL Stage 3 project.",2022-06-27 17:04:00+00:00,https://www.zacks.com/stock/news/1944611/cheniere-lng-to-advance-with-texas-corpus-expansion-project,Zacks Investment Research,0.35,0.55,positive,0.35,False,False,False,False,False,False,False,False,0.0,191,"['CNX', 'LNG', 'MPC', 'WLL']",CNX,2022-06-27
+CNX Resources Corporation. (CNX) Gains As Market Dips: What You Should Know,"In the latest trading session, CNX Resources Corporation. (CNX) closed at $17.23, marking a +0.58% move from the previous day.",2022-06-27 22:15:19+00:00,https://www.zacks.com/stock/news/1944725/cnx-resources-corporation-cnx-gains-as-market-dips-what-you-should-know,Zacks Investment Research,0.07777777777777779,0.3888888888888889,neutral,0.07777777777777779,False,False,False,False,False,False,False,False,0.0,203,['CNX'],CNX,2022-06-27
+CNX Resources Corporation. (CNX) Outpaces Stock Market Gains: What You Should Know,"CNX Resources Corporation. (CNX) closed the most recent trading day at $16.67, moving +1.28% from the previous trading session.",2022-07-01 22:00:21+00:00,https://www.zacks.com/stock/news/1947090/cnx-resources-corporation-cnx-outpaces-stock-market-gains-what-you-should-know,Zacks Investment Research,0.05833333333333334,0.25416666666666665,neutral,0.05833333333333334,False,False,False,False,False,False,False,False,0.0,211,['CNX'],CNX,2022-07-01
+Here's Why CNX Resources Corporation. (CNX) Looks Ripe for Bottom Fishing,"CNX Resources Corporation. (CNX) witnesses a hammer chart pattern, indicating support found by the stock after losing some value lately. This coupled with an upward trend in earnings estimate revisions could mean a trend reversal for the stock in the near term.",2022-07-04 13:55:09+00:00,https://www.zacks.com/stock/news/1947477/heres-why-cnx-resources-corporation-cnx-looks-ripe-for-bottom-fishing,Zacks Investment Research,-0.17083333333333336,0.5625,negative,0.17083333333333336,True,False,False,False,False,False,False,False,0.0,336,['CNX'],CNX,2022-07-04
+Industrial Action Disrupts Shell's (SHEL) FLNG Operations,The interruption at Shell's (SHEL) Prelude FLNG facility due to industrial action is likely to add to the woes of the already troubled global LNG supply.,2022-07-05 09:46:00+00:00,https://www.zacks.com/stock/news/1947812/industrial-action-disrupts-shells-shel-flng-operations,Zacks Investment Research,-0.07083333333333333,0.4291666666666667,neutral,0.07083333333333333,False,False,False,False,False,False,False,False,0.0,212,"['CNX', 'DK', 'MUSA', 'SHEL']",CNX,2022-07-05
+Has Ranger Oil (ROCC) Outpaced Other Oils-Energy Stocks This Year?,Here is how Ranger Oil (ROCC) and CNX Resources Corporation. (CNX) have performed compared to their sector so far this year.,2022-07-08 13:40:10+00:00,https://www.zacks.com/stock/news/1949764/has-ranger-oil-rocc-outpaced-other-oils-energy-stocks-this-year,Zacks Investment Research,-0.012499999999999997,0.6875,neutral,0.012499999999999997,False,False,True,False,False,False,False,False,0.0,192,"['ROCC', 'CNX']",CNX,2022-07-08
+CNX Resources Corporation. (CNX) Dips More Than Broader Markets: What You Should Know,"CNX Resources Corporation. (CNX) closed at $16.19 in the latest trading session, marking a -0.37% move from the prior day.",2022-07-08 22:15:22+00:00,https://www.zacks.com/stock/news/1950125/cnx-resources-corporation-cnx-dips-more-than-broader-markets-what-you-should-know,Zacks Investment Research,0.225,0.375,positive,0.225,False,False,False,False,False,False,False,False,0.0,209,['CNX'],CNX,2022-07-08
+"Benzinga's Top Ratings Upgrades, Downgrades For July 11, 2022","Upgrades
+For Visteon Corp (NASDAQ:VC), Exane BNP Paribas upgraded the previous rating of Neutral to Outperform. For the first quarter, Visteon had an EPS of $1.09, compared to year-ago quarter EPS of $0.56. The stock has a 52-week-high of $134.57 and a 52-week-low of $88.82. At the end of the last trading period, Visteon closed at $108.51.   
+For Lear Corp (NYSE:LEA), Exane BNP Paribas upgraded the previous rating of Underperform to Neutral. In the first quarter, Lear showed an EPS of $1.80, compared to $3.73 from the year-ago quarter. At the moment, the stock has a 52-week-high of $195.43 and a 52-week-low of $118.38. Lear closed at $128.20 at the end of the last trading period.   
+According to BMO Capital, the prior rating for Fate Therapeutics Inc (NASDAQ:FATE) was changed from Market Perform to Outperform. For the first quarter, Fate Therapeutics had an EPS of $0.68, compared to year-ago quarter EPS of $0.48. The stock has a 52-week-high of $97.43 and a 52-week-low of $17.10. At the end of the last trading period, Fate Therapeutics closed at $30.01.   
+According to Wells Fargo, the prior rating for Southwestern Energy Co (NYSE:SWN) was changed from Underweight to Equal-Weight. Southwestern Energy earned $0.40 in the first quarter, compared to $0.29 in the year-ago quarter. The stock has a 52-week-high of $9.87 and a 52-week-low of $3.81. At the end of the last trading period, Southwestern Energy closed at $6.09.   
+Wells Fargo upgraded the previous rating for Range Resources Corp (NYSE:RRC) from Equal-Weight to Overweight. In the first quarter, Range Resources showed an EPS of $1.18, compared to $0.30 from the year-ago quarter. The current stock performance of Range Resources shows a 52-week-high of $37.44 and a 52-week-low of $12.37. Moreover, at the end of the last trading period, the closing price was at $25.62.   
+For Taylor Morrison Home Corp (NYSE:TMHC), Credit Suisse upgraded the previous rating of Neutral to Outperform. In the first quarter, Taylor Morrison Home showed an EPS of $1.44, compared to $0.75 from the year-ago quarter. The current stock performance of Taylor Morrison Home shows a 52-week-high of $35.51 and a 52-week-low of $20.05. Moreover, at the end of the last trading period, the closing price was at $25.36.   
+According to Barclays, the prior rating for Element Solutions Inc (NYSE:ESI) was changed from Equal-Weight to Overweight. In the first quarter, Element Solutions showed an EPS of $0.38, compared to $0.37 from the year-ago quarter. The current stock performance of Element Solutions shows a 52-week-high of $26.92 and a 52-week-low of $16.25. Moreover, at the end of the last trading period, the closing price was at $17.33.   
+B of A Securities upgraded the previous rating for Flowserve Corp (NYSE:FLS) from Underperform to Neutral. Flowserve earned $0.07 in the first quarter, compared to $0.28 in the year-ago quarter. The stock has a 52-week-high of $43.63 and a 52-week-low of $27.14. At the end of the last trading period, Flowserve closed at $28.93.   
+For Bank of America Corp (NYSE:BAC), Societe Generale upgraded the previous rating of Hold to Buy. In the first quarter, Bank of America showed an EPS of $0.80, compared to $0.86 from the year-ago quarter. The stock has a 52-week-high of $50.11 and a 52-week-low of $30.45. At the end of the last trading period, Bank of America closed at $31.79.   
+According to B of A Securities, the prior rating for APi Group Corp (NYSE:APG) was changed from Neutral to Buy. APi Gr earned $0.23 in the first quarter, compared to $0.12 in the year-ago quarter. At the moment, the stock has a 52-week-high of $26.84 and a 52-week-low of $14.13. APi Gr closed at $15.10 at the end of the last trading period.   
+For Honeywell International Inc (NASDAQ:HON), B of A Securities upgraded the previous rating of Neutral to Buy. Honeywell Intl earned $1.91 in the first quarter, compared to $1.92 in the year-ago quarter. At the moment, the stock has a 52-week-high of $236.86 and a 52-week-low of $168.96. Honeywell Intl closed at $173.34 at the end of the last trading period.   
+Goldman Sachs upgraded the previous rating for Mattel Inc (NASDAQ:MAT) from Neutral to Buy. For the first quarter, Mattel had an EPS of $0.08, compared to year-ago quarter EPS of $0.10. At the moment, the stock has a 52-week-high of $26.99 and a 52-week-low of $17.95. Mattel closed at $22.76 at the end of the last trading period.   
+See all analyst ratings upgrades.
+Downgrades
+For CytomX Therapeutics Inc (NASDAQ:CTMX), Cowen & Co. downgraded the previous rating of Outperform to Market Perform. In the first quarter, CytomX Therapeutics showed an EPS of $0.37, compared to $0.26 from the year-ago quarter. The current stock performance of CytomX Therapeutics shows a 52-week-high of $7.53 and a 52-week-low of $1.19. Moreover, at the end of the last trading period, the closing price was at $1.30.   
+B. Riley Securities downgraded the previous rating for First Foundation Inc (NASDAQ:FFWM) from Buy to Neutral. First Foundation earned $0.55 in the first quarter, compared to $0.50 in the year-ago quarter. The current stock performance of First Foundation shows a 52-week-high of $29.41 and a 52-week-low of $19.76. Moreover, at the end of the last trading period, the closing price was at $20.05.   
+According to Raymond James, the prior rating for Suncor Energy Inc (NYSE:SU) was changed from Outperform to Market Perform. In the first quarter, Suncor Energy showed an EPS of $1.52, compared to $0.39 from the year-ago quarter. The stock has a 52-week-high of $42.72 and a 52-week-low of $17.10. At the end of the last trading period, Suncor Energy closed at $32.74.   
+For KB Home (NYSE:KBH), Credit Suisse downgraded the previous rating of Outperform to Neutral. KB Home earned $2.32 in the second quarter, compared to $1.50 in the year-ago quarter. The current stock performance of KB Home shows a 52-week-high of $50.20 and a 52-week-low of $24.78. Moreover, at the end of the last trading period, the closing price was at $30.62.   
+For PLAYSTUDIOS Inc (NASDAQ:MYPS), Craig-Hallum downgraded the previous rating of Buy to Hold. In the first quarter, PLAYSTUDIOS showed an EPS of $0.20, compared to $0.05 from the year-ago quarter. The current stock performance of PLAYSTUDIOS shows a 52-week-high of $7.43 and a 52-week-low of $3.60. Moreover, at the end of the last trading period, the closing price was at $4.49.   
+For Macrogenics Inc (NASDAQ:MGNX), BMO Capital downgraded the previous rating of Outperform to Market Perform. Macrogenics earned $1.08 in the first quarter, compared to $0.90 in the year-ago quarter. The stock has a 52-week-high of $28.19 and a 52-week-low of $2.13. At the end ...Full story available on Benzinga.com",2022-07-11 15:53:47+00:00,https://www.benzinga.com/analyst-ratings/upgrades/22/07/28018161/benzingas-top-ratings-upgrades-downgrades-for-july-11-2022,Benzinga,0.03596491228070174,0.19298245614035087,neutral,0.03596491228070174,False,True,True,False,False,False,False,False,0.0,6809,"['GIII', 'KRUS', 'ITT', 'TMHC', 'HDSN', 'PIPR', 'KBH', 'MGNX', 'LULU', 'ONEM', 'LEA', 'FATE', 'PNFP', 'APG', 'MAN', 'MC', 'PODD', 'AFRM', 'MAT', 'FFWM', 'TROW', 'MYPS', 'OI', 'CIVI', 'ABC', 'DOCN', 'OXY', 'NEWR', 'AME', 'DUOL', 'RRC', 'QRVO', 'BAC', 'BROS', 'RRR', 'CTMX', 'BDX', 'SU', 'CDEV', 'BLX', 'SWN', 'UAA', 'LUNG', 'BYD', 'SYK', 'META', 'CNX', 'VC', 'SILK', 'ESI', 'SST', 'FSLY', 'FLS', 'BCOR', 'KTB', 'HON', 'UPST']",CNX,2022-07-11
+Chevron (CVX) Lags Further in Its Carbon Capture Targets,Chevron Corporation (CVX) has failed to meet carbon capture and storage targets for its gas mega-project in Western Australia.,2022-07-19 11:55:00+00:00,https://www.zacks.com/stock/news/1954159/chevron-cvx-lags-further-in-its-carbon-capture-targets,Zacks Investment Research,-0.16666666666666666,0.26666666666666666,negative,0.16666666666666666,False,False,False,False,False,False,False,False,0.0,184,"['CVX', 'CNX', 'PBF', 'SHEL']",CNX,2022-07-19
+CNX Resources (CNX) to Report Q2 Earnings: What's in Store?,"CNX Resources' (CNX) second-quarter earnings are likely to have gained from strong production volumes, high prices and lower shares outstanding.",2022-07-21 12:38:00+00:00,https://www.zacks.com/stock/news/1955745/cnx-resources-cnx-to-report-q2-earnings-whats-in-store,Zacks Investment Research,0.2733333333333333,0.7870833333333334,positive,0.2733333333333333,True,False,True,False,True,False,False,False,0.0,205,"['DVN', 'RRC', 'CNX', 'CLR']",CNX,2022-07-21
+How Much Upside is Left in CNX Resources Corporation. (CNX)? Wall Street Analysts Think 41%,"The consensus price target hints at a 41.3% upside potential for CNX Resources Corporation. (CNX). While empirical research shows that this sought-after metric is hardly effective, an upward trend in earnings estimate revisions could mean that the stock will witness an upside in the near term.",2022-07-21 13:55:12+00:00,https://www.zacks.com/stock/news/1955803/how-much-upside-is-left-in-cnx-resources-corporation-cnx-wall-street-analysts-think-41,Zacks Investment Research,0.09821428571428571,0.45535714285714285,neutral,0.09821428571428571,True,False,False,False,False,False,False,False,0.0,387,['CNX'],CNX,2022-07-21
+CNX Resources Corporation. (CNX) Gains But Lags Market: What You Should Know,"In the latest trading session, CNX Resources Corporation. (CNX) closed at $18.56, marking a +0.87% move from the previous day.",2022-07-21 22:15:19+00:00,https://www.zacks.com/stock/news/1956163/cnx-resources-corporation-cnx-gains-but-lags-market-what-you-should-know,Zacks Investment Research,0.07777777777777779,0.3888888888888889,neutral,0.07777777777777779,False,False,False,False,False,False,False,False,0.0,204,['CNX'],CNX,2022-07-21
+CNX Resources Corporation. (CNX) Dips More Than Broader Markets: What You Should Know,"CNX Resources Corporation. (CNX) closed the most recent trading day at $18.27, moving -1.56% from the previous trading session.",2022-07-22 22:00:21+00:00,https://www.zacks.com/stock/news/1956740/cnx-resources-corporation-cnx-dips-more-than-broader-markets-what-you-should-know,Zacks Investment Research,0.14666666666666667,0.30333333333333334,positive,0.14666666666666667,False,False,False,False,False,False,False,False,0.0,214,['CNX'],CNX,2022-07-22
+Is CNX Resources (CNX) Stock Outpacing Its Oils-Energy Peers This Year?,Here is how CNX Resources Corporation. (CNX) and Murphy USA (MUSA) have performed compared to their sector so far this year.,2022-07-25 13:40:11+00:00,https://www.zacks.com/stock/news/1957046/is-cnx-resources-cnx-stock-outpacing-its-oils-energy-peers-this-year,Zacks Investment Research,0.1,1.0,neutral,0.1,False,False,True,False,False,False,False,False,0.0,197,"['CNX', 'MUSA']",CNX,2022-07-25
+Diamondback Energy (FANG) Reports Next Week: Wall Street Expects Earnings Growth,Diamondback (FANG) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2022-07-25 14:00:39+00:00,https://www.zacks.com/stock/news/1957118/diamondback-energy-fang-reports-next-week-wall-street-expects-earnings-growth,Zacks Investment Research,0.05714285714285714,0.7071428571428571,neutral,0.05714285714285714,True,False,False,False,False,False,False,False,0.0,256,"['FANG', 'CNX']",CNX,2022-07-25
+CNX Resources Corporation. (CNX) Misses Q2 Earnings and Revenue Estimates,"CNX Resources Corporation. (CNX) delivered earnings and revenue surprises of -22.78% and 12.70%, respectively, for the quarter ended June 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-07-28 13:55:03+00:00,https://www.zacks.com/stock/news/1959611/cnx-resources-corporation-cnx-misses-q2-earnings-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,278,"['CNX', 'CPE']",CNX,2022-07-28
+"Meta, Charter Communications, Southwest Airlines And Some Other Big Stocks Moving Lower On Thursday","Bausch Health Companies Inc.  (NYSE: BHC) shares fell 50.3% to $4.3166 following reports of an order on a patent litigation over Xifaxan.
+Pathward Financial, Inc.  (NASDAQ: CASH) fell 25.2% to $32.26 after the company reported Q3 results. Keefe, Bruyette & Woods downgraded Pathward Financial from Outperform to Market Perform and lowered the price target from $67 to $45.
+Coursera, Inc. (NYSE: COUR) fell 24.4% to $12.30 after the company reported worse-than-expected Q2 results and issued Q3 guidance below estimates. Raymond James downgraded Coursera from Outperform to Market Perform.
+Teladoc Health, Inc. (NYSE: TDOC) fell 20.5% to $34.34 after the company reported a year-over-year drop in Q2 EPS and said it now expects2022 results to be toward the lower end of guidance ranges.
+Hayward Holdings, Inc. (NYSE: HAYW) dropped 18.2% to $11.22 after reporting downbeat quarterly sales.
+Upwork Inc. (NASDAQ: UPWK) declined 17.8% to $19.01 after the company issued Q3 EPS guidance below analyst estimates.
+Pagaya Technologies Ltd. (NASDAQ: PGY) fell 16.3% to $18.39.
+FormFactor, Inc. (NASDAQ: FORM) dropped 15.3% to $34.13 after the company issued a ...",2022-07-28 15:45:01+00:00,https://www.benzinga.com/news/22/07/28250185/meta-charter-communications-southwest-airlines-and-some-other-big-stocks-moving-lower-on-thursday,Benzinga,-0.025,0.11499999999999999,neutral,0.025,False,False,False,False,False,False,False,False,0.0,1254,"['CASH', 'CHTR', 'CINF', 'GRFS', 'CMCSA', 'BOOT', 'FORM', 'TDOC', 'PEGA', 'OMF', 'BAX', 'BHC', 'BCS', 'UPWK', 'CNX', 'META', 'FMS', 'COUR', 'LUV', 'HAYW', 'LZ', 'BLCO', 'OSK', 'PGY', 'SLM', 'SNN', 'SWK', 'BUD']",CNX,2022-07-28
+Why CNX Resources Stock Is Slumping Today,Investors didn't like one of the natural gas producer's decisions.,2022-07-28 16:39:37+00:00,https://www.fool.com/investing/2022/07/28/why-cnx-resources-stock-is-slumping-today/,The Motley Fool,0.1,0.4,neutral,0.1,False,False,False,False,False,False,False,False,0.0,109,['CNX'],CNX,2022-07-28
+CNX Resources (CNX) Q2 Earnings and Revenues Lag Estimates,"CNX Resources (CNX) continues to generate significant free cash flow and utilize the same to buy back shares, reduce the debt level and strengthen its balance sheet.",2022-07-29 12:39:00+00:00,https://www.zacks.com/stock/news/1960509/cnx-resources-cnx-q2-earnings-and-revenues-lag-estimates,Zacks Investment Research,0.19375,0.45,positive,0.19375,True,True,False,False,False,True,False,False,0.0,225,"['DVN', 'OXY', 'CNX', 'LNG']",CNX,2022-07-29
+Is Continental Resources (CLR) a Great Value Stock Right Now?,"Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.",2022-08-01 13:40:12+00:00,https://www.zacks.com/stock/news/1961280/is-continental-resources-clr-a-great-value-stock-right-now,Zacks Investment Research,0.3365079365079365,0.7615079365079365,positive,0.3365079365079365,True,False,False,False,False,False,False,False,0.0,326,"['CLR', 'CNX']",CNX,2022-08-01
+Occidental (OXY) Q2 Earnings and Revenues Beat Estimates,Occidental's (OXY) second-quarter earnings gain from solid production volumes and strong commodity prices.,2022-08-03 11:47:00+00:00,https://www.zacks.com/stock/news/1962753/occidental-oxy-q2-earnings-and-revenues-beat-estimates,Zacks Investment Research,0.21666666666666665,0.41666666666666663,positive,0.21666666666666665,True,False,True,False,True,False,False,False,0.0,164,"['DVN', 'OXY', 'CNX', 'TTE']",CNX,2022-08-03
+"Murphy Oil (MUR) Q2 Earnings Beat Estimates, Sales Rise Y/Y",Murphy Oil's (MUR) second-quarter earnings are better than expected. The company raises its 2022 production guidance.,2022-08-04 12:46:00+00:00,https://www.zacks.com/stock/news/1963891/murphy-oil-mur-q2-earnings-beat-estimates-sales-rise-yy,Zacks Investment Research,0.2,0.45,positive,0.2,True,False,True,False,True,False,False,False,0.0,178,"['DVN', 'CNX', 'MUR', 'TTE']",CNX,2022-08-04
+"Constellation Energy (CEG) Q2 Earnings Lag Estimates, Sales Top",Constellation Energy's (CEG) second-quarter earnings miss estimates. Constellation Energy targets to achieve 100% carbon-free power generation by 2040.,2022-08-08 13:32:00+00:00,https://www.zacks.com/stock/news/1965387/constellation-energy-ceg-q2-earnings-lag-estimates-sales-top,Zacks Investment Research,0.5,0.5,positive,0.5,True,False,True,False,False,False,False,False,0.0,216,"['DVN', 'CEG', 'CNX', 'TTE']",CNX,2022-08-08
+"ONEOK (OKE) Q2 Earnings Beat Estimates, Revenues Rise Y/Y",ONEOK's (OKE) second-quarter earnings surpass estimates. ONEOK affirms its 2022 financial guidance.,2022-08-09 10:58:00+00:00,https://www.zacks.com/stock/news/1965816/oneok-oke-q2-earnings-beat-estimates-revenues-rise-yy,Zacks Investment Research,0.0,0.0,neutral,0.0,True,False,True,False,False,False,False,False,0.0,158,"['DVN', 'OKE', 'CNX', 'TTE']",CNX,2022-08-09
+Why Is SM Energy (SM) Up 13.9% Since Last Earnings Report?,SM Energy (SM) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.,2022-09-02 15:31:51+00:00,https://www.zacks.com/stock/news/1975933/why-is-sm-energy-sm-up-139-since-last-earnings-report,Zacks Investment Research,0.0,0.03333333333333333,neutral,0.0,True,False,False,False,False,False,False,False,0.0,185,"['SM', 'CNX']",CNX,2022-09-02
+CNX Resources Corporation. (CNX) Gains As Market Dips: What You Should Know,"CNX Resources Corporation. (CNX) closed at $17.35 in the latest trading session, marking a +0.41% move from the prior day.",2022-09-02 22:15:08+00:00,https://www.zacks.com/stock/news/1976170/cnx-resources-corporation-cnx-gains-as-market-dips-what-you-should-know,Zacks Investment Research,0.13333333333333333,0.3333333333333333,positive,0.13333333333333333,False,False,False,False,False,False,False,False,0.0,199,['CNX'],CNX,2022-09-02
+Tracking Southeastern Asset Management Portfolio - Q2 2022 Update,Southeastern’s 13F portfolio value decreased from $5.66B to $4.74B this quarter. Click to read an update on the firm's holdings and trades for Q2 2022.,2022-09-14 04:13:43+00:00,https://seekingalpha.com/article/4540831-southeastern-asset-management-portfolio-q2-2022-update,Seeking Alpha,-0.30000000000000004,0.55,negative,0.30000000000000004,False,False,False,False,False,False,True,False,0.0,218,"['AMG', 'BATRA', 'BATRK', 'BIIB', 'CABO', 'CAH', 'CMCSA', 'CNHI', 'CNX', 'DEI', 'ESRT', 'FDX', 'FISV', 'GE', 'GHC', 'GOOG', 'GOOGL', 'H', 'HOUS', 'HTHT', 'IAC', 'IMKTA', 'LAZ', 'LBRDA', 'LBRDK', 'LBRDP', 'LUMN', 'MAT', 'MGM', 'MGR', 'MGRB', 'MGRD', 'MLCO', 'MSGS', 'PAYA', 'PVH', 'RNR', 'SWK', 'SWT', 'SYNH', 'VMEO', 'WBD', 'WEST', 'WESTW', 'WMB', 'WTM', 'XPO', 'YY', 'OSCR']",CNX,2022-09-14
+Ranger Oil (ROCC) Soars 7.5%: Is Further Upside Left in the Stock?,Ranger Oil (ROCC) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock suggests that there could be more strength down the road.,2022-09-29 15:00:00+00:00,https://www.zacks.com/stock/news/1986581/ranger-oil-rocc-soars-75-is-further-upside-left-in-the-stock,Zacks Investment Research,0.14074074074074075,0.37592592592592594,positive,0.14074074074074075,True,False,False,False,False,False,False,False,0.0,283,"['ROCC', 'CNX']",CNX,2022-09-29
+Why CNX Resources Corporation. (CNX) is a Top Value Stock for the Long-Term,"Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",2022-10-12 13:40:07+00:00,https://www.zacks.com/stock/news/1990871/why-cnx-resources-corporation-cnx-is-a-top-value-stock-for-the-long-term,Zacks Investment Research,0.3111111111111111,0.5777777777777778,positive,0.3111111111111111,False,False,False,False,False,False,False,False,0.0,204,['CNX'],CNX,2022-10-12
+CNX Resources Corporation. (CNX) Earnings Expected to Grow: Should You Buy?,CNX Resources Corporation. (CNX) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2022-10-20 14:02:27+00:00,https://www.zacks.com/stock/news/1994934/cnx-resources-corporation-cnx-earnings-expected-to-grow-should-you-buy,Zacks Investment Research,0.03714285714285714,0.7871428571428571,neutral,0.03714285714285714,True,True,False,False,False,False,False,False,0.0,265,"['CNX', 'EQT']",CNX,2022-10-20
+What's in the Offing for CNX Resources (CNX) in Q3 Earnings?,"CNX Resources' (CNX) third-quarter earnings are expected to have benefited from stable production and its ability to generate free cash flow, which helps strengthen the balance sheet and buy back shares.",2022-10-24 12:56:00+00:00,https://www.zacks.com/stock/news/1996236/whats-in-the-offing-for-cnx-resources-cnx-in-q3-earnings,Zacks Investment Research,0.10000000000000002,0.4000000000000001,positive,0.10000000000000002,True,True,False,False,True,False,False,False,0.0,265,"['DVN', 'HAL', 'EQT', 'CNX']",CNX,2022-10-24
+Comstock Resources (CRK) Earnings Expected to Grow: Should You Buy?,Comstock (CRK) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2022-10-25 14:02:04+00:00,https://www.zacks.com/stock/news/1996760/comstock-resources-crk-earnings-expected-to-grow-should-you-buy,Zacks Investment Research,0.03714285714285714,0.7871428571428571,neutral,0.03714285714285714,True,True,False,False,False,False,False,False,0.0,233,"['CRK', 'CNX']",CNX,2022-10-25
+"CNX Resources Corporation. (CNX) Reports Q3 Loss, Misses Revenue Estimates","CNX Resources Corporation. (CNX) delivered earnings and revenue surprises of -175% and 13.31%, respectively, for the quarter ended September 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-10-27 12:05:10+00:00,https://www.zacks.com/stock/news/1998275/cnx-resources-corporation-cnx-reports-q3-loss-misses-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,282,"['CNX', 'GPRK']",CNX,2022-10-27
+CNX Resources (CNX) Q3 Earnings and Revenues Lag Estimates,CNX Resources' (CNX) third-quarter earnings and revenues are lower than expected. CNX continues to generate free cash flow and buyback shares to increase shareholders' value.,2022-10-28 14:26:00+00:00,https://www.zacks.com/stock/news/2007873/cnx-resources-cnx-q3-earnings-and-revenues-lag-estimates,Zacks Investment Research,0.15000000000000002,0.6000000000000001,positive,0.15000000000000002,True,True,False,False,False,True,False,False,0.0,234,"['DVN', 'OXY', 'CNX', 'LNG']",CNX,2022-10-28
+"ONEOK (OKE) Q3 Earnings Beat Estimates, Revenues Miss",ONEOK's (OKE) third-quarter earnings come in better than expected as the company benefits from strong production volumes and higher realized commodity prices.,2022-11-02 16:44:00+00:00,https://www.zacks.com/stock/news/2012806/oneok-oke-q3-earnings-beat-estimates-revenues-miss,Zacks Investment Research,0.2708333333333333,0.5333333333333333,positive,0.2708333333333333,True,False,False,False,True,False,False,False,0.0,213,"['DVN', 'OKE', 'CNX', 'TTE']",CNX,2022-11-02
+Murphy Oil (MUR) Q3 Earnings and Revenues Beat Estimates,Murphy Oil's (MUR) third-quarter earnings and revenues were better than expected and the company benefited from strong production volumes.,2022-11-03 15:56:00+00:00,https://www.zacks.com/stock/news/2013618/murphy-oil-mur-q3-earnings-and-revenues-beat-estimates,Zacks Investment Research,0.27777777777777773,0.5444444444444444,positive,0.27777777777777773,True,False,False,False,True,False,False,False,0.0,196,"['DVN', 'CNX', 'MUR', 'TTE']",CNX,2022-11-03
+"Occidental (OXY) Q3 Earnings Lag, Revenues Beat Estimates","Occidental's (OXY) third-quarter earnings were lower than expected, but revenues beat estimates. OXY continues to utilize its free cash flow to strengthen its balance sheet and buyback shares.",2022-11-09 17:27:00+00:00,https://www.zacks.com/stock/news/2016327/occidental-oxy-q3-earnings-lag-revenues-beat-estimates,Zacks Investment Research,0.15000000000000002,0.6000000000000001,positive,0.15000000000000002,True,True,False,False,False,True,False,False,0.0,251,"['DVN', 'OXY', 'CNX', 'TTE']",CNX,2022-11-09
+Northern (NOG) Stock Rises 2.6% After Q3 Earnings & Sales Beat,Northern's (NOG) third-quarter earnings and revenues beat the consensus mark due to better-than-expected performances.,2022-11-18 16:08:00+00:00,https://www.zacks.com/stock/news/2019974/northern-nog-stock-rises-26-after-q3-earnings-sales-beat,Zacks Investment Research,-0.125,0.375,negative,0.125,True,False,False,False,False,False,False,False,0.0,182,"['DVN', 'CNX', 'NOG', 'TTE']",CNX,2022-11-18
+"Benzinga's Top Ratings Upgrades, Downgrades For January 10, 2023","Upgrades
+Morgan Stanley upgraded the previous rating for Stem Inc (NYSE:STEM) from Equal-Weight to Overweight. In the third quarter, Stem showed an EPS of $0.22, compared to $0.15 from the year-ago quarter. The current stock performance of Stem shows a 52-week-high of $18.02 and a 52-week-low of $5.72. Moreover, at the end of the last trading period, the closing price was at $8.14.   
+According to Goldman Sachs, the prior rating for American Tower Corp (NYSE:AMT) was changed from Neutral to Buy. American Tower earned $2.36 in the third quarter, compared to $2.49 in the year-ago quarter. At the moment, the stock has a 52-week-high of $282.47 and a 52-week-low of $178.17. American Tower closed at $219.30 at the end of the last trading period.   
+Wolfe Research upgraded the previous rating for Covenant Logistics Group Inc (NASDAQ:CVLG) from Underperform to Peer Perform. For the third quarter, Covenant Logistics Gr had an EPS of $1.52, compared to year-ago quarter EPS of $1.02. At the moment, the stock has a 52-week-high of $40.37 and a 52-week-low of $17.23. Covenant Logistics Gr closed at $33.84 at the end of the last trading period.   
+For Camden Property Trust (NYSE:CPT), Mizuho upgraded the previous rating of Neutral to Buy. Camden Prop Trust earned $1.70 in the third quarter, compared to $1.36 in the year-ago quarter. The current stock performance of Camden Prop Trust shows a 52-week-high of $175.69 and a 52-week-low of $107.90. Moreover, at the end of the last trading period, the closing price was at $113.01.   
+According to Morgan Stanley, the prior rating for Royal Caribbean Group (NYSE:RCL) was changed from Underweight to Equal-Weight. For the third quarter, Royal Caribbean Gr had an EPS of $0.26, compared to year-ago quarter EPS of $4.91. The stock has a 52-week-high of $90.55 and a 52-week-low of $31.09. At the end of the last trading period, Royal Caribbean Gr closed at $57.29.   
+According to UBS, the prior rating for U.S. Bancorp (NYSE:USB) was changed from Neutral to Buy. For the third quarter, U.S. Bancorp had an EPS of $1.18, compared to year-ago quarter EPS of $1.30. The current stock performance of U.S. Bancorp shows a 52-week-high of $63.57 and a 52-week-low of $38.39. Moreover, at the end of the last trading period, the closing price was at $46.61.   
+According to Odeon Capital, the prior rating for Bank of America Corp (NYSE:BAC) was changed from Hold to Buy. For the third quarter, Bank of America had an EPS of $0.81, compared to year-ago quarter EPS of $0.85. The stock has a 52-week-high of $50.11 and a 52-week-low of $29.31. At the end of the last trading period, Bank of America closed at $33.89.   
+According to Odeon Capital, the prior rating for Wells Fargo & Co (NYSE:WFC) was changed from Hold to Buy. Wells Fargo earned $0.85 in the third quarter, compared to $1.17 in the year-ago quarter. The current stock performance of Wells Fargo shows a 52-week-high of $60.30 and a 52-week-low of $36.54. Moreover, at the end of the last trading period, the closing price was at $42.39.   
+For KeyCorp (NYSE:KEY), Odeon Capital upgraded the previous rating of Hold to Buy. For the third quarter, KeyCorp had an EPS of $0.55, compared to year-ago quarter EPS of $0.65. The stock has a 52-week-high of $27.17 and a 52-week-low of $15.26. At the end of the last trading period, KeyCorp closed at $18.19.   
+Odeon Capital upgraded the previous rating for M&T Bank Corp (NYSE:MTB) from Hold to Buy. For the third quarter, M&T Bank had an EPS of $3.83, compared to year-ago quarter EPS of $3.76. The stock has a 52-week-high of $193.42 and a 52-week-low of $138.43. At the end of the last trading period, M&T Bank closed at $148.55.   
+For The Goldman Sachs Group Inc (NYSE:GS), Odeon Capital upgraded the previous rating of Sell to Hold. Goldman Sachs Group earned $8.25 in the third quarter, compared to $14.93 in the year-ago quarter. The current stock performance of Goldman Sachs Group shows a 52-week-high of $404.37 and a 52-week-low of $277.84. Moreover, at the end of the last trading period, the closing price was at $353.00.   
+Morgan Stanley upgraded the previous rating for Bloom Energy Corp (NYSE:BE) from Equal-Weight to Overweight. For the third quarter, Bloom Energy had an EPS of $0.20, compared to year-ago quarter EPS of $0.20. The current stock performance of Bloom Energy shows a 52-week-high of $31.47 and a 52-week-low of $11.47. Moreover, at the end of the last trading period, the closing price was at $19.89.   
+For Morgan Stanley (NYSE:MS), Odeon Capital upgraded the previous rating of Sell to Hold. In the third quarter, Morgan Stanley showed an EPS of $1.53, compared to $2.04 from the year-ago quarter. At the moment, the stock has a 52-week-high of $109.73 and a 52-week-low of $72.05. Morgan Stanley closed at $87.64 at the end of the last trading period.   
+According to UBS, the prior rating for Casella Waste Systems Inc (NASDAQ:CWST) was changed from Neutral to Buy. Casella Waste Systems earned $0.45 in the third quarter, compared to $0.34 in the year-ago quarter. At the moment, the stock has a 52-week-high of $92.75 and a 52-week-low of $63.90. Casella Waste Systems closed at $79.32 at the end of the last trading period.   
+According to Morgan Stanley, the prior rating for FMC Corp (NYSE:FMC) was changed from Equal-Weight to Overweight. In the third quarter, FMC showed an EPS of $1.23, compared to $1.43 from the year-ago quarter. At the moment, the stock has a 52-week-high of $140.99 and a 52-week-low of $98.24. FMC closed at $128.97 at the end of the last trading period.   
+Evercore ISI Group upgraded the previous rating for The Travelers Companies Inc (NYSE:TRV) from In-Line to Outperform. Travelers Companies earned $2.20 in the third quarter, compared to $2.60 in the year-ago quarter. The stock has a 52-week-high of $194.45 and a 52-week-low of $149.65. At the end of the last trading period, Travelers Companies closed at $189.12.   
+For Aon PLC (NYSE:AON), Evercore ISI Group upgraded the previous rating of Underperform to In-Line. For the third quarter, Aon had an EPS of $2.02, compared to year-ago quarter EPS of $1.74. The stock has a 52-week-high of $341.98 and a 52-week-low of $246.21. At the end of the last trading period, Aon closed at $306.33.   
+According to Morgan Stanley, the prior rating for Altus Power Inc (NYSE:AMPS) was changed from Equal-Weight to Overweight. At the moment, the stock has a 52-week-high of $14.71 and a 52-week-low of $4.26. Altus Power closed at $7.23 at the end of the last trading period.   
+For Bio-Techne Corp (NASDAQ:TECH), Wells Fargo upgraded the previous rating of Underweight to Equal-Weight. Bio-Techne earned $0.45 in the first quarter, compared to $0.46 in the year-ago quarter. The current stock performance of Bio-Techne shows a 52-week-high of $113.81 and a 52-week-low of $68.00. Moreover, at the end of the last trading period, the closing price was at $83.94.   
+Barclays upgraded the previous rating for ProPetro Holding Corp (NYSE:PUMP) from Equal-Weight to Overweight. ProPetro Holding earned $0.10 in the third quarter, compared to $0.05 in the year-ago quarter. The stock has a 52-week-high of $16.93 and a 52-week-low of $7.25. At the end of the last trading period, ProPetro Holding closed at $10.18.   
+For PNC Financial Services Group Inc (NYSE:PNC), Odeon Capital upgraded the previous rating of Hold to Buy. In the third quarter, PNC Financial Services Gr showed an EPS of $3.78, compared to $3.75 from the year-ago quarter. The stock has a 52-week-high of $228.14 and a 52-week-low of $143.52. At the end of the last trading period, PNC Financial Services Gr closed at $164.28.   
+According to Barclays, the prior rating for Nabors Industries Ltd (NYSE:NBR) was changed from Equal-Weight to Overweight. For the third quarter, Nabors Industries had an EPS of $1.80, compared to year-ago quarter EPS of $14.16. The current stock performance of Nabors Industries shows a 52-week-high of $207.67 and a 52-week-low of $91.58. Moreover, at the end of the last trading period, the closing price was at $153.76.   
+For Keysight Technologies Inc (NYSE:KEYS), Barclays upgraded the previous rating of Equal-Weight to Overweight. In the fourth quarter, Keysight Techs showed an EPS of $2.14, compared to $1.82 from the year-ago quarter. The stock has a 52-week-high of $193.92 and a 52-week-low of $127.93. At the end of the last trading period, Keysight Techs closed at $176.61.   
+For Ryder System Inc (NYSE:R), Wolfe Research upgraded the previous rating of Peer Perform to Outperform. For the third quarter, Ryder System had an EPS of $4.45, compared to year-ago quarter EPS of $2.55. The current stock performance of Ryder System shows a 52-week-high of $97.26 and a 52-week-low of $61.71. Moreover, at the end of the last trading period, the closing price was at $84.25.   
+According to Wells Fargo, the prior rating for Agilent Technologies Inc (NYSE:A) was changed from Equal-Weight to Overweight. For the fourth quarter, Agilent Technologies had an EPS of $1.53, compared to year-ago quarter EPS of $1.21. The stock has a 52-week-high of $160.26 and a 52-week-low of $112.52. At the end of the last trading period, Agilent Technologies closed at $147.47.   
+Mizuho upgraded the previous rating for HF Sinclair Corp (NYSE:DINO) from Neutral to Buy. In the third quarter, HF Sinclair showed an EPS of $4.58, compared to $1.28 from the year-ago quarter. The current stock performance of HF Sinclair shows a 52-week-high of $66.19 and a 52-week-low of $34.17. Moreover, at the end of the last trading period, the closing price was at $50.16.   
+According to UBS, the prior rating for NXP Semiconductors NV (NASDAQ:NXPI) was changed from Sell to Neutral. NXP Semiconductors earned $3.81 in the third quarter, compared to $2.84 in the year-ago quarter. The current stock performance of NXP Semiconductors shows a 52-week-high of $232.36 and a 52-week-low of $132.08. Moreover, at the end of the last trading period, the closing price was at $160.97.   
+According to Barclays, the prior rating for DoubleVerify Holdings Inc (NYSE:DV) was changed from Equal-Weight to Overweight. For the third quarter, DoubleVerify Hldgs had an EPS of $0.06, compared to year-ago quarter EPS of $0.05. The current stock performance of DoubleVerify Hldgs shows a 52-week-high of $32.43 and a 52-week-low of $17.22. Moreover, at the end of the last trading period, the closing price was at $22.91.   
+For Confluent Inc (NASDAQ:CFLT), Barclays upgraded the previous rating of Equal-Weight to Overweight. Confluent earned $0.13 in the third quarter, compared to $0.17 in the year-ago quarter. The current stock performance of Confluent shows a 52-week-high of $81.11 and a 52-week-low of $16.48. Moreover, at the end of the last trading period, the closing price was at $19.38.   
+According to JP Morgan, the prior rating for ONEOK Inc (NYSE:OKE) was changed from Neutral to Overweight. For the third quarter, ONEOK had an EPS of $0.96, compared to year-ago quarter EPS of $0.88. At the moment, the stock has a 52-week-high of $75.07 and a 52-week-low of $50.50. ONEOK closed at $67.69 at the end of the last trading period.   
+According to Wells Fargo, the prior rating for AT&T Inc (NYSE:T) was changed from Equal-Weight to Overweight. In the third ...Full story available on Benzinga.com",2023-01-10 15:01:12+00:00,https://www.benzinga.com/analyst-ratings/upgrades/23/01/30354796/benzingas-top-ratings-upgrades-downgrades-for-january-10-2023,Benzinga,-0.030176767676767673,0.0982323232323232,neutral,0.030176767676767673,False,True,False,False,False,False,False,False,0.0,11417,"['PAYA', 'BA', 'MPC', 'HES', 'PUMP', 'RSG', 'BMBL', 'BAC', 'NCLH', 'HIG', 'HPE', 'SM', 'SU', 'CFLT', 'CHK', 'ALLY', 'IVZ', 'BE', 'CRC', 'T', 'CRGY', 'CNI', 'MTDR', 'KEY', 'ALBO', 'CHRD', 'TRV', 'CNX', 'AMPS', 'KIM', 'DINO', 'CHRW', 'USB', 'COF', 'PSX', 'MRO', 'ZI', 'CWST', 'USM', 'CPE', 'ON', 'MS', 'ATUS', 'GPOR', 'WFC', 'CPT', 'PDCE', 'MTB', 'RNGR', 'MERC', 'NTAP', 'WSO', 'CRK', 'NCLH', 'NBR', 'PR', 'PCAR', 'OSI', 'CVX', 'BOX', 'OKE', 'MGY', 'STEM', 'WM', 'DCT', 'ALLY', 'PNC', 'SITC', 'TECH', 'CC', 'DK', 'RYAM', 'PPG', 'PLMR', 'AMYT', 'UCTT', 'AON', 'DT', 'CIVI', 'R', 'AMYT', 'A', 'NXPI', 'DV', 'RYAM', 'RBC', 'AZEK', 'AMT', 'BOX', 'FMC', 'EURN', 'RCL', 'CVLG', 'AOS', 'ESTE', 'GS', 'KEYS', 'RF']",CNX,2023-01-10
+CNX Resources Corporation. (CNX) Reports Next Week: Wall Street Expects Earnings Growth,CNX Resources Corporation. (CNX) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2023-01-19 15:01:05+00:00,https://www.zacks.com/stock/news/2041350/cnx-resources-corporation-cnx-reports-next-week-wall-street-expects-earnings-growth,Zacks Investment Research,0.05714285714285714,0.7071428571428571,neutral,0.05714285714285714,True,False,False,False,False,False,False,False,0.0,271,['CNX'],CNX,2023-01-19
+What Awaits NextEra Energy Partners (NEP) in Q4 Earnings?,"NextEra Energy Partners' (NEP) fourth-quarter results are expected to benefit from structural tax advantages and previous acquisition, which boosted renewable energy.",2023-01-23 14:59:00+00:00,https://www.zacks.com/stock/news/2042690/what-awaits-nextera-energy-partners-nep-in-q4-earnings,Zacks Investment Research,-0.13333333333333333,0.2833333333333333,negative,0.13333333333333333,True,True,False,False,False,False,False,False,0.0,225,"['CVX', 'CNX', 'NEP', 'CRC']",CNX,2023-01-23
+Murphy Oil (MUR) to Report Q4 Earnings: What's in the Cards?,"Murphy Oil's (MUR) fourth-quarter production is likely to be affected by high offshore downtime and an increase in royalties in Tupper Montney, while debt reduction is going to boost margins.",2023-01-24 11:06:00+00:00,https://www.zacks.com/stock/news/2043018/murphy-oil-mur-to-report-q4-earnings-whats-in-the-cards,Zacks Investment Research,0.08,0.77,neutral,0.08,True,False,False,False,True,True,False,False,0.0,253,"['CNX', 'MUR', 'LNG', 'CRC']",CNX,2023-01-24
+CNX Resources (CNX) to Report Q4 Earnings: What to Expect,"CNX Resources (CNX) fourth-quarter results are expected to have benefited from lower debts and shares outstanding, and stable natural gas production from shale assets.",2023-01-24 13:14:00+00:00,https://www.zacks.com/stock/news/2043136/cnx-resources-cnx-to-report-q4-earnings-what-to-expect,Zacks Investment Research,0.16666666666666666,0.5583333333333332,positive,0.16666666666666666,True,False,False,False,True,True,False,False,0.0,226,"['CVX', 'CNX', 'VNOM', 'CRC']",CNX,2023-01-24
+NextEra Energy Partners (NEP) Q4 Earnings & Sales Lag Estimates,"NextEra Energy Partners' (NEP) fourth-quarter earnings and revenues are lower than expected, but continue to grow from acquisitions and renewable operation.",2023-01-25 18:29:00+00:00,https://www.zacks.com/stock/news/2044298/nextera-energy-partners-nep-q4-earnings-sales-lag-estimates,Zacks Investment Research,-0.1,0.4,neutral,0.1,True,True,False,False,False,False,False,False,0.0,221,"['CVX', 'CNX', 'NEP', 'CRC']",CNX,2023-01-25
+New Strong Sell Stocks for January 26th,"BWAY, INDB and CNX have been added to the Zacks Rank #5 (Strong Sell) List on January 26, 2023.",2023-01-26 12:25:00+00:00,https://www.zacks.com/stock/news/2044583/new-strong-sell-stocks-for-january-26th,Zacks Investment Research,0.05075757575757571,0.7053030303030303,neutral,0.05075757575757571,False,False,False,False,False,False,False,False,0.0,136,"['CNX', 'INDB', 'BWAY']",CNX,2023-01-26
+CNX Resources Corporation. (CNX) Q4 Earnings Beat Estimates,"CNX Resources Corporation. (CNX) delivered earnings and revenue surprises of 187.72% and 14.92%, respectively, for the quarter ended December 2022. Do the numbers hold clues to what lies ahead for the stock?",2023-01-26 13:05:05+00:00,https://www.zacks.com/stock/news/2044610/cnx-resources-corporation-cnx-q4-earnings-beat-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,268,"['CNX', 'CRC']",CNX,2023-01-26
+"CNX Resources (CNX) Q4 Earnings Beat, Revenues Lag Estimates",CNX Resources' (CNX) fourth-quarter earnings beat the estimate but revenues are lower than expected. CNX continues to repurchase shares from open market.,2023-01-26 17:36:00+00:00,https://www.zacks.com/stock/news/2044935/cnx-resources-cnx-q4-earnings-beat-revenues-lag-estimates,Zacks Investment Research,-0.05,0.45,neutral,0.05,True,False,False,False,False,False,False,False,0.0,215,"['DVN', 'CVX', 'CNX', 'ET']",CNX,2023-01-26
+3 Cheap Stocks to Buy Right Now,Two tech stocks and one commodity name look awfully low-priced relative to their businesses quality -- and each will benefit from the rise of artificial intelligence.,2023-02-06 11:45:00+00:00,https://www.fool.com/investing/2023/02/06/3-cheap-stocks-to-buy-right-now/,The Motley Fool,-0.18285714285714286,0.6471428571428571,negative,0.18285714285714286,False,True,False,False,False,False,False,False,0.0,199,"['GOOG', 'GOOGL', 'SMCI', 'CNX']",CNX,2023-02-06
+Callinex Mines Inc. Announces $7 Million Private Placement,NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES,2023-02-15 12:31:00+00:00,https://www.globenewswire.com/news-release/2023/02/15/2608589/0/en/Callinex-Mines-Inc-Announces-7-Million-Private-Placement.html,GlobeNewswire Inc.,0.0,0.375,neutral,0.0,False,False,False,False,False,False,False,False,0.0,257,['CNX'],CNX,2023-02-15
+Callinex Mines Inc. Announces Upsized $8.2 Million Private Placement,NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES,2023-02-16 01:05:00+00:00,https://www.globenewswire.com/news-release/2023/02/16/2609277/0/en/Callinex-Mines-Inc-Announces-Upsized-8-2-Million-Private-Placement.html,GlobeNewswire Inc.,0.0,0.375,neutral,0.0,False,False,False,False,False,False,False,False,0.0,168,['CNX'],CNX,2023-02-16
+Occidental's (OXY) Q4 Earnings and Revenues Miss Estimates,Occidental's (OXY) fourth-quarter earnings and total revenues are lower than expected. OXY continues to redeem debts to strengthen its balance sheet and buyback shares to increase shareholders' value.,2023-02-28 12:53:00+00:00,https://www.zacks.com/stock/news/2059651/occidentals-oxy-q4-earnings-and-revenues-miss-estimates,Zacks Investment Research,-0.05,0.575,neutral,0.05,True,True,False,False,False,True,False,False,0.0,260,"['DVN', 'OXY', 'CNX', 'TTE']",CNX,2023-02-28
+New Strong Sell Stocks for March 14th,"CNX, CECO and AA have been added to the Zacks Rank #5 (Strong Sell) List on March 14, 2023.",2023-03-14 11:31:00+00:00,https://www.zacks.com/stock/news/2065199/new-strong-sell-stocks-for-march-14th,Zacks Investment Research,0.05075757575757571,0.7053030303030303,neutral,0.05075757575757571,False,False,False,False,False,False,False,False,0.0,130,"['AA', 'CNX', 'CECO']",CNX,2023-03-14
+New Strong Sell Stocks for March 20th,"CNX, BEP and CPRI have been added to the Zacks Rank #5 (Strong Sell) List on March 20, 2023.",2023-03-20 10:05:00+00:00,https://www.zacks.com/stock/news/2067765/new-strong-sell-stocks-for-march-20th,Zacks Investment Research,0.04060606060606057,0.5642424242424242,neutral,0.04060606060606057,False,False,False,False,False,False,False,False,0.0,131,"['CNX', 'BEP', 'CPRI']",CNX,2023-03-20
+Baker Hughes (BKR) to Report Q1 Earnings: What to Expect?,An increase in Baker Hughes' (BKR) expenses is likely to have dented its bottom line in Q1.,2023-04-14 13:35:00+00:00,https://www.zacks.com/stock/news/2078944/baker-hughes-bkr-to-report-q1-earnings-what-to-expect,Zacks Investment Research,0.0,1.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,150,"['FTI', 'CNX', 'ENPH', 'BKR']",CNX,2023-04-14
+What's in the Offing for Kinder Morgan's (KMI) Q1 Earnings?,Kinder Morgan (KMI) is likely to have generated stable fee-based revenues from its diverse and vast network of midstream assets in Q1.,2023-04-14 13:36:00+00:00,https://www.zacks.com/stock/news/2078948/whats-in-the-offing-for-kinder-morgans-kmi-q1-earnings,Zacks Investment Research,0.0,1.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,195,"['FTI', 'CNX', 'KMI', 'ENPH']",CNX,2023-04-14
+Factors Likely to Influence SLB's Earnings This Season,Favorable crude pricing is likely to have aided SLB's Q1 earnings.,2023-04-19 10:39:00+00:00,https://www.zacks.com/stock/news/2080864/factors-likely-to-influence-slbs-earnings-this-season,Zacks Investment Research,-0.2333333333333333,1.0,negative,0.2333333333333333,True,False,False,False,False,False,False,False,0.0,122,"['SLB', 'EPD', 'FTI', 'CNX']",CNX,2023-04-19
+Baker Hughes (BKR) Beats Earnings & Revenue Estimates in Q1,"Higher contributions from the Oilfield Services and Equipment, and Industrial & Energy Technology business units aid Baker Hughes' (BKR) earnings in Q1.",2023-04-19 13:23:00+00:00,https://www.zacks.com/stock/news/2081373/baker-hughes-bkr-beats-earnings-revenue-estimates-in-q1,Zacks Investment Research,0.25,0.5,positive,0.25,True,False,False,False,False,False,False,False,0.0,213,"['SUN', 'CNX', 'BKR', 'WHD']",CNX,2023-04-19
+Analysts Estimate CNX Resources Corporation. (CNX) to Report a Decline in Earnings: What to Look Out for,CNX Resources Corporation. (CNX) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2023-04-20 14:02:36+00:00,https://www.zacks.com/stock/news/2082174/analysts-estimate-cnx-resources-corporation-cnx-to-report-a-decline-in-earnings-what-to-look-out-for,Zacks Investment Research,0.07142857142857142,0.8839285714285714,neutral,0.07142857142857142,True,False,False,False,False,False,False,False,0.0,294,"['CNX', 'PXD']",CNX,2023-04-20
+Earnings Preview: Diamondback Energy (FANG) Q1 Earnings Expected to Decline,Diamondback (FANG) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2023-04-24 14:00:41+00:00,https://www.zacks.com/stock/news/2083439/earnings-preview-diamondback-energy-fang-q1-earnings-expected-to-decline,Zacks Investment Research,0.03714285714285714,0.7871428571428571,neutral,0.03714285714285714,True,False,False,False,False,False,False,False,0.0,251,"['FANG', 'CNX']",CNX,2023-04-24
+What's in Store for CNX Resources (CNX) in Q1 Earnings?,CNX Resources' (CNX) first-quarter earnings expected to benefit from stable production volumes and strong free cash flow generation.,2023-04-24 14:48:00+00:00,https://www.zacks.com/stock/news/2083543/whats-in-store-for-cnx-resources-cnx-in-q1-earnings,Zacks Investment Research,0.24444444444444444,0.6444444444444445,positive,0.24444444444444444,True,False,False,False,True,False,False,False,0.0,189,"['CVX', 'OKE', 'CNX', 'LNG']",CNX,2023-04-24
+"Benzinga's Top Ratings Upgrades, Downgrades For April 25, 2023","Upgrades
+Erste Group upgraded the previous rating for NVIDIA Corp (NASDAQ:NVDA) from Hold to Buy. In the fourth quarter, NVIDIA showed an EPS of $0.88, compared to $1.32 from the year-ago quarter. At the moment, the stock has a 52-week-high of $281.10 and a 52-week-low of $108.14. NVIDIA closed at $270.42 at the end of the last trading period.   
+Stifel upgraded the previous rating for Euronav NV (NYSE:EURN) from Hold to Buy. Euronav earned $1.16 in the fourth quarter, compared to $0.36 in the year-ago quarter. The current stock performance of Euronav shows a 52-week-high of $21.00 and a 52-week-low of $9.94. Moreover, at the end of the last trading period, the closing price was at $17.83.   
+DA Davidson upgraded the previous rating for Sierra Bancorp (NASDAQ:BSRR) from Neutral to Buy. For the first quarter, Sierra had an EPS of $0.58, compared to year-ago quarter EPS of $0.49. The stock has a 52-week-high of $24.72 and a 52-week-low of $15.81. At the end of the last trading period, Sierra closed at $15.99.   
+For Range Resources Corp (NYSE:RRC), Benchmark upgraded the previous rating of Hold to Buy. Range Resources earned $0.99 in the first quarter, compared to $1.18 in the year-ago quarter. At the moment, the stock has a 52-week-high of $37.39 and a 52-week-low of $22.61. Range Resources closed at $25.69 at the end of the last trading period.   
+For Squarespace Inc (NYSE:SQSP), Citigroup upgraded the previous rating of Neutral to Buy. Squarespace earned $0.07 in the fourth quarter, compared to $0.12 in the year-ago quarter. The stock has a 52-week-high of $33.41 and a 52-week-low of $14.43. At the end of the last trading period, Squarespace closed at $30.71.   
+According to Jefferies, the prior rating for XPeng Inc (NYSE:XPEV) was changed from Underperform to Hold. For the fourth quarter, XPeng had an EPS of $0.37, compared to year-ago quarter EPS of $0.22. At the moment, the stock has a 52-week-high of $35.35 and a 52-week-low of $6.18. XPeng closed at $9.29 at the end of the last trading period.   
+According to Barclays, the prior rating for Universal Health Services Inc (NYSE:UHS) was changed from Underweight to Equal-Weight. The stock has a 52-week-high of $154.65 and a 52-week-low of $82.50. At the end of the last trading period, Universal Health Servs closed at $140.70.   
+According to Goldman Sachs, the prior rating for ZTO Express (Cayman) Inc (NYSE:ZTO) was changed from Neutral to Buy. For the fourth quarter, ZTO Express (Cayman) had an EPS of $0.39, compared to year-ago quarter EPS of $0.34. The stock has a 52-week-high of $29.79 and a 52-week-low of $16.28. At the end of the last trading period, ZTO Express (Cayman) closed at $27.94.   
+According to Credit Suisse, the prior rating for Zebra Technologies Corp (NASDAQ:ZBRA) was changed from Neutral to Outperform. Zebra Technologies earned $4.75 in the fourth quarter, compared to $4.54 in the year-ago quarter. The current stock performance of Zebra Technologies shows a 52-week-high of $389.96 and a 52-week-low of $225.14. Moreover, at the end of the last trading period, the closing price was at $288.19.   
+See all analyst ratings upgrades.
+Downgrades
+B of A Securities downgraded the previous rating for Day One Biopharmaceuticals Inc (NASDAQ:DAWN) from Buy to Underperform. Day One Biopharmaceutical earned $0.53 in the fourth quarter, compared to $0.36 in the year-ago quarter. The current stock performance of Day One Biopharmaceutical shows a 52-week-high of $28.29 and a 52-week-low of $5.44. Moreover, at the end of the last trading period, the closing price was at $13.71.   
+Barclays downgraded the previous rating for Viatris Inc (NASDAQ:VTRS) from Overweight to Equal-Weight. In the fourth quarter, Viatris showed an EPS of $0.67, compared to $0.22 from the year-ago quarter. At the moment, the stock has a 52-week-high of $12.40 and a 52-week-low of $8.43. Viatris closed at $9.33 at the end of the last trading period.   
+Janney Montgomery Scott downgraded the previous rating for First Republic Bank (NYSE:FRC) from Neutral to Sell. For the first quarter, First Republic Bank had an EPS of $1.23, compared to year-ago quarter EPS of $2.00. The stock has a 52-week-high of $171.04 and a 52-week-low of $11.52. At the end of the last trading period, First Republic Bank closed at $16.00.   
+According to Stephens & Co., the prior rating for Cal-Maine Foods Inc (NASDAQ:CALM) was changed from Overweight to Equal-Weight. For the third quarter, Cal-Maine Foods had an EPS of $6.62, compared to year-ago quarter EPS of $0.81. At the moment, the stock has a 52-week-high of $65.19 and a 52-week-low of $43.96. Cal-Maine Foods closed at $54.34 at the end of the last trading period.   
+For NextEra Energy Inc (NYSE:NEE), Erste Group downgraded the previous rating of Buy to Hold. NextEra Energy ...Full story available on Benzinga.com",2023-04-25 15:00:38+00:00,https://www.benzinga.com/analyst-ratings/upgrades/23/04/31991433/benzingas-top-ratings-upgrades-downgrades-for-april-25-2023,Benzinga,-0.001694915254237284,0.12655367231638417,neutral,0.001694915254237284,False,True,True,False,False,False,False,False,0.0,4921,"['XPEV', 'UHS', 'VTRS', 'UNM', 'DOCN', 'DDI', 'VFC', 'SQSP', 'PDD', 'NEE', 'CIFR', 'BSRR', 'FBRT', 'CALM', 'ESTE', 'FBRT', 'COLM', 'DAWN', 'CMTG', 'NVDA', 'EURN', 'SKYX', 'ZBRA', 'XENE', 'APLM', 'AFL', 'ZTO', 'CHK', 'GL', 'CNX', 'ARGX', 'EQT', 'TALO', 'PFG', 'CTRA', 'RGA', 'CPRI', 'RRC', 'IMVT']",CNX,2023-04-25
+CNX Resources Corporation. (CNX) Q1 Earnings Surpass Estimates,"CNX Resources Corporation. (CNX) delivered earnings and revenue surprises of 27.27% and 10.39%, respectively, for the quarter ended March 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-04-27 12:05:17+00:00,https://www.zacks.com/stock/news/2085699/cnx-resources-corporation-cnx-q1-earnings-surpass-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,267,"['CNX', 'CIVI']",CNX,2023-04-27
+"CNX Resources (CNX) Q1 Earnings Beat, Sales Miss Estimates",CNX Resources' (CNX) first-quarter earnings are better than expected and the company continues to utilize its free cash flow to buyback shares and reduce debt.,2023-04-28 10:00:00+00:00,https://www.zacks.com/stock/news/2086679/cnx-resources-cnx-q1-earnings-beat-sales-miss-estimates,Zacks Investment Research,0.26666666666666666,0.5666666666666668,positive,0.26666666666666666,True,True,False,False,False,True,False,False,0.0,219,"['DVN', 'APA', 'OXY', 'CNX']",CNX,2023-04-28
+Expert Ratings for CNX Resources,"CNX Resources (NYSE:CNX) has observed the following analyst ratings within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+0
+4
+0
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+0
+0
+2
+0
+0
+
+
+2M Ago
+0
+0
+1
+0
+0
+
+
+3M Ago
+0
+0
+0
+0
+0
+
+
+
+In the last 3 months, 4 analysts have offered 12-month price targets for CNX Resources. The company has an average price target of $16.25 with a high of $17.00 and a low of $15.00. 
+Below is a summary of how these 4 analysts rated CNX Resources over the past 3 months. The greater the number of bullish ratings, the more positive analysts are ...Full story available on Benzinga.com",2023-05-18 14:02:22+00:00,https://www.benzinga.com/analyst-ratings/23/05/32467078/expert-ratings-for-cnx-resources,Benzinga,0.10671328671328671,0.345034965034965,positive,0.10671328671328671,False,False,False,False,False,False,False,False,0.0,685,['CNX'],CNX,2023-05-18
+Why Is Diamondback (FANG) Down 4.1% Since Last Earnings Report?,Diamondback (FANG) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.,2023-05-31 15:30:42+00:00,https://www.zacks.com/stock/news/2102074/why-is-diamondback-fang-down-41-since-last-earnings-report,Zacks Investment Research,-0.051851851851851864,0.11851851851851852,neutral,0.051851851851851864,True,False,False,False,False,False,False,False,0.0,194,"['FANG', 'CNX']",CNX,2023-05-31
+CNX Resources (CNX) to Gain From Appalachian Focus & Hedges,"CNX Resources (CNX) is poised to benefit from its high-quality asset holdings and Appalachian basin focus. However, dependence on gathering, processing and transportation facilities owned by others is a headwind.",2023-06-06 17:04:00+00:00,https://www.zacks.com/stock/news/2104674/cnx-resources-cnx-to-gain-from-appalachian-focus-hedges,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,273,"['E', 'CNX', 'EPM', 'WFRD']",CNX,2023-06-06
+"Top Research Reports for Microsoft, Salesforce & United Parcel Service","Today's Research Daily features new research reports on 16 major stocks, including Microsoft Corporation (MSFT), Salesforce, Inc. (CRM) and United Parcel Service, Inc. (UPS).",2023-07-19 19:13:00+00:00,https://www.zacks.com/research-daily/2123687/top-research-reports-for-microsoft-salesforce-united-parcel-service,Zacks Investment Research,0.1747159090909091,0.36363636363636365,positive,0.1747159090909091,False,False,False,False,False,False,False,False,0.0,246,"['ALNY', 'MSFT', 'DVN', 'CRM', 'UNH', 'IRM', 'DDS', 'APEI', 'UPS', 'ROP', 'CNX', 'VSAT', 'QDEL', 'AGIO', 'AR', 'TPR']",CNX,2023-07-19
+Earnings Preview: CNX Resources Corporation. (CNX) Q2 Earnings Expected to Decline,CNX Resources Corporation. (CNX) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2023-07-20 14:01:59+00:00,https://www.zacks.com/stock/news/2124708/earnings-preview-cnx-resources-corporation-cnx-q2-earnings-expected-to-decline,Zacks Investment Research,0.03714285714285714,0.7871428571428571,neutral,0.03714285714285714,True,False,False,False,False,False,False,False,0.0,272,"['CNX', 'AR']",CNX,2023-07-20
+What's in Store for CNX Resources (CNX) in Q2 Earnings?,"CNX Resources' (CNX) second-quarter earnings are expected to benefit from stable production volumes, although a decrease in commodity prices is likely to have negatively impacted the same.",2023-07-21 14:14:00+00:00,https://www.zacks.com/stock/news/2125472/whats-in-store-for-cnx-resources-cnx-in-q2-earnings,Zacks Investment Research,-0.1,0.48124999999999996,neutral,0.1,True,False,True,False,True,False,False,False,0.0,245,"['PAA', 'CNX', 'TRP', 'WHD']",CNX,2023-07-21
+Earnings Preview: California Resources Corporation (CRC) Q2 Earnings Expected to Decline,California Resources Corporation (CRC) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2023-07-24 14:00:38+00:00,https://www.zacks.com/stock/news/2126151/earnings-preview-california-resources-corporation-crc-q2-earnings-expected-to-decline,Zacks Investment Research,0.03714285714285714,0.7871428571428571,neutral,0.03714285714285714,True,False,False,False,False,False,False,False,0.0,284,"['CRC', 'CNX']",CNX,2023-07-24
+CNX Resources Corporation. (CNX) Q2 Earnings Top Estimates,"CNX Resources Corporation. (CNX) delivered earnings and revenue surprises of 20.83% and 15.92%, respectively, for the quarter ended June 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-07-27 12:05:14+00:00,https://www.zacks.com/stock/news/2128604/cnx-resources-corporation-cnx-q2-earnings-top-estimates,Zacks Investment Research,0.25,0.3,positive,0.25,True,False,False,False,False,False,False,False,0.0,262,"['CNX', 'REI']",CNX,2023-07-27
+"CNX Resources (CNX) Q2 Earnings Beat, Revenues Lag Estimates",CNX Resources' (CNX) stable free cash flow enables it to reduce debt and buy back shares.,2023-07-27 15:43:00+00:00,https://www.zacks.com/stock/news/2128958/cnx-resources-cnx-q2-earnings-beat-revenues-lag-estimates,Zacks Investment Research,0.2,0.4,positive,0.2,True,True,False,False,False,True,False,False,0.0,151,"['DVN', 'APA', 'OXY', 'CNX']",CNX,2023-07-27
+CNX Resources Corporation. (CNX) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates,"The headline numbers for CNX Resources Corporation. (CNX) give insight into how the company performed in the quarter ended June 2023, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",2023-07-28 02:30:03+00:00,https://www.zacks.com/stock/news/2129208/cnx-resources-corporation-cnx-q2-earnings-taking-a-look-at-key-metrics-versus-estimates,Zacks Investment Research,0.16666666666666666,0.8333333333333334,positive,0.16666666666666666,True,False,False,False,False,False,False,False,0.0,337,['CNX'],CNX,2023-07-28
+New Strong Sell Stocks for July 28th,"CNX, APELY and BANR have been added to the Zacks Rank #5 (Strong Sell) List on July 28, 2023.",2023-07-28 11:46:00+00:00,https://www.zacks.com/stock/news/2129349/new-strong-sell-stocks-for-july-28th,Zacks Investment Research,0.05075757575757571,0.7053030303030303,neutral,0.05075757575757571,False,False,False,False,False,False,False,False,0.0,131,"['CNX', 'BANR']",CNX,2023-07-28
+Analyst Ratings for CNX Resources,"Analysts have provided the following ratings for CNX Resources (NYSE:CNX) within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+0
+2
+2
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+0
+0
+0
+1
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+0
+0
+1
+1
+0
+
+
+
+According to 4 analyst offering 12-month price targets in the last 3 months, CNX Resources has an average price target of $17.5 with a high of $19.00 and a low of $16.00. 
+Below is a summary of how these 4 analysts rated CNX Resources over the past 3 months. The greater the number of bullish ratings, the ...Full story available on Benzinga.com",2023-07-28 18:00:51+00:00,https://www.benzinga.com/analyst-ratings/23/07/33447725/analyst-ratings-for-cnx-resources,Benzinga,0.060000000000000005,0.3127272727272727,neutral,0.060000000000000005,False,False,False,False,False,False,False,False,0.0,655,['CNX'],CNX,2023-07-28
+Top 5 Energy Stocks That Should Keep You Up At Night,"The most overbought stocks in the energy sector presents an opportunity to go short on these overvalued companies.
+The RSI is a momentum indicator, which compares a stock's strength on days when prices go up to its strength on days when prices go down. When compared to a stock's price action, it can give traders a better sense of how a stock may perform in the short term. An asset is typically considered overbought when the  RSI is above 70.
+Here’s the latest list of major overbought players in this sector.
+BP Prudhoe Bay Royalty Trust  (NYSE: BPT)
+
+BP Prudhoe Bay Royalty Trust recently said that unitholders will not receive a dividend payment for the quarter ended ...",2023-08-03 12:26:11+00:00,https://www.benzinga.com/news/23/08/33547271/top-5-energy-stocks-that-should-keep-you-up-at-night,Benzinga,0.15335648148148148,0.39490740740740743,positive,0.15335648148148148,False,False,True,False,False,True,False,False,0.0,731,"['BPT', 'CNX', 'NOV', 'TS', 'AESI']",CNX,2023-08-03
+Where CNX Resources Stands With Analysts,"Over the past 3 months, 5 analysts have published their opinion on CNX Resources (NYSE:CNX) stock. These analysts are typically employed by large Wall Street banks and tasked with understanding a company's business to predict how a stock will trade over the upcoming year.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+0
+3
+2
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+0
+0
+1
+0
+0
+
+
+2M Ago
+0
+0
+0
+1
+0
+
+
+3M Ago
+0
+0
+1
+1
+0
+
+
+
+These 5 analysts have an average price target of $17.8 versus the current price of CNX Resources at $21.595, implying  downside.
+Below is a ...Full story available on Benzinga.com",2023-08-14 16:00:42+00:00,https://www.benzinga.com/analyst-ratings/23/08/33837982/where-cnx-resources-stands-with-analysts,Benzinga,0.005952380952380959,0.3994047619047619,neutral,0.005952380952380959,False,False,False,False,False,False,False,False,0.0,669,['CNX'],CNX,2023-08-14
+"Company News for Aug 24, 2023","Companies in The News Are: BBWI, INTC, WSM, CNX",2023-08-24 13:26:00+00:00,https://www.zacks.com/stock/news/2140145/company-news-for-aug-24-2023,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,78,"['INTC', 'CNX', 'WSM', 'BBWI']",CNX,2023-08-24
+Why Is Diamondback (FANG) Up 2.2% Since Last Earnings Report?,Diamondback (FANG) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.,2023-08-30 15:30:09+00:00,https://www.zacks.com/stock/news/2142496/why-is-diamondback-fang-up-22-since-last-earnings-report,Zacks Investment Research,0.0,0.03333333333333333,neutral,0.0,True,False,False,False,False,False,False,False,0.0,192,"['FANG', 'CNX']",CNX,2023-08-30
+Analyst Expectations for CNX Resources's Future,"Over the past 3 months, 5 analysts have published their opinion on CNX Resources (NYSE:CNX) stock. These analysts are typically employed by large Wall Street banks and tasked with understanding a company's business to predict how a stock will trade over the upcoming year.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+0
+3
+2
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+0
+0
+1
+1
+0
+
+
+2M Ago
+0
+0
+1
+0
+0
+
+
+3M Ago
+0
+0
+0
+1
+0
+
+
+
+According to 5 analyst offering 12-month price targets in the last 3 months, CNX Resources has an average price target of $19.8 with a high of $22.00 and a low of $18.00. 
+Below is a summary of how ...Full story available on Benzinga.com",2023-09-11 17:00:32+00:00,https://www.benzinga.com/analyst-ratings/23/09/34450259/analyst-expectations-for-cnx-resourcess-future,Benzinga,0.01887445887445888,0.34790043290043293,neutral,0.01887445887445888,False,False,False,False,False,False,False,False,0.0,734,['CNX'],CNX,2023-09-11
+Energy Transfer (ET) Prices Notes Worth $4B to Refinance Debts,"Energy Transfer (ET) prices its $4 billion senior notes, the net proceeds allow it to refinance debt and utilize it for general partnership purposes.",2023-10-11 16:04:00+00:00,https://www.zacks.com/stock/news/2164515/energy-transfer-et-prices-notes-worth-4b-to-refinance-debts,Zacks Investment Research,0.11666666666666665,0.19999999999999998,positive,0.11666666666666665,False,False,False,True,False,True,False,False,0.0,213,"['CEG', 'CNX', 'ET', 'CEQP']",CNX,2023-10-11
+The Latest Analyst Ratings for CNX Resources,"Analysts have provided the following ratings for CNX Resources (NYSE:CNX) within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+0
+4
+2
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+0
+0
+0
+1
+0
+
+
+2M Ago
+0
+0
+2
+1
+0
+
+
+3M Ago
+0
+0
+1
+0
+0
+
+
+
+In the last 3 months, 6 analysts have offered 12-month price targets for CNX Resources. The company has an average price target of $21.5 with a high of $24.00 and a low of $19.00. 
+Below is a summary of how these 6 analysts rated CNX Resources over the past 3 months. The greater the number of bullish ratings, ...Full story available on Benzinga.com",2023-10-12 17:00:51+00:00,https://www.benzinga.com/analyst-ratings/23/10/35225519/the-latest-analyst-ratings-for-cnx-resources,Benzinga,0.09666666666666668,0.36166666666666664,neutral,0.09666666666666668,False,False,False,False,False,False,False,False,0.0,671,['CNX'],CNX,2023-10-12
+CNX Resources Corporation. (CNX) Earnings Expected to Grow: Should You Buy?,CNX Resources Corporation. (CNX) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2023-10-18 14:01:22+00:00,https://www.zacks.com/stock/news/2168047/cnx-resources-corporation-cnx-earnings-expected-to-grow-should-you-buy,Zacks Investment Research,0.03714285714285714,0.7871428571428571,neutral,0.03714285714285714,True,True,False,False,False,False,False,False,0.0,265,"['CNX', 'MTDR']",CNX,2023-10-18
+CNX Resources (CNX) to Post Q3 Earnings: What's in Store?,CNX Resources' (CNX) third-quarter earnings are likely to have benefited from solid low-cost production volumes and consistent utilization of free cash flow to buy back shares and reduce debts.,2023-10-23 12:30:00+00:00,https://www.zacks.com/stock/news/2170216/cnx-resources-cnx-to-post-q3-earnings-whats-in-store,Zacks Investment Research,0.13,0.43000000000000005,positive,0.13,True,True,False,False,True,True,False,False,0.0,252,"['DVN', 'CEG', 'HES', 'CNX']",CNX,2023-10-23
+Why CNX Resources Corporation. (CNX) Could Beat Earnings Estimates Again,CNX Resources Corporation. (CNX) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.,2023-10-23 16:10:09+00:00,https://www.zacks.com/stock/news/2170387/why-cnx-resources-corporation-cnx-could-beat-earnings-estimates-again,Zacks Investment Research,0.21428571428571427,0.655952380952381,positive,0.21428571428571427,True,False,False,False,False,False,False,False,0.0,271,['CNX'],CNX,2023-10-23
+Peabody Energy (BTU) to Report Q3 Earnings: What's in Store?,Peabody Energy's (BTU) third-quarter earnings are likely to have gained from share repurchase program and increased tons of coal sold.,2023-10-24 11:48:00+00:00,https://www.zacks.com/stock/news/2170687/peabody-energy-btu-to-report-q3-earnings-whats-in-store,Zacks Investment Research,0.0,1.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,196,"['DVN', 'PAA', 'BTU', 'CNX']",CNX,2023-10-24
+CNX Resources Corporation. (CNX) Surpasses Q3 Earnings Estimates,"CNX Resources Corporation. (CNX) delivered earnings and revenue surprises of 34.62% and 7.87%, respectively, for the quarter ended September 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-10-25 12:05:07+00:00,https://www.zacks.com/stock/news/2171329/cnx-resources-corporation-cnx-surpasses-q3-earnings-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,272,"['CNX', 'PR']",CNX,2023-10-25
+"CNX Resources (CNX) Q3 Earnings Beat Estimates, Revenues Lag","CNX Resources' (CNX) third-quarter 2023 earnings increase year over year, while revenues decline.",2023-10-25 12:48:00+00:00,https://www.zacks.com/stock/news/2171585/cnx-resources-cnx-q3-earnings-beat-estimates-revenues-lag,Zacks Investment Research,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,159,"['DVN', 'OKE', 'CNX', 'WHD']",CNX,2023-10-25
+CNX Resources Corporation. (CNX) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates,"Although the revenue and EPS for CNX Resources Corporation. (CNX) give a sense of how its business performed in the quarter ended September 2023, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",2023-10-25 13:30:45+00:00,https://www.zacks.com/stock/news/2171495/cnx-resources-corporation-cnx-q3-earnings-taking-a-look-at-key-metrics-versus-estimates,Zacks Investment Research,0.09999999999999999,0.7000000000000001,neutral,0.09999999999999999,True,False,False,False,False,False,False,False,0.0,350,['CNX'],CNX,2023-10-25
+"Clearway Energy (CWEN) Q3 Earnings Lag Estimates, Sales Beat",Clearway Energy's (CWEN) third-quarter earnings miss estimates. The company continues to achieve the upper range of its annual dividend growth target.,2023-11-02 13:31:00+00:00,https://www.zacks.com/stock/news/2177403/clearway-energy-cwen-q3-earnings-lag-estimates-sales-beat,Zacks Investment Research,0.0,0.0,neutral,0.0,True,False,False,False,False,True,False,False,0.0,212,"['CNX', 'NEP', 'ARCH', 'CWEN']",CNX,2023-11-02
+"Plains All American (PAA) Q3 Earnings Top Estimates, Sales Lag",Plains All American Pipeline's (PAA) Q3 earnings surpass estimates. The company raises its 2023 guidance on account of its strategic acquisitions and Permian Basin growth.,2023-11-03 13:37:00+00:00,https://www.zacks.com/stock/news/2178194/plains-all-american-paa-q3-earnings-top-estimates-sales-lag,Zacks Investment Research,0.16666666666666666,0.16666666666666666,positive,0.16666666666666666,True,True,False,False,False,False,False,False,0.0,235,"['PAA', 'EPD', 'CNX', 'MUR']",CNX,2023-11-03
+"Five potential takeover targets in the oil industry, following deals by Exxon Mobil and Chevron",This could be a good time for investors to pour money into stocks of companies involved in the production of oil and natural gas. And the best reason for that may have nothing to do with military conflict.,2023-11-06 19:08:00+00:00,https://www.marketwatch.com/story/five-potential-takeover-targets-in-the-oil-industry-following-deals-by-exxon-mobil-and-chevron-a82a44a1,MarketWatch,0.28333333333333327,0.4166666666666667,positive,0.28333333333333327,False,False,False,False,True,False,False,False,0.0,302,"['XLE', 'XOM', 'PXD', 'CVX', 'HES', 'COP', 'CPE', 'PR', 'FANG', 'VTLE', 'SM', 'MID', 'WKC', 'OIS', 'PBF', 'CNX', 'DRQ', 'TALO', 'HLX', 'DINO', 'PARR', 'CVI', 'MPC', 'VLO', 'SLCA', 'CEIX', 'NBR', 'CTRA', 'CIVI', 'MUR', 'MRO', 'PSX', 'LBRT', 'APA']",CNX,2023-11-06
+Evergy's (EVRG) Q3 Earnings & Revenues Surpass Estimates,Evergy's (EVRG) third-quarter earnings benefit from lower O&M expenses and higher COLI proceeds. The company narrows its 2023 financial guidance.,2023-11-07 15:28:00+00:00,https://www.zacks.com/stock/news/2180184/evergys-evrg-q3-earnings-revenues-surpass-estimates,Zacks Investment Research,0.125,0.25,positive,0.125,True,False,False,False,False,False,False,False,0.0,203,"['PAA', 'CNX', 'EVRG', 'TTE']",CNX,2023-11-07
+Occidental's (OXY) Q3 Earnings and Revenues Beat Estimates,Occidental Petroleum's (OXY) Q3 earnings and sales beat estimates. The company benefits from strong operational performance and Permian Basin growth.,2023-11-08 12:04:00+00:00,https://www.zacks.com/stock/news/2180626/occidentals-oxy-q3-earnings-and-revenues-beat-estimates,Zacks Investment Research,0.4333333333333333,0.7333333333333333,positive,0.4333333333333333,True,False,False,False,False,False,False,False,0.0,209,"['EPD', 'OXY', 'CNX', 'MUR']",CNX,2023-11-08
+"CNX Resources (CNX) to Gain From Appalachian Focus, Investments",CNX Resources' (CNX) production activities in the Appalachian basin region are likely to aid its earnings and revenues. Its dependence on third parties for natural gas transportation is a headwind.,2023-11-16 11:36:00+00:00,https://www.zacks.com/stock/news/2185101/cnx-resources-cnx-to-gain-from-appalachian-focus-investments,Zacks Investment Research,0.03333333333333333,0.4666666666666666,neutral,0.03333333333333333,True,False,False,False,True,False,False,False,0.0,262,"['CNX', 'EOG', 'MUR', 'CRC']",CNX,2023-11-16
+Why Is CNX Resources Corporation. (CNX) Down 3.2% Since Last Earnings Report?,CNX Resources Corporation. (CNX) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.,2023-11-24 16:31:25+00:00,https://www.zacks.com/stock/news/2189138/why-is-cnx-resources-corporation-cnx-down-32-since-last-earnings-report,Zacks Investment Research,-0.051851851851851864,0.11851851851851852,neutral,0.051851851851851864,True,False,False,False,False,False,False,False,0.0,222,['CNX'],CNX,2023-11-24
+Analyst Ratings for CNX Resources,"Over the past 3 months, 4 analysts have published their opinion on CNX Resources (NYSE:CNX) stock. These analysts are typically employed by large Wall Street banks and tasked with understanding a company's business to predict how a stock will trade over the upcoming year.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+1
+0
+2
+1
+0
+
+
+Last 30D
+1
+0
+0
+0
+0
+
+
+1M Ago
+0
+0
+0
+0
+0
+
+
+2M Ago
+0
+0
+1
+0
+0
+
+
+3M Ago
+0
+0
+1
+1
+0
+
+
+
+These 4 analysts have an average price ...Full story available on Benzinga.com",2023-12-04 12:00:19+00:00,https://www.benzinga.com/analyst-ratings/23/12/36065885/analyst-ratings-for-cnx-resources,Benzinga,0.006802721088435382,0.39931972789115644,neutral,0.006802721088435382,False,False,False,False,False,False,False,False,0.0,561,['CNX'],CNX,2023-12-04
+Do Options Traders Know Something About CNX Resources (CNX) Stock We Don't?,Investors need to pay close attention to CNX Resources (CNX) stock based on the movements in the options market lately.,2023-12-08 14:43:00+00:00,https://www.zacks.com/stock/news/2195465/do-options-traders-know-something-about-cnx-resources-cnx-stock-we-dont,Zacks Investment Research,-0.3,0.6,negative,0.3,False,False,False,False,False,False,False,False,0.0,196,['CNX'],CNX,2023-12-08
+"Stop buying Exxon Mobil, Occidental Petroleum stocks as oil prices should stagnate, analyst says","With oil and gas prices expected to be weighed down by fears of weakening demand as global economies slow, Mizuho analyst Nitin Kumar has downgraded the shares of a number of energy companies on Wednesday.",2024-01-03 13:20:00+00:00,https://www.marketwatch.com/story/stop-buying-exxon-mobil-occidental-petroleum-stocks-as-oil-prices-should-stagnate-analyst-says-5dc228d0,MarketWatch,-0.1388888888888889,0.2722222222222222,negative,0.1388888888888889,False,True,False,False,False,False,False,False,0.0,303,"['XOM', 'OXY', 'AR', 'GPOR', 'CPE', 'CRGY', 'SWN', 'CRK', 'CVX', 'CTRA', 'CIVI', 'PBF', 'CNX']",CNX,2024-01-03
+Why CNX Resources Corporation. (CNX) is Poised to Beat Earnings Estimates Again,CNX Resources Corporation. (CNX) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.,2024-01-04 17:10:10+00:00,https://www.zacks.com/stock/news/2205839/why-cnx-resources-corporation-cnx-is-poised-to-beat-earnings-estimates-again,Zacks Investment Research,0.21428571428571427,0.655952380952381,positive,0.21428571428571427,True,False,False,False,False,False,False,False,0.0,278,['CNX'],CNX,2024-01-04
+Kinder Morgan (KMI) to Report Q4 Earnings: What to Expect?,Declining revenues from Kinder Morgan's (KMI) Natural Gas Pipelines and Terminal segments are likely to have affected its Q4 earnings.,2024-01-15 16:24:00+00:00,https://www.zacks.com/stock/news/2210294/kinder-morgan-kmi-to-report-q4-earnings-what-to-expect,Zacks Investment Research,0.05,0.7,neutral,0.05,True,False,False,False,False,False,False,False,0.0,194,"['CNX', 'KMI', 'PSX', 'NXT']",CNX,2024-01-15
+What's in the Offing for Baker Hughes' (BKR) Q4 Earnings?,Higher demand for oil field service and equipment is likely to have aided Baker Hughes' (BKR) Q4 earnings.,2024-01-18 13:39:00+00:00,https://www.zacks.com/stock/news/2211977/whats-in-the-offing-for-baker-hughes-bkr-q4-earnings,Zacks Investment Research,0.125,0.75,positive,0.125,True,False,False,False,False,False,False,False,0.0,165,"['XOM', 'CNX', 'BKR']",CNX,2024-01-18
+What's in the Offing for Liberty Energy (LBRT) in Q4 Earnings?,"Liberty Energy (LBRT) expects lower revenues due to a weak global macroeconomic environment, but an improved bottom line due to cost reductions in the fourth quarter of 2024.",2024-01-22 13:03:00+00:00,https://www.zacks.com/stock/news/2213308/whats-in-the-offing-for-liberty-energy-lbrt-in-q4-earnings,Zacks Investment Research,-0.125,0.275,negative,0.125,True,False,False,False,False,False,False,False,0.0,238,"['XOM', 'RRC', 'CNX', 'LBRT']",CNX,2024-01-22
+What's in Store for NextEra Energy Partners (NEP) in Q4 Earnings?,"NextEra Energy Partners' (NEP) fourth-quarter 2023 results are likely to benefit from expanding renewable energy portfolio. However, higher interest rates are expected to have a negative impact.",2024-01-23 12:12:00+00:00,https://www.zacks.com/stock/news/2213956/whats-in-store-for-nextera-energy-partners-nep-in-q4-earnings,Zacks Investment Research,-0.0375,0.575,neutral,0.0375,True,False,False,False,False,False,False,False,0.0,261,"['PAA', 'OKE', 'CNX', 'NEP']",CNX,2024-01-23
+MPLX Set to Report Q4 Earnings: Is a Beat in the Offing?,Higher pipeline throughput volumes are likely to have aided MPLX's earnings in Q4.,2024-01-24 14:09:00+00:00,https://www.zacks.com/stock/news/2214875/mplx-set-to-report-q4-earnings-is-a-beat-in-the-offing,Zacks Investment Research,0.125,0.75,positive,0.125,True,False,False,False,False,False,False,False,0.0,140,"['XOM', 'CNX', 'MPC', 'MPLX']",CNX,2024-01-24
+What's in Store for CNX Resources (CNX) in Q4 Earnings?,"CNX Resources' (CNX) fourth-quarter earnings are expected to benefit from increased production volumes, share repurchases and debt reduction.",2024-01-24 14:26:00+00:00,https://www.zacks.com/stock/news/2214914/whats-in-store-for-cnx-resources-cnx-in-q4-earnings,Zacks Investment Research,-0.1,0.4,neutral,0.1,True,False,False,False,True,True,False,False,0.0,198,"['PAA', 'OKE', 'CNX', 'ET']",CNX,2024-01-24
+Murphy Oil (MUR) to Report Q4 Earnings: What's in the Offing?,"Murphy Oil's (MUR) fourth-quarter earnings are expected to be impacted by a drop in production volumes due to planned downtime, and the loss of production from a well in the Niedermeyer field.",2024-01-24 19:05:00+00:00,https://www.zacks.com/stock/news/2215230/murphy-oil-mur-to-report-q4-earnings-whats-in-the-offing,Zacks Investment Research,-0.1125,0.3875,negative,0.1125,True,False,False,False,True,False,False,False,0.0,255,"['PAA', 'CNX', 'MUR', 'ET']",CNX,2024-01-24
+CNX Resources Corporation. (CNX) Tops Q4 Earnings Estimates,"CNX Resources Corporation. (CNX) delivered earnings and revenue surprises of 151.85% and 2.79%, respectively, for the quarter ended December 2023. Do the numbers hold clues to what lies ahead for the stock?",2024-01-25 13:00:03+00:00,https://www.zacks.com/stock/news/2215590/cnx-resources-corporation-cnx-tops-q4-earnings-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,267,"['CNX', 'SWN']",CNX,2024-01-25
+CNX Resources Corporation. (CNX) Q4 Earnings: How Key Metrics Compare to Wall Street Estimates,"Although the revenue and EPS for CNX Resources Corporation. (CNX) give a sense of how its business performed in the quarter ended December 2023, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",2024-01-25 15:00:05+00:00,https://www.zacks.com/stock/news/2215842/cnx-resources-corporation-cnx-q4-earnings-how-key-metrics-compare-to-wall-street-estimates,Zacks Investment Research,0.09999999999999999,0.7000000000000001,neutral,0.09999999999999999,True,False,False,False,False,False,False,False,0.0,352,['CNX'],CNX,2024-01-25
+"CNX Resources (CNX) Q4 Earnings Beat Estimates, Revenues Lag",CNX Resources' (CNX) fourth-quarter 2023 earnings and revenues decrease year over year. Total production volumes increase year over year.,2024-01-25 15:16:00+00:00,https://www.zacks.com/stock/news/2215910/cnx-resources-cnx-q4-earnings-beat-estimates-revenues-lag,Zacks Investment Research,0.0,0.75,neutral,0.0,True,False,False,False,True,False,False,False,0.0,199,"['DVN', 'OKE', 'CNX', 'ET']",CNX,2024-01-25
+New Strong Sell Stocks for January 30th,"BHLB, BX and CNX have been added to the Zacks Rank #5 (Strong Sell) List on January 30, 2024.",2024-01-30 10:33:00+00:00,https://www.zacks.com/stock/news/2217587/new-strong-sell-stocks-for-january-30th,Zacks Investment Research,0.05075757575757571,0.7053030303030303,neutral,0.05075757575757571,False,False,False,False,False,False,False,False,0.0,134,"['BX', 'CNX', 'BHLB']",CNX,2024-01-30
+Is Invesco S&P MidCap 400 Pure Growth ETF (RFG) a Strong ETF Right Now?,Smart Beta ETF report for RFG,2024-01-30 11:20:06+00:00,https://www.zacks.com/stock/news/2217610/is-invesco-sp-midcap-400-pure-growth-etf-rfg-a-strong-etf-right-now,Zacks Investment Research,0.2869047619047619,0.6029761904761904,positive,0.2869047619047619,False,False,False,False,False,False,False,False,0.0,102,"['RFG', 'SWN', 'CNX', 'SMCI', 'IWP', 'VOT']",CNX,2024-01-30
+"Occidental's (OXY) Q4 Sales Beat, Earnings Meet Estimates",Occidental's (OXY) fourth-quarter earnings is on par with estimates and Permian Resource assets continue to be a major contributor to the company's production volumes.,2024-02-15 18:54:00+00:00,https://www.zacks.com/stock/news/2227125/occidentals-oxy-q4-sales-beat-earnings-meet-estimates,Zacks Investment Research,0.0625,0.5,neutral,0.0625,True,False,False,False,True,False,False,False,0.0,226,"['EPD', 'OXY', 'CNX', 'MUR']",CNX,2024-02-15
+Should Invesco S&P MidCap 400 Pure Growth ETF (RFG) Be on Your Investing Radar?,Style Box ETF report for RFG,2024-02-20 11:20:06+00:00,https://www.zacks.com/stock/news/2228263/should-invesco-sp-midcap-400-pure-growth-etf-rfg-be-on-your-investing-radar,Zacks Investment Research,0.21428571428571427,0.5,positive,0.21428571428571427,False,False,False,False,False,False,False,False,0.0,109,"['RFG', 'SWN', 'CNX', 'SMCI', 'IWP', 'VOT']",CNX,2024-02-20
+"Clearway Energy (CWEN) Q4 Earnings Surpass Estimates, Sales Lag","Clearway Energy's (CWEN) fourth-quarter earnings increase year over year, while revenues decline. Total operating costs and expenses for the full year increase.",2024-02-22 14:30:00+00:00,https://www.zacks.com/stock/news/2230124/clearway-energy-cwen-q4-earnings-surpass-estimates-sales-lag,Zacks Investment Research,0.175,0.65,positive,0.175,True,False,False,False,False,False,False,False,0.0,225,"['CNX', 'NEP', 'ARCH', 'CWEN']",CNX,2024-02-22
+ONEOK (OKE) Earnings and Revenues Miss Estimates in Q4,ONEOK's (OKE) fourth-quarter earnings and revenues lag estimates. The company plans to make investments in the range of $1.75-$1.9 billion in 2024 to strengthen its operation.,2024-02-27 12:22:00+00:00,https://www.zacks.com/stock/news/2232190/oneok-oke-earnings-and-revenues-miss-estimates-in-q4,Zacks Investment Research,0.0,0.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,231,"['PAA', 'OKE', 'CNX', 'TTE']",CNX,2024-02-27
+Assessing CNX Resources: Insights From 4 Financial Analysts,"Analysts' ratings for CNX Resources (NYSE:CNX) over the last quarter vary from bullish to bearish, as provided by 4 analysts.
+The table below provides a snapshot of their recent ratings, showcasing how sentiments have evolved over the past 30 days and comparing them to the preceding months.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+1
+0
+3
+0
+0
+
+
+Last 30D
+1
+0
+0
+0
+0
+
+
+1M Ago
+0
+0
+2
+0
+0
+
+
+2M Ago
+0
+0
+1
+0
+0
+
+
+3M Ago
+0
+0
+0
+0
+0
+
+
+
+Analysts' evaluations of 12-month price targets offer additional insights, showcasing an average target of $21.75, with a high estimate of $28.00 and a low estimate of $17.00. Marking an increase of 2.35%, the current average surpasses the previous average price target of $21.25. 
+
+Deciphering Analyst Ratings: An In-Depth Analysis
+An in-depth analysis of recent analyst actions unveils how financial experts perceive CNX Resources. The following summary outlines key analysts, their recent evaluations, and adjustments to ratings and price targets.
+
+
+
+Analyst
+Analyst Firm
+Action Taken
+Rating
+Current Price Target
+Prior Price Target
+
+
+
+
+Bertrand Hodee
+Truist Securities
+Raises
+Buy
+$28.00
+$27.00
+
+
+Kashy Harrison
+Piper Sandler
+Raises
+Neutral
+$18.00
+$17.00
+
+
+Nitin Kumar
+Mizuho
+Raises
+Neutral
+$24.00
+$23.00
+
+
+Kashy Harrison
+Piper Sandler
+Lowers
+Neutral
+$17.00
+$18.00
+
+
+
+Key Insights:
+
+Action Taken: In response to dynamic market conditions and company performance, analysts update their recommendations. Whether they 'Maintain', 'Raise', or 'Lower' their stance, it signifies ...Full story available on Benzinga.com",2024-03-13 13:00:15+00:00,https://www.benzinga.com/insights/analyst-ratings/24/03/37657796/assessing-cnx-resources-insights-from-4-financial-analysts,Benzinga,-0.011794871794871799,0.3137179487179487,neutral,0.011794871794871799,False,True,True,False,False,False,False,False,0.0,1643,['CNX'],CNX,2024-03-13
+CNX Resources (CNX) Cuts 2024 Production & Capital Investment,CNX Resources (CNX) decides to lower its 2024 production volumes and capital expenditure to sail through the softness in demand for natural gas.,2024-03-13 16:20:00+00:00,https://www.zacks.com/stock/news/2240231/cnx-resources-cnx-cuts-2024-production-capital-investment,Zacks Investment Research,0.1,0.4,neutral,0.1,False,False,False,False,True,False,False,False,0.0,207,"['SUN', 'CNX', 'MUSA']",CNX,2024-03-13
+Where CNX Resources Stands With Analysts,"Throughout the last three months, 5 analysts have evaluated CNX Resources (NYSE:CNX), offering a diverse set of opinions from bullish to bearish.
+The table below offers a condensed view of their recent ratings, showcasing the changing sentiments over the past 30 days and comparing them to the preceding months.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+1
+0
+4
+0
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+1
+0
+1
+0
+0
+
+
+2M Ago
+0
+0
+1
+0
+0
+
+
+3M Ago
+0
+0
+1
+0
+0
+
+
+
+The 12-month price targets assessed by analysts reveal further insights, featuring an average target of $21.8, a high estimate of $28.00, and a low estimate of $17.00. Witnessing a positive shift, the current average has risen by 5.83% from the previous average price target of $20.60.
+
+Exploring Analyst Ratings: An In-Depth Overview
+An in-depth analysis of recent analyst actions unveils how financial experts perceive CNX Resources. The following summary outlines key analysts, their recent evaluations, and adjustments to ratings and price targets.
+
+
+
+Analyst
+Analyst Firm
+Action Taken
+Rating
+Current Price Target
+Prior Price Target
+
+
+
+
+Leo Mariani
+Roth MKM
+Raises
+Neutral
+$22.00
+$18.00
+
+
+Bertrand Hodee
+Truist Securities
+Raises
+Buy
+$28.00
+$27.00
+
+
+Kashy Harrison
+Piper Sandler
+Raises
+Neutral
+$18.00
+$17.00
+
+
+Nitin Kumar
+Mizuho
+Raises
+Neutral
+$24.00
+$23.00
+
+
+Kashy Harrison
+Piper Sandler
+Lowers
+Neutral
+$17.00
+$18.00
+
+
+
+Key Insights:
+
+Action Taken: Analysts frequently update their recommendations based on evolving market conditions and company performance. Whether they 'Maintain', 'Raise' or 'Lower' their stance, it reflects their ...Full story available on Benzinga.com",2024-04-02 16:01:12+00:00,https://www.benzinga.com/insights/analyst-ratings/24/04/38051857/where-cnx-resources-stands-with-analysts,Benzinga,0.0043073593073593075,0.33340909090909093,neutral,0.0043073593073593075,False,True,True,False,False,False,False,False,0.0,1707,['CNX'],CNX,2024-04-02
+Is Invesco S&P MidCap 400 Pure Growth ETF (RFG) a Strong ETF Right Now?,Smart Beta ETF report for RFG,2024-04-05 10:20:05+00:00,https://www.zacks.com/stock/news/2250865/is-invesco-sp-midcap-400-pure-growth-etf-rfg-a-strong-etf-right-now,Zacks Investment Research,0.2869047619047619,0.6029761904761904,positive,0.2869047619047619,False,False,False,False,False,False,False,False,0.0,102,"['RFG', 'SWN', 'CNX', 'SMCI', 'IWP', 'VOT']",CNX,2024-04-05
+Will CNX Resources (CNX) Beat Estimates Again in Its Next Earnings Report?,CNX Resources (CNX) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.,2024-04-12 16:10:13+00:00,https://www.zacks.com/stock/news/2254760/will-cnx-resources-cnx-beat-estimates-again-in-its-next-earnings-report,Zacks Investment Research,0.18367346938775508,0.5622448979591836,positive,0.18367346938775508,True,False,False,False,False,False,False,False,0.0,260,['CNX'],CNX,2024-04-12
+Enphase Energy (ENPH) to Post Q1 Earnings: What's in Store?,Enphase Energy's (ENPH) first-quarter earnings are likely to have been adversely impacted by lower shipments from U.S. manufacturing facilities and a slower transition to NEM 3.0.,2024-04-17 12:52:00+00:00,https://www.zacks.com/stock/news/2256848/enphase-energy-enph-to-post-q1-earnings-whats-in-store,Zacks Investment Research,0.0,1.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,240,"['CSIQ', 'CNX', 'ENPH', 'NXT']",CNX,2024-04-17
+CNX Resources Corporation. (CNX) Expected to Beat Earnings Estimates: Can the Stock Move Higher?,CNX Resources (CNX) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2024-04-18 14:01:52+00:00,https://www.zacks.com/stock/news/2257722/cnx-resources-corporation-cnx-expected-to-beat-earnings-estimates-can-the-stock-move-higher,Zacks Investment Research,0.07261904761904762,0.7392857142857143,neutral,0.07261904761904762,True,False,False,False,False,False,False,False,0.0,267,"['CNX', 'MTDR']",CNX,2024-04-18
+What's in Store for NextEra Energy Partners (NEP) in Q1 Earnings?,NextEra Energy Partners' (NEP) first-quarter 2024 results are likely to benefit from an expanding renewable energy portfolio and the sale of its Texas pipeline portfolio.,2024-04-19 11:57:00+00:00,https://www.zacks.com/stock/news/2258303/whats-in-store-for-nextera-energy-partners-nep-in-q1-earnings,Zacks Investment Research,0.0,1.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,237,"['CNX', 'MUR', 'ET', 'NEP']",CNX,2024-04-19
+Should Invesco S&P MidCap 400 Pure Growth ETF (RFG) Be on Your Investing Radar?,Style Box ETF report for RFG,2024-04-22 10:20:06+00:00,https://www.zacks.com/stock/news/2258911/should-invesco-sp-midcap-400-pure-growth-etf-rfg-be-on-your-investing-radar,Zacks Investment Research,0.21428571428571427,0.5,positive,0.21428571428571427,False,False,False,False,False,False,False,False,0.0,109,"['RFG', 'SWN', 'CNX', 'IWP', 'VOT', 'CELH']",CNX,2024-04-22
+What's in Store for CNX Resources (CNX) in Q1 Earnings?,"CNX Resources' (CNX) first-quarter earnings are expected to have continued to benefit from share repurchases and debt reduction. However, lower gas prices might adversely impact CNX's quarterly results.",2024-04-22 12:37:00+00:00,https://www.zacks.com/stock/news/2259187/whats-in-store-for-cnx-resources-cnx-in-q1-earnings,Zacks Investment Research,-0.1,0.4,neutral,0.1,True,False,False,False,False,True,False,False,0.0,259,"['CNX', 'MUR', 'ET', 'DTM']",CNX,2024-04-22
+Earnings Preview: Chesapeake Energy (CHK) Q1 Earnings Expected to Decline,Chesapeake Energy (CHK) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2024-04-23 14:01:12+00:00,https://www.zacks.com/stock/news/2260201/earnings-preview-chesapeake-energy-chk-q1-earnings-expected-to-decline,Zacks Investment Research,0.03714285714285714,0.7871428571428571,neutral,0.03714285714285714,True,False,False,False,False,False,False,False,0.0,254,"['CHK', 'CNX']",CNX,2024-04-23
+Arch Resources (ARCH) to Report Q1 Earnings: What's in Store?,Arch Resources' (ARCH) first-quarter earnings are likely to have gained on the back of strong contributions from West Elk and robust shipments.,2024-04-24 12:19:00+00:00,https://www.zacks.com/stock/news/2261010/arch-resources-arch-to-report-q1-earnings-whats-in-store,Zacks Investment Research,0.14444444444444443,0.5777777777777778,positive,0.14444444444444443,True,False,False,False,False,False,False,False,0.0,206,"['CNX', 'PBF', 'ARCH', 'DTM']",CNX,2024-04-24
+"CNX Resources (CNX) Q1 Earnings Beat Estimates, Revenues Lag",CNX Resources' (CNX) first-quarter 2024 earnings and revenues decrease year over year. Total production volumes increase from a year ago.,2024-04-25 12:40:00+00:00,https://www.zacks.com/stock/news/2262226/cnx-resources-cnx-q1-earnings-beat-estimates-revenues-lag,Zacks Investment Research,0.0,0.75,neutral,0.0,True,False,False,False,True,False,False,False,0.0,199,"['DVN', 'OKE', 'CNX', 'ET']",CNX,2024-04-25
+"Occidental (OXY) Q1 Earnings Surpass, Revenues Lag Estimates",Occidental's (OXY) first-quarter earnings are better than expected. Total production volumes are within guidance.,2024-05-08 17:32:00+00:00,https://www.zacks.com/stock/news/2270846/occidental-oxy-q1-earnings-surpass-revenues-lag-estimates,Zacks Investment Research,0.13333333333333333,0.5499999999999999,positive,0.13333333333333333,True,False,False,False,True,False,False,False,0.0,175,"['DVN', 'OXY', 'CNX', 'MUR']",CNX,2024-05-08
+"Clearway Energy (CWEN) Q1 Earnings Surpass Estimates, Sales Lag",Clearway Energy's (CWEN) first-quarter earnings and revenues decrease year over year. Total operating costs and expenses increase during the same period.,2024-05-09 13:51:00+00:00,https://www.zacks.com/stock/news/2271507/clearway-energy-cwen-q1-earnings-surpass-estimates-sales-lag,Zacks Investment Research,0.0,0.4375,neutral,0.0,True,False,False,False,False,False,False,False,0.0,218,"['CNX', 'NEP', 'ARCH', 'CWEN']",CNX,2024-05-09
+"Constellation Energy (CEG) Q1 Earnings Beat Estimates, Sales Lag","Constellation Energy's (CEG) first-quarter 2024 earnings increase year over year, while revenues decline. Total operating expenses decrease during the same period.",2024-05-09 14:10:00+00:00,https://www.zacks.com/stock/news/2271531/constellation-energy-ceg-q1-earnings-beat-estimates-sales-lag,Zacks Investment Research,0.0,0.4375,neutral,0.0,True,False,False,False,False,False,False,False,0.0,229,"['CEG', 'CNX', 'NEP', 'ARCH']",CNX,2024-05-09
+Is Invesco S&P MidCap 400 Pure Growth ETF (RFG) a Strong ETF Right Now?,Smart Beta ETF report for RFG,2024-06-06 10:20:06+00:00,https://www.zacks.com/stock/news/2284397/is-invesco-sp-midcap-400-pure-growth-etf-rfg-a-strong-etf-right-now,Zacks Investment Research,0.2869047619047619,0.6029761904761904,positive,0.2869047619047619,False,False,False,False,False,False,False,False,0.0,102,"['RFG', 'SWN', 'CNX', 'IWP', 'VOT', 'CELH']",CNX,2024-06-06
+Magnolia Oil & Gas Corp (MGY) Down 7% Since Last Earnings Report: Can It Rebound?,Magnolia Oil & Gas Corp (MGY) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.,2024-06-06 15:31:13+00:00,https://www.zacks.com/stock/news/2284837/magnolia-oil-gas-corp-mgy-down-7-since-last-earnings-report-can-it-rebound,Zacks Investment Research,-0.051851851851851864,0.11851851851851852,neutral,0.051851851851851864,True,False,False,False,False,False,False,False,0.0,223,"['MGY', 'CNX']",CNX,2024-06-06
+Should Invesco S&P MidCap 400 Pure Growth ETF (RFG) Be on Your Investing Radar?,Style Box ETF report for RFG,2024-06-24 10:20:07+00:00,https://www.zacks.com/stock/news/2291915/should-invesco-sp-midcap-400-pure-growth-etf-rfg-be-on-your-investing-radar,Zacks Investment Research,0.21428571428571427,0.5,positive,0.21428571428571427,False,False,False,False,False,False,False,False,0.0,109,"['RFG', 'SWN', 'CNX', 'IWP', 'VOT', 'CELH']",CNX,2024-06-24
+Arch Resources (ARCH) to Post Q2 Earnings: What's in Store? - Zacks Investment Research,"Arch Resources is scheduled to release its Q2 2024 results on July 25. The company is expected to benefit from its efficient West Elk mine and ongoing share repurchases, but may have faced logistical disruptions that impacted export shipments and increased costs.",2024-07-23 13:31:16+00:00,https://www.zacks.com/stock/news/2306979/arch-resources-arch-to-post-q2-earnings-whats-in-store,Zacks Investment Research,-0.1,0.4,neutral,0.1,True,False,False,False,True,False,False,False,0.0,352,"['ARCH', 'CNX', 'ET', 'ETpI']",CNX,2024-07-23

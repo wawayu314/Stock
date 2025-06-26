@@ -1,0 +1,344 @@
+title,description,published_utc,article_url,publisher,sentiment_polarity,sentiment_subjectivity,sentiment_label,sentiment_confidence,keywords_earnings,keywords_acquisition,keywords_regulation,keywords_partnership,keywords_product,keywords_financial,keywords_leadership,keywords_lawsuit,urgency_score,text_length,tickers,ticker,date
+"Stocks To Watch: Twitter Twists + Earnings For Netflix, J&J And Tesla","Get ahead of the market by subscribing to Seeking Alpha's Stocks to Watch, a preview of key events scheduled for the coming week",2022-04-16 14:55:16+00:00,https://seekingalpha.com/article/4501753-stocks-to-watch-twitter-twists-plus-earnings-for-netflix-j-and-j-and-tesla,Seeking Alpha,0.0,1.0,neutral,0.0,True,False,False,False,False,False,False,False,0.0,199,"['TSLA', 'JNJ', 'AXP', 'ANTX', 'LULU', 'HPE', 'NFLX', 'BWV', 'PTLO']",ANTX,2022-04-16
+"Benzinga's Top Ratings Upgrades, Downgrades For April 19, 2022","Upgrades
+For Dow Inc (NYSE:DOW), Wolfe Research upgraded the previous rating of Underperform to Peer Perform. For the fourth quarter, Dow had an EPS of $2.15, compared to year-ago quarter EPS of $0.81. The current stock performance of Dow shows a 52-week-high of $71.38 and a 52-week-low of $52.07. Moreover, at the end of the last trading period, the closing price was at $65.88.   
+According to Truist Securities, the prior rating for Lululemon Athletica Inc (NASDAQ:LULU) was changed from Hold to Buy. Lululemon Athletica earned $3.37 in the fourth quarter, compared to $2.58 in the year-ago quarter. At the moment, the stock has a 52-week-high of $485.82 and a 52-week-low of $278.00. Lululemon Athletica closed at $387.56 at the end of the last trading period.   
+Northland Capital Markets upgraded the previous rating for Casa Systems Inc (NASDAQ:CASA) from Market Perform to Outperform. Casa Systems earned $0.07 in the fourth quarter, compared to $0.27 in the year-ago quarter. The current stock performance of Casa Systems shows a 52-week-high of $9.75 and a 52-week-low of $3.68. Moreover, at the end of the last trading period, the closing price was at $7.10.   
+Longbow Research upgraded the previous rating for Pool Corp (NASDAQ:POOL) from Neutral to Buy. Pool earned $2.63 in the fourth quarter, compared to $1.45 in the year-ago quarter. At the moment, the stock has a 52-week-high of $582.26 and a 52-week-low of $373.89. Pool closed at $410.49 at the end of the last trading period.   
+Barclays upgraded the previous rating for Portland General Electric Co (NYSE:POR) from Underweight to Equal-Weight. For the fourth quarter, Portland General Electric had an EPS of $0.73, compared to year-ago quarter EPS of $0.57. The current stock performance of Portland General Electric shows a 52-week-high of $57.03 and a 52-week-low of $45.40. Moreover, at the end of the last trading period, the closing price was at $53.30.   
+According to Barclays, the prior rating for NorthWestern Corp (NASDAQ:NWE) was changed from Underweight to Equal-Weight. For the fourth quarter, NorthWestern had an EPS of $1.04, compared to year-ago quarter EPS of $1.29. The stock has a 52-week-high of $70.80 and a 52-week-low of $53.66. At the end of the last trading period, NorthWestern closed at $59.88.   
+See all analyst ratings upgrades.
+Downgrades
+According to OTR Global, the prior rating for Tapestry Inc (NYSE:TPR) was changed from Positive to Mixed. For the second quarter, Tapestry had an EPS of $1.33, compared to year-ago quarter EPS of $1.15. At the moment, the stock has a 52-week-high of $49.66 and a 52-week-low of $31.70. Tapestry closed at $33.91 at the end of the last trading period.   
+According to Wolfe Research, the prior rating for Eastman Chemical Co (NYSE:EMN) was changed from Outperform to Peer Perform. In the fourth quarter, Eastman Chemical showed an EPS of $1.81, compared to $1.69 from the year-ago quarter. The stock has a 52-week-high of $130.47 and a 52-week-low of $98.24. At the end of the last trading period, Eastman Chemical closed at $108.82.   
+Citigroup downgraded the previous rating for NXP Semiconductors NV (NASDAQ:NXPI) from Buy to Neutral. For the fourth quarter, NXP Semiconductors had an EPS of $3.20, compared to year-ago quarter EPS of $2.22. At the moment, the stock has a 52-week-high of $239.91 and a 52-week-low of $164.75. NXP Semiconductors closed at $173.25 at the end of the last trading period.   
+According to Credit Suisse, the prior rating for Newmont Corp (NYSE:NEM) was changed from Outperform to Neutral. Newmont earned $0.78 in the fourth quarter, compared to $1.06 in the year-ago quarter. The stock has a 52-week-high of $86.37 and a 52-week-low of $52.60. At the end of the last trading period, Newmont closed at $85.42.   
+According to B of A Securities, the prior rating for Archer-Daniels Midland Co (NYSE:ADM) was changed from Buy to Neutral. Archer-Daniels Midland earned $1.50 in the fourth quarter, compared to $1.21 in the year-ago quarter. At the moment, the stock has a 52-week-high of $97.70 and a 52-week-low of $56.91. Archer-Daniels Midland closed at $96.46 at the end of the last trading period.   
+According to B of A Securities, the prior rating for Bunge Ltd (NYSE:BG) was changed from Buy to Neutral. For the fourth quarter, Bunge had an EPS of $3.49, compared to year-ago quarter EPS of $3.05. At the moment, the stock has a 52-week-high of $127.97 and a 52-week-low of $71.73. Bunge closed at $126.76 at the end of the last trading period.   
+According to JMP Securities, the prior rating for Alleghany Corp (NYSE:Y) was changed from Market Outperform to Market Perform. For the fourth quarter, Alleghany had an EPS of $18.46, compared to year-ago quarter EPS of $8.23. At the moment, the stock has a 52-week-high of $862.87 and a 52-week-low of $585.10. Alleghany closed at $839.31 at the end of the last trading period.   
+According to Goldman Sachs, the prior rating for Roblox Corp (NYSE:RBLX) was changed from Buy to Neutral. In the fourth quarter, Roblox showed an EPS of $0.25, compared to $0.30 from the year-ago quarter. The stock has a 52-week-high of $141.60 and a 52-week-low of $36.04. At the end of the last trading period, Roblox closed at $40.85.   
+For Electronic Arts Inc (NASDAQ:EA), Goldman Sachs downgraded the previous rating of Buy to Neutral. Electronic Arts earned $3.20 in the third quarter, compared to $3.06 in the year-ago quarter. The current stock performance of Electronic Arts shows a 52-week-high of $148.93 and a 52-week-low of $117.58. Moreover, at the end of the last trading period, the closing price was at $122.16.   
+Goldman Sachs downgraded the previous rating for Playtika Holding Corp (NASDAQ:PLTK) from Buy to Neutral. Playtika Holding earned $0.25 in the fourth quarter, compared to $0.19 in the year-ago quarter. At the moment, the stock has a 52-week-high of $30.00 and a 52-week-low of $14.81. Playtika Holding closed at $18.89 at the end of the last trading period.   
+According to Morgan Stanley, the prior rating for Shift4 Payments Inc (NYSE:FOUR) was changed from Equal-Weight to Underweight. In the fourth quarter, Shift4 Payments showed an EPS of $0.08, compared to $0.05 from the year-ago quarter. At the moment, the stock has a 52-week-high of $103.37 and a 52-week-low of $38.88. Shift4 Payments closed at $60.19 at the end of the last trading period.   
+For United States Cellular Corp (NYSE:USM), Morgan Stanley downgraded the previous rating of Overweight to Equal-Weight. For the fourth quarter, United States Cellular had an EPS of $0.31, compared to year-ago quarter EPS of $0.06. The current stock performance of United States Cellular shows a 52-week-high of $39.96 and a 52-week-low of $25.44. Moreover, at the end of the last trading period, the closing price was at $32.00.   
+For Telephone and Data Systems Inc (NYSE:TDS), Morgan Stanley downgraded the previous rating of Overweight to Equal-Weight. For the fourth quarter, Telephone and Data had an EPS of $0.11, compared to year-ago quarter EPS of $0.12. The stock has a 52-week-high of $26.51 and ...Full story available on Benzinga.com",2022-04-19 14:03:30+00:00,https://www.benzinga.com/analyst-ratings/upgrades/22/04/26689291/benzingas-top-ratings-upgrades-downgrades-for-april-19-2022,Benzinga,-0.018569844789356988,0.1121396895787139,neutral,0.018569844789356988,False,True,True,False,False,False,False,False,0.0,7211,"['GWRE', 'APP', 'ROKU', 'BG', 'FB', 'FLL', 'TPR', 'CMS', 'VERA', 'AAPL', 'PCSA', 'CS', 'PLTK', 'AMZN', 'SPOT', 'DIS', 'PARA', 'CASA', 'WE', 'DOW', 'FOUR', 'CMCSA', 'RBLX', 'EMN', 'PINS', 'EA', 'MTTR', 'ANTX', 'LULU', 'ONON', 'NEM', 'GOOGL', 'NFLX', 'DCGO', 'NWE', 'FOXA', 'NXST', 'KNTK', 'POR', 'TWTR', 'POOL', 'PGRU', 'TDS', 'AMRK', 'PTEN', 'USM', 'LBRDK', 'SBGI', 'WBD', 'PEN', 'SIRI', 'Y', 'NXPI', 'LSXMK', 'SWIR', 'CHTR', 'SNAP', 'ADM']",ANTX,2022-04-19
+AN2 Therapeutics Reports First Quarter 2022 Financial Results and Provides Business Updates,"MENLO PARK, Calif., May  10, 2022  (GLOBE NEWSWIRE) -- AN2 Therapeutics, Inc. (Nasdaq: ANTX), a clinical-stage biopharmaceutical company focused on developing treatments for rare, chronic, and serious infectious diseases with high unmet needs, today reported financial results for the quarter ended March 31, 2022.",2022-05-10 20:10:00+00:00,https://www.globenewswire.com/news-release/2022/05/10/2440252/0/en/AN2-Therapeutics-Reports-First-Quarter-2022-Financial-Results-and-Provides-Business-Updates.html,GlobeNewswire Inc.,0.06277777777777778,0.4066666666666667,neutral,0.06277777777777778,False,False,False,False,False,False,False,False,0.0,407,['ANTX'],ANTX,2022-05-10
+Boeing And 24 Stocks Moving Premarket,"Gainers
+
+Qudian Inc. (NYSE: QD) rose 61.3% to $1.92 in pre-market trading after the company issued an update on its QD Food ready-to-cook meal business.
+AMTD Digital Inc.  (NYSE: HKD) rose 40% to $22.70 in pre-market trading after gaining 108% on Friday. The company priced its IPO at $7 per share.
+ITHAX Acquisition Corp.  (NASDAQ: ITHX) rose 31.4% to $18.39 in pre-market trading after jumping over 40% on Friday. ITHAX Acquisition’s shareholders approved business combination with Mondee.
+Intelligent Living Application Group Inc.  (NASDAQ: ILAG) rose 25.8% to $2.83 in pre-market trading after declining 11% on Friday. The company reported closing of $20.24 million initial public offering.
+Vertical Aerospace Ltd.  (NASDAQ: EVTL) rose 17% to $5.85 in pre-market trading. Vertical Aerospace shares jumped 72% on Friday after the company announced FLYINGGROUP has conditionally pre-ordered up to 50 VX4 aircrafts.
+LumiraDx Limited  (NASDAQ: LMDX) rose 16.2% to $2.73 in pre-market trading after dropping around 10% on Friday. LumiraDx, last month, announced it achieved CE Mark for two new Fast Lab Solutions molecular tests, including Dual-Target SARS-CoV-2 STAR Complete and SARS-CoV-2 & Flu A/B RNA STAR Complete.
+SunLink Health Systems, Inc. (NASDAQ: SSY) rose 13% to $1.13 in pre-market trading. SunLink ...",2022-07-18 10:23:21+00:00,https://www.benzinga.com/news/22/07/28096002/boeing-and-24-stocks-moving-premarket,Benzinga,0.32146676852559203,0.5694550547491724,positive,0.32146676852559203,False,True,False,False,False,False,False,False,0.0,1354,"['SSY', 'REVB', 'AEZS', 'METX', 'ARRY', 'NYMX', 'OPAD', 'BA', 'BITF', 'CPHI', 'LMDX', 'SYN', 'EVTL', 'FNV', 'USEA', 'MUX', 'ILAG', 'ANTX', 'EYES', 'HKD', 'GMBL', 'QD', 'ENOB']",ANTX,2022-07-18
+AN2 Therapeutics Reports Second Quarter 2022 Financial Results  and Provides Business Updates,"MENLO PARK, Calif., Aug.  11, 2022  (GLOBE NEWSWIRE) --  AN2 Therapeutics, Inc. (Nasdaq: ANTX), a clinical-stage biopharmaceutical company focused on developing treatments for rare, chronic, and serious infectious diseases with high unmet needs, today reported financial results for the quarter ended June 30, 2022.",2022-08-11 20:10:00+00:00,https://www.globenewswire.com/news-release/2022/08/11/2497169/0/en/AN2-Therapeutics-Reports-Second-Quarter-2022-Financial-Results-and-Provides-Business-Updates.html,GlobeNewswire Inc.,0.021111111111111112,0.3511111111111111,neutral,0.021111111111111112,False,False,True,False,False,False,False,False,0.0,410,['ANTX'],ANTX,2022-08-11
+"LegalZoom.com, Toast And Some Other Big Stocks Moving Higher On Friday","Altimmune, Inc. (NASDAQ: ALT) jumped 28% to $17.64. B. Riley Securities maintained Altimmune with a Buy and raised the price target from $21 to $26.
+
+Rani Therapeutics Holdings, Inc. (NASDAQ: RANI) jumped 27.5% to $10.49. Rani Therapeutics reported termination of public offering of Class A common stock.
+Xponential Fitness, Inc. (NYSE: XPOF) jumped 20.6% to $19.65 following strong quarterly sales.
+LegalZoom.com, Inc. (NASDAQ: LZ) gained 20.5% to $13.29 after the company reported better-than-expected Q2 adjusted EPS and sales results.
+Invitae Corporation (NYSE: NVTA) surged 20% to $5.42. Invitae recently reported better-than-expected Q2 EPS results.
+Rocket Lab USA, Inc. (NASDAQ: RKLB) rose 17% to $6.87 after the company reported better-than-expected Q2 sales results and issued Q3 sales guidance above analyst ...",2022-08-12 15:59:07+00:00,https://www.benzinga.com/news/22/08/28476419/legalzoom-com-toast-and-some-other-big-stocks-moving-higher-on-friday,Benzinga,0.08583333333333333,0.36750000000000005,neutral,0.08583333333333333,False,True,True,False,False,False,False,True,0.0,893,"['LZ', 'XPOF', 'ME', 'RANI', 'DAWN', 'JOBY', 'ALT', 'RKLB', 'CHPT', 'TOST', 'VUZI', 'RAPT', 'ANTX', 'GFS', 'NVTA', 'RVMD', 'DKNG', 'LMND', 'BEKE', 'OSCR', 'OLK']",ANTX,2022-08-12
+"Why Twin Vee Powercats Is Trading Higher By Around 90%, Here Are 84 Stocks Moving In Friday's Mid-Day Session","Gainers
+
+Twin Vee Powercats Co. (NASDAQ: VEEE) shares jumped 90% to $7.60 after the company said Q2 sales results were up year over year.
+Unity Biotechnology, Inc. (NYSE: UBX) jumped 70% to $1.4492 after the company announced 12- and 18-week data from its Phase 2 BEHOLD study of UBX1325, which showed a statistically significant and clinical meaningful improvement in mean BVCA.
+ADDvantage Technologies Group, Inc. (NASDAQ: AEY) shares gained 47.5% to $2.08 after the company swung to a profit in the third quarter.
+Quhuo Limited (NASDAQ: QH) gained 37% to $6.23.
+AppTech Payments Corp. (NASDAQ: APCX) jumped 35% to $0.97. AppTech Payments posted Q2 sales of $123.00K.
+Embark Technology, Inc. (NASDAQ: EMBK) gained 29% to $0.7471 after the company reported better-than-expected Q2 EPS results.
+Neptune Wellness Solutions Inc. (NASDAQ: NEPT) rose 28% to $1.8150. Neptune Wellness Solutions is expected to report its Q1 financial results on Monday, August 15, 2022.
+Altimmune, Inc. (NASDAQ: ALT) jumped 28% to $17.64. B. Riley Securities maintained Altimmune with a Buy and raised the price target from $21 to $26.
+Rani Therapeutics Holdings, Inc. (NASDAQ: RANI) jumped 27.5% to $10.49. Rani Therapeutics reported termination of public offering of Class A common stock.
+AirSculpt Technologies, Inc. (NASDAQ: AIRS) gained 25.5% to $11.15 after the company reported better-than-expected Q2 sales results. The company also declared a special cash dividend of $0.41 per share.
+Everspin Technologies, Inc. (NASDAQ: MRAM) jumped 24.8% to $7.99 after the company reported better-than-expected Q2 sales results and EPS results were higher year over year.
+Brilliant Earth Group, Inc. (NASDAQ: BRLT) rose 23.8% to $7.98 following strong Q2 results.
+Larimar Therapeutics, Inc. (NASDAQ: LRMR) shares gained 23.7% to $2.45 after the company announced it received meeting minutes from the FDA following a recent Type C Meeting and plans to submit a complete response to the CTI-1601 clinical hold in Q3.
+Conifer Holdings, Inc. (NASDAQ: CNFR) gained 23.6% to $1.86. Clarkston Ventures purchased 1.5 million shares of Conifer Holdings at ab average price $2 per share.
+Payoneer Global Inc. (NASDAQ: PAYO) shares rose 23.1% to $6.99 after reporting upbeat Q2 results.
+Vision Marine Technologies Inc. (NASDAQ: VMAR) rose 22.6% to $7.85.
+Neptune Wellness Solutions Inc.  (NASDAQ: NEPT) shares rose 22.4% to $1.7384. Neptune Wellness Solutions recently announced voluntary delisting from Toronto Stock Exchange.
+Liquidia Corporation (NASDAQ: LQDA) jumped 21.6% to $6.94. The company recently posted upbeat quarterly results.
+89bio, Inc. (NASDAQ: ETNB) gained 20.8% to $4.93. 89bio posted a Q2 loss of $1.23 per share.
+Xponential Fitness, Inc. (NYSE: XPOF) jumped 20.6% to $19.65 following strong quarterly sales.
+LegalZoom.com, Inc. (NASDAQ: LZ) gained 20.5% to $13.29 after the company reported better-than-expected Q2 adjusted EPS and sales results.
+Invitae Corporation (NYSE: NVTA) surged 20% to $5.42. Invitae recently reported better-than-expected Q2 EPS results.
+ESS Tech, Inc. (NYSE: GWH) jumped 18.2% to $4.9403 after the company announced a strategic partnership with Energy Storage Industries Asia Pacific to distribute and manufacture iron flow batteries in Australia, New Zealand and Oceania. The company also reported better-than-expected Q2 EPS results.
+Rocket Lab USA, Inc. (NASDAQ: RKLB) ...",2022-08-12 16:54:13+00:00,https://www.benzinga.com/news/22/08/28477280/why-twin-vee-powercats-is-trading-higher-by-around-90-here-are-84-stocks-moving-in-fridays-mid-day-s,Benzinga,0.18713692221756736,0.46821498394079025,positive,0.18713692221756736,True,True,True,True,False,True,False,True,0.0,3497,"['TOP', 'MEGL', 'OLO', 'DKNG', 'ACRX', 'SNPO', 'PAYO', 'ZFOX', 'PTE', 'LRMR', 'DAWN', 'XPOF', 'FRSX', 'BACK', 'AEY', 'QH', 'ALT', 'VEEE', 'CSSE', 'DAVE', 'DMS', 'VUZI', 'BGRY', 'CODX', 'ILMN', 'RIDE', 'NCRA', 'RANI', 'JOBY', 'ZEAL', 'INOD', 'VMAR', 'RAPT', 'RKLB', 'GOCO', 'NEPT', 'CERT', 'APCX', 'FORG', 'UBX', 'SMRT', 'FDMT', 'ANTX', 'BRLT', 'APTX', 'SMSI', 'POSH', 'SIEN', 'TOST', 'LQDA', 'SWIM', 'EVGO', 'TGL', 'GWH', 'APYX', 'LZ', 'PALI', 'NVTA', 'CNFR', 'AIRS', 'REKR', 'PLL', 'TERN', 'PLXP', 'NN', 'USIO', 'PET', 'OSCR', 'GMBL', 'EXFY', 'ETNB', 'PACB', 'OPAD', 'EFSH', 'EMBK', 'NTCO', 'REAL', 'ERAS', 'MRAM', 'PEAR', 'PSHG', 'APDN', 'LAW']",ANTX,2022-08-12
+Why Embark Technology Jumped Around 85%; Here Are 108 Biggest Movers From Friday,"Gainers
+
+Embark Technology, Inc. (NASDAQ: EMBK) jumped 84.8% to close at $1.07 on Friday after the company reported better-than-expected Q2 EPS results.
+Twin Vee Powercats Co. (NASDAQ: VEEE) shares climbed 77.5% to close at $7.10 on Friday after the company said Q2 sales results were up year over year.
+AN2 Therapeutics, Inc. (NASDAQ: ANTX) surged 64.7% to close at $19.38. AN2 Therapeutics posted a Q2 loss of $0.53 per share.
+Unity Biotechnology, Inc. (NYSE: UBX) surged 54.1% to close at $1.31 after the company announced 12- and 18-week data from its Phase 2 BEHOLD study of UBX1325, which showed a statistically significant and clinical meaningful improvement in mean BVCA.
+Conifer Holdings, Inc. (NASDAQ: CNFR) jumped 46.1% to close at $2.20. Clarkston Ventures purchased 1.5 million shares of Conifer Holdings at ab average price $2 per share.
+GoHealth, Inc. (NASDAQ: GOCO) jumped 41.8% to close at $0.8989.
+Everspin Technologies, Inc. (NASDAQ: MRAM) surged 39.7% to close at $8.94 after the company reported better-than-expected Q2 sales results and EPS results were higher year over year.
+Rani Therapeutics Holdings, Inc. (NASDAQ: RANI) surged 37.6% to close at $11.32. Rani Therapeutics reported termination of public offering of Class A common stock.
+ADDvantage Technologies Group, Inc. (NASDAQ: AEY) shares climbed 35.5% to close at $1.91 after the company swung to a profit in the third quarter.
+Berkshire Grey, Inc. (NASDAQ: BGRY) climbed 31.7% to close at $2.87.
+IMV Inc. (NASDAQ: IMV) gained 31.6% to close at $0.7503 on above-average volume. The company recently reported Q2 financial results.
+Offerpad Solutions Inc. (NASDAQ: OPAD) jumped 29.6% to close at $2.19. Offerpad Solutions Director Roberto Sella acquired a total of 1,000,000 shares at an average price of $1.69.
+Liquidia Corporation (NASDAQ: LQDA) surged 27.9% to close at $7.30. The company recently posted upbeat quarterly results.
+Brilliant Earth Group, Inc. (NASDAQ: BRLT) gained 27.3% to close at $8.21 following strong Q2 results.
+ADC Therapeutics SA (NASDAQ: ADCT) rose 26.9% to close at $10.30. ADC Therapeutics recently posted a Q2 loss of $0.73 per share.
+Altimmune, Inc. (NASDAQ: ALT) surged 26.1% to close at $17.36. B. Riley Securities maintained Altimmune with a Buy and raised the price target from $21 to $26.
+AirSculpt Technologies, Inc. (NASDAQ: AIRS) jumped 26.1% to close at $11.20 after the company reported better-than-expected Q2 sales results. The company also declared a special cash dividend of $0.41 per share.
+Atara Biotherapeutics, Inc. (NASDAQ: ATRA) gained 25.6% to close at $5.84.
+Atara Biotherapeutics recently reported Q2 EPS and sales results up year over year.
+KORE Group Holdings, Inc. (NYSE: KORE) jumped 25.5% to settle at $3.40 after the company reported better-than-expected Q2 sales results.
+Terns Pharmaceuticals, Inc.  (NASDAQ: TERN) shares jumped 25.3% to close at $3.02 after the company reported a $65 million oversubscribed offering.
+PlayAGS, Inc. (NYSE: AGS) gained 25.3% to settle at $7.51.
+Aquestive Therapeutics, Inc. (NASDAQ: AQST) rose 24.5% to close at $1.73. Aquestive Therapeutics recently raised its FY22 sales guidance.
+American Virtual Cloud Technologies, Inc. (NASDAQ: AVCT) gained 24.1% to close at $0.2290.
+Pineapple Energy Inc. (NASDAQ: PEGY) rose 23.5% to settle at $3.68.
+ASLAN Pharmaceuticals Limited (NASDAQ: ASLN) surged 22.9% to close at $0.8481 after the company reported Q2 earnings results.
+Bed Bath & Beyond Inc. (NASDAQ: BBBY) rose 21.8% to close at $12.95.
+Rocket Lab USA, Inc. (NASDAQ: RKLB) gained 21.2% to close at $7.10 after the company reported better-than-expected Q2 sales results and issued Q3 sales guidance above analyst estimates.
+Eargo, Inc. (NASDAQ: EAR) gained 19.9% to settle at $1.13. Eargo recently reported Q2 EPS results were down year over year.
+Oscar Health, Inc. (NYSE: OSCR) gained 19.2% to close at $7.77 after the company reported better-than-expected Q2 sales results.
+Invitae Corporation (NYSE: NVTA) gained 19.1% to close at $5.37. Invitae recently reported better-than-expected Q2 EPS results.
+Piedmont Lithium Inc. (NYSE: PLL) rose 19% to close at $66.70.
+Xponential Fitness, Inc. (NYSE: XPOF) climbed 18.5% to close at $19.30 following strong quarterly sales.
+ESS Tech, Inc. (NYSE: GWH) jumped 18.4% to close at $5.37 after the company announced a strategic partnership with Energy Storage Industries Asia Pacific to distribute and manufacture iron flow batteries in Australia, New Zealand and Oceania. The company ...",2022-08-15 07:43:24+00:00,https://www.benzinga.com/news/22/08/28488766/why-embark-technology-jumped-around-85-here-are-108-biggest-movers-from-friday,Benzinga,0.14844825809111523,0.44295866831581104,positive,0.14844825809111523,True,True,True,True,False,True,True,False,0.0,4588,"['APCX', 'EVGO', 'EAR', 'FRSX', 'TOST', 'AGL', 'REKR', 'ANTX', 'PALI', 'OLO', 'CSSE', 'GWH', 'LZ', 'USIO', 'IMV', 'TERN', 'PTE', 'PIXY', 'AIRS', 'PLL', 'MOHO', 'ATRA', 'OSCR', 'ADCT', 'CODX', 'NN', 'TSLA', 'ETNB', 'SIEN', 'OPAD', 'AEY', 'ZEAL', 'EXFY', 'PACB', 'NTCO', 'TGL', 'ERAS', 'AVCT', 'AGS', 'EMBK', 'REAL', 'PSHG', 'MCW', 'LAW', 'BBBY', 'GOCO', 'PEAR', 'APDN', 'DKNG', 'NVTA', 'SNPO', 'BNSO', 'UBX', 'PEGY', 'ACRX', 'WETG', 'LRMR', 'CNFR', 'XPOF', 'DAVE', 'ASLN', 'ILAG', 'KORE', 'DMS', 'PLXP', 'VEEE', 'ILMN', 'APTX', 'MEGL', 'DAWN', 'LU', 'HKD', 'BGRY', 'INOD', 'LQDA', 'ZFOX', 'ALT', 'RIDE', 'GMBL', 'RANI', 'NEPT', 'AQST', 'BACK', 'CHPT', 'VMAR', 'EFSH', 'JOBY', 'SMRT', 'MSC', 'VUZI', 'CERT', 'MRAM', 'RKLB', 'SMSI', 'APYX', 'NCRA', 'UPST', 'FDMT', 'TOP', 'FORG', 'SURG', 'PTON', 'RAPT', 'POSH', 'PAYO', 'BRLT', 'SWIM', 'BTTR']",ANTX,2022-08-15
+Nasdaq Drops 200 Points; American Woodmark Shares Spike Higher,"U.S. stocks extended losses toward the end of trading, with the Nasdaq Composite dropping around 200 points on Tuesday
+The Dow traded down 1.05% to 31,761.62 while the NASDAQ fell 1.67% to 11,817.58. The S&P 500 also fell, dropping, 1.27% to 3,979.32.
+Also check this: Volatility In Markets Rises Further After US Stocks Extend Last Week's Losses 
+
+Leading and Lagging Sectors
+
+Health care shares slipped by just 0.5% on Tuesday. Meanwhile, top gainers in the sector included  AVEO Pharmaceuticals, Inc.  (NASDAQ: AVEO), up 9% and  AN2 Therapeutics, Inc. (NASDAQ: ANTX) up 5%.
+
+In trading on Tuesday, energy shares tumbled by 3.4%.
+
+Top Headline
+
+The Conference Board’s consumer confidence index rose to 103.2 in August from previous reading of 95.3.
+ 
+Equities Trading UP
+ 
+
+American Outdoor Brands, Inc. (NASDAQ: AOUT) shares shot up 17% to $9.06 after B. Riley upgraded the stock from Neutral to Buy and announced an $11 price target.
+Shares of  IN8bio, Inc. (NASDAQ: INAB) got a boost, shooting 35% to $2.6750 after a Form 4 Filing showed Cavu Advisors purchased 51,214 shares at an average price of $2.02. HC Wainwright ...",2022-08-30 18:32:10+00:00,https://www.benzinga.com/news/earnings/22/08/28691145/nasdaq-drops-200-points-american-woodmark-shares-spike-higher,Benzinga,0.12525252525252528,0.35202020202020196,positive,0.12525252525252528,True,True,True,False,False,False,False,False,0.0,1192,"['AMWD', 'PLAB', 'AVEO', 'ANTX', 'BXRX', 'AOUT', 'AMST', 'INAB']",ANTX,2022-08-30
+Why Allena Pharmaceuticals Tumbled Over 30%; Here Are 85 Biggest Movers From Yesterday,"Gainers
+
+Shuttle Pharmaceuticals Holdings, Inc. (NASDAQ: SHPH) shares jumped 91.3% to close at $28.50 on Tuesday amid post-IPO volatility.
+IVERIC bio, Inc. (NASDAQ: ISEE) rose 66.3% to close at $15.70 on Tuesday after the company announced positive data from the second Phase 3 trial of Zimura (avacincaptad pegol) for geographic atrophy (GA).
+HyreCar Inc. (NASDAQ: HYRE) climbed 58.1% to close at $1.27 on Tuesday after the company announced it has received a $100 million revolving line of credit from a premier global investment bank and Medalist Partners.
+Spero Therapeutics, Inc. (NASDAQ: SPRO) gained 55.5% to close at $1.13. Spero Therapeutics received minutes from a recent Type A meeting with the FDA, discussing steps required to resubmit the marketing application for tebipenem HBr for complicated urinary tract infection (cUTI).
+ChannelAdvisor Corporation (NYSE: ECOM) shares jumped 55% to settle at $22.79 after the company announced it will be acquired by CommerceHub for $23.10 per share.
+Akumin Inc. (NASDAQ: AKU) climbed 37% to close at $1.63. Akumin recently received notification letter from the Nasdaq confirming that company had regained compliance with minimum bid price requirement.
+Apexigen, Inc. (NASDAQ: APGN) rose 34.4% to close at $7.03.
+First Wave BioPharma, Inc. (NASDAQ: FWBI) shares gained 32.7% to close at $4.22 after gaining 7% on Friday.
+Galera Therapeutics, Inc. (NASDAQ: GRTX) jumped 29.5% to settle at $1.67. Galera Therapeutics, last month, posted a Q2 loss of $0.54 per share.
+HilleVax, Inc. (NASDAQ: HLVX) rose 24.8% to close at $17.05. HilleVax recently said Safety Data Monitoring Committee has recommended continuation of NEST-IN1 Phase 2b clinical trial.
+T Stamp Inc. (NASDAQ: IDAI) gained 24.6% to close at $1.72.
+Sunrise New Energy Co., Ltd. (NASDAQ: EPOW) jumped 24.6% to close at $3.49.
+Avaya Holdings Corp. (NASDAQ: AVYA) gained 24% to close at $2.12.
+Avalo Therapeutics, Inc. (NASDAQ: AVTX) rose 22.3% to settle at $5.87.
+Avalo advanced BTLA agonist fusion protein (AVTX-008) to IND-enabling stage.
+BioVie Inc. (NASDAQ: BIVI) rose 21.6% to close at $3.44.
+Ainos, Inc. (NASDAQ: AIMD) gained 21.1% to close at $2.24. Ainos recently submitted an Investigational New Drug (IND) application to the U.S. Food and Drug Administration for conducting a Phase 2 trial of its drug candidate VELDONA, for treatment of mild symptoms related to COVID-19.
+Neonode Inc. (NASDAQ: NEON) jumped 18.7% to settle at $4.26. Neonode, last month, posted a Q2 loss of $0.11 per share.
+Grove Collaborative Holdings, Inc. (NYSE: GROV) gained 18.4% to close at $5.80.
+a.k.a. Brands Holding Corp. (NYSE: AKA) surged 17.4% to settle at $2.36.
+SelectQuote, Inc. (NYSE: SLQT) climbed 16.8% to settle at $1.11. SelectQuote recently said Q4 sales results were lower year-over-year and issued FY23 sales guidance below analyst estimates.
+ADT Inc. (NYSE: ADT) rose 16.4% to close at $8.39 after the company announced it has secured investments totaling $1.5 billion from State Farm and Google.
+Dermata Therapeutics, Inc. (NASDAQ: DRMA) gained 15.3% to close at $0.70. Dermata Therapeutics recently posted a Q2 loss of $0.24 per share
+Regulus Therapeutics Inc. (NASDAQ: RGLS) gained 14.1% to close at $1.62. Regulus Therapeutics, last ...",2022-09-07 09:16:07+00:00,https://www.benzinga.com/news/22/09/28771185/why-allena-pharmaceuticals-tumbled-over-30-here-are-85-biggest-movers-from-yesterday,Benzinga,0.18333333333333332,0.46751515151515144,positive,0.18333333333333332,True,True,True,False,False,False,False,False,0.0,3341,"['GROV', 'TNGX', 'CTMX', 'FRZA', 'ADTN', 'PIXY', 'IDAI', 'DRMA', 'IQ', 'EPOW', 'BBBY', 'ALNA', 'ANTX', 'FWBI', 'PNT', 'JZ', 'CAMP', 'SQFT', 'TXMD', 'DWAC', 'AVYA', 'HPCO', 'CYTK', 'HYRE', 'RGLS', 'GETY', 'SES', 'SHPH', 'EHTH', 'WTRH', 'ISEE', 'WHLR', 'RGTI', 'MLTX', 'MGAM', 'AVTX', 'HI', 'NUTX', 'HKD', 'SPRO', 'GRTX', 'ADT', 'BLTE', 'FUTU', 'FRO', 'SLQT', 'ECOM', 'HLVX', 'EIGR', 'GLT', 'CRTD', 'HIVE', 'GEHI', 'ZETA', 'GME', 'AKU', 'CMCM', 'PGY', 'AVCO', 'NAT', 'TUP', 'PXMD', 'EURN', 'BIAF', 'BIVI', 'BRCN', 'MNMD', 'AKA', 'PROK', 'ATXG', 'NEON', 'NUWE', 'INM', 'FAZE', 'TELL', 'ONVO', 'AIMD', 'OUT', 'APGN', 'ZYME', 'KC', 'SERA', 'WING', 'ZFOX', 'DC']",ANTX,2022-09-07
+Why Avenue Therapeutics Shares Surged Around 106%; Here Are 87 Biggest Movers From Yesterday,"Gainers
+
+Spero Therapeutics, Inc. (NASDAQ: SPRO) shares jumped 167.7% to close at $2.20 on Thursday after the company announced it has entered into an exclusive license agreement with GSK for Spero's late-stage antibiotic asset, tebipenem HBr. Spero Therapeutics will receive $66 million upfront, with potential for future milestone payments, and tiered royalties.
+Avenue Therapeutics, Inc. (NASDAQ: ATXI) gained 105.9% to close at $0.44 after the company received meeting minutes from the FDA regarding a meeting conducted on August 9, 2022, for IV Tramadol. The company also announced the effectiveness of its 1-for-15 reverse split on Sept. 23.
+Panbela Therapeutics, Inc. (NASDAQ: PBLA) gained 46.4% to close at $0.3550.
+American Virtual Cloud Technologies, Inc. (NASDAQ: AVCT) jumped 44.7% to close at $0.3118 on Thursday.
+ShiftPixy, Inc.  (NASDAQ: PIXY) shares gained 39% to close at $18.98. ShiftPixy, on Wednesday, announced pricing of $5 million private placement.
+Cassava Sciences, Inc. (NASDAQ: SAVA) climbed 35.7% to close at $51.06.
+Cano Health, Inc. (NYSE: CANO) jumped 32.2% to settle at $8.34 following a WSJ report suggesting Humana and others may be potential buyers of Cano Health.
+iSpecimen Inc. (NASDAQ: ISPC) rose 26.5% to close at $1.91. iSpecimen named Chief Financial Officer, Tracy Curley, as interim CEO.
+Heliogen, Inc. (NASDAQ: HLGN) surged 23.6% to settle at $2.15.
+Sonnet BioTherapeutics Holdings, Inc. (NASDAQ: SONN) gained 23.5% to close at $1.63. Sonnet BioTherapeutics recently announced progress in Phase 1 dose-escalation trials of SON-1010.
+Kiora Pharmaceuticals, Inc. (NASDAQ: KPRX) jumped 22.9% to settle at $0.2090.
+Talkspace, Inc. (NASDAQ: TALK) rose 22.4% to close at $1.02.
+Amprius Technologies, Inc. (NASDAQ: AMPX) gained 22.1% to settle at $11.54.
+HeartBeam, Inc. (NASDAQ: BEAT) shares rose 20.9% to close at $1.91 after dropping 16% on Wednesday. Heartbeam recently announced its patent for a 12-lead electrocardiogram patch monitor intended for detection of acute coronary syndrome and cardiac arrhythmia was issued by the USPTO.
+AN2 Therapeutics, Inc. (NASDAQ: ANTX) gained 17.8% to close at $11.20.
+Freshpet, Inc. (NASDAQ: FRPT) jumped 15.9% to settle at $45.47 following a report suggesting Jana Partners, which reportedly owns a 10% stake in the company, is pushing the company to make changes to boost the stock price, including a potential sale.
+Forza X1, Inc. (NASDAQ: FRZA) rose 15.5% to settle at $2.53.
+United Maritime Corporation (NASDAQ: USEA) climbed 15.1% to close at $1.75. United completed stock buyback of $3 million and initiated additional $3 million stock buyback plan.
+SoundHound AI, Inc. (NASDAQ: SOUN) gained 13.7% to settle at $3.24.
+Siyata Mobile Inc. (NASDAQ: SYTA) jumped 12.8% to close at $0.4262 after the company announced that it has received a purchase order from a federal government contractor who will provide Uniden cellular booster kits and accessories to the U.S. Navy.
+Rain Therapeutics Inc. (NASDAQ: RAIN) gained 12.8% to settle at $6.63.
+Reading International, Inc. (NASDAQ: RDIB) gained 12.5% to close at $19.14.
+CareMax, Inc. (NASDAQ: CMAX) rose 12.2% to close at $7.25.
+Kalera Public Limited Company (NASDAQ: KAL) gained 11.8% to settle at $1.37.
+MSP Recovery, Inc. ...",2022-09-23 07:42:10+00:00,https://www.benzinga.com/news/22/09/28979553/why-avenue-therapeutics-shares-surged-around-106-here-are-87-biggest-movers-from-yesterday,Benzinga,0.16564625850340137,0.47902494331065754,positive,0.16564625850340137,False,True,True,False,False,True,True,False,0.0,3353,"['BCAN', 'GGR', 'MOHO', 'SANW', 'CMAX', 'LI', 'USEA', 'AVCT', 'TCOM', 'AMBO', 'ISPC', 'RAIN', 'APGN', 'BEAT', 'SONN', 'NA', 'AGRI', 'APE', 'FRZA', 'FRPT', 'FUBO', 'CANO', 'IMRX', 'COSM', 'KITT', 'NVAX', 'CISO', 'RDIB', 'ELYM', 'ALBO', 'CVNA', 'AMPX', 'SMIT', 'SOBR', 'NRDS', 'KPRX', 'CYTO', 'RUM', 'SPRO', 'LPTV', 'GROV', 'WAVD', 'ATXI', 'TOPS', 'CVAC', 'ANTX', 'HLGN', 'PIXY', 'CAR', 'PXMD', 'PI', 'SOND', 'NCNA', 'DB', 'SYTA', 'OM', 'CPTN', 'ZLAB', 'DM', 'IH', 'MDWD', 'VRAX', 'ERYP', 'DRI', 'LAZR', 'ASPN', 'NUTX', 'SFIX', 'KBH', 'PBLA', 'DBVT', 'ELBM', 'SRRK', 'PT', 'MSGM', 'TALK', 'SOUN', 'SAVA', 'SCS', 'ZENV', 'VIRT', 'HLVX', 'KAL', 'CPHI', 'JZXN', 'HSDT', 'MSPR']",ANTX,2022-09-23
+Why NLS Pharmaceutics Shares Dipped Over 23%; Here Are 67 Biggest Movers From Yesterday,"Gainers
+
+Avenue Therapeutics, Inc.  (NASDAQ: ATXI) shares climbed 106.3% to close at $9.15. Avenue Therapeutics recently received the official meeting minutes from the FDA regarding a meeting conducted for IV Tramadol in combination with other opioid analgesics to manage moderate-to-moderately severe pain. Concurrently, Avenue Therapeutics announced that it would effect a 1-for-15 reverse stock split.
+Scienjoy Holding Corporation (NASDAQ: SJ) climbed 47.9% to close at $2.47 after declining 44% on Monday.
+Sonendo, Inc. (NASDAQ: SONX) gained 42.7% to close at $1.67. Sonendo recently announced a private placement of common stock and pre-funded warrants, resulting in gross proceeds of $63 million led by a consortium of new and existing investors.
+X4 Pharmaceuticals, Inc. (NASDAQ: XFOR) gained 40.2% to close at $1.25 after the company announced data from its Phase 1b trial evaluating mavorixafor in chronic neutropenia.
+Antelope Enterprise Holdings Limited (NASDAQ: AEHL) rose 37.5% to settle at $0.9320.
+Grove Collaborative Holdings, Inc.  (NYSE: GROV) shares surged 35.5% to close at $4.01. Grove Collaborative continued retail expansion with entry into thousands of more stores.
+InMed Pharmaceuticals Inc.  (NASDAQ: INM) climbed 31.3% to close at $6.71. InMed recently reported a FY22 net loss of $33.17 per share.
+AN2 Therapeutics, Inc. (NASDAQ: ANTX) gained 31.1% to close at $15.50.
+FingerMotion, Inc. (NASDAQ: FNGR) climbed 30.3% to close at $1.0592 after rising around 20% on Monday.
+Intelligent Living Application Group Inc. (NASDAQ: ILAG) gained 28.4% to close at $2.62 after gaining over 11% on Monday.
+Harrow Health, Inc. (NASDAQ: HROW) gained 27.9% to close at $9.73 after the company announced the FDA has approved IHEEZO 3% for ocular surface anesthesia.
+Presto Automation, Inc. (NASDAQ: PRST) jumped 24% to close at $2.69.
+Equillium, Inc. (NASDAQ: EQ) climbed 22.8% to close at $2.37. Equillium announced interim results from the Type B portion of the EQUALISE study evaluating itolizumab in patients with lupus nephritis (LN).
+Lion Group Holding Ltd. (NASDAQ: LGHL) rose 22.8% to close at $2.10.
+PaxMedica, Inc. (NASDAQ: PXMD) gained 18.4% to close at $2.57 as the company issued a corporate update after IPO. The company named Stephen D. Sheldon as CFO.
+Latch, Inc. (NASDAQ: LTCH) rose 18.1% to close at $1.01.
+Bellerophon Therapeutics, Inc. (NASDAQ: BLPH) gained 18% to close at $1.14. Bellerophon announced FDA acceptance of change to ongoing Phase 3 REBUILD study of INOpulse for the treatment of fibrotic interstitial lung disease.
+Metacrine, Inc. (NASDAQ: MTCR) rose 17.7% to ...",2022-09-28 09:10:27+00:00,https://www.benzinga.com/news/22/09/29046778/why-nls-pharmaceutics-shares-dipped-over-23-here-are-67-biggest-movers-from-yesterday,Benzinga,0.19646676852559206,0.45867074102368227,positive,0.19646676852559206,True,False,True,False,False,True,True,False,0.0,2699,"['NUZE', 'NVX', 'AEHL', 'VIPS', 'GSUN', 'SNES', 'NILE', 'FHTX', 'GROV', 'ILAG', 'POLA', 'NVAX', 'SKLZ', 'SKIN', 'FAZE', 'AVCO', 'PRST', 'NLSP', 'LTCH', 'INPX', 'THRD', 'EVAX', 'ANTX', 'ATXI', 'UNAM', 'TRKA', 'SNAX', 'FNGR', 'CVI', 'BTCM', 'VTNR', 'XCUR', 'EQ', 'VERV', 'MLSS', 'HROW', 'KRO', 'ENSC', 'FNHC', 'XFOR', 'MTP', 'SCWO', 'RNA', 'AYLA', 'PFS', 'UTRS', 'BIOC', 'LGHL', 'R', 'SONX', 'VET', 'KTRA', 'SAI', 'KPRX', 'OCUL', 'MAXN', 'NA', 'MOND', 'INM', 'MTCR', 'SJ', 'EVEX', 'BLPH', 'PXMD', 'AMPS', 'AUST', 'HKD']",ANTX,2022-09-28
+NIH Awards Contract to AN2 Therapeutics Valued Up to $17.8 Million,NIAID Agreement to Advance Development of Epetraborole for Acute Systemic Melioidosis NIAID Agreement to Advance Development of Epetraborole for Acute Systemic Melioidosis,2022-09-29 11:00:00+00:00,https://www.globenewswire.com/news-release/2022/09/29/2525013/0/en/NIH-Awards-Contract-to-AN2-Therapeutics-Valued-Up-to-17-8-Million.html,GlobeNewswire Inc.,0.6,0.9,positive,0.6,False,False,False,False,False,False,False,False,0.0,239,['ANTX'],ANTX,2022-09-29
+AN2 Therapeutics Provides Update on Epetraborole Ex-U.S. Development Plan in Treatment-Refractory MAC Lung Disease,"MENLO PARK, Calif., Oct.  06, 2022  (GLOBE NEWSWIRE) -- AN2 Therapeutics, Inc. (Nasdaq: ANTX), a clinical-stage biopharmaceutical company focused on developing treatments for rare, chronic, and serious infectious diseases with high unmet needs, today provided an update on the ex-U.S. development plan for epetraborole in treatment-refractory Mycobacterium avium complex (MAC) lung disease, the most common form of non-tuberculous mycobacterial (NTM) lung disease.",2022-10-06 11:00:00+00:00,https://www.globenewswire.com/news-release/2022/10/06/2529336/0/en/AN2-Therapeutics-Provides-Update-on-Epetraborole-Ex-U-S-Development-Plan-in-Treatment-Refractory-MAC-Lung-Disease.html,GlobeNewswire Inc.,0.004444444444444445,0.5844444444444444,neutral,0.004444444444444445,False,False,False,False,False,False,False,False,0.0,580,['ANTX'],ANTX,2022-10-06
+Why Laser Photonics Shares Jumped By Around 44%; Here Are 72 Biggest Movers From Yesterday,"Gainers
+
+FedNat Holding Company (NASDAQ: FNHC) shares climbed 107.7% to close at $0.3395 on Tuesday.
+DICE Therapeutics, Inc.  (NASDAQ: DICE) shares gained 62.3% to close at $40.00 after the company announced topline data from its Phase 1 clinical trial of DC-806. Clinical proof-of-concept in psoriasis patients achieved with a mean percentage reduction in PASI from baseline at 4 weeks of 43.7% in the high dose group.
+Immunic, Inc. (NASDAQ: IMUX) surged 51.8% to close at $9.41. Immunic recently announced $60 million oversubscribed private placement equity financing.
+ForgeRock, Inc. (NYSE: FORG) rose 48.6% to close at $22.52 after the company announced it will be acquired by Thoma Bravo for $2.3 billion.
+Laser Photonics Corporation  (NASDAQ: LASE) gained 44.4% to close at $2.70 after the company announced it received an order from the U.S. Navy for delivery this month of an LPC-1000CTH CleanTech Laser Blasting System with an integrated water chiller for submarine MRO.
+scPharmaceuticals Inc. (NASDAQ: SCPH) gained 39.3% to close at $5.60. SVB Leerink upgraded scPharmaceuticals from Market Perform to Outperform and raised the price target from $6 to $11.
+Oblong, Inc. (NASDAQ: OBLG) rose 38.6% to close at $0.2340.
+AMTD Digital Inc. (NYSE: HKD) gained 35.3% to settle at $41.15.
+Meiwu Technology Company Limited (NASDAQ: WNW) climbed 33.7% to close at $1.17.
+Agrify Corporation (NASDAQ: AGFY) gained 32.6% to close at $0.5074.
+Mercurity Fintech Holding Inc. (NASDAQ: MFH) surged 30.8% to close at $1.06.
+Bright Health Group, Inc. (NYSE: BHG) gained 28.6% to close at $1.17.
+NantHealth, Inc. (NASDAQ: NH) surged 22.9% to close at $0.2899.
+Lottery.com Inc. (NASDAQ: LTRY) climbed 21.3% to close at $0.3021.
+Innovative Eyewear, Inc. (NASDAQ: LUCY) gained 20.4% to close at $2.60.
+Minerva Neurosciences, Inc. (NASDAQ: NERV) rose 19% to settle at $12.46.
+Braskem S.A. (NYSE: BAK) shares climbed 18.8% to close at $12.76 following a report suggesting Apollo has made a new offer for the company.
+Mawson Infrastructure Group, Inc. (NASDAQ: MIGI) gained 18% to close at $0.5538.
+Adamis Pharmaceuticals Corporation (NASDAQ: ADMP) rose 16.4% to close at $0.1464. Adamis Pharmaceuticals recently initiated a process to explore a range of strategic and financing alternatives.
+Reviva Pharmaceuticals Holdings, Inc. (NASDAQ: RVPH) gained 16.3% to close at $3.22.
+Greenbrook TMS Inc. (NASDAQ: GBNH) climbed 14.9% to close at $3.32.
+Albireo Pharma, Inc. (NASDAQ: ALBO) shares gained 14.4% to close at $23.42 after the company announced topline results from the Phase 3 of Bylvay in Alagille syndrome showed highly statistically significant improvement in pruritus primary endpoint.
+Rani Therapeutics Holdings, Inc. (NASDAQ: RANI) rose 14.3% to close at $8.00. UBS initiated coverage on Rani Therapeutics with a ...",2022-10-12 07:20:13+00:00,https://www.benzinga.com/news/22/10/29229887/why-laser-photonics-shares-jumped-by-around-44-here-are-72-biggest-movers-from-yesterday,Benzinga,0.26565447710184553,0.5928896103896103,positive,0.26565447710184553,False,True,False,False,False,False,False,False,0.0,2903,"['GBNH', 'ADMP', 'HLVX', 'XELA', 'AMV', 'MIGI', 'SPWR', 'PEPG', 'ERYP', 'ACMR', 'BHG', 'LUCY', 'REBN', 'SCPH', 'NFLX', 'LTRY', 'PINS', 'FOXO', 'BHAT', 'NURO', 'FFIE', 'ANTX', 'LASE', 'IMUX', 'OFIX', 'RANI', 'FNHC', 'MPTI', 'HAPP', 'RIGL', 'TOPS', 'ICCM', 'SNTI', 'JXJT', 'USIO', 'WYNN', 'FORG', 'NERV', 'TCOM', 'AZZ', 'DICE', 'ELF', 'MFH', 'BAK', 'SNCE', 'IAC', 'OBLG', 'IVR', 'WBEV', 'UBER', 'CRKN', 'LEG', 'QNGY', 'LYFT', 'CCNC', 'LVS', 'MDV', 'LIVN', 'SKLZ', 'MF', 'ISPO', 'HKD', 'NLSP', 'MFA', 'VRAX', 'NH', 'WNW', 'IBIO', 'LYT', 'ALBO', 'AGFY']",ANTX,2022-10-12
+"Uber, Lyft, AZZ And Other Big Losers From Tuesday","U.S. stocks closed mixed with the Nasdaq Composite dropping more than 100 points on Tuesday. Here is the list of some big stocks recording losses in the previous session.
+
+AZZ Inc. (NYSE: AZZ) shares dipped 22.1% to close at $30.41 after the company reported worse-than-expected Q2 adjusted EPS results. The company said it will not issue full-year fiscal year 2023 guidance at this time.
+Orthofix Medical Inc.  (NASDAQ: OFIX) shares fell 19.2% to close at $14.87 after the company and SeaSpine announced they will combine in a merger of equals. The company also announced preliminary Q3 net sales.
+Lyft, Inc. (NASDAQ: LYFT) declined 12% to close at $11.27 on reports the U.S. Department of Labor has released a proposal to make companies reclassify independent contractors as employees.
+ACM Research, Inc. (NASDAQ: ...",2022-10-12 08:46:15+00:00,https://www.benzinga.com/news/22/10/29230239/uber-lyft-azz-and-other-big-losers-from-tuesday,Benzinga,-0.008333333333333337,0.17424242424242425,neutral,0.008333333333333337,True,True,False,False,True,False,False,False,0.0,870,"['ACMR', 'TCOM', 'INFN', 'GDYN', 'NFLX', 'SKLZ', 'OFIX', 'HLVX', 'WYNN', 'AZZ', 'LEG', 'ANGI', 'SPWR', 'PINS', 'ANTX', 'IAC', 'UBER', 'LYFT', 'LIVN', 'ZYME']",ANTX,2022-10-12
+"Lennar To Rally Around 14%? Plus Keybanc Predicts $5,120 For This Stock","Keybanc boosted the price target on  Lennar Corporation  (NYSE: LEN) from $89 to $100. Lennar shares fell 0.4% to close at $88.03 on Friday.
+
+Keybanc raised  NVR, Inc.  (NYSE: NVR) price target from $4,800 to $5,120. NVR shares fell 0.9% to close at $4,491.44 on Friday.
+
+Keefe, Bruyette & Woods cut  Barings BDC, Inc. (NYSE: Full story available on Benzinga.com",2022-11-14 11:28:46+00:00,https://www.benzinga.com/news/22/11/29695738/lennar-to-rally-around-14-plus-keybanc-predicts-5-120-for-this-stock,Benzinga,0.375,0.47500000000000003,positive,0.375,False,False,False,False,False,False,False,False,0.0,435,"['AMD', 'LEN', 'MEG', 'NVR', 'SBH', 'ANTX', 'BBDC']",ANTX,2022-11-14
+Top 5 Health Care Stocks That May Dip,"The most overbought stocks in the health care sector presents an opportunity to go short on these overvalued companies.
+The RSI is a momentum indicator, which compares a stock's strength on days when prices go up to its strength on days when prices go down. When compared to a stock's price action, it can give traders a better sense of how a stock may perform in the short term. An asset is typically considered overbought when the RSI is above 70.
+Here’s the latest list of major overbought players in this sector.
+NewAmsterdam Pharma Company N.V. (NASDAQ: NAMS)
+
+NewAmsterdam Pharma announced topline results from ROSE2 Phase 2 trial evaluating obicetrapib in combination with ezetimibe as an adjunct to high-intensity statin therapy. The company’s stock has ...",2023-01-27 11:33:59+00:00,https://www.benzinga.com/news/23/01/30599921/top-5-health-care-stocks-that-may-dip,Benzinga,0.16729797979797978,0.4080808080808081,positive,0.16729797979797978,False,False,True,False,False,False,False,False,0.0,804,"['ANTX', 'GLYC', 'CLGN', 'MHUA', 'NAMS']",ANTX,2023-01-27
+J&J (JNJ) to Keep 9.5% Stake in Kenvue Post Share Exchange,"J&J's (JNJ) offer to exchange its shares for the shares of Kenvue, its recently-separated consumer healthcare business, gets oversubscribed. The exchange ratio is 8.0324 for every share of J&J.",2023-08-22 14:26:00+00:00,https://www.zacks.com/stock/news/2139139/jj-jnj-to-keep-95-stake-in-kenvue-post-share-exchange,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,253,"['JNJ', 'ANTX', 'ANVS', 'KVUE']",ANTX,2023-08-22
+$16M Bet On This Biotechnology Stock? Check Out These 3 Stocks Insiders Are Buying,"Although U.S. stocks closed mostly lower on Tuesday, there were a few notable insider trades.
+When insiders purchase shares, it indicates their confidence in the company's prospects or that they view the stock as a bargain. Either way, this signals an opportunity to go long on the stock. Insider purchases should not be taken as the only indicator for making an investment or trading decision. At best, it can lend conviction to a buying decision.
+Below is a look at a few recent notable insider purchases. For more, check out  Benzinga's insider transactions  platform.
+Mercury Systems 
+
+The Trade:  Mercury Systems, Inc. (NASDAQ: MRCY) 10% owner Jana Partners LLC  acquired a total of 50,000 shares  an average ...",2023-08-23 11:58:32+00:00,https://www.benzinga.com/trading-ideas/long-ideas/23/08/34001540/16m-bet-on-this-biotechnology-stock-check-out-these-3-stocks-insiders-are-buying,Benzinga,0.17692307692307693,0.4153846153846154,positive,0.17692307692307693,False,True,False,False,False,False,False,False,0.0,801,"['MRCY', 'ANTX', 'RILY']",ANTX,2023-08-23
+J&J (JNJ) Seeks Full FDA Nod for Rybrevant in Lung Cancer,J&J's (JNJ) FDA filing is based on a late-stage study showing that treatment with Rybrevant plus chemotherapy improved progression-free survival in certain NSCLC patients.,2023-08-28 15:38:00+00:00,https://www.zacks.com/stock/news/2141532/jj-jnj-seeks-full-fda-nod-for-rybrevant-in-lung-cancer,Zacks Investment Research,0.28214285714285714,0.5607142857142857,positive,0.28214285714285714,False,False,True,False,False,False,False,False,0.0,230,"['JNJ', 'ANIP', 'ANTX', 'ANVS']",ANTX,2023-08-28
+"Should You Buy AN2 Therapeutics, Inc. (ANTX) After Golden Cross?",Should investors be excited or worried when a stock's 50 -day simple moving average crosses above the 200-day simple moving average?,2023-08-31 13:55:03+00:00,https://www.zacks.com/stock/news/2143005/should-you-buy-an2-therapeutics-inc-antx-after-golden-cross,Zacks Investment Research,0.046875,0.3580357142857143,neutral,0.046875,False,True,False,False,False,False,False,False,0.0,198,['ANTX'],ANTX,2023-08-31
+Top 5 Health Care Stocks That May Fall Off A Cliff,"The most overbought stocks in the health care sector presents an opportunity to go short on these overvalued companies.
+The RSI is a momentum indicator, which compares a stock's strength on days when prices go up to its strength on days when prices go down. When compared to a stock's price action, it can give traders a better sense of how a stock may perform in the short term. An asset is typically considered overbought when the  RSI is above 70.
+Here’s the latest list of major overbought players in this sector.
+Aspira Women's Health Inc.  (NASDAQ: AWH)
+
+Aspira Women's Health announced a material transfer agreement with the University of Oxford for the procurement of serum samples to verify and validate the endometriosis blood test algorithms. The company’s stock has a 52-week high of $9.60. .
+RSI Value: 72.25
+AWH Price Action:  Shares of Aspira Women's Health fell 18.3% to close at $4.90 on Tuesday.
+
+Novo Integrated Sciences, Inc.  ...",2023-09-06 12:31:51+00:00,https://www.benzinga.com/news/23/09/34275784/top-5-health-care-stocks-that-may-fall-off-a-cliff,Benzinga,0.16155982905982907,0.3945299145299145,positive,0.16155982905982907,False,False,True,False,False,False,False,False,0.0,1002,"['AWH', 'ANTX', 'NVOS', 'IDYA', 'NPCE']",ANTX,2023-09-06
+Has AN2 Therapeutics (ANTX) Outpaced Other Medical Stocks This Year?,"Here is how AN2 Therapeutics, Inc. (ANTX) and Artivion (AORT) have performed compared to their sector so far this year.",2023-09-11 13:40:07+00:00,https://www.zacks.com/stock/news/2147168/has-an2-therapeutics-antx-outpaced-other-medical-stocks-this-year,Zacks Investment Research,-0.008333333333333331,0.4583333333333333,neutral,0.008333333333333331,False,False,True,False,False,False,False,False,0.0,189,"['ANTX', 'AORT']",ANTX,2023-09-11
+Is Adagene (ADAG) Outperforming Other Medical Stocks This Year?,"Here is how Adagene Inc. Sponsored ADR (ADAG) and AN2 Therapeutics, Inc. (ANTX) have performed compared to their sector so far this year.",2023-09-27 13:40:10+00:00,https://www.zacks.com/stock/news/2156167/is-adagene-adag-outperforming-other-medical-stocks-this-year,Zacks Investment Research,-0.008333333333333331,0.4583333333333333,neutral,0.008333333333333331,False,False,True,False,False,False,False,False,0.0,202,"['ADAG', 'ANTX']",ANTX,2023-09-27
+Walgreens (WBA) to Report Q4 Earnings: What's in the Cards?,Continued strategic executions on the United States and the international fronts are likely to drive Walgreens (WBA) Q4 revenues.,2023-10-03 14:43:00+00:00,https://www.zacks.com/stock/news/2159361/walgreens-wba-to-report-q4-earnings-whats-in-the-cards,Zacks Investment Research,0.0,0.5,neutral,0.0,True,False,False,False,False,False,False,False,0.0,190,"['WBA', 'ANTX', 'BHVN', 'NRIX']",ANTX,2023-10-03
+"Beat the Market the Zacks Way: Novo Nordisk, Lifeway Foods, Casey's in Focus",Our time-tested methodologies were at work to help investors navigate the market well last week. Here are some of our key performance data from the past three months.,2023-10-30 11:52:00+00:00,https://www.zacks.com/stock/news/2174326/beat-the-market-the-zacks-way-novo-nordisk-lifeway-foods-caseys-in-focus,Zacks Investment Research,-0.08333333333333333,0.4388888888888889,neutral,0.08333333333333333,False,False,False,False,False,False,False,False,0.0,244,"['UNH', 'NVO', 'WMT', 'AMGN', 'SKM', 'FCFS', 'LWAY', 'CASY', 'AXON', 'NOBL', 'ANTX', 'CDRE']",ANTX,2023-10-30
+"AN2 Therapeutics, Inc. (ANTX) Is a Great Choice for 'Trend' Investors, Here's Why","AN2 Therapeutics, Inc. (ANTX) made it through our ""Recent Price Strength"" screen and could be a great choice for investors looking to make a profit from stocks that are currently on the move.",2023-11-06 13:50:06+00:00,https://www.zacks.com/stock/news/2179046/an2-therapeutics-inc-antx-is-a-great-choice-for-trend-investors-heres-why,Zacks Investment Research,0.4,0.5375,positive,0.4,True,False,False,False,False,False,False,False,0.0,274,['ANTX'],ANTX,2023-11-06
+"Recent Price Trend in AN2 Therapeutics, Inc. (ANTX) is Your Friend, Here's Why","AN2 Therapeutics, Inc. (ANTX) could be a solid choice for shorter-term investors looking to capitalize on the recent price trend in fundamentally sound stocks. It is one of the many stocks that passed through our shorter-term trading strategy-based screen.",2024-01-10 13:50:06+00:00,https://www.zacks.com/stock/news/2208157/recent-price-trend-in-an2-therapeutics-inc-antx-is-your-friend-heres-why,Zacks Investment Research,0.18,0.3,positive,0.18,False,False,False,False,False,False,False,False,0.0,336,['ANTX'],ANTX,2024-01-10
+"Monday.com Reports Q4 Results, Joins AN2 TherapeuticsAnd Other Big Stocks Moving Lower In Monday's Pre-Market Session","U.S. stock futures were mixed this morning, with the Dow futures trading lower by around 45 points on Monday.
+Shares of  monday.com Ltd.  (NASDAQ: MNDY) fell sharply in today’s pre-market trading after the company reported fourth-quarter financial results.
+Monday.com posted adjusted earnings of 65 cents per share on sales of $202.57 million.
+monday.com shares dipped 9% to $214.69 in pre-market trading.
+Here are some big stocks recording losses in today’s pre-market trading session.
+
+AN2 Therapeutics, Inc. (NASDAQ: ANTX) shares dipped 72% to $5.59 in pre-market trading as the company said it will voluntarily pause ...",2024-02-12 13:16:25+00:00,https://www.benzinga.com/news/24/02/37066396/monday-com-reports-q4-results-joins-an2-therapeuticsand-other-big-stocks-moving-lower-in-mondays-pre,Benzinga,-0.041666666666666664,0.2625,neutral,0.041666666666666664,True,False,False,False,False,False,False,False,0.0,743,"['WYNN', 'MANU', 'APLD', 'ANTX', 'PGEN', 'LRMR', 'MVST', 'TIXT', 'MNDY']",ANTX,2024-02-12
+US Stocks Mixed; Trimble Issues Weak Outlook,"U.S. stocks traded mixed this morning, with the Dow Jones index falling around 20 points on Monday.
+Following the market opening Monday, the Dow traded down 0.05% to 38,651.80 while the NASDAQ rose 0.09% to 16,004.39. The S&P 500 also rose, gaining, 0.01% to 5,026.74.
+Check This Out:  Caterpillar, Marathon Petroleum And More On CNBC's 'Final Trades' 
+ 
+Leading and Lagging Sectors
+ 
+Energy shares rose by 0.8% on Monday.
+In trading on Monday, health care shares fell by 0.3%.
+ 
+Top Headline
+ 
+Trimble Inc  (NASDAQ: TRMB) reported upbeat earnings for its fourth quarter, but issued weak forecast for the first quarter.
+Trimble reported a fourth-quarter FY23 revenue growth of 9% to $932.40 million, beating the consensus of $909.53 million. Revenue grew by 3% Y/Y on an organic basis. The adjusted EPS of $0.63 beat the consensus of $0.59.
+Trimble said it anticipates fiscal 2024 revenue of $3.57 billion – $3.67 billion, below the consensus of $3.84 billion. It also expects adjusted EPS of $2.60 – $2.80 against ...",2024-02-12 14:51:40+00:00,https://www.benzinga.com/news/earnings/24/02/37069747/us-stocks-mixed-trimble-issues-weak-outlook,Benzinga,0.15317460317460316,0.523015873015873,positive,0.15317460317460316,True,False,True,False,False,False,False,False,0.0,1064,"['TRMB', 'BMR', 'ANTX', 'WISA', 'MDVL', 'MGIH', 'DHAI']",ANTX,2024-02-12
+Dow Surges Over 150 Points; Gilead Sciences To Acquire CymaBay Therapeutics For $4.3B,"U.S. stocks traded higher midway through trading, with the Dow Jones index jumping over 150 points on Monday.
+The Dow traded up 0.48% to 38,856.99 while the NASDAQ rose 0.26% to 16,031.87. The S&P 500 also rose, gaining, 0.30% to 5,041.87.
+Check This Out:  Caterpillar, Marathon Petroleum And More On CNBC's 'Final Trades' 
+ 
+Leading and Lagging Sectors
+ 
+Energy shares rose by 1.1% on Monday.
+In trading on Monday, health care shares fell by 0.1%.
+ 
+Top Headline
+ 
+Gilead Sciences Inc (NASDAQ: GILD) agreed to acquire CymaBay Therapeutics Inc (NASDAQ: CBAY) for $32.50 per share in cash or a total equity value of $4.3 billion.
+The addition of CymaBay’s investigational lead product candidate, seladelpar for primary biliary cholangitis (PBC) including pruritus, complements Gilead’s existing liver portfolio.
+ 
+Equities Trading UP
+ 
+Beamr Imaging Ltd.  (NASDAQ: BMR) shares shot up 975% to $22.70 after the company announced it will present its joint ...",2024-02-12 17:30:46+00:00,https://www.benzinga.com/news/earnings/24/02/37074952/dow-surges-over-150-points-gilead-sciences-to-acquire-cymabay-therapeutics-for-4-3b,Benzinga,0.345,0.6599999999999999,positive,0.345,False,True,True,True,True,False,False,False,0.0,1043,"['GILD', 'BIG', 'BMR', 'ANTX', 'CBAY', 'WISH', 'WISA', 'MGIH']",ANTX,2024-02-12
+Why Big Lots Shares Are Trading Lower By Around 31%? Here Are Other Stocks Moving In Monday's Mid-Day Session,"Shares of  Big Lots, Inc. (NYSE: BIG) fell sharply during Monday’s session after the company reported preliminary fourth-quarter results.
+Also, Loop Capital downgraded the stock from Hold to Sell and lowered its price target from $6 to $1.
+Big Lots shares dipped 31.3% to $3.6850 on Monday.
+Here are some other stocks moving in today's mid-day session.
+Gainers
+
+Millennium Group International Holdings Limited  (NASDAQ: MGIH) surged 250% to $3.61 after YC 1926 (BVI) Limited reported an 88.89% stake in the company in a 13G filing on Friday.
+Beamr Imaging Ltd.  (NASDAQ: BMR) shares climbed 241.5% to $7.20 after the company announced it will present its joint research relating to automated video modernization with NVIDIA at the ACM Mile-High-Video 2024 conference.
+DIH Holdings US, Inc.  (NASDAQ: DHAI) shares climbed 65.2% to $2.1306. DIH Holding US secured $1.5 million in private placement financing from OrbiMed.
+ContextLogic Inc. (NASDAQ: WISH) gained 40.2% to $6.31 after the company announced an agreement to sell substantially all of its operating assets and liabilities to Qoo10 for approximately $173 million in cash.
+SuperCom Ltd. (NASDAQ: SPCB) shares jumped 40% to $0.2570. SuperCom recently disclosed that it has secured a new contract with an established California services provider in the judicial sector.
+Intuitive Machines, Inc.  (NASDAQ: LUNR) shares gained 33.3% to $6.65 after jumping around 32% on Friday.
+D-Wave Quantum Inc. (NYSE: QBTS) gained 31% to $1.4295.
+Renalytix Plc (NASDAQ: RNLX) surged 27% to $0.4842.
+Genasys Inc. (NASDAQ: GNSS) gained 27% to $1.98. Genasys bagged critical infrastructure project to engineer, procure and build emergency warning system for 37 dams across the island of Puerto Rico.
+Root, Inc. (NASDAQ: ROOT) rose 22.6% to $9.30.
+Syra Health Corp. (NASDAQ: SYRA) ...",2024-02-12 18:07:28+00:00,https://www.benzinga.com/news/24/02/37075750/why-big-lots-shares-are-trading-lower-by-around-31-here-are-other-stocks-moving-in-mondays-mid-day-s,Benzinga,-0.010676088617265087,0.3303093964858671,neutral,0.010676088617265087,False,False,True,True,False,False,False,False,0.2,1932,"['DHAI', 'ANTX', 'LRMR', 'ATCH', 'RNLX', 'AEY', 'NSTG', 'MDVL', 'ASYS', 'ICU', 'MNDY', 'ARM', 'SPCB', 'JANX', 'CIFR', 'BIG', 'TWOU', 'PBAX', 'BMR', 'TTOO', 'JCSE', 'SDA', 'RILY', 'CHEA', 'SSP', 'VIAV', 'QBTS', 'VFC', 'WISH', 'IVVD', 'NVIV', 'TOP', 'LUNR', 'VSTM', 'ROOT', 'HOLO', 'MANU', 'WISA', 'INBS', 'APLD', 'HKIT', 'MGIH', 'SYRA', 'IGMS', 'SHOT', 'LBBB', 'GNSS']",ANTX,2024-02-12
+Nasdaq Edges Lower; ContextLogic Shares Surge,"U.S. stocks traded mostly higher toward the end of trading, while the Nasdaq Composite moved slightly lower on Monday.
+The Dow traded up 0.52% to 38,873.28 while the NASDAQ fell 0.10% to 15,975.16. The S&P 500 also rose, gaining, 0.12% to 5,032.46.
+Check This Out:  Caterpillar, Marathon Petroleum And More On CNBC's 'Final Trades' 
+ 
+Leading and Lagging Sectors
+ 
+Energy shares rose by 1.1% on Monday.
+In trading on Monday, health care shares fell by 0.1%.
+ 
+Top Headline
+ 
+Martin Marietta Materials Inc (NYSE: MLM) disclosed a deal to acquire 20 active operations in Alabama, South Carolina, South Florida, Tennessee, and Virginia from affiliates of Blue Water Industries LLC (BWI Southeast) for $2.05 billion in cash.
+ 
+Equities Trading UP
+ 
+Beamr Imaging Ltd.  (NASDAQ: BMR) shares shot up 1,082% to $24.96 after the company announced it will present joint research relating to automated video modernization with Nvidia at the ACM Mile-High-Video 2024 conference.
+Shares of ...",2024-02-12 19:15:26+00:00,https://www.benzinga.com/news/earnings/24/02/37077091/nasdaq-edges-lower-contextlogic-shares-surge,Benzinga,0.215,0.5266666666666666,positive,0.215,False,True,True,True,False,False,False,False,0.0,1028,"['BIG', 'BMR', 'MLM', 'ANTX', 'WISH', 'TOP', 'MGIH']",ANTX,2024-02-12
+ZoomInfo Technologies To Rally Around 50%? Here Are 10 Top Analyst Forecasts For Tuesday,"Top Wall Street analysts changed their outlook on these top names. For a complete view of all analyst rating changes, including upgrades and downgrades, please see our analyst ratings page.
+
+Keybanc raised the price target for  monday.com Ltd. (NASDAQ: MNDY) from $238 to $242. Keybanc analyst Jason Celino maintained an Overweight rating. monday.com shares dipped 10.1% to close at $212.01 on Monday. See how other analysts view this stock.
+Needham cut  G1 Therapeutics, Inc.  (NASDAQ: GTHX) price target from $14 to $12. Needham analyst Gil Blum maintained a Buy rating. G1 Therapeutics shares fell 1.1% to close at $4.48 on Monday. See how other analysts view this stock.
+Needham boosted the price target for  Cadence Design Systems, Inc.  (NASDAQ: CDNS) from $315 to $320. Needham analyst Charles Shi maintained a Buy rating. Cadence Design shares fell 1.7% to close at $306.58 on Monday. See how other analysts view this stock.
+B. Riley Securities cut  The Children's Place, Inc.  (NASDAQ:",2024-02-13 13:08:24+00:00,https://www.benzinga.com/news/24/02/37091774/zoominfo-technologies-to-rally-around-50-here-are-10-top-analyst-forecasts-for-tuesday,Benzinga,0.17500000000000002,0.4321428571428571,positive,0.17500000000000002,False,True,True,False,False,False,False,False,0.0,1084,"['CDNS', 'LSCC', 'PLCE', 'TRMB', 'ANTX', 'PYPL', 'ZI', 'GTHX', 'NAPA', 'MNDY']",ANTX,2024-02-13
+"Down -5.51% in 4 Weeks, Here's Why AN2 Therapeutics (ANTX) Looks Ripe for a Turnaround","AN2 Therapeutics (ANTX) has become technically an oversold stock now, which implies exhaustion of the heavy selling pressure on it. This, combined with strong agreement among Wall Street analysts in revising earnings estimates higher, indicates a potential trend reversal for the stock in the near term.",2024-05-21 13:35:05+00:00,https://www.zacks.com/stock/news/2276571/down--551-in-4-weeks-heres-why-an2-therapeutics-antx-looks-ripe-for-a-turnaround,Zacks Investment Research,0.0611111111111111,0.5031746031746032,neutral,0.0611111111111111,True,False,False,False,False,False,False,False,0.0,391,['ANTX'],ANTX,2024-05-21

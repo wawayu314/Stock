@@ -1,0 +1,12 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2021-07-19,-0.0333,,1,0.0333,0.0,0,0,0,0,0,0,0,0,225.0,CLIX
+2021-07-27,0.0,0.0,2,0.0,0.1,0,0,0,0,0,0,0,0,199.0,CLIX
+2021-09-17,0.1,,1,0.1,0.0,0,0,0,0,0,0,0,0,196.0,CLIX
+2021-09-21,-0.1667,,1,0.1667,0.0,0,0,0,0,0,0,0,0,239.0,CLIX
+2021-10-12,0.0,,1,0.0,0.0,0,0,0,0,0,0,0,0,204.0,CLIX
+2022-01-01,0.4333,,1,0.4333,0.0,0,0,0,0,0,0,0,0,209.0,CLIX
+2022-06-06,0.06,,1,0.06,0.0,0,1,0,0,0,0,0,0,190.0,CLIX
+2022-08-04,-0.0583,,1,0.0583,0.0,1,0,0,0,0,0,0,0,187.0,CLIX
+2022-11-28,0.0967,,1,0.0967,0.0,0,0,0,0,0,0,0,0,132.0,CLIX
+2023-05-19,0.0,,1,0.0,0.0,1,0,0,0,0,0,0,0,154.0,CLIX
+2024-04-19,0.0,,1,0.0,0.0,0,0,1,0,0,0,0,0,129.0,CLIX

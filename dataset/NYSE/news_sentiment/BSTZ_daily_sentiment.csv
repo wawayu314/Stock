@@ -1,0 +1,11 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2021-06-04,0.0,,1,0.0,0.0,0,0,0,0,0,0,0,0,154.0,BSTZ
+2021-08-16,0.1,,1,0.1,0.0,0,1,0,0,0,0,0,0,184.0,BSTZ
+2021-12-02,0.5,,1,0.5,0.0,0,0,0,0,0,1,0,0,60.0,BSTZ
+2022-07-10,0.1927,,1,0.1927,0.0,0,0,0,0,0,0,0,0,207.0,BSTZ
+2022-11-17,-0.5,,1,0.5,0.0,0,0,0,0,0,0,0,0,38.0,BSTZ
+2022-11-24,0.4,,1,0.4,0.0,0,0,0,0,0,0,0,0,55.0,BSTZ
+2023-01-19,0.0,,1,0.0,0.0,0,0,0,0,0,0,0,0,57.0,BSTZ
+2023-07-31,1.0,,1,1.0,0.0,0,0,0,0,0,1,0,0,61.0,BSTZ
+2023-10-17,0.1521,,1,0.1521,0.0,0,0,0,0,0,1,0,0,178.0,BSTZ
+2024-05-08,0.2,,1,0.2,0.0,0,1,0,0,0,0,0,0,211.0,BSTZ

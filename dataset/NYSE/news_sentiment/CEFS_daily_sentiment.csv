@@ -1,0 +1,5 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2022-01-15,0.3867,,1,0.3867,0.0,0,1,0,0,0,0,0,0,184.0,CEFS
+2023-06-09,0.3222,,1,0.3222,0.0,0,1,0,0,0,0,0,0,235.0,CEFS
+2024-03-30,0.0,,1,0.0,0.0,0,0,0,0,0,0,0,0,219.0,CEFS
+2024-04-13,0.4,,1,0.4,0.0,0,0,0,0,0,0,0,0,208.0,CEFS

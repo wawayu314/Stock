@@ -1,0 +1,6 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2022-09-01,0.2019,,1,0.2019,0.0,1,1,1,0,0,1,0,0,1318.0,EDN
+2023-02-15,0.2477,,1,0.2477,0.0,1,1,1,0,0,1,0,0,1344.0,EDN
+2023-04-19,0.0174,,1,0.0174,0.0,1,1,0,0,0,0,0,0,256.0,EDN
+2023-12-11,0.0409,,1,0.0409,0.0,1,0,0,0,0,0,0,0,1159.0,EDN
+2023-12-29,0.178,,1,0.178,0.0,0,0,0,0,0,0,0,0,947.0,EDN

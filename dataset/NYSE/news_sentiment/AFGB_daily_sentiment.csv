@@ -1,0 +1,13 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2021-07-25,0.0,,1,0.0,0.0,0,0,0,0,0,1,0,0,221.0,AFGB
+2021-10-17,0.0,,1,0.0,0.0,0,0,0,0,0,1,0,0,207.0,AFGB
+2022-01-23,0.0,,1,0.0,0.0,0,0,0,0,0,1,0,0,251.0,AFGB
+2022-05-15,0.0,,1,0.0,0.0,0,0,0,0,0,1,0,0,247.0,AFGB
+2022-05-22,0.0,,1,0.0,0.0,0,0,0,0,0,1,0,0,247.0,AFGB
+2022-10-23,0.0,,1,0.0,0.0,0,0,0,0,0,1,0,0,232.0,AFGB
+2023-01-08,0.5,,1,0.5,0.0,0,0,0,0,0,1,0,0,220.0,AFGB
+2023-04-23,0.0,,1,0.0,0.0,0,0,0,0,0,1,0,0,75.0,AFGB
+2023-07-28,0.3708,,1,0.3708,0.0,0,1,0,0,0,1,0,0,214.0,AFGB
+2023-09-27,0.3,,1,0.3,0.0,0,1,0,0,0,1,0,0,202.0,AFGB
+2024-02-23,0.3438,,1,0.3438,0.0,0,0,0,0,0,0,0,0,218.0,AFGB
+2024-10-14,0.1389,,1,0.1389,0.0,1,0,0,0,0,0,0,0,410.0,AFGB

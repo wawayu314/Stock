@@ -1,0 +1,5 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2021-05-24,0.3033,0.2781,2,0.3033,0.0,1,1,1,1,0,1,0,0,1186.5,CLPS
+2024-02-16,0.1481,,1,0.1481,0.0,1,0,0,0,0,0,1,0,1194.0,CLPS
+2024-07-04,0.1875,,1,0.1875,0.0,1,0,0,0,0,0,0,0,277.0,CLPS
+2024-10-24,0.119,,1,0.119,0.0,0,0,1,0,0,1,0,0,368.0,CLPS

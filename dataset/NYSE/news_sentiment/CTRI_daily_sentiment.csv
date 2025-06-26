@@ -1,0 +1,6 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2024-05-12,0.0,,1,0.0,0.0,0,0,0,0,0,0,0,0,142.0,CTRI
+2024-06-27,0.5,,1,0.5,0.0,0,0,0,0,0,0,0,0,104.0,CTRI
+2024-08-29,-0.0417,,1,0.0417,0.0,1,0,1,0,0,0,1,0,401.0,CTRI
+2024-10-03,0.0625,,1,0.0625,0.0,1,0,0,0,0,0,1,0,330.0,CTRI
+2024-10-11,0.0917,,1,0.0917,0.0,0,0,1,0,0,0,0,0,367.0,CTRI

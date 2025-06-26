@@ -1,0 +1,6 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2022-01-24,0.4167,,1,0.4167,0.0,0,1,0,0,0,0,0,0,292.0,BTBD
+2022-07-21,0.0427,,1,0.0427,0.0,0,1,0,1,0,0,1,0,1852.0,BTBD
+2022-11-17,0.1714,,1,0.1714,0.0,1,1,1,0,0,0,1,0,1855.0,BTBD
+2022-11-18,0.133,,1,0.133,0.0,1,1,1,0,0,0,1,1,2980.0,BTBD
+2024-10-21,0.0,,1,0.0,0.0,1,0,0,0,0,0,0,0,495.0,BTBD

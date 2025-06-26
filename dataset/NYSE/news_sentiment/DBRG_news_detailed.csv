@@ -1,0 +1,642 @@
+title,description,published_utc,article_url,publisher,sentiment_polarity,sentiment_subjectivity,sentiment_label,sentiment_confidence,keywords_earnings,keywords_acquisition,keywords_regulation,keywords_partnership,keywords_product,keywords_financial,keywords_leadership,keywords_lawsuit,urgency_score,text_length,tickers,ticker,date
+Walking An Inflation Tightrope,The wave of REIT dividend boosts continued this week with mall REIT Simon Property and shopping center REIT Saul Centers joining 65 other REITs that have raised payouts this year.,2021-06-26 15:00:00+00:00,https://seekingalpha.com/article/4436700-walking-inflation-tightrope,Seeking Alpha,-0.1125,0.2375,negative,0.1125,False,False,False,False,False,True,False,False,0.0,211,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AIW', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BPYU', 'BPYUP', 'BRG', 'BRMK', 'BRT', 'BRX', 'BX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'BRSP', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DBRG', 'DEA', 'DEI', 'DHC', 'DISH', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EEM', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODM', 'GOODN', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBWY', 'KIM', 'KKR', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDO', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NXRT', 'NYC', 'NYMT', 'NYMTM', 'NYMTN', 'NYMTO', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'QTS', 'RC', 'RCA', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SNR', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SPY', 'SQFT', 'SQFTP', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'T', 'TBB', 'TBC', 'THC', 'TIP', 'TMUS', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'VZ', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WRI', 'WSR', 'WY', 'XHB', 'XHR', 'XLE', 'XLF', 'XLI', 'XLRE']",DBRG,2021-06-26
+This technical support shows the strength of the buy-the-dip force in markets,The firepower driving this market harder is a tough one to bet against.,2021-07-21 12:23:00+00:00,https://www.marketwatch.com/story/this-technical-support-shows-the-strength-of-the-buy-the-dip-force-in-markets-11626863567,MarketWatch,-0.16296296296296298,0.3111111111111111,negative,0.16296296296296298,False,True,False,False,False,False,False,False,0.0,150,"['NFLX', 'CMG', 'TSLA', 'TWTR', 'DBRG']",DBRG,2021-07-21
+Colony Capital (DBRG) Earnings Expected to Grow: Should You Buy?,Colony Capital (DBRG) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2021-07-29 19:05:22+00:00,https://www.zacks.com/stock/news/1770967/colony-capital-dbrg-earnings-expected-to-grow-should-you-buy,Zacks Investment Research,0.03714285714285714,0.7871428571428571,neutral,0.03714285714285714,True,True,False,False,False,False,False,False,0.0,243,['DBRG'],DBRG,2021-07-29
+"DigitalBridge (DBRG) Reports Q2 Loss, Tops Revenue Estimates","DigitalBridge (DBRG) delivered earnings and revenue surprises of -125.00% and 5981.72%, respectively, for the quarter ended June 2021. Do the numbers hold clues to what lies ahead for the stock?",2021-08-05 14:15:06+00:00,https://www.zacks.com/stock/news/1775178/digitalbridge-dbrg-reports-q2-loss-tops-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,256,['DBRG'],DBRG,2021-08-05
+New Strong Sell Stocks for August 16th,"ATHM, BZUN, DBRG, EBMT, and FVRR have been added to the Zacks Rank #5 (Strong Sell) List on August 16, 2021.",2021-08-16 13:04:00+00:00,https://www.zacks.com/stock/news/1782096/new-strong-sell-stocks-for-august-16th,Zacks Investment Research,0.05075757575757571,0.7053030303030303,neutral,0.05075757575757571,False,False,False,False,False,False,False,False,0.0,148,"['ATHM', 'EBMT', 'BZUN', 'FVRR', 'DBRG']",DBRG,2021-08-16
+Home Sweet Home,"Housing Starts, Building Permits, Existing Home Sales, New Home Sales, and Homebuilder Sentiment all topped expectations. Follow here for more.",2021-09-25 15:30:00+00:00,https://seekingalpha.com/article/4457062-home-sweet-home,Seeking Alpha,0.3287878787878788,0.5348484848484848,positive,0.3287878787878788,False,False,False,False,False,False,False,False,0.0,160,"['AAIC', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BRG', 'BRMK', 'BRT', 'BRX', 'BX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DBRG', 'DEA', 'DEI', 'DHC', 'DHI', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EEM', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODN', 'GOODO', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBH', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDM', 'LANDO', 'LEN', 'LEN.B', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'MTH', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NVR', 'NXRT', 'NYC', 'NYMT', 'NYMTL', 'NYMTM', 'NYMTN', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PECO', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'RC', 'RCA', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RMRM', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SQFT', 'SQFTP', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TOL', 'TPH', 'TRMT', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USD', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPG', 'WPS', 'WRE', 'WSR', 'WY', 'XHB', 'XHR', 'XLE', 'XLF', 'XLRE', 'XLU']",DBRG,2021-09-25
+DigitalBridge (DBRG) Moves 5.3% Higher: Will This Strength Last?,DigitalBridge (DBRG) witnessed a jump in share price last session on above-average trading volume. The latest trend in the FFO estimate revisions for the stock suggests that there could be more strength down the road.,2021-10-08 11:17:00+00:00,https://www.zacks.com/stock/news/1808100/digitalbridge-dbrg-moves-53-higher-will-this-strength-last,Zacks Investment Research,0.18240740740740738,0.387037037037037,positive,0.18240740740740738,False,False,False,False,False,False,False,False,0.0,283,['DBRG'],DBRG,2021-10-08
+Help Wanted: Shortages Intensify,U.S. equity markets bounced back following the worst week since February. The Equity REIT Index declined 0.4% while Mortgage REITs gained 0.7%. Read to know more.,2021-10-09 14:00:00+00:00,https://seekingalpha.com/article/4459157-help-wanted-shortages-intensify,Seeking Alpha,-0.125,0.4,negative,0.125,False,False,False,False,False,False,False,False,0.0,196,"['AAIC', 'AAIN', 'AAT', 'ABR', 'ACC', 'ACR', 'ACRE', 'ADC', 'AFCG', 'AFIN', 'AFINO', 'AFINP', 'AGG', 'AGNC', 'AGNCM', 'AGNCN', 'AGNCO', 'AGNCP', 'AHH', 'AHT', 'AIC', 'AIRC', 'AIV', 'AJX', 'AJXA', 'AKR', 'ALEX', 'ALX', 'AMH', 'AMT', 'APLE', 'APTS', 'ARE', 'ARI', 'ARR', 'AVB', 'AWP', 'BDN', 'BFS', 'BHR', 'BLDG', 'BNL', 'BRG', 'BRMK', 'BRT', 'BRX', 'BX', 'BXMT', 'BXP', 'CCI', 'CDOR', 'CDR', 'CHCT', 'CHMI', 'CIM', 'CIO', 'CLDT', 'CLI', 'CLPR', 'CMCT', 'CMCTP', 'CMO', 'COLD', 'CONE', 'COR', 'CORR', 'CPLG', 'CPT', 'CSR', 'CTRE', 'CTT', 'CUBE', 'CUZ', 'CXP', 'CXW', 'CZR', 'DBRG', 'DEA', 'DEI', 'DHC', 'DHI', 'DJP', 'DLR', 'DOC', 'DRE', 'DRH', 'DRW', 'DX', 'EARN', 'EEM', 'EFA', 'EFC', 'EGP', 'ELS', 'EPR', 'EPRT', 'EQC', 'EQIX', 'EQR', 'ESRT', 'ESS', 'EWRE', 'EXR', 'FCPT', 'FFR', 'FPI', 'FR', 'FREL', 'FRI', 'FRT', 'FSP', 'GEO', 'GLPI', 'GMRE', 'GNL', 'GOOD', 'GOODN', 'GOODO', 'GPMT', 'GQRE', 'GTY', 'HASI', 'HAUZ', 'HIW', 'HMG', 'HOMZ', 'HPP', 'HR', 'HST', 'HT', 'HTA', 'ICF', 'IFGL', 'IGR', 'IHT', 'IIPR', 'ILPT', 'INDS', 'INN', 'INVH', 'IRM', 'IRT', 'ITB', 'IVR', 'IYR', 'JBGS', 'JRS', 'KBH', 'KBWY', 'KIM', 'KRC', 'KREF', 'KRG', 'LADR', 'LAMR', 'LAND', 'LANDM', 'LANDO', 'LEN', 'LEN.B', 'LFT', 'LSI', 'LTC', 'LXP', 'MAA', 'MAC', 'MDC', 'MDRR', 'MDY', 'MFA', 'MGM', 'MGP', 'MITT', 'MNR', 'MORT', 'MPW', 'MRK', 'MS', 'MTH', 'NAIL', 'NETL', 'NHI', 'NLY', 'NNN', 'NREF', 'NRO', 'NRZ', 'NSA', 'NTST', 'NURE', 'NVR', 'NXRT', 'NYC', 'NYMT', 'NYMTL', 'NYMTM', 'NYMTN', 'NYMTP', 'O', 'OFC', 'OHI', 'OLP', 'OPI', 'ORC', 'OUT', 'PCH', 'PDM', 'PEAK', 'PEB', 'PECO', 'PEI', 'PENN', 'PFFR', 'PGRE', 'PGZ', 'PINE', 'PK', 'PKB', 'PLD', 'PLYM', 'PMT', 'PPTY', 'PSA', 'PSB', 'PSR', 'PSTL', 'PW', 'RC', 'RCA', 'RDOG', 'REC', 'REET', 'REG', 'REIT', 'REM', 'REXR', 'REZ', 'RFI', 'RHP', 'RLJ', 'RNP', 'ROIC', 'ROOF', 'RPAI', 'RPT', 'RQI', 'RVI', 'RWO', 'RWR', 'RWT', 'RWX', 'RYN', 'SACC', 'SACH', 'SAFE', 'SBAC', 'SBRA', 'SCCB', 'SCCC', 'SCHH', 'SELF', 'SEVN', 'SHO', 'SITC', 'SKT', 'SLG', 'SLY', 'SOHO', 'SOHOB', 'SOHON', 'SOHOO', 'SPG', 'SQFT', 'SQFTP', 'SRC', 'SRG', 'SRVR', 'STAG', 'STAR', 'STOR', 'STWD', 'SUI', 'SVC', 'TIP', 'TOL', 'TPH', 'TRNO', 'TRTX', 'TWO', 'UBA', 'UBP', 'UDR', 'UE', 'UHT', 'UMH', 'UNIT', 'USRT', 'VER', 'VICI', 'VNO', 'VNQ', 'VNQI', 'VPN', 'VRAI', 'VTR', 'WELL', 'WHLR', 'WHLRD', 'WHLRP', 'WMC', 'WPC', 'WPS', 'WRE', 'WSR', 'WY', 'XHB', 'XHR', 'XLRE', 'Z', 'ZG', 'SPY', 'XLE']",DBRG,2021-10-09
+"The Past Week's Notable Insider Buys Included Digitalbridge, Life Time, A SPAC And More","Insider buying can be an encouraging signal for potential investors, especially when markets are uncertain.
+
+With the new earnings season underway, this week's most notable insider purchases were made by 10% owners.
+
+A SPAC about to go public and a recent initial public offering prompted insiders to scoop up shares.
+
+Conventional wisdom says that insiders and 10% owners really only buy shares of a company for one reason: they believe the stock price will rise and they want to profit from it. So insider buying can be an encouraging signal for potential investors, particularly when there is uncertainty in the markets or the markets are near all-time highs.
+Note that with the new earnings-reporting season underway, the windows for many insiders to buy or sell shares are closed. Here are a few of the most noteworthy insider purchases that were reported in the past week.
+A beneficial owner of Digitalbridge Group Inc (NYSE: DBRG) returned to the buy window last week to acquire more than 1.14 million ...",2021-10-16 17:15:50+00:00,https://www.benzinga.com/news/21/10/23406097/the-past-weeks-notable-insider-buys-included-digitalbridge-life-time-a-spac-and-more,Benzinga,0.12386147186147184,0.42598268398268396,positive,0.12386147186147184,True,True,False,False,False,False,False,False,0.0,1101,"['AGRX', 'SAFE', 'LOKB', 'DBRG', 'LTH']",DBRG,2021-10-16
+Liberty Global Explores Network Deal: Report,"Billionaire John Malone’s cable group Liberty Global PLC (NASDAQ: LBTYA) (NASDAQ: LBTYK) is amid discussions to carve out its network assets, Bloomberg reports.
+Liberty is exploring splitting off its telecom infrastructure like cable and fiber, leaving its remaining businesses to focus on providing mobile, internet and TV services.
+Executives at Spain’s Telefonica SA (NYSE: TEF), which co-owns Liberty’s biggest asset Virgin Media O2, are ...",2021-10-22 19:04:08+00:00,https://www.benzinga.com/news/21/10/23512797/liberty-global-explores-network-deal-report,Benzinga,0.0,0.0,neutral,0.0,False,False,False,False,False,True,False,False,0.0,491,"['LBTYA', 'LBTYK', 'ACN', 'TEF', 'DBRG']",DBRG,2021-10-22
+DigitalBridge (DBRG) Reports Break-Even Earnings for Q3,"DigitalBridge (DBRG) delivered earnings and revenue surprises of -100.00% and 6.95%, respectively, for the quarter ended September 2021. Do the numbers hold clues to what lies ahead for the stock?",2021-11-04 14:35:04+00:00,https://www.zacks.com/stock/news/1823577/digitalbridge-dbrg-reports-break-even-earnings-for-q3,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,253,['DBRG'],DBRG,2021-11-04
+Tracking Akre Capital Management Portfolio - Q3 2021 Update,Akre Capital Management (AKREX) portfolio value remained almost steady at $16.24B this quarter. Check out the top 3 positions in the portfolio.,2021-11-22 08:44:48+00:00,https://seekingalpha.com/article/4471108-akre-capital-management-portfolio-q3-2021-update,Seeking Alpha,0.3333333333333333,0.5,positive,0.3333333333333333,False,False,False,False,False,False,True,False,0.0,204,"['ADBE', 'ALRM', 'AMT', 'ANSS', 'BAM', 'BRK.A', 'BRK.B', 'CRM', 'CSGP', 'DBRG', 'DHR', 'DLTR', 'GSHD', 'KKR', 'KMX', 'MA', 'MCO', 'MKL', 'OLLI', 'ORLY', 'ROP', 'SBAC', 'TDUP', 'V', 'VRSK']",DBRG,2021-11-22
+Here We Go Again,"Buoyed by strong performance across the ""essential"" property sectors, real estate equities mostly held their ground, but COVID-sensitive sectors were slammed.",2021-11-27 15:00:00+00:00,https://seekingalpha.com/article/4472114-here-we-go-again,Seeking Alpha,0.2833333333333333,0.4583333333333333,positive,0.2833333333333333,False,False,True,False,False,False,False,False,0.0,176,"['TCN', 'EQIX', 'KKR', 'BX', 'DBRG', 'DLR', 'COR', 'CONE', 'PINE', 'SQFT', 'AHT', 'SOHO', 'PEI', 'GPMT', 'NYMT', 'REXR', 'SVC', 'VNQ', 'RQI', 'RNP', 'IYR', 'XLRE', 'RFI', 'KBWY', 'SCHH', 'NRO', 'FREL', 'SRVR', 'JRS', 'DRN', 'USRT', 'ICF', 'RWR', 'DRV', 'URE', 'SRS', 'SEVN', 'FRI', 'REK', 'PSR', 'BBRE', 'PPTY', 'VRAI']",DBRG,2021-11-27
+"Benzinga's Top Ratings Upgrades, Downgrades For February 14, 2022","Upgrades
+
+According to Mizuho, the prior rating for Murphy Oil Corp (NYSE:MUR) was changed from Neutral to Buy. In the fourth quarter, Murphy Oil showed an EPS of $0.40, compared to $0.09 from the year-ago quarter. The stock has a 52-week-high of $35.31 and a 52-week-low of $13.51. At the end of the last trading period, Murphy Oil closed at $34.48.
+For Goodyear Tire & Rubber Co (NASDAQ:GT), Nomura Instinet upgraded the previous rating of Reduce to Neutral. Goodyear Tire & Rubber earned $0.57 in the fourth quarter, compared to $0.44 in the year-ago quarter. The current stock performance of Goodyear Tire & Rubber shows a 52-week-high of $24.89 and a 52-week-low of $13.45. Moreover, at the end of the last trading period, the closing price was at $15.78.
+
+Also check out: 4 Penny Stocks Insiders Are Buying 
+
+B of A Securities upgraded the previous rating for Bloom Energy Corp (NYSE:BE) from Neutral to Buy. For the fourth quarter, Bloom Energy had an EPS of $0.05, compared to year-ago quarter EPS of $0.08. At the moment, the stock has a 52-week-high of $41.54 and a 52-week-low of $12.55. Bloom Energy closed at $16.88 at the end of the last trading period.
+According to Wedbush, the prior rating for Micron Technology Inc (NASDAQ:MU) was changed from Neutral to Outperform. In the first quarter, Micron Technology showed an EPS of $2.16, compared to $0.78 from the year-ago quarter. The current stock performance of Micron Technology shows a 52-week-high of $98.45 and a 52-week-low of $65.67. Moreover, at the end of the last trading period, the closing price was at $89.76.
+UBS upgraded the previous rating for Allstate Corp (NYSE:ALL) from Neutral to Buy. For the fourth quarter, Allstate had an EPS of $2.75, compared to year-ago quarter EPS of $5.87. The current stock performance of Allstate shows a 52-week-high of $140.00 and a 52-week-low of $102.55. Moreover, at the end of the last trading period, the closing price was at $123.38.
+UBS upgraded the previous rating for Sensata Technologies Holding PLC (NYSE:ST) from Neutral to Buy. In the fourth quarter, Sensata Technologies showed an EPS of $0.87, compared to $0.85 from the year-ago quarter. The current stock performance of Sensata Technologies shows a 52-week-high of $65.58 and a 52-week-low of $52.30. Moreover, at the end of the last trading period, the closing price was at $55.96.
+Benchmark upgraded the previous rating for Trex Co Inc (NYSE:TREX) from Hold to Buy. Trex Co earned $0.64 in the third quarter, compared to $0.41 in the year-ago quarter. The current stock performance of Trex Co shows a 52-week-high of $140.98 and a 52-week-low of $81.76. Moreover, at the end of the last trading period, the closing price was at $85.29.
+For AT&T Inc (NYSE:T), JP Morgan upgraded the previous rating of Neutral to Overweight. In the fourth quarter, AT&T showed an EPS of $0.78, compared to $0.75 from the year-ago quarter. At the moment, the stock has a 52-week-high of $33.88 and a 52-week-low of $22.02. AT&T closed at $24.13 at the end of the last trading period.
+According to Deutsche Bank, the prior rating for Discover Financial Services (NYSE:DFS) was changed from Hold to Buy. In the fourth quarter, Discover Financial showed an EPS of $3.64, compared to $2.59 from the year-ago quarter. The current stock performance of Discover Financial shows a 52-week-high of $135.69 and a 52-week-low of $88.66. Moreover, at the end of the last trading period, the closing price was at $124.14.
+According to Goldman Sachs, the prior rating for Oscar Health Inc (NYSE:OSCR) was changed from Sell to Neutral. The stock has a 52-week-high of $37.00 and a 52-week-low of $5.72. At the end of the last trading period, Oscar Health closed at $6.70.
+According to Jefferies, the prior rating for Zions Bancorp NA (NASDAQ:ZION) was changed from Hold to Buy. In the fourth quarter, Zions Bancorp showed an EPS of $1.34, compared to $1.66 from the year-ago quarter. The stock has a 52-week-high of $75.44 and a 52-week-low of $47.06. At the end of the last trading period, Zions Bancorp closed at $73.22.
+Jefferies upgraded the previous rating for Comerica Inc (NYSE:CMA) from Hold to Buy. In the fourth quarter, Comerica showed an EPS of $1.66, compared to $1.49 from the year-ago quarter. The stock has a 52-week-high of $102.09 and a 52-week-low of $60.91. At the end of the last trading period, Comerica closed at $98.61.
+For Triumph Group Inc (NYSE:TGI), Jefferies upgraded the previous rating of Hold to Buy. In the third quarter, Triumph Group showed an EPS of $0.21, compared to $0.09 from the year-ago quarter. The current stock performance of Triumph Group shows a 52-week-high of $24.53 and a 52-week-low of $13.80. Moreover, at the end of the last trading period, the closing price was at $21.05.
+For ...Full story available on Benzinga.com",2022-02-14 15:27:44+00:00,https://www.benzinga.com/analyst-ratings/upgrades/22/02/25601184/benzingas-top-ratings-upgrades-downgrades-for-february-14-2022,Benzinga,-0.013988095238095239,0.1220238095238095,neutral,0.013988095238095239,False,True,True,False,False,False,False,False,0.0,4886,"['MU', 'ANET', 'AGNC', 'IMGO', 'MUR', 'ZEN', 'FFIV', 'CRBU', 'NLY', 'ASND', 'JNPR', 'BXSL', 'PGR', 'PRQR', 'LTRX', 'SOND', 'PUK', 'QRHC', 'OPEN', 'T', 'DIDI', 'SMRT', 'TGI', 'NTLA', 'TREE', 'TSN', 'BE', 'ZION', 'TXN', 'ZM', 'ALL', 'USB', 'BCYC', 'CMA', 'WSO', 'IAA', 'CVS', 'DFS', 'ST', 'CRNC', 'ENB', 'GSM', 'OSCR', 'G', 'TREX', 'BCTX', 'GT', 'BLND', 'DBRG', 'JPM', 'PRCH', 'VTEX']",DBRG,2022-02-14
+Tracking Seth Klarman's Baupost Group Holdings - Q4 2021 Update,Seth Klarman’s 13F portfolio value decreased from $10.88B to $10.13B this quarter. Baupost Group added Fiserv while dropping eBay and International Flavors & Fragrances.,2022-02-15 08:36:25+00:00,https://seekingalpha.com/article/4486983-tracking-seth-klarmans-baupost-group-holdings-q4-2021-update,Seeking Alpha,-0.2,0.35,negative,0.2,False,False,False,False,False,False,False,False,0.0,234,"['ADV', 'AGCB', 'ATRA', 'AUR', 'AUROW', 'AVAN', 'AVAN.U', 'CVT', 'DBRG', 'DBX', 'EBAY', 'EHC', 'EVTL', 'FB', 'FISV', 'FNCH', 'GOOG', 'GOOGL', 'GRAB', 'GRABW', 'GRUB', 'GSK', 'GTX', 'GTXAP', 'HIPO', 'HZON', 'IFF', 'INTC', 'IS', 'JOBY', 'LBTYA', 'LBTYB', 'LBTYK', 'LFG', 'LMACA', 'LMACU', 'LSXMA', 'LSXMB', 'LSXMK', 'MU', 'NE', 'NLOK', 'NUVB', 'NXST', 'OB', 'PCG', 'PSTH', 'QRVO', 'RBAC', 'SSNC', 'SVFA', 'SVFAU', 'TBPH', 'TMQ', 'VRNT', 'VRTV', 'VSAT', 'ZGN']",DBRG,2022-02-15
+Chimera Investment (CIM) Beats Q4 Earnings and Revenue Estimates,"Chimera (CIM) delivered earnings and revenue surprises of 6.98% and 3.18%, respectively, for the quarter ended December 2021. Do the numbers hold clues to what lies ahead for the stock?",2022-02-17 13:25:06+00:00,https://www.zacks.com/stock/news/1868977/chimera-investment-cim-beats-q4-earnings-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,251,"['CIM', 'DBRG']",DBRG,2022-02-17
+DigitalBridge (DBRG) Earnings Expected to Grow: What to Know Ahead of Next Week's Release,DigitalBridge (DBRG) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2022-02-17 20:02:35+00:00,https://www.zacks.com/stock/news/1869525/digitalbridge-dbrg-earnings-expected-to-grow-what-to-know-ahead-of-next-weeks-release,Zacks Investment Research,0.03095238095238095,0.655952380952381,neutral,0.03095238095238095,True,False,False,False,True,False,False,False,0.0,267,['DBRG'],DBRG,2022-02-17
+IStar Financial (STAR) Q1 Earnings Top Estimates,"iStar (STAR) delivered earnings and revenue surprises of 12.09% and 24.82%, respectively, for the quarter ended March 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-05-03 13:05:07+00:00,https://www.zacks.com/stock/news/1914253/istar-financial-star-q1-earnings-top-estimates,Zacks Investment Research,0.16666666666666666,0.19999999999999998,positive,0.16666666666666666,True,False,False,False,False,False,False,False,0.0,233,"['STAR', 'DBRG']",DBRG,2022-05-03
+DigitalBridge (DBRG) Reports Break-Even Earnings for Q1,"DigitalBridge (DBRG) delivered earnings and revenue surprises of -100% and 4.72%, respectively, for the quarter ended March 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-05-05 13:55:02+00:00,https://www.zacks.com/stock/news/1916838/digitalbridge-dbrg-reports-break-even-earnings-for-q1,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,246,"['DBRG', 'AFCG']",DBRG,2022-05-05
+Dow books worst 5-day losing streak since 2020 as hot inflation reading weighs on Wall Street,"U.S. stocks end lower Wednesday, after U.S. inflation last month slowed less than expected.",2022-05-11 21:14:00+00:00,https://www.marketwatch.com/story/u-s-stock-futures-climb-as-make-or-break-cpi-swings-into-focus-11652261490,MarketWatch,-0.2033333333333333,0.4766666666666667,negative,0.2033333333333333,False,False,False,False,False,False,False,False,0.0,186,"['DJIA', 'COMP', 'NFLX', 'DRE', 'PLD', 'MRNA', 'COIN', 'RIVN', 'F', 'SWCH', 'DBRG', 'PRGO', 'DNUT']",DBRG,2022-05-11
+Another Data Center Stock Is Hitting the Road,The privatization of the data center sector continues.,2022-05-12 11:35:00+00:00,https://www.fool.com/investing/2022/05/12/another-data-center-stock-is-hitting-the-road/,The Motley Fool,-0.1,0.1,neutral,0.1,False,False,True,False,False,False,False,False,0.0,101,"['SWCH', 'EQIX', 'DLR', 'DBRG', 'CYXT']",DBRG,2022-05-12
+"Company News for May 12, 2022","Companies in The News Are: MRNA, COIN, OXY, SWCH, DBRG",2022-05-12 12:34:00+00:00,https://www.zacks.com/stock/news/1923240/company-news-for-may-12-2022,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,85,"['OXY', 'MRNA', 'SWCH', 'COIN', 'DBRG']",DBRG,2022-05-12
+3 Really Good Reasons to Invest in Data Center REITs,"Addressable market, dividend payouts, and recent acquisition history add growing interest to this shrinking group.",2022-05-22 13:21:00+00:00,https://www.fool.com/investing/2022/05/22/3-really-good-reasons-to-invest-in-data-center-rei/,The Motley Fool,0.19999999999999998,0.3166666666666667,positive,0.19999999999999998,False,True,False,False,False,True,False,False,0.0,168,"['DLR', 'EQIX', 'IRM', 'KKR', 'AMT', 'BX', 'SWCH', 'DBRG']",DBRG,2022-05-22
+Why Switch Stock Soared 13% in May,The data center operator had a big month.,2022-06-06 20:05:07+00:00,https://www.fool.com/investing/2022/06/06/why-switch-stock-soared-13-in-may/,The Motley Fool,-0.05,0.1,neutral,0.05,False,False,False,False,False,False,False,False,0.0,77,"['SWCH', 'EQIX', 'DLR', 'DBRG']",DBRG,2022-06-06
+"July Penny Stocks Buying Guide, 3 Things to Know","What you need to know about trading penny stocks this month
+The post July Penny Stocks Buying Guide, 3 Things to Know appeared first on Penny Stocks to Buy, Picks, News and Information | PennyStocks.com.",2022-07-02 15:30:00+00:00,https://pennystocks.com/?p=33898,PennyStocks,0.25,0.3333333333333333,positive,0.25,False,True,False,False,False,False,False,False,0.0,253,"['AMRN', 'DBRG', 'EVFM']",DBRG,2022-07-02
+Penny Stocks To Watch: Rep Pete Sessions Likes Stocks Under $5?,"Pete Sessions is buying penny stocks?
+The post Penny Stocks To Watch: Rep Pete Sessions Likes Stocks Under $5? appeared first on Penny Stocks to Buy, Picks, News and Information | PennyStocks.com.",2022-07-11 15:35:53+00:00,https://pennystocks.com/featured/2022/07/11/penny-stocks-to-watch-rep-pete-sessions-like-stocks-under-5/,PennyStocks,0.25,0.3333333333333333,positive,0.25,False,True,False,False,False,False,False,False,0.0,261,"['ARKK', 'DBRG', 'GME', 'NVDA']",DBRG,2022-07-11
+This High-Yield Stock Is Adding a Towering Growth Driver,The company continues to expand its data infrastructure platform.,2022-07-15 12:15:00+00:00,https://www.fool.com/investing/2022/07/15/this-high-yield-stock-is-adding-a-towering-growth/,The Motley Fool,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,123,"['BIPC', 'BIP', 'DBRG']",DBRG,2022-07-15
+"History Doesn't Repeat Itself, But It Does Rhyme",It seems that several REITs on our buy list are also targets for short sellers. Our job as analysts is not to completely ignore these hedge funds but to dig deeper into the risks.,2022-07-23 11:00:00+00:00,https://seekingalpha.com/article/4525243-history-doesnt-repeat-itself-but-it-does-rhyme,Seeking Alpha,0.03333333333333333,0.2333333333333333,neutral,0.03333333333333333,False,True,False,False,False,False,False,False,0.0,229,"['AMT', 'BX', 'DBRG', 'DLR', 'EQIX', 'HASI', 'IIPR', 'IRM', 'KKR', 'MPW', 'O', 'REFI']",DBRG,2022-07-23
+AGNC Investment (AGNC) Surpasses Q2 Earnings and Revenue Estimates,"AGNC Investment (AGNC) delivered earnings and revenue surprises of 38.33% and 59.09%, respectively, for the quarter ended June 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-07-25 22:45:03+00:00,https://www.zacks.com/stock/news/1957509/agnc-investment-agnc-surpasses-q2-earnings-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,260,"['AGNC', 'DBRG']",DBRG,2022-07-25
+DigitalBridge (DBRG) Matches Q2 Earnings Estimates,"DigitalBridge (DBRG) delivered earnings and revenue surprises of 0% and 1.09%, respectively, for the quarter ended June 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-08-04 14:05:07+00:00,https://www.zacks.com/stock/news/1963975/digitalbridge-dbrg-matches-q2-earnings-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,237,"['DBRG', 'EARN']",DBRG,2022-08-04
+Top Buys From The Best Money Managers (Q2 2022),I curated a list of some high-profile hedge funds and looked into their holdings at the end of June 2022. See the top buys from best money managers during Q2.,2022-08-17 11:30:00+00:00,https://seekingalpha.com/article/4535109-top-buys-best-money-managers-q2-2022,Seeking Alpha,0.75,0.4,positive,0.75,False,True,False,False,False,False,False,False,0.0,207,"['AAPL', 'ABNB', 'ACEL', 'ADP', 'AER', 'AMT', 'AMZN', 'AON', 'APPN', 'BABA', 'BAMR', 'BEKE', 'BF.A', 'BF.B', 'BILL', 'BKNG', 'BNTX', 'BRBR', 'BZ', 'CEG', 'CFLT', 'COP', 'CRM', 'CRWD', 'DBRG', 'DDOG', 'DIS', 'DXCM', 'EL', 'ENPH', 'EPAM', 'ET', 'EVBG', 'EW', 'EXFY', 'FND', 'FORG', 'GLBE', 'GOOG', 'GOOGL', 'GWRE', 'HLF', 'HLT', 'IDXX', 'ILMN', 'INTU', 'IOT', 'JD', 'KMX', 'KSS', 'LCID', 'LPLA', 'LRCX', 'LYB', 'M', 'MA', 'MAR', 'MCO', 'MELI', 'META', 'MKC', 'MKC.V', 'MPWR', 'MRNA', 'MSFT', 'NFLX', 'NIO', 'NOW', 'NU', 'NVDA', 'OPEN', 'ORLY', 'PANW', 'PDD', 'PM', 'POSH', 'POST', 'PXD', 'RH', 'RIVN', 'ROKU', 'RPRX', 'S', 'SCHW', 'SCI', 'SE', 'SEMR', 'SHOP', 'SHW', 'SMAR', 'SNOW', 'SPLK', 'SPY', 'SQ', 'TDG', 'TMO', 'TMUS', 'TOST', 'TSLA', 'TSM', 'TWLO', 'UBER', 'UNH', 'UPWK', 'V', 'WAT', 'WDAY', 'WFC', 'WIX', 'ZEN']",DBRG,2022-08-17
+Charles Schwab To Rally Around 20%? Here Are 5 Other Price Target Changes For Monday,"Jefferies raised the price target on  The Charles Schwab Corporation (NYSE: SCHW) from $78 to $86. Jefferies analyst Daniel Fannon maintained the stock with a Buy rating. Charles Schwab shares fell 0.5% to $71.50 in pre-market trading.
+Susquehanna cut  NetApp, Inc.  (NASDAQ: NTAP) price target from $100 to $75. Susquehanna analyst Mehdi Hosseini also downgraded the stock from Positive to Neutral. NetApp shares fell 2.9% to $66.70 in ...",2022-09-19 13:30:24+00:00,https://www.benzinga.com/news/22/09/28914745/charles-schwab-to-rally-around-20-here-are-5-other-price-target-changes-for-monday,Benzinga,0.05113636363636363,0.4602272727272727,neutral,0.05113636363636363,False,True,False,False,False,False,False,False,0.0,526,"['LNG', 'NTAP', 'SCHW', 'APA', 'EMN', 'DBRG']",DBRG,2022-09-19
+$11.5 Million Bet On This Technology Stock? 3 Stocks Insiders Are Buying,"Although US stocks closed lower on Wednesday, there were a few notable insider trades.
+When insiders purchase shares, it indicates their confidence in the company's prospects or that they view the stock as a bargain. Either way, this signals an opportunity to go long on the stock. Insider purchases should not be taken as the only indicator for making an investment or trading decision. At best, it can lend conviction to a buying decision.
+Below is a look at a few recent notable insider purchases. For more, check out  Benzinga's insider transactions  platform.
+Freshworks 
+
+The Trade:  Freshworks Inc.  (NASDAQ: FRSH) Director Sameer Gandhi",2022-09-22 12:40:06+00:00,https://www.benzinga.com/trading-ideas/long-ideas/22/09/28963456/11-5-million-bet-on-this-technology-stock-3-stocks-insiders-are-buying,Benzinga,0.195,0.375,positive,0.195,False,True,False,False,False,False,True,False,0.0,718,"['THRD', 'FRSH', 'DBRG']",DBRG,2022-09-22
+Billionaire Investors Say 'Buy REITs',"Steve Schwarzman, John Gray & Bruce Flatt are seeing great opportunities in REIT sector. They are often heavily discounted relative to the value of the real estate they own. Read more here.",2022-10-22 13:00:00+00:00,https://seekingalpha.com/article/4547835-billionaire-investors-say-buy-reits,Seeking Alpha,0.31666666666666665,0.5083333333333333,positive,0.31666666666666665,False,True,True,False,False,False,False,False,0.0,228,"['BX', 'VNQ', 'BAM', 'DBRG', 'KKR', 'AMT', 'CCI', 'AVB']",DBRG,2022-10-22
+Ladder Capital (LADR) Q3 Earnings and Revenues Top Estimates,"Ladder Capital (LADR) delivered earnings and revenue surprises of 17.39% and 30.43%, respectively, for the quarter ended September 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-10-27 21:35:15+00:00,https://www.zacks.com/stock/news/1998927/ladder-capital-ladr-q3-earnings-and-revenues-top-estimates,Zacks Investment Research,0.25,0.3,positive,0.25,True,False,False,False,False,False,False,False,0.0,258,"['LADR', 'DBRG']",DBRG,2022-10-27
+Western Union To Plunge Over 14%? Plus This Analyst Cuts Price Target On Funko By Around 75%,"Barclays cut the price target on  The Western Union Company (NYSE: WU) from $12 to $11. Western Union shares rose 0.3% to $12.85 in pre-market trading.
+B of A Securities cut the price target for  Funko, Inc.  (NASDAQ: FNKO) from $35 to $9. Funko shares rose 0.5% ...Full story available on Benzinga.com",2022-11-07 13:29:03+00:00,https://www.benzinga.com/news/22/11/29591404/western-union-to-plunge-over-14-plus-this-analyst-cuts-price-target-on-funko-by-around-75,Benzinga,0.26666666666666666,0.3833333333333333,positive,0.26666666666666666,False,False,True,False,False,False,False,False,0.0,396,"['WU', 'TRHC', 'FNKO', 'TIXT', 'DBRG']",DBRG,2022-11-07
+How Much Upside is Left in DigitalBridge (DBRG)? Wall Street Analysts Think 156%,"The mean of analysts' price targets for DigitalBridge (DBRG) points to a 156% upside in the stock. While this highly sought-after metric has not proven reasonably effective, strong agreement among analysts in raising earnings estimates does indicate an upside in the stock.",2022-11-14 14:55:35+00:00,https://www.zacks.com/stock/news/2017874/how-much-upside-is-left-in-digitalbridge-dbrg-wall-street-analysts-think-156,Zacks Investment Research,0.18013888888888888,0.49347222222222226,positive,0.18013888888888888,True,False,False,False,False,False,False,False,0.0,355,['DBRG'],DBRG,2022-11-14
+DigitalBridge (DBRG) Moves to Buy: Rationale Behind the Upgrade,"DigitalBridge (DBRG) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",2022-11-14 17:00:06+00:00,https://www.zacks.com/stock/news/2018013/digitalbridge-dbrg-moves-to-buy-rationale-behind-the-upgrade,Zacks Investment Research,-0.3166666666666667,0.7000000000000001,negative,0.3166666666666667,True,True,False,False,False,False,False,False,0.0,213,['DBRG'],DBRG,2022-11-14
+This Trillion-Dollar Opportunity Is Another Reason This Growth Stock Is a Screaming Buy,The company has been working hard to capitalize on this massive growth catalyst.,2022-11-20 13:38:00+00:00,https://www.fool.com/investing/2022/11/20/this-trillion-dollar-opportunity-is-another-reason/,The Motley Fool,-0.14583333333333334,0.7708333333333333,negative,0.14583333333333334,False,True,False,False,False,False,False,False,0.0,169,"['BIPC', 'BIP', 'DBRG', 'DT']",DBRG,2022-11-20
+Strength Seen in DigitalBridge (DBRG): Can Its 5.3% Jump Turn into More Strength?,DigitalBridge (DBRG) witnessed a jump in share price last session on above-average trading volume.,2023-01-25 13:18:00+00:00,https://www.zacks.com/stock/news/2043900/strength-seen-in-digitalbridge-dbrg-can-its-53-jump-turn-into-more-strength,Zacks Investment Research,0.25,0.2833333333333333,positive,0.25,False,False,False,False,False,False,False,False,0.0,181,"['DBRG', 'ARI']",DBRG,2023-01-25
+Flushing Financial (FFIC) Surpasses Q4 Earnings Estimates,"Flushing Financial (FFIC) delivered earnings and revenue surprises of 7.55% and 23.31%, respectively, for the quarter ended December 2022. Do the numbers hold clues to what lies ahead for the stock?",2023-01-26 23:55:05+00:00,https://www.zacks.com/stock/news/2045149/flushing-financial-ffic-surpasses-q4-earnings-estimates,Zacks Investment Research,0.0,0.03333333333333333,neutral,0.0,True,False,False,False,False,False,False,False,0.0,257,"['FFIC', 'DBRG']",DBRG,2023-01-26
+Ares Commercial Real Estate (ACRE) Q4 Earnings Beat Estimates,"Ares Commercial Real Estate (ACRE) delivered earnings and revenue surprises of 22.22% and 2.73%, respectively, for the quarter ended December 2022. Do the numbers hold clues to what lies ahead for the stock?",2023-02-15 12:15:05+00:00,https://www.zacks.com/stock/news/2054465/ares-commercial-real-estate-acre-q4-earnings-beat-estimates,Zacks Investment Research,0.08,0.14,neutral,0.08,True,False,False,False,False,False,False,False,0.0,270,"['ACRE', 'DBRG']",DBRG,2023-02-15
+"Benzinga's Top Ratings Upgrades, Downgrades For February 15, 2023","Upgrades
+According to Dawson James, the prior rating for Arcimoto Inc (NASDAQ:FUV) was changed from Sell to Neutral. For the third quarter, Arcimoto had an EPS of $0.38, compared to year-ago quarter EPS of $0.31. The current stock performance of Arcimoto shows a 52-week-high of $156.40 and a 52-week-low of $1.88. Moreover, at the end of the last trading period, the closing price was at $2.07.   
+According to UBS, the prior rating for Angi Inc (NASDAQ:ANGI) was changed from Sell to Neutral. Angi earned $0.06 in the fourth quarter, compared to $0.05 in the year-ago quarter. At the moment, the stock has a 52-week-high of $8.90 and a 52-week-low of $1.81. Angi closed at $2.44 at the end of the last trading period.   
+According to UBS, the prior rating for IAC Inc (NASDAQ:IAC) was changed from Sell to Neutral. In the fourth quarter, IAC showed an EPS of $0.05, compared to $0.20 from the year-ago quarter. The stock has a 52-week-high of $136.26 and a 52-week-low of $41.52. At the end of the last trading period, IAC closed at $53.82.   
+For Focus Financial Partners Inc (NASDAQ:FOCS), Morgan Stanley upgraded the previous rating of Underweight to Equal-Weight. In the third quarter, Focus Finl Partners showed an EPS of $1.06, compared to $0.84 from the year-ago quarter. At the moment, the stock has a 52-week-high of $54.61 and a 52-week-low of $30.27. Focus Finl Partners closed at $50.16 at the end of the last trading period.   
+For U.S. Bancorp (NYSE:USB), Piper Sandler upgraded the previous rating of Neutral to Overweight. U.S. Bancorp earned $1.20 in the fourth quarter, compared to $1.07 in the year-ago quarter. The stock has a 52-week-high of $59.09 and a 52-week-low of $38.39. At the end of the last trading period, U.S. Bancorp closed at $49.13.   
+For Ecolab Inc (NYSE:ECL), RBC Capital upgraded the previous rating of Sector Perform to Outperform. In the fourth quarter, Ecolab showed an EPS of $1.27, compared to $1.28 from the year-ago quarter. The stock has a 52-week-high of $186.13 and a 52-week-low of $131.04. At the end of the last trading period, Ecolab closed at $158.40.   
+See all analyst ratings upgrades.
+Downgrades
+Keefe, Bruyette & Woods downgraded the previous rating for Triton International Ltd (NYSE:TRTN) from Outperform to Market Perform. For the fourth quarter, Triton International had an EPS of $2.76, compared to year-ago quarter EPS of $2.67. The stock has a 52-week-high of $73.00 and a 52-week-low of $48.64. At the end of the last trading period, Triton International closed at $67.70.   
+According to Janney Montgomery Scott, the prior rating for Colony Bankcorp Inc (NASDAQ:CBAN) was changed from Buy to Neutral. For the fourth quarter, Colony Bankcorp had an EPS of $0.31, compared to year-ago quarter EPS of $0.40. The stock has a 52-week-high of $19.00 and a 52-week-low of $12.52. At the end of the last trading period, Colony Bankcorp closed at $12.89.   
+Citigroup downgraded the previous rating for Upstart Holdings Inc (NASDAQ:UPST) from Neutral to Sell. Upstart Hldgs earned $0.25 in the fourth quarter, compared to $0.89 in the year-ago quarter. The stock has a 52-week-high of $161.00 and a 52-week-low of $12.01. At the end of the last trading period, Upstart Hldgs closed at $16.85.   
+According to Tudor Pickering, the prior rating for Ford Motor Co (NYSE:F) was changed from Buy to Hold. Ford Motor earned $0.51 in the fourth quarter, compared to $0.26 in the year-ago quarter. At the moment, the stock has a 52-week-high of $18.48 and a 52-week-low of $10.61. Ford Motor closed at $12.97 at the end of the last trading period.   
+JP Morgan downgraded the previous rating for GCM Grosvenor Inc (NASDAQ:GCMG) from Overweight to Neutral. In the fourth quarter, GCM Grosvenor showed an EPS of $0.12, compared to $0.30 from the year-ago quarter. The current stock performance of GCM Grosvenor shows a 52-week-high of $10.86 and a 52-week-low of $6.26. Moreover, at the end of the last trading period, the closing price was at $8.95.   
+According to Chardan Capital, the prior rating for Frequency Therapeutics Inc (NASDAQ:FREQ) was changed from Buy to Neutral. For the third quarter, Frequency Therapeutics had an EPS of $0.55, compared to year-ago quarter EPS of $0.73. The stock has a 52-week-high of $5.59 and a 52-week-low of $0.68. At the end of the last trading period, Frequency Therapeutics closed at $0.75.   
+According to Benchmark, the prior rating for Howmet Aerospace Inc (NYSE:HWM) was changed from Buy to Hold. For the fourth quarter, Howmet Aerospace had an EPS of $0.38, compared to year-ago quarter EPS of $0.30. The current stock performance of Howmet Aerospace shows a 52-week-high of $43.20 and a 52-week-low of $29.84. Moreover, at the end of the last trading period, the closing price was at $43.02.   
+B of A Securities downgraded the previous rating for Credo Technology Group Holding Ltd (NASDAQ:CRDO) from Buy to Underperform. Credo Technology Group earned $0.02 in the second quarter, compared to $0.05 in the year-ago quarter. The current stock performance of Credo Technology Group shows a 52-week-high of $19.46 and a 52-week-low of $8.61. Moreover, at the end of the last trading period, the closing price was at $19.36.   
+Evercore ISI Group downgraded the previous rating for Marriott International Inc (NASDAQ:MAR) from Outperform to In-Line. For the fourth quarter, Marriott Intl had an EPS of $1.96, compared to year-ago quarter EPS of $1.30. The stock has a 52-week-high of $195.90 and a 52-week-low of $131.01. At the end of the last trading period, Marriott Intl closed at $181.27.   
+For Akamai Technologies Inc (NASDAQ:AKAM), RBC Capital downgraded the previous rating of Outperform to Sector Perform. For the fourth quarter, Akamai Technologies had an EPS of $1.37, compared to year-ago quarter EPS of $1.49. The current stock performance of Akamai Technologies shows a 52-week-high of $123.25 and a 52-week-low of $76.28. Moreover, at the end of the last trading period, the closing price was at $87.79.   
+According to Citigroup, the prior rating for Bath & Body Works Inc (NYSE:BBWI) was changed from Buy to Neutral. Bath & Body Works earned $0.40 in the third quarter, compared to $0.92 in the year-ago quarter. At the moment, the stock has a 52-week-high of $58.17 and a 52-week-low of $25.75. Bath & Body Works closed at $44.93 at the end of the last trading period.   
+According to Bernstein, the prior rating for Oak Street Health Inc (NYSE:OSH) was changed from Outperform to Market Perform. Oak Street Health earned $0.56 in the third quarter, compared to $0.49 in the year-ago quarter. The stock has a 52-week-high of $35.60 and a 52-week-low of $13.29. At the end of the ...Full story available on Benzinga.com",2023-02-15 15:01:06+00:00,https://www.benzinga.com/analyst-ratings/upgrades/23/02/30925624/benzingas-top-ratings-upgrades-downgrades-for-february-15-2023,Benzinga,-0.023376623376623384,0.08744588744588747,neutral,0.023376623376623384,False,True,True,False,False,False,False,False,0.0,6802,"['SUMO', 'F', 'DYN', 'GCMG', 'FSR', 'MBLY', 'IOT', 'DBRG', 'GM', 'MBLY', 'AKAM', 'CURV', 'MAR', 'AKA', 'CBAN', 'BBWI', 'MGA', 'IAC', 'TRTN', 'CORT', 'LVLU', 'SNX', 'LCII', 'AEO', 'RIVN', 'TEL', 'FUV', 'ALV', 'CRDO', 'TEX', 'APTV', 'AXL', 'PSNY', 'USB', 'FOCS', 'BWA', 'GNLX', 'ST', 'LEV', 'CMA', 'TSLA', 'CHWY', 'DAN', 'ADNT', 'KRUS', 'DKS', 'VC', 'FREQ', 'DY', 'ANGI', 'IMVT', 'DYN', 'OSH', 'HWM', 'ECL', 'UPST']",DBRG,2023-02-15
+DigitalBridge (DBRG) Earnings Expected to Grow: Should You Buy?,DigitalBridge (DBRG) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2023-02-17 15:00:07+00:00,https://www.zacks.com/stock/news/2055924/digitalbridge-dbrg-earnings-expected-to-grow-should-you-buy,Zacks Investment Research,0.03714285714285714,0.7871428571428571,neutral,0.03714285714285714,True,True,False,False,False,False,False,False,0.0,235,['DBRG'],DBRG,2023-02-17
+What's in Store for Medical Properties (MPW) in Q4 Earnings?,"Improving operating fundamentals of its operators and inflation-protected leases are likely to have aided Medical Properties' (MPW) Q4 earnings. However, higher interest rates might have been a deterrent.",2023-02-20 15:03:00+00:00,https://www.zacks.com/stock/news/2056417/whats-in-store-for-medical-properties-mpw-in-q4-earnings,Zacks Investment Research,0.0625,0.375,neutral,0.0625,True,False,False,False,False,False,False,False,0.0,266,"['EXR', 'MPW', 'PK', 'DBRG']",DBRG,2023-02-20
+What's in the Cards for Iron Mountain (IRM) in Q4 Earnings?,"Iron Mountain's (IRM) resilient storage and record management businesses, and high demand for data centers are likely to have aided its Q4 earnings. However, a stronger U.S. dollar might have ailed.",2023-02-21 12:39:00+00:00,https://www.zacks.com/stock/news/2056684/whats-in-the-cards-for-iron-mountain-irm-in-q4-earnings,Zacks Investment Research,0.08,0.77,neutral,0.08,True,False,False,False,False,False,True,False,0.0,259,"['IRM', 'EXR', 'PK', 'DBRG']",DBRG,2023-02-21
+Analysts Estimate Starwood Property Trust (STWD) to Report a Decline in Earnings: What to Look Out for,Starwood Property Trust (STWD) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2023-02-22 15:00:32+00:00,https://www.zacks.com/stock/news/2057503/analysts-estimate-starwood-property-trust-stwd-to-report-a-decline-in-earnings-what-to-look-out-for,Zacks Investment Research,0.07142857142857142,0.8839285714285714,neutral,0.07142857142857142,True,False,False,False,False,False,False,False,0.0,290,"['STWD', 'DBRG']",DBRG,2023-02-22
+Should You Buy DigitalBridge (DBRG) Ahead of Earnings?,DigitalBridge (DBRG) is seeing favorable earnings estimate revision activity and has a positive Zacks Earnings ESP heading into earnings season.,2023-02-23 13:42:00+00:00,https://www.zacks.com/stock/news/2058006/should-you-buy-digitalbridge-dbrg-ahead-of-earnings,Zacks Investment Research,0.22727272727272727,0.5454545454545454,positive,0.22727272727272727,True,True,False,False,False,False,False,False,0.0,200,['DBRG'],DBRG,2023-02-23
+"DigitalBridge (DBRG) Reports Q4 Loss, Tops Revenue Estimates","DigitalBridge (DBRG) delivered earnings and revenue surprises of -146.67% and 3.29%, respectively, for the quarter ended December 2022. Do the numbers hold clues to what lies ahead for the stock?",2023-02-24 14:55:03+00:00,https://www.zacks.com/stock/news/2058794/digitalbridge-dbrg-reports-q4-loss-tops-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,257,"['DBRG', 'RC']",DBRG,2023-02-24
+Analyst Expectations for DigitalBridge Group's Future,"Analysts have provided the following ratings for DigitalBridge Group (NYSE:DBRG) within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+2
+1
+1
+0
+0
+
+
+Last 30D
+1
+1
+1
+0
+0
+
+
+1M Ago
+1
+0
+0
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+0
+0
+0
+0
+0
+
+
+
+These 4 analysts have an average price target of $21.25 versus the current price of DigitalBridge Group at $12.07, implying  upside.
+Below is a summary of how these 4 analysts rated DigitalBridge Group over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock and the greater ...Full story available on Benzinga.com",2023-02-27 16:01:46+00:00,https://www.benzinga.com/analyst-ratings/23/02/31071830/analyst-expectations-for-digitalbridge-groups-future,Benzinga,0.13286713286713286,0.3541375291375291,positive,0.13286713286713286,False,False,False,False,False,False,False,False,0.0,705,['DBRG'],DBRG,2023-02-27
+It's Hard To Beat A Cell Tower REIT,The cell tower REIT typically owns or leases under a long-term contract. Click here to see 3 such REIT stocks we recommend as a Buy.,2023-03-09 12:00:00+00:00,https://seekingalpha.com/article/4585741-its-hard-to-beat-a-cell-tower-reit,Seeking Alpha,-0.1527777777777778,0.5138888888888888,negative,0.1527777777777778,False,True,False,False,False,False,False,False,0.0,169,"['AMT', 'CCI', 'DBRG', 'SBAC']",DBRG,2023-03-09
+Expert Ratings for DigitalBridge Gr,"DigitalBridge Gr (NYSE:DBRG) has observed the following analyst ratings within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+4
+1
+1
+0
+0
+
+
+Last 30D
+1
+0
+0
+0
+0
+
+
+1M Ago
+2
+1
+1
+0
+0
+
+
+2M Ago
+1
+0
+0
+0
+0
+
+
+3M Ago
+0
+0
+0
+0
+0
+
+
+
+According to 6 analyst offering 12-month price targets in the last 3 months, DigitalBridge Gr has an average price target of $23.17 with a high of $32.00 and a low of $17.00. 
+Below is a summary of how these 6 analysts rated DigitalBridge Gr over the past 3 months. The greater the number of bullish ratings, the more positive analysts ...Full story available on Benzinga.com",2023-03-24 18:01:50+00:00,https://www.benzinga.com/analyst-ratings/23/03/31496072/expert-ratings-for-digitalbridge-gr,Benzinga,0.10671328671328671,0.345034965034965,positive,0.10671328671328671,False,False,False,False,False,False,False,False,0.0,685,['DBRG'],DBRG,2023-03-24
+"DigitalBridge (DBRG) Reports Q1 Loss, Misses Revenue Estimates","DigitalBridge (DBRG) delivered earnings and revenue surprises of -125% and 15.57%, respectively, for the quarter ended March 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-05-03 14:05:03+00:00,https://www.zacks.com/stock/news/2089105/digitalbridge-dbrg-reports-q1-loss-misses-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,254,"['DBRG', 'MFA']",DBRG,2023-05-03
+What 6 Analyst Ratings Have To Say About DigitalBridge Gr,"DigitalBridge Gr (NYSE:DBRG) has observed the following analyst ratings within the last quarter: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+3
+2
+1
+0
+0
+
+
+Last 30D
+0
+1
+0
+0
+0
+
+
+1M Ago
+0
+0
+0
+0
+0
+
+
+2M Ago
+1
+0
+0
+0
+0
+
+
+3M Ago
+2
+1
+1
+0
+0
+
+
+
+According to 6 analyst offering 12-month price targets in the last 3 months, DigitalBridge Gr has an average price target of $22.5 with a high of $32.00 and a low of $14.00. 
+Below is a summary of how these 6 analysts rated DigitalBridge Gr over the past 3 months. The greater the number of bullish ratings, ...Full story available on Benzinga.com",2023-05-17 14:00:33+00:00,https://www.benzinga.com/analyst-ratings/23/05/32445839/what-6-analyst-ratings-have-to-say-about-digitalbridge-gr,Benzinga,0.060000000000000005,0.3127272727272727,neutral,0.060000000000000005,False,False,False,False,False,False,False,False,0.0,679,['DBRG'],DBRG,2023-05-17
+"Benzinga's Top Ratings Upgrades, Downgrades For June 5, 2023","Upgrades
+According to Citigroup, the prior rating for Ford Motor Co (NYSE:F) was changed from Neutral to Buy. For the first quarter, Ford Motor had an EPS of $0.63, compared to year-ago quarter EPS of $0.38. At the moment, the stock has a 52-week-high of $16.68 and a 52-week-low of $10.62. Ford Motor closed at $12.39 at the end of the last trading period.   
+According to Wells Fargo, the prior rating for NGL Energy Partners LP (NYSE:NGL) was changed from Underweight to Equal-Weight. In the fourth quarter, NGL Energy Partners showed an EPS of $0.10, compared to $0.43 from the year-ago quarter. At the moment, the stock has a 52-week-high of $4.03 and a 52-week-low of $1.00. NGL Energy Partners closed at $3.52 at the end of the last trading period.   
+According to JP Morgan, the prior rating for Valley National Bancorp (NASDAQ:VLY) was changed from Neutral to Overweight. Valley Ntl earned $0.30 in the first quarter, compared to $0.28 in the year-ago quarter. The stock has a 52-week-high of $13.06 and a 52-week-low of $6.38. At the end of the last trading period, Valley Ntl closed at $8.00.   
+According to Odeon Capital, the prior rating for Comerica Inc (NYSE:CMA) was changed from Hold to Buy. Comerica earned $2.39 in the first quarter, compared to $1.37 in the year-ago quarter. The stock has a 52-week-high of $87.02 and a 52-week-low of $28.40. At the end of the last trading period, Comerica closed at $40.93.   
+According to Seaport Global, the prior rating for Dominion Energy Inc (NYSE:D) was changed from Neutral to Buy. Dominion Energy earned $0.99 in the first quarter, compared to $1.18 in the year-ago quarter. The stock has a 52-week-high of $86.28 and a 52-week-low of $48.48. At the end of the last trading period, Dominion Energy closed at $49.86.   
+BMO Capital upgraded the previous rating for Equity Residential (NYSE:EQR) from Underperform to Market Perform. In the first quarter, Equity Residential showed an EPS of $0.87, compared to $0.77 from the year-ago quarter. At the moment, the stock has a 52-week-high of $80.87 and a 52-week-low of $54.60. Equity Residential closed at $63.09 at the end of the last trading period.   
+For Equitrans Midstream Corp (NYSE:ETRN), Morgan Stanley upgraded the previous rating of Underweight to Overweight. In the first quarter, Equitrans Midstream showed an EPS of $0.22, compared to $0.14 from the year-ago quarter. At the moment, the stock has a 52-week-high of $9.89 and a 52-week-low of $4.60. Equitrans Midstream closed at $9.08 at the end of the last trading period.   
+According to Raymond James, the prior rating for Clipper Realty Inc (NYSE:CLPR) was changed from Market Perform to Outperform. In the first quarter, Clipper Realty showed an EPS of $0.11, compared to $0.10 from the year-ago quarter. At the moment, the stock has a 52-week-high of $9.20 and a 52-week-low of $4.94. Clipper Realty closed at $5.69 at the end of the last trading period.   
+For Blackbaud Inc (NASDAQ:BLKB), Raymond James upgraded the previous rating of Market Perform to Outperform. Blackbaud earned $0.72 in the first quarter, compared to $0.57 in the year-ago ...Full story available on Benzinga.com",2023-06-05 15:00:38+00:00,https://www.benzinga.com/analyst-ratings/upgrades/23/06/32717752/benzingas-top-ratings-upgrades-downgrades-for-june-5-2023,Benzinga,0.043243243243243246,0.14594594594594595,neutral,0.043243243243243246,False,True,False,False,False,False,False,False,0.0,3229,"['PRG', 'NGL', 'ACLS', 'VTS', 'BLKB', 'GDDY', 'NTES', 'RAIN', 'RGLD', 'BPMC', 'CIR', 'RAIN', 'CMA', 'CLPR', 'D', 'FWONA', 'EL', 'EQR', 'ETRN', 'F', 'NET', 'RPM', 'MGNI', 'TGT', 'DBRG', 'VLY', 'DG']",DBRG,2023-06-05
+Bullish On DigitalBridge: Analyst Expects FEEUM Growth Despite Tech Sector Slowdown,"Keefe, Bruyette & Woods analyst Jade J. Rahmani upgraded DigitalBridge Group Inc (NYSE: DBRG) to Outperform from Market Perform with an increased price target of $17.5 from $12.5.
+The rating upgrade reflects the potential for a sharp rise in fundraising on recent developments that point to increasing demand for digital infrastructure. 
+Although the analyst sees a cyclical slowdown in the technology sector and recession woes as headwinds, the analyst is bullish on ...Full story available on Benzinga.com",2023-06-05 17:47:32+00:00,https://www.benzinga.com/analyst-ratings/analyst-color/23/06/32719565/bullish-on-digitalbridge-analyst-expects-feeum-growth-despite-tech-sector-slowdown,Benzinga,0.05500000000000001,0.48,neutral,0.05500000000000001,False,False,True,False,False,False,False,False,0.0,592,['DBRG'],DBRG,2023-06-05
+Analyst Expectations for DigitalBridge Gr's Future,"Over the past 3 months, 4 analysts have published their opinion on DigitalBridge Gr (NYSE:DBRG) stock. These analysts are typically employed by large Wall Street banks and tasked with understanding a company's business to predict how a stock will trade over the upcoming year.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+1
+2
+1
+0
+0
+
+
+Last 30D
+0
+1
+0
+0
+0
+
+
+1M Ago
+0
+1
+1
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+1
+0
+0
+0
+0
+
+
+
+In the last 3 months, 4 analysts have offered 12-month price targets for DigitalBridge Gr. The company has an average price target of $18.25 with a high of $29.00 and a low of $12.50. 
+Below ...Full story available on Benzinga.com",2023-06-05 19:00:29+00:00,https://www.benzinga.com/analyst-ratings/23/06/32722732/analyst-expectations-for-digitalbridge-grs-future,Benzinga,0.01887445887445888,0.34790043290043293,neutral,0.01887445887445888,False,False,False,False,False,False,False,False,0.0,734,['DBRG'],DBRG,2023-06-05
+Earn Up To 9% From Your Best Friend,The actions people take without thinking are most likely to recur over and over. Check out how to find a way to get paid by those actions.,2023-06-06 11:35:00+00:00,https://seekingalpha.com/article/4609426-earn-up-to-9-percent-from-your-best-friend,Seeking Alpha,0.5,0.6,positive,0.5,False,False,False,False,False,False,False,False,0.0,175,"['DBRG', 'THQ']",DBRG,2023-06-06
+Now I'm Adding Salsa To Mom's All-Weather REIT Portfolio (Part 3),"This article highlights strong companies, but they’re not as strong as they absolutely could be. Check out the five REIT picks, including two preferreds.",2023-07-17 11:00:00+00:00,https://seekingalpha.com/article/4617390-now-im-adding-salsa-to-moms-all-weather-reit-portfolio-part-3,Seeking Alpha,0.35555555555555557,0.7888888888888889,positive,0.35555555555555557,False,False,False,False,False,False,False,False,0.0,220,"['BXMT', 'DBRG', 'LADR', 'MPW']",DBRG,2023-07-17
+Why this real-estate-related corner of the stock market may benefit from AI,"Data centers stand to benefit from the rise of artificial intelligence, with generative AI opening up a potentially attractive opportunity within the stock market’s real-estate sector, according to Morgan Stanley’s Laurel Durkay.",2023-07-19 20:58:00+00:00,https://www.marketwatch.com/story/why-this-real-estate-related-corner-of-the-stock-market-may-benefit-from-ai-501c2cc8,MarketWatch,0.10000000000000003,1.0,positive,0.10000000000000003,False,False,True,False,False,False,False,False,0.0,306,"['DLR', 'EQIX', 'DBRG', 'IRM', 'NVDA', 'MSFT', 'SOXX', 'IGM', 'TECB', 'IRBO']",DBRG,2023-07-19
+Seeking At Least 8% Dividend Yield,"When I buy fixed income, I buy it to hold forever. Check out some investments that yield over 8%.",2023-08-03 11:35:00+00:00,https://seekingalpha.com/article/4622848-seeking-at-least-8-percent-dividend-yield,Seeking Alpha,-0.09999999999999999,0.30000000000000004,neutral,0.09999999999999999,False,True,False,False,False,True,False,False,0.0,133,"['DBRG', 'TWO']",DBRG,2023-08-03
+Should You Buy DigitalBridge (DBRG) Ahead of Earnings?,DigitalBridge (DBRG) is seeing favorable earnings estimate revision activity and has a positive Zacks Earnings ESP heading into earnings season.,2023-08-03 12:48:00+00:00,https://www.zacks.com/stock/news/2131818/should-you-buy-digitalbridge-dbrg-ahead-of-earnings,Zacks Investment Research,0.22727272727272727,0.5454545454545454,positive,0.22727272727272727,True,True,False,False,False,False,False,False,0.0,200,['DBRG'],DBRG,2023-08-03
+Cherry Hill Mortgage (CHMI) Q2 Earnings and Revenues Lag Estimates,"Cherry Hill (CHMI) delivered earnings and revenue surprises of -23.81% and 125.46%, respectively, for the quarter ended June 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-08-03 23:15:12+00:00,https://www.zacks.com/stock/news/2132412/cherry-hill-mortgage-chmi-q2-earnings-and-revenues-lag-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,258,"['CHMI', 'DBRG']",DBRG,2023-08-03
+DigitalBridge (DBRG) Q2 Earnings Miss Estimates,"DigitalBridge (DBRG) delivered earnings and revenue surprises of -40% and 34.70%, respectively, for the quarter ended June 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-08-04 20:05:02+00:00,https://www.zacks.com/stock/news/2132899/digitalbridge-dbrg-q2-earnings-miss-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,237,"['DBRG', 'EARN']",DBRG,2023-08-04
+Expert Ratings for DigitalBridge Gr,"Over the past 3 months, 6 analysts have published their opinion on DigitalBridge Gr (NYSE:DBRG) stock. These analysts are typically employed by large Wall Street banks and tasked with understanding a company's business to predict how a stock will trade over the upcoming year.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+1
+3
+2
+0
+0
+
+
+Last 30D
+0
+1
+0
+0
+0
+
+
+1M Ago
+1
+0
+1
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+0
+2
+1
+0
+0
+
+
+
+In the last 3 months, 6 analysts have offered 12-month price targets for DigitalBridge Gr. The company has an average price target of $18.83 with a high of $25.00 and a low of $12.50. 
+Below ...Full story available on Benzinga.com",2023-08-14 19:00:31+00:00,https://www.benzinga.com/analyst-ratings/23/08/33841966/expert-ratings-for-digitalbridge-gr,Benzinga,0.020761904761904766,0.3701904761904762,neutral,0.020761904761904766,False,False,False,False,False,False,False,False,0.0,719,['DBRG'],DBRG,2023-08-14
+Meridian Hedged Equity Fund Q2 2023 Investment Commentary,The Meridian Hedged Equity Fund advanced 3.56% (Net) during the quarter.,2023-08-17 05:26:00+00:00,https://seekingalpha.com/article/4629143-meridian-hedged-equity-fund-q2-2023-investment-commentary,Seeking Alpha,0.2,0.3,positive,0.2,False,False,False,False,False,False,False,False,0.0,131,"['AAP', 'AAPL', 'AMZN', 'DBRG', 'LEVI', 'LH', 'LW', 'LYV', 'MSFT', 'RIVN', 'SBH', 'TGT', 'ZM']",DBRG,2023-08-17
+Has DigitalBridge Group (DBRG) Outpaced Other Finance Stocks This Year?,Here is how DigitalBridge (DBRG) and JPMorgan Chase & Co. (JPM) have performed compared to their sector so far this year.,2023-09-05 13:40:08+00:00,https://www.zacks.com/stock/news/2144802/has-digitalbridge-group-dbrg-outpaced-other-finance-stocks-this-year,Zacks Investment Research,-0.012499999999999997,0.6875,neutral,0.012499999999999997,False,False,True,False,False,False,False,False,0.0,194,"['DBRG', 'JPM']",DBRG,2023-09-05
+The Latest Analyst Ratings for DigitalBridge Gr,"Over the past 3 months, 4 analysts have published their opinion on DigitalBridge Gr (NYSE:DBRG) stock. These analysts are typically employed by large Wall Street banks and tasked with understanding a company's business to predict how a stock will trade over the upcoming year.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+2
+1
+1
+0
+0
+
+
+Last 30D
+1
+0
+0
+0
+0
+
+
+1M Ago
+0
+0
+0
+0
+0
+
+
+2M Ago
+1
+1
+1
+0
+0
+
+
+3M Ago
+0
+0
+0
+0
+0
+
+
+
+These 4 analysts have an average price target of $22.25 versus the current price of DigitalBridge Gr at $17.575, implying  upside.
+Below is a summary of how these 4 analysts rated DigitalBridge Gr over the past ...Full story available on Benzinga.com",2023-09-20 14:00:19+00:00,https://www.benzinga.com/analyst-ratings/23/09/34763819/the-latest-analyst-ratings-for-digitalbridge-gr,Benzinga,0.029761904761904767,0.4345238095238095,neutral,0.029761904761904767,False,False,False,False,False,False,False,False,0.0,751,['DBRG'],DBRG,2023-09-20
+Array Technologies To Rally Around 29%? Here Are 10 Other Analyst Forecasts For Thursday,"Stifel cut the price target for  Sensata Technologies Holding plc  (NYSE: ST) from $48 to $44. Stifel analyst Matthew Sheerin maintained a Hold rating. Sensata Technologies shares rose 2.8% to close at $37.18 on Wednesday.
+Citigroup lowered  Roku, Inc.  (NASDAQ: ROKU) price target from $100 to $78. Citigroup analyst Jason Bazinet maintained a Neutral rating. Roku shares rose 0.2% to $67.77 in pre-market trading.
+HSBC slashed the price target for  Krispy Kreme, Inc.  (NASDAQ: DNUT) from $17 to $14.5. HSBC analyst Sorabh Daga maintained a Hold rating. Krispy Kreme shares fell 1.4% to close at $12.35 on Wednesday.
+JP Morgan increased the price target for  DigitalBridge Group, Inc.  (NYSE: DBRG) from $19 to $25. JP Morgan ...Full story available on Benzinga.com",2023-09-28 11:53:06+00:00,https://www.benzinga.com/news/23/09/34971792/array-technologies-to-rally-around-29-here-are-10-other-analyst-forecasts-for-thursday,Benzinga,0.36875,0.66875,positive,0.36875,False,False,False,False,False,False,False,False,0.0,857,"['API', 'ARRY', 'ATSG', 'PAYX', 'UPS', 'ST', 'WDAY', 'RDFN', 'ROKU', 'DBRG', 'DNUT']",DBRG,2023-09-28
+"Benzinga's Top Ratings Upgrades, Downgrades For September 28, 2023","Upgrades
+According to Northcoast Research, the prior rating for Essential Utilities Inc (NYSE:WTRG) was changed from Neutral to Buy. For the second quarter, Essential Utilities had an EPS of $0.34, compared to year-ago quarter EPS of $0.31. The current stock performance of Essential Utilities shows a 52-week-high of $49.87 and a 52-week-low of $34.32. Moreover, at the end of the last trading period, the closing price was at $34.34.   
+DA Davidson upgraded the previous rating for Redfin Corp (NASDAQ:RDFN) from Underperform to Neutral. Redfin earned $0.25 in the second quarter, compared to $0.73 in the year-ago quarter. At the moment, the stock has a 52-week-high of $17.68 and a 52-week-low of $3.08. Redfin closed at $6.98 at the end of the last trading period.   
+According to JP Morgan, the prior rating for Huntington Ingalls Industries Inc (NYSE:HII) was changed from Neutral to Overweight. In the second quarter, Huntington Ingalls Indus showed an EPS of $3.27, compared to $4.44 from the year-ago quarter. At the moment, the stock has a 52-week-high of $260.02 and a 52-week-low of $188.51. Huntington Ingalls Indus closed at $203.19 at the end of the last trading period.   
+JP Morgan upgraded the previous rating for DigitalBridge Group Inc (NYSE:DBRG) from Neutral to Overweight. In the second quarter, DigitalBridge Gr showed an EPS of $0.14, compared to $0.16 from the year-ago quarter. The stock has a 52-week-high of $18.43 and a 52-week-low of $9.99. At the end of the last trading period, DigitalBridge Gr closed at $16.53.   
+See all analyst ratings upgrades.
+Downgrades
+For Brainstorm Cell Therapeutics Inc (NASDAQ:BCLI), Maxim Group downgraded the previous rating of Buy to Hold. For the second quarter, Brainstorm Cell had an EPS of $0.13, compared to year-ago quarter EPS of $0.19. At the moment, the stock has a 52-week-high of $4.55 and a 52-week-low of $0.39. Brainstorm Cell closed at $0.39 at the end of the last trading period.   
+Monness, Crespi, Hardt downgraded the previous rating for Spotify Technology SA (NYSE:SPOT) from Buy to Neutral. Spotify Technology earned $1.69 in the second quarter, compared to $0.91 in the year-ago quarter. The current stock performance of Spotify Technology shows a 52-week-high of $182.00 and a 52-week-low of $69.41. Moreover, at the end of the last trading period, the closing price was at $153.75.   
+According to TD Securities, the prior rating for Crane Co (NYSE:CR) was changed from Buy to Hold. Crane earned $1.10 in the second quarter, compared to $1.90 in the year-ago quarter. The current stock performance of Crane shows a 52-week-high of $123.78 and a 52-week-low of $67.28. Moreover, at the end of the last trading period, the closing price was at $86.40.   
+For North American Construction Group Ltd (NYSE:NOA), TD Cowen downgraded the previous rating of Buy to Hold. For the second quarter, North American had an EPS of $0.35, compared to year-ago quarter EPS of $0.13. The stock has a 52-week-high of $26.30 and a 52-week-low of $9.24. At the end of the last trading period, North American closed at $22.51.   
+For Galecto Inc (NASDAQ:GLTO), HC Wainwright & Co. downgraded the previous rating of Buy to Neutral. Galecto earned $0.41 in the second quarter, compared to $0.67 in the year-ago quarter. The stock has a 52-week-high of $3.70 and a 52-week-low of $0.54. At the end of the last trading period, Galecto closed at $0.70.   
+For Agora Inc (NASDAQ:API), Morgan Stanley downgraded the previous rating of Overweight to Equal-Weight. Agora earned $0.07 in the second quarter, compared to $0.05 in the year-ago quarter. At the moment, the stock has a 52-week-high of $4.85 and a 52-week-low of $2.38. Agora closed at $2.78 at the end of the last trading period.   
+For NextEra Energy Partners LP (NYSE:NEP), JP Morgan downgraded the previous rating of Overweight to Neutral. In the second quarter, NextEra Energy Partners showed an EPS of $0.53, compared to $2.61 from the year-ago quarter. The current stock performance of NextEra Energy Partners shows a 52-week-high of $81.07 and a 52-week-low of $37.17. Moreover, at the end of the last trading period, the closing price was at $37.46.   
+According to Oppenheimer, the prior rating for NextEra Energy Partners LP (NYSE:NEP) was changed from Outperform to Perform. In the second quarter, NextEra Energy Partners showed an EPS of $0.53, compared to $2.61 from the year-ago quarter. At the moment, the stock has a 52-week-high of $81.07 and a 52-week-low of $37.17. NextEra Energy Partners closed at $37.46 at the end of the last trading period.   
+Oppenheimer downgraded the previous rating for Oshkosh Corp (NYSE:OSK) from Outperform to Perform. Oshkosh earned $2.69 in the second quarter, compared to $0.41 in the year-ago quarter. At the moment, the stock has a 52-week-high of $106.66 and a 52-week-low of $69.31. Oshkosh closed at $96.68 at the end of the last trading period.   
+See all analyst ratings downgrades.
+Initiations
+Evercore ISI Group initiated coverage on Teradata Corp (NYSE:TDC) with an Outperform rating. The price target for Teradata is set to $65.00. In the second quarter, Teradata showed an EPS of $0.48, compared to $0.33 from the year-ago quarter. The stock has a 52-week-high of $57.73 and a 52-week-low of $28.74. At the end of the last trading period, Teradata closed at $44.33.   
+For Avid Bioservices Inc (NASDAQ:CDMO), William Blair initiated coverage, by setting the current rating at Market Perform. Avid Bioservices earned $0.03 in the first quarter, compared to $0.05 in the year-ago quarter. The current stock performance of Avid Bioservices shows a 52-week-high of $21.05 and a 52-week-low of $9.18. Moreover, at the end of the last trading period, the closing price was at $10.20.   
+With a Buy rating, Lake Street initiated coverage on Elutia Inc (NASDAQ:ELUT). The price target seems to have been set at $3.00 for Elutia. Elutia earned $0.65 in the second quarter, compared to $0.69 in the year-ago quarter. The current stock performance of Elutia shows a 52-week-high of $1.80 and a 52-week-low of $1.10. Moreover, at the end of the last trading period, the closing price was at $1.28.   
+With an Outperform rating, Raymond James initiated coverage on Dianthus Therapeutics Inc (NASDAQ:DNTH). The price target seems to have been set at $24.00 for Dianthus Therapeutics. At the moment, the stock has a 52-week-high of $13.40 and a 52-week-low of $9.77. Dianthus Therapeutics closed at $13.31 at the end of the last trading period.   
+Raymond James initiated coverage on Biomarin Pharmaceutical Inc (NASDAQ:BMRN) with a Market Perform rating. In the second quarter, Biomarin Pharmaceutical showed an EPS of $0.54, compared to $0.15 from the year-ago quarter. The stock has a 52-week-high of $117.77 and a 52-week-low of $80.58. At the end of the last trading period, Biomarin Pharmaceutical closed at $90.37.   
+With a Equal-Weight rating, Morgan Stanley initiated coverage on Vail Resorts Inc (NYSE:MTN). The price target seems to have been set at $272.00 for Vail Resorts. The current stock performance of Vail Resorts shows a 52-week-high of $268.24 and a 52-week-low of $202.00. Moreover, at the end of the last trading period, the closing price was at $235.95.   
+Morgan Stanley initiated coverage on The Cooper Companies Inc (NASDAQ:COO) with a Equal-Weight rating. The price target for Cooper Companies is set to $410.00. Cooper Companies earned $3.35 in the third quarter, compared to $3.19 in the year-ago quarter. At the moment, the stock has a 52-week-high of $399.62 and a 52-week-low of $244.53. Cooper Companies closed at $315.92 at the end of the last trading period.   
+Morgan Stanley initiated coverage on Topgolf Callaway Brands Corp (NYSE:MODG) with an Underweight rating. The price target for Topgolf Callaway Brands is set to $12.00. Topgolf Callaway Brands earned $0.39 in the second quarter, compared to $0.47 in the year-ago quarter. At the moment, the stock has a 52-week-high of $25.96 and a 52-week-low of $13.16. Topgolf Callaway Brands closed at $13.48 at the end of the last trading period.   
+With a Buy rating, Benchmark initiated coverage on Tetra Technologies Inc (NYSE:TTI). The price target seems to have been set at $8.00 for Tetra Technologies. In the second quarter, Tetra Technologies showed an EPS of $0.13, compared to $0.05 from the year-ago quarter. The stock has a 52-week-high of $6.54 and a 52-week-low of $2.43. At the end of the last trading ...Full story available on Benzinga.com",2023-09-28 15:00:45+00:00,https://www.benzinga.com/analyst-ratings/upgrades/23/09/34979260/benzingas-top-ratings-upgrades-downgrades-for-september-28-2023,Benzinga,-0.011363636363636374,0.1443181818181818,neutral,0.011363636363636374,False,True,True,False,False,False,False,False,0.0,8580,"['DBRG', 'TMO', 'RHP', 'FHN', 'DUOL', 'TTI', 'NEP', 'GD', 'IOBT', 'WAT', 'API', 'GH', 'GE', 'MODG', 'PEB', 'NEP', 'APLE', 'HEI', 'RVTY', 'IRWD', 'AVTR', 'NTRA', 'HXL', 'LMT', 'ELUT', 'PACB', 'BMRN', 'BWXT', 'LTC', 'DNTH', 'BCLI', 'CIEN', 'TTD', 'MTN', 'HII', 'ENSG', 'PK', 'NHI', 'WWD', 'EXAS', 'RDFN', 'NOA', 'PB', 'ILMN', 'CDMO', 'NOC', 'PB', 'INFN', 'SPOT', 'OSK', 'CERE', 'A', 'LHX', 'SHO', 'U', 'ARM', 'WTRG', 'SPR', 'FROG', 'BA', 'HWM', 'TDC', 'FROG', 'COO', 'GLTO', 'FLYW', 'TDG', 'RHP', 'CR']",DBRG,2023-09-28
+Generating Magnificent Dividends From Generative AI; 8.5% Yields,Generative AI has massive potential to transform workplace of future. Find out why I'm loading up on critical Gen AI enabler DigitalBridge's preferreds.,2023-10-19 11:35:00+00:00,https://seekingalpha.com/article/4641524-generating-magnificent-dividends-from-generative-ai-8-5-percent-yields,Seeking Alpha,0.2,0.7849999999999999,positive,0.2,False,False,False,False,False,True,False,False,0.2,218,['DBRG'],DBRG,2023-10-19
+DigitalBridge (DBRG) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Release,DigitalBridge (DBRG) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2023-10-25 14:02:04+00:00,https://www.zacks.com/stock/news/2171642/digitalbridge-dbrg-expected-to-beat-earnings-estimates-what-to-know-ahead-of-q3-release,Zacks Investment Research,0.03714285714285714,0.7871428571428571,neutral,0.03714285714285714,True,False,False,False,True,False,False,False,0.0,262,"['DBRG', 'RWT']",DBRG,2023-10-25
+Ladder Capital (LADR) Tops Q3 Earnings and Revenue Estimates,"Ladder Capital (LADR) delivered earnings and revenue surprises of 3.33% and 15.86%, respectively, for the quarter ended September 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-10-26 13:40:03+00:00,https://www.zacks.com/stock/news/2172669/ladder-capital-ladr-tops-q3-earnings-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,257,"['LADR', 'DBRG']",DBRG,2023-10-26
+Hannon Armstrong (HASI) Earnings Expected to Grow: Should You Buy?,Hannon Armstrong (HASI) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2023-10-26 14:02:41+00:00,https://www.zacks.com/stock/news/2172720/hannon-armstrong-hasi-earnings-expected-to-grow-should-you-buy,Zacks Investment Research,0.03714285714285714,0.7871428571428571,neutral,0.03714285714285714,True,True,False,False,False,False,False,False,0.0,247,"['HASI', 'DBRG']",DBRG,2023-10-26
+AGNC Investment (AGNC) Beats Q3 Earnings Estimates,"AGNC Investment (AGNC) delivered earnings and revenue surprises of 14.04% and 117.09%, respectively, for the quarter ended September 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-10-30 21:50:08+00:00,https://www.zacks.com/stock/news/2174860/agnc-investment-agnc-beats-q3-earnings-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,250,"['AGNC', 'DBRG']",DBRG,2023-10-30
+DigitalBridge (DBRG) Reports Q3 Earnings: What Key Metrics Have to Say,"While the top- and bottom-line numbers for DigitalBridge (DBRG) give a sense of how the business performed in the quarter ended September 2023, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",2023-11-01 14:30:03+00:00,https://www.zacks.com/stock/news/2176490/digitalbridge-dbrg-reports-q3-earnings-what-key-metrics-have-to-say,Zacks Investment Research,0.2,0.65,positive,0.2,True,False,False,False,False,False,False,False,0.0,326,['DBRG'],DBRG,2023-11-01
+DigitalBridge Group: I'm Buying This Digital Infrastructure Alternative Asset Manager,DigitalBridge is building an alternative asset management company focused on digital infrastructure. Click here to read why I rate DBRG a Buy.,2023-12-24 06:14:37+00:00,https://seekingalpha.com/article/4659403-digitalbridge-group-i-am-buying-this-digital-infrastructure-alternative-asset-manager,Seeking Alpha,0.0,0.0,neutral,0.0,False,True,False,False,False,False,True,False,0.0,229,['DBRG'],DBRG,2023-12-24
+2 REITs That Could Soar In 2024,Discover how REITs have rebounded after the 2020 crash. Click here to read about two REITs that are poised for potential doubling in the future.,2023-12-27 13:05:00+00:00,https://seekingalpha.com/article/4659818-2-reits-that-could-soar-in-2024,Seeking Alpha,0.0,0.5625,neutral,0.0,False,False,False,False,False,False,False,False,0.0,177,"['AMT', 'BAC', 'BX', 'CCI', 'DB', 'DBRG', 'GS', 'MS', 'SAFE', 'UBS', 'VNQ']",DBRG,2023-12-27
+Intel (INTC) to Spin Out AI-Based Software Firm Articul8,"With Articul8, Intel (INTC) aims to develop a scalable and easy-to-deploy GenAI software platform that will unlock value from client's proprietary data.",2024-01-04 12:51:00+00:00,https://www.zacks.com/stock/news/2205491/intel-intc-to-spin-out-ai-based-software-firm-articul8,Zacks Investment Research,-0.2,0.4,negative,0.2,False,False,False,False,False,False,False,False,0.0,210,"['INTC', 'USM', 'WDAY', 'DBRG']",DBRG,2024-01-04
+Exciting Artificial Intelligence (AI) News for Intel Stock Investors,Intel announced the formation of a new generative AI company.,2024-01-05 13:49:02+00:00,https://www.fool.com/investing/2024/01/05/exciting-artificial-intelligence-ai-news-for-intel/,The Motley Fool,-0.05454545454545454,0.7515151515151515,neutral,0.05454545454545454,False,False,False,False,False,False,False,False,0.0,131,"['INTC', 'DBRG']",DBRG,2024-01-05
+Analog Devices (ADI) Boosts Generative AI Efforts With New Deal,"Analog Devices (ADI) partners with SambaNova Systems to expedite field sales and customer enablement, bolstering its presence in the generative AI chip market.",2024-01-11 16:50:00+00:00,https://www.zacks.com/stock/news/2209032/analog-devices-adi-boosts-generative-ai-efforts-with-new-deal,Zacks Investment Research,0.13636363636363635,0.45454545454545453,positive,0.13636363636363635,False,False,False,False,False,False,False,False,0.0,224,"['INTC', 'ADI', 'SNPS', 'DBRG']",DBRG,2024-01-11
+2 Great Preferred Stocks For A Retirement Dream,"With a history of low default rates, today’s preferreds carry much higher credit quality. Check out 2 great preferred stocks for a Retirement Dream.",2024-02-02 13:30:00+00:00,https://seekingalpha.com/article/4666707-2-great-preferred-stocks-for-a-retirement-dream,Seeking Alpha,0.4625,0.575,positive,0.4625,False,False,False,False,False,False,False,False,0.0,197,"['DBRG', 'GDV']",DBRG,2024-02-02
+DigitalBridge (DBRG) Q4 Earnings Lag Estimates,"DigitalBridge (DBRG) delivered earnings and revenue surprises of -16.67% and 21.89%, respectively, for the quarter ended December 2023. Do the numbers hold clues to what lies ahead for the stock?",2024-02-20 13:15:05+00:00,https://www.zacks.com/stock/news/2228340/digitalbridge-dbrg-q4-earnings-lag-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,243,"['DBRG', 'NYMT']",DBRG,2024-02-20
+"Cramer Says This AI Stock Is Just An Nvidia Play, Prefers This Stock Over Anheuser-Busch","On CNBC’s ""Mad Money Lightning Round,"" Jim Cramer said  DigitalBridge Group, Inc.  (NYSE: DBRG) is  a ""good"" stock.
+On Feb. 20, DigitalBridge posted better-than-expected sales results for its fourth quarter.
+When asked about  Anheuser-Busch InBev SA/NV  (NYSE: BUD), Cramer said,  Constellation Brands, Inc.  (NYSE: STZ) has ""better cash flow, more opportunities, and has a wine business that it could sell.""
+Former President Donald Trump recently called on conservatives to reconsider their stance on Anheuser-Busch, suggesting that the company ...",2024-02-28 13:57:49+00:00,https://www.benzinga.com/trading-ideas/long-ideas/24/02/37356403/cramer-says-this-ai-stock-is-just-an-nvidia-play-prefers-this-stock-over-anheuser-busch,Benzinga,0.109375,0.40625,positive,0.109375,False,False,False,False,False,False,False,False,0.0,639,"['NVDA', 'STZ', 'BUD', 'PTVE', 'DBRG', 'SOUN']",DBRG,2024-02-28
+10 Real Estate Stocks Move On Thursday: Fed Rate Cut Possibility Sparks Rally For Troubled Sector,"The Federal Reserve’s indication of upcoming interest rate cuts injected optimism into the real estate sector, particularly benefiting stocks under pressure due to exposure to the office industry or elevated debt levels.
+A Shift Towards Speculation
+Thursday’s session suggests the rally has been more pronounced among real estate companies with higher debt levels 
+This shift may signify a growing investor inclination towards speculative stocks within the real estate sector, banking on the premise that forthcoming rate cuts could provide a much-needed respite for real estate investment trusts (REITs) grappling with significant debt burdens.
+The Fed’s March dot plot hints at three rate cuts in 2024, with a further three anticipated the following year. This strategic direction is coupled with an upgraded growth ...Full story available on Benzinga.com",2024-03-21 21:29:05+00:00,https://www.benzinga.com/real-estate/reit/24/03/37882885/10-real-estate-stocks-move-on-thursday-fed-rate-cut-possibility-sparks-rally-for-troubled-sector,Benzinga,0.1476190476190476,0.4345238095238095,positive,0.1476190476190476,False,False,True,False,False,True,False,False,0.0,956,"['CIO', 'VNQ', 'OPEN', 'DEI', 'VNO', 'COMP', 'ZG', 'DHC', 'OPI', 'DBRG', 'HOUS', 'PKST', 'DESK']",DBRG,2024-03-21
+DigitalBridge Group (DBRG) Soars 6.4%: Is Further Upside Left in the Stock?,DigitalBridge Group (DBRG) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.,2024-03-22 13:29:00+00:00,https://www.zacks.com/stock/news/2244906/digitalbridge-group-dbrg-soars-64-is-further-upside-left-in-the-stock,Zacks Investment Research,0.05740740740740741,0.37592592592592594,neutral,0.05740740740740741,True,False,False,False,False,False,False,False,0.0,291,"['DBRG', 'BXMT']",DBRG,2024-03-22
+"2 Bargain Preferred Stocks, Up To 9% Yields",Perpetual preferred stocks can provide stability and reliable income in retirement. Find out how recent updates boost their income safety.,2024-03-29 12:30:00+00:00,https://seekingalpha.com/article/4680955-need-income-2-bargain-preferreds-with-up-to-9-percent-yields,Seeking Alpha,0.0,0.25,neutral,0.0,False,False,False,False,False,False,False,False,0.0,183,"['DBRG', 'GNL']",DBRG,2024-03-29
+DigitalBridge (DBRG) Earnings Expected to Grow: Should You Buy?,DigitalBridge (DBRG) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2024-04-23 14:01:08+00:00,https://www.zacks.com/stock/news/2260220/digitalbridge-dbrg-earnings-expected-to-grow-should-you-buy,Zacks Investment Research,0.03714285714285714,0.7871428571428571,neutral,0.03714285714285714,True,True,False,False,False,False,False,False,0.0,241,['DBRG'],DBRG,2024-04-23
+DigitalBridge (DBRG) Q1 Earnings and Revenues Miss Estimates,"DigitalBridge (DBRG) delivered earnings and revenue surprises of -90% and 26.17%, respectively, for the quarter ended March 2024. Do the numbers hold clues to what lies ahead for the stock?",2024-04-30 21:45:08+00:00,https://www.zacks.com/stock/news/2265455/digitalbridge-dbrg-q1-earnings-and-revenues-miss-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,251,"['DBRG', 'CMTG']",DBRG,2024-04-30
+DigitalBridge (DBRG) Reports Q1 Earnings: What Key Metrics Have to Say,"The headline numbers for DigitalBridge (DBRG) give insight into how the company performed in the quarter ended March 2024, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",2024-04-30 23:00:19+00:00,https://www.zacks.com/stock/news/2265546/digitalbridge-dbrg-reports-q1-earnings-what-key-metrics-have-to-say,Zacks Investment Research,0.16666666666666666,0.8333333333333334,positive,0.16666666666666666,True,False,False,False,False,False,False,False,0.0,305,['DBRG'],DBRG,2024-04-30
+The Latest Analyst Ratings For DigitalBridge Gr,"In the preceding three months, 4 analysts have released ratings for DigitalBridge Gr (NYSE:DBRG), presenting a wide array of perspectives from bullish to bearish.
+The table below summarizes their recent ratings, showcasing the evolving sentiments within the past 30 days and comparing them to the preceding months.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+2
+2
+0
+0
+0
+
+
+Last 30D
+1
+0
+0
+0
+0
+
+
+1M Ago
+1
+1
+0
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+0
+1
+0
+0
+0
+
+
+
+Analysts' evaluations of 12-month price targets offer additional insights, showcasing an average target of $21.5, with a high estimate of $23.00 and a low estimate of $19.00. Experiencing a 1.15% decline, the current average is now lower than the previous average price target of $21.75. 
+
+Diving into Analyst Ratings: An In-Depth Exploration
+The standing of DigitalBridge Gr among financial experts becomes clear with a thorough analysis of recent analyst actions. The summary below outlines key analysts, their recent evaluations, and adjustments to ratings and price targets.
+
+
+
+Analyst
+Analyst Firm
+Action Taken
+Rating
+Current Price Target
+Prior Price Target
+
+
+
+
+Anthony Hau
+Truist Securities
+Lowers
+Buy
+$19.00
+$22.00
+
+
+Richard Choe
+JP Morgan
+Lowers
+Overweight
+$23.00
+$25.00
+
+
+Anthony Hau
+Truist Securities
+Raises
+Buy
+$22.00
+$20.00
+
+
+Jade Rahmani
+Keefe, Bruyette & Woods
+Raises
+Outperform
+$22.00
+$20.00
+
+
+
+Key Insights:
+
+Action Taken: Responding to changing market dynamics and company performance, analysts update their recommendations. Whether they 'Maintain', 'Raise', or 'Lower' their stance, ...Full story available on Benzinga.com",2024-05-15 15:00:35+00:00,https://www.benzinga.com/insights/analyst-ratings/24/05/38847782/the-latest-analyst-ratings-for-digitalbridge-gr,Benzinga,0.007733333333333335,0.3802666666666667,neutral,0.007733333333333335,False,True,True,False,True,False,False,False,0.0,1679,['DBRG'],DBRG,2024-05-15
+Earn Up To 8% Yield With AI Exposure,AI's vast potential in business presents numerous opportunities for growth and profitability. Check out two picks to benefit from substantial investments in AI.,2024-05-22 11:35:00+00:00,https://seekingalpha.com/article/4694776-earn-up-to-8-percent-yield-with-ai-exposure,Seeking Alpha,0.0,0.8333333333333334,neutral,0.0,True,False,False,False,False,False,False,False,0.0,198,"['BST', 'DBRG']",DBRG,2024-05-22
+The Latest Analyst Ratings For DigitalBridge Gr - DigitalBridge Gr (NYSE:DBRG) - Benzinga,"Analysts have provided mixed ratings for DigitalBridge Gr, with a 12-month average price target of $20.25, down from the previous average of $21.79. The company's financials show positive revenue growth, strong profitability, and efficient asset utilization.",2024-07-09 18:01:03+00:00,https://www.benzinga.com/insights/analyst-ratings/24/07/39695929/the-latest-analyst-ratings-for-digitalbridge-gr,Benzinga,0.06729797979797979,0.4605429292929293,neutral,0.06729797979797979,True,False,False,False,False,False,False,False,0.0,349,"['DBRG', 'DBRGpH', 'DBRGpI', 'DBRGpJ']",DBRG,2024-07-09

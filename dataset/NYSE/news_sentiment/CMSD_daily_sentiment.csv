@@ -1,0 +1,9 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2021-08-29,0.0,,1,0.0,0.0,0,0,0,0,0,1,0,0,223.0,CMSD
+2021-11-28,0.0,,1,0.0,0.0,0,0,0,0,0,1,0,0,225.0,CMSD
+2022-01-30,0.0,,1,0.0,0.0,0,0,0,0,0,1,0,0,251.0,CMSD
+2022-05-22,0.0,,1,0.0,0.0,0,0,0,0,0,1,0,0,247.0,CMSD
+2022-08-28,0.0,,1,0.0,0.0,0,0,0,0,0,1,0,0,234.0,CMSD
+2023-02-26,0.5,,1,0.5,0.0,0,0,0,0,0,1,0,0,226.0,CMSD
+2023-07-18,0.5,,1,0.5,0.0,0,0,0,0,0,0,0,0,156.0,CMSD
+2023-08-25,0.25,,1,0.25,0.0,0,0,1,0,0,0,0,0,207.0,CMSD

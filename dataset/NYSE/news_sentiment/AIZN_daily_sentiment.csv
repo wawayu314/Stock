@@ -1,0 +1,10 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2022-03-13,0.0,,1,0.0,0.0,0,0,0,0,0,1,0,0,249.0,AIZN
+2022-05-22,0.0,,1,0.0,0.0,0,0,0,0,0,1,0,0,247.0,AIZN
+2022-06-06,0.0375,,1,0.0375,0.0,0,0,0,0,0,0,0,0,261.0,AIZN
+2022-12-11,0.5,,1,0.5,0.0,0,0,0,0,0,1,0,0,236.0,AIZN
+2024-01-20,0.2667,,1,0.2667,0.0,0,0,0,0,0,1,0,0,217.0,AIZN
+2024-02-17,0.2667,,1,0.2667,0.0,0,0,0,0,0,1,0,0,218.0,AIZN
+2024-07-11,0.02,,1,0.02,0.0,0,0,0,0,0,0,0,0,395.0,AIZN
+2024-09-11,0.5,,1,0.5,0.0,0,0,0,0,0,0,0,0,441.0,AIZN
+2024-09-24,0.2,,1,0.2,0.0,1,0,0,0,0,1,0,0,386.0,AIZN

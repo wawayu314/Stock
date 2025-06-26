@@ -1,0 +1,8 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2024-03-25,0.1832,0.0255,3,0.1832,0.0,2,2,2,0,0,0,1,2,1501.6667,COOT
+2024-04-01,-0.0142,,1,0.0142,0.0,0,0,0,0,0,0,0,0,646.0,COOT
+2024-04-09,-0.0988,,1,0.0988,0.0,0,0,0,0,0,0,0,0,318.0,COOT
+2024-04-25,-0.1186,,1,0.1186,0.0,0,0,0,0,0,0,0,0,325.0,COOT
+2024-05-15,-0.0571,,1,0.0571,0.0,0,0,0,0,0,0,0,0,245.0,COOT
+2024-06-21,-0.0213,,1,0.0213,0.0,0,0,1,0,1,0,0,0,478.0,COOT
+2024-08-16,0.0357,,1,0.0357,0.0,0,0,0,0,0,0,0,0,438.0,COOT

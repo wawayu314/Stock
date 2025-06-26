@@ -1,0 +1,5 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2023-01-29,0.125,,1,0.125,0.0,0,0,0,0,0,0,0,0,224.0,APRW
+2023-05-04,-0.1667,,1,0.1667,0.0,0,0,0,0,0,0,0,0,117.0,APRW
+2024-02-03,0.7381,,1,0.7381,0.0,1,0,0,0,0,0,0,0,191.0,APRW
+2024-05-11,0.1667,,1,0.1667,0.0,0,0,0,0,0,0,1,0,122.0,APRW

@@ -1,0 +1,7 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2022-07-13,0.1271,,1,0.1271,0.0,1,1,1,0,0,1,0,1,3565.0,AZ
+2022-09-28,0.1351,0.1005,2,0.1351,0.0,1,1,2,0,0,0,0,0,1720.5,AZ
+2022-09-29,0.1991,,1,0.1991,0.0,1,1,1,0,0,0,0,0,2764.0,AZ
+2024-01-31,0.0,,1,0.0,0.0,1,0,1,0,0,0,0,0,689.0,AZ
+2024-03-27,0.1395,,1,0.1395,0.0,1,0,1,1,0,0,0,0,1971.0,AZ
+2024-07-08,0.0966,,1,0.0966,0.0,0,1,0,0,0,0,0,0,367.0,AZ

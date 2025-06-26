@@ -1,0 +1,7 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2023-12-21,0.0889,,1,0.0889,0.0,0,1,0,0,0,0,0,0,961.0,AGAE
+2024-01-19,0.1331,,1,0.1331,0.0,0,1,1,0,0,0,0,0,2233.0,AGAE
+2024-01-23,0.0841,,1,0.0841,0.0,0,1,0,0,0,0,0,0,695.0,AGAE
+2024-07-04,0.1801,,1,0.1801,0.0,1,1,0,0,0,0,0,0,397.0,AGAE
+2024-07-05,0.0,,1,0.0,0.0,0,1,0,0,0,0,0,0,402.0,AGAE
+2024-07-12,-0.125,,1,0.125,0.0,0,1,0,0,0,0,0,0,265.0,AGAE

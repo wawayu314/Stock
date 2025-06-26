@@ -1,0 +1,6 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2024-02-27,0.25,,1,0.25,0.0,1,0,0,0,0,0,0,0,266.0,ASTH
+2024-03-01,0.0611,,1,0.0611,0.0,0,0,1,0,0,0,1,0,636.0,ASTH
+2024-04-23,0.0,,1,0.0,0.0,1,0,0,0,0,0,0,0,251.0,ASTH
+2024-05-02,0.0,,1,0.0,0.0,1,0,0,0,0,0,0,0,262.0,ASTH
+2024-05-06,0.3,,1,0.3,0.0,0,1,0,0,0,0,0,0,186.0,ASTH

@@ -1,0 +1,9 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2024-07-10,-0.0375,,1,0.0375,0.0,0,0,0,0,0,0,0,0,333.0,ALLpH
+2024-07-11,0.2605,,1,0.2605,0.0,1,0,0,0,1,0,0,0,288.0,ALLpH
+2024-07-31,0.1444,,1,0.1444,0.0,1,0,0,0,0,0,0,0,323.0,ALLpH
+2024-08-14,0.205,,1,0.205,0.0,0,1,0,0,0,1,0,0,329.0,ALLpH
+2024-09-26,0.0583,,1,0.0583,0.0,1,0,0,0,0,0,0,0,218.0,ALLpH
+2024-10-08,0.1643,,1,0.1643,0.0,0,0,1,0,0,0,0,0,374.0,ALLpH
+2024-11-18,0.0167,,1,0.0167,0.0,0,0,0,0,0,0,0,0,382.0,ALLpH
+2024-12-31,0.0,,1,0.0,0.0,0,0,1,0,0,0,0,0,303.0,ALLpH

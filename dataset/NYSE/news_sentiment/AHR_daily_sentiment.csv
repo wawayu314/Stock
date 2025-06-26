@@ -1,0 +1,8 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2024-03-02,-0.25,,1,0.25,0.0,1,0,0,0,0,0,0,0,190.0,AHR
+2024-03-04,0.1403,,1,0.1403,0.0,1,1,1,0,0,0,0,0,949.0,AHR
+2024-04-03,0.0027,,1,0.0027,0.0,0,1,1,0,0,0,0,0,1940.0,AHR
+2024-05-09,0.0758,,1,0.0758,0.0,1,0,0,0,0,0,0,0,223.0,AHR
+2024-05-16,0.0021,,1,0.0021,0.0,0,1,1,0,0,0,0,0,1956.0,AHR
+2024-05-23,-0.1,,1,0.1,0.0,0,0,0,0,0,0,0,0,197.0,AHR
+2024-12-18,0.08,,1,0.08,0.0,0,1,0,0,0,0,0,0,393.0,AHR

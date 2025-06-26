@@ -1,0 +1,6 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2021-06-14,0.2,,1,0.2,0.0,0,0,0,0,0,0,0,0,94.0,CLDL
+2021-06-30,0.0533,,1,0.0533,0.0,0,0,1,0,0,0,0,0,152.0,CLDL
+2021-08-27,0.0,,1,0.0,0.0,1,0,0,0,0,0,0,0,194.0,CLDL
+2022-12-01,0.0,,1,0.0,0.0,0,0,0,0,0,0,0,0,117.0,CLDL
+2023-05-03,-0.0046,,1,0.0046,0.0,0,0,0,0,0,0,0,0,189.0,CLDL

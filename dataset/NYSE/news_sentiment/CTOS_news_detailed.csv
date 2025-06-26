@@ -1,0 +1,459 @@
+title,description,published_utc,article_url,publisher,sentiment_polarity,sentiment_subjectivity,sentiment_label,sentiment_confidence,keywords_earnings,keywords_acquisition,keywords_regulation,keywords_partnership,keywords_product,keywords_financial,keywords_leadership,keywords_lawsuit,urgency_score,text_length,tickers,ticker,date
+"Earnings Scheduled For May 12, 2021","Companies Reporting Before The Bell
+• PolyPid (NASDAQ:PYPD) is estimated to report earnings for its first quarter.
+• Boyd Gaming (NYSE:BYD) is projected to report quarterly earnings at $1.01 per share on revenue of $570.79 million.
+• Zealand Pharma (NASDAQ:ZEAL) is likely to report quarterly loss at $1.01 per share on revenue of $9.89 million.
+• American Well (NYSE:AMWL) is likely to report quarterly loss at $0.19 per share on revenue of $58.75 million.
+• Crescent Point Energy (NYSE:CPG) is projected to report quarterly earnings at $0.03 per share on revenue of $492.10 million.
+• TORM (NASDAQ:TRMD) is expected to report quarterly loss at $0.21 per share on revenue of $130.30 million.
+• Dream Finders Homes (NASDAQ:DFH) is likely to report quarterly earnings at $0.19 per share on revenue of $350.23 million.
+• Radius Global Infr (NASDAQ:RADI) is estimated to report quarterly loss at $0.29 per share on revenue of $21.18 million.
+• Toyota Motor (NYSE:TM) is likely to report earnings for its fourth quarter.
+• SFL Corp (NYSE:SFL) is projected to report quarterly earnings at $0.13 per share on revenue of $106.92 million.
+• Kamada (NASDAQ:KMDA) is expected to report quarterly earnings at $0.09 per share on revenue of $27.17 million.
+• IMV (NASDAQ:IMV) is likely to report quarterly loss at $0.16 per share on revenue of $40.00 thousand.
+• OneSpaWorld Holdings (NASDAQ:OSW) is likely to report quarterly loss at $0.20 per share on revenue of $3.80 million.
+• Comstock Mining (AMEX:LODE) is likely to report quarterly loss at $0.04 per share on revenue of $310.00 thousand.
+• Strongbridge Biopharma (NASDAQ:SBBP) is expected to report quarterly loss at $0.10 per share on revenue of $8.31 million.
+• Greenland Technologies (NASDAQ:GTEC) is likely to report earnings for its first quarter.
+• Aemetis (NASDAQ:AMTX) is estimated to report quarterly loss at $0.53 per share on revenue of $49.04 million.
+• China Automotive Systems (NASDAQ:CAAS) is estimated to report quarterly earnings at $0.03 per share on revenue of $116.78 million.
+• Arcos Dorados Holdings (NYSE:ARCO) is projected to report quarterly loss at $0.01 per share on revenue of $546.08 million.
+• Lumentum Holdings (NASDAQ:LITE) is estimated to report quarterly earnings at $1.40 per share on revenue of $433.49 million.
+• BRF (NYSE:BRFS) is expected to report quarterly earnings at $0.03 per share on revenue of $1.97 billion.
+• Wendy's (NASDAQ:WEN) is projected to report quarterly earnings at $0.14 per share on revenue of $444.31 million.
+• Wolverine World Wide (NYSE:WWW) is estimated to report quarterly earnings at $0.40 per share on revenue of $511.78 million.
+• Eos Energy Enterprises (NASDAQ:EOSE) is expected to report quarterly loss at $0.16 per share on revenue of $1.31 million.
+• Superior Drilling (AMEX:SDPI) is expected to report quarterly loss at $0.05 per share on revenue of $2.07 million.
+• Dynatrace (NYSE:DT) is estimated to report quarterly earnings at $0.14 per share on revenue of $191.81 million.
+• GEO Group (NYSE:GEO) is estimated to report quarterly earnings at $0.04 per share on revenue of $26.35 million.
+• IT Tech Packaging (AMEX:ITP) is estimated to report quarterly earnings at $0.36 per share on revenue of $314.95 million.
+• Apyx Medical (NASDAQ:APYX) is expected to report earnings for its first quarter.
+• Tower Semiconductor (NASDAQ:TSEM) is estimated to report quarterly earnings at $0.31 per share on revenue of $345.20 million.
+• Veru (NASDAQ:VERU) is projected to report quarterly loss at $0.04 per share on revenue of $14.29 million.
+• HOOKIPA Pharma (NASDAQ:HOOK) is projected to report quarterly loss at $0.53 per share on revenue of $3.97 million.
+• Wix.com (NASDAQ:WIX) is estimated to report quarterly loss at $0.64 per share on revenue of $295.05 million.
+• Summit Wireless (NASDAQ:WISA) is projected to report quarterly loss at $0.30 per share on revenue of $1.26 million.
+• LiqTech International (NASDAQ:LIQT) is estimated to report quarterly loss at $0.14 per share on revenue of $4.19 million.
+• APi Gr (NYSE:APG) is projected to report quarterly earnings at $0.14 per share on revenue of $771.37 million.
+• Sotherly Hotels (NASDAQ:SOHO) is expected to report quarterly loss at $0.78 per share on revenue of $17.10 million.
+• Minerva Neurosciences (NASDAQ:Full story available on Benzinga.com",2021-05-12 08:22:39+00:00,https://www.benzinga.com/news/earnings/21/05/21076023/earnings-scheduled-for-may-12-2021,Benzinga,0.03518518518518518,0.514814814814815,neutral,0.03518518518518518,True,False,False,False,False,False,False,False,0.0,4357,"['APP', 'COMP', 'CHRA', 'MNKD', 'BIOC', 'RADI', 'SFL', 'SBBP', 'AXU', 'PCOM', 'WISA', 'PAAS', 'EVOK', 'TTCF', 'SPG', 'RLMD', 'WISH', 'EAR', 'VIEW', 'PRTH', 'RNWK', 'WIX', 'PLBY', 'TM', 'SSKN', 'GRN', 'WATT', 'MRKR', 'SONO', 'NVEE', 'EOSE', 'TOT', 'GRWG', 'IVA', 'SLRX', 'APYX', 'STKL', 'CCAP', 'MDVL', 'WEN', 'METC', 'PEY', 'LIQT', 'OSW', 'TRMD', 'FLXN', 'PBLA', 'WWW', 'IFS', 'PRN', 'AMTX', 'ZVO', 'TSEM', 'AMRK', 'POSH', 'YPF', 'AREC', 'CAAS', 'STEP', 'YCBD', 'BYD', 'SDPI', 'BTRS', 'BRFS', 'SPB', 'UONEK', 'CRESY', 'MBCN', 'KRMD', 'CIR', 'RESN', 'DFH', 'GTEC', 'VERU', 'CRIS', 'PROF', 'ONEM', 'DOX', 'NERV', 'BMBL', 'LODE', 'ZEAL', 'CYCC', 'ALTO', 'APG', 'DT', 'BOOT', 'ONTF', 'PAM', 'EYEN', 'FOSL', 'TRQ', 'VRM', 'EGY', 'ADMA', 'BVS', 'ARCO', 'CEPU', 'FTEK', 'LAND', 'PYPD', 'GEO', 'BLBD', 'CPNG', 'TDUP', 'CPG', 'EOLS', 'HOOK', 'IMV', 'AFIB', 'ITP', 'MCFT', 'CTOS', 'ASM', 'GOCO', 'ISSC', 'KMDA', 'KBNT', 'MEG', 'SFT', 'EGLX', 'TIG', 'LGO', 'JACK', 'SOHO', 'AMWL', 'MSP', 'LITE']",CTOS,2021-05-12
+10 Industrials Stocks Moving In Friday's Intraday Session,"Gainers
+
+HyreCar (NASDAQ:HYRE) stock rose 44.56% to $12.91 during Friday's regular session. As of 12:30 EST, this security is trading at a volume of 13.8 million shares, making up 2598.04% of its average full-day volume over the last 100 days. The market value of their outstanding shares is at $262.9 million. As per the press release, Q1 earnings came out yesterday.
+Orbital Energy Group (NASDAQ:OEG) shares moved upwards by 17.13% to $3.41. Trading volume for this security as of 12:30 EST is 1.0 million, which is 43.49% of its average full-day volume over the last 100 days. The market value of their outstanding shares is at $158.7 million.
+Alta Equipment Group (NYSE:ALTG) stock increased by 14.45% to $14.77. Alta Equipment Group's stock is trading at a volume of 207.2K shares as of 12:30 EST. This is 223.33% of its average full-day volume over the last 100 days. The market value of their outstanding shares is at $476.8 million. As per the ...Full story available on Benzinga.com",2021-05-14 16:34:24+00:00,https://www.benzinga.com/intraday-update/21/05/21131093/10-industrials-stocks-moving-in-fridays-intraday-session,Benzinga,0.1708333333333333,0.45432692307692313,positive,0.1708333333333333,True,False,True,False,True,False,False,False,0.0,1050,"['ESEA', 'FTEK', 'WATT', 'OEG', 'PXS', 'LMB', 'CHRA', 'HYRE', 'ALTG', 'CTOS']",CTOS,2021-05-14
+"Analysts Estimate Custom Truck One Source, Inc. (CTOS) to Report a Decline in Earnings: What to Look Out for","Custom Truck One Source, Inc. (CTOS) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",2021-07-29 19:04:51+00:00,https://www.zacks.com/stock/news/1770816/analysts-estimate-custom-truck-one-source-inc-ctos-to-report-a-decline-in-earnings-what-to-look-out-for,Zacks Investment Research,0.07142857142857142,0.8839285714285714,neutral,0.07142857142857142,True,False,False,False,False,False,False,False,0.0,302,['CTOS'],CTOS,2021-07-29
+"Custom Truck One Source, Inc. (CTOS) Reports Q2 Loss, Tops Revenue Estimates","Custom Truck One Source, Inc. (CTOS) delivered earnings and revenue surprises of 29.03% and 21.20%, respectively, for the quarter ended June 2021. Do the numbers hold clues to what lies ahead for the stock?",2021-08-13 00:05:05+00:00,https://www.zacks.com/stock/news/1781304/custom-truck-one-source-inc-ctos-reports-q2-loss-tops-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,284,['CTOS'],CTOS,2021-08-13
+"Custom Truck One Source, Inc. (CTOS) May Report Negative Earnings: Know the Trend Ahead of Next Week's Release","Custom Truck One Source, Inc. (CTOS) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",2021-11-02 19:02:03+00:00,https://www.zacks.com/stock/news/1822099/custom-truck-one-source-inc-ctos-may-report-negative-earnings-know-the-trend-ahead-of-next-weeks-release,Zacks Investment Research,-0.0023809523809523816,0.655952380952381,neutral,0.0023809523809523816,True,False,False,False,True,False,False,False,0.0,304,['CTOS'],CTOS,2021-11-02
+"Custom Truck One Source, Inc. (CTOS) Reports Q3 Loss, Tops Revenue Estimates","Custom Truck One Source, Inc. (CTOS) delivered earnings and revenue surprises of -33.33% and 22.41%, respectively, for the quarter ended September 2021. Do the numbers hold clues to what lies ahead for the stock?",2021-11-09 23:45:08+00:00,https://www.zacks.com/stock/news/1826235/custom-truck-one-source-inc-ctos-reports-q3-loss-tops-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,290,['CTOS'],CTOS,2021-11-09
+Say No to These 4 Toxic Stocks,Toxic companies are usually characterized by huge debt loads and are vulnerable to external shocks. We highlight four such toxic stocks that you should dump right away to safeguard your portfolio.,2021-12-10 13:40:00+00:00,https://www.zacks.com/stock/news/1837843/say-no-to-these-4-toxic-stocks,Zacks Investment Research,-0.010714285714285704,0.46428571428571425,neutral,0.010714285714285704,False,False,False,False,False,True,False,False,0.0,228,"['HA', 'SWCH', 'ASAI', 'CTOS']",CTOS,2021-12-10
+"Zacks.com featured highlights include: Sendas, Switch, Custom Truck One, and Hawaiian Holdings","Zacks.com featured highlights include: Sendas, Switch, Custom Truck One, and Hawaiian Holdings",2021-12-13 16:23:00+00:00,https://www.zacks.com/stock/news/1838635/zackscom-featured-highlights-include-sendas-switch-custom-truck-one-and-hawaiian-holdings,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,190,"['HA', 'SWCH', 'ASAI', 'CTOS']",CTOS,2021-12-13
+4 Toxic Stocks to Eliminate From Your Portfolio Now,"Detecting toxic stocks and dumping them at the right time is crucial to avoid big losses. ILMN, TCMD, CTOS and GCI are a few toxic stocks that don't deserve a place in your portfolio.",2021-12-27 14:18:00+00:00,https://www.zacks.com/stock/news/1843763/4-toxic-stocks-to-eliminate-from-your-portfolio-now,Zacks Investment Research,0.021428571428571422,0.43392857142857144,neutral,0.021428571428571422,True,False,False,False,False,False,False,False,0.0,236,"['ILMN', 'GCI', 'TCMD', 'CTOS']",CTOS,2021-12-27
+"Strength Seen in Custom Truck One Source, Inc. (CTOS): Can Its 5.5% Jump Turn into More Strength?","Custom Truck One Source, Inc. (CTOS) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",2022-02-17 10:55:00+00:00,https://www.zacks.com/stock/news/1868869/strength-seen-in-custom-truck-one-source-inc-ctos-can-its-55-jump-turn-into-more-strength,Zacks Investment Research,0.225,0.41111111111111104,positive,0.225,True,False,False,False,False,False,False,False,0.0,317,"['CTOS', 'CAAS']",CTOS,2022-02-17
+"U.S. Auto Parts (PRTS) Reports Q4 Loss, Tops Revenue Estimates","U.S. Auto Parts (PRTS) delivered earnings and revenue surprises of 16.67% and 9.44%, respectively, for the quarter ended December 2021. Do the numbers hold clues to what lies ahead for the stock?",2022-03-01 22:35:08+00:00,https://www.zacks.com/stock/news/1875573/us-auto-parts-prts-reports-q4-loss-tops-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,259,"['PRTS', 'CTOS']",CTOS,2022-03-01
+"Custom Truck One Source, Inc. (CTOS) Surpasses Q4 Earnings Estimates","Custom Truck One Source, Inc. (CTOS) delivered earnings and revenue surprises of 200% and 7.69%, respectively, for the quarter ended December 2021. Do the numbers hold clues to what lies ahead for the stock?",2022-03-10 23:55:02+00:00,https://www.zacks.com/stock/news/1880592/custom-truck-one-source-inc-ctos-surpasses-q4-earnings-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,277,"['CTOS', 'DOOO']",CTOS,2022-03-10
+"Citigroup Maintains Buy Rating for Custom Truck One Source, Raises Price Target To $11","Citigroup has decided to maintain its Buy rating of Custom Truck One Source (NYSE:CTOS) and raise its price target from $9.00 to $11.00.
+Shares of Custom Truck One Source are trading up 5.34% over the last 24 hours, at $8.28 per share.
+A move to $11.00 would account for a 32.85% increase from the current share price.
+About Custom Truck One Source
+Custom Truck One Source Inc is a one-stop-shop provider of specialty equipment in the electric utility transmission and distribution, telecom, rail, and infrastructure end-markets in North America. The company's segment ...Full story available on Benzinga.com",2022-04-13 19:35:30+00:00,https://www.benzinga.com/analyst-ratings/22/04/26623370/citigroup-maintains-buy-rating-for-custom-truck-one-source-raises-price-target-to-11,Benzinga,0.13333333333333333,0.2888888888888889,positive,0.13333333333333333,False,True,False,False,False,False,False,False,0.0,696,['CTOS'],CTOS,2022-04-13
+Magna (MGA) Segmental Estimates Signal Dull Q1 Earnings Show,"The Zacks Consensus Estimate for Magna's (MGA) Q1 earnings and revenues is pegged at $1.05 per share and $8.88 billion, respectively.",2022-04-27 11:31:00+00:00,https://www.zacks.com/stock/news/1908796/magna-mga-segmental-estimates-signal-dull-q1-earnings-show,Zacks Investment Research,-0.14583333333333334,0.3,negative,0.14583333333333334,True,False,False,False,False,False,False,False,0.0,195,"['CMI', 'MGA', 'LCII', 'CTOS']",CTOS,2022-04-27
+"Custom Truck One Source, Inc. (CTOS) Reports Break-Even Earnings for Q1","Custom Truck One Source, Inc. (CTOS) delivered earnings and revenue surprises of 100% and 0.64%, respectively, for the quarter ended March 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-05-10 23:55:04+00:00,https://www.zacks.com/stock/news/1922368/custom-truck-one-source-inc-ctos-reports-break-even-earnings-for-q1,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,277,"['CTOS', 'BEEM']",CTOS,2022-05-10
+Implied Volatility Surging for Custom Truck One Source (CTOS) Stock Options,Investors need to pay close attention to Custom Truck One Source (CTOS) stock based on the movements in the options market lately.,2022-06-08 12:42:00+00:00,https://www.zacks.com/stock/news/1935990/implied-volatility-surging-for-custom-truck-one-source-ctos-stock-options,Zacks Investment Research,-0.3,0.6,negative,0.3,False,False,False,False,False,False,False,False,0.0,207,['CTOS'],CTOS,2022-06-08
+"Custom Truck One Source, Inc. (CTOS) Stock Jumps 9.1%: Will It Continue to Soar?","Custom Truck One Source, Inc. (CTOS) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",2022-06-27 12:26:00+00:00,https://www.zacks.com/stock/news/1944156/custom-truck-one-source-inc-ctos-stock-jumps-91-will-it-continue-to-soar,Zacks Investment Research,0.08611111111111111,0.43888888888888894,neutral,0.08611111111111111,True,False,False,False,False,False,False,False,0.0,306,"['CTOS', 'WPRT']",CTOS,2022-06-27
+Modine (MOD) Q1 Earnings and Revenues Top Estimates,"Modine (MOD) delivered earnings and revenue surprises of 166.67% and 5.93%, respectively, for the quarter ended June 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-08-03 22:55:10+00:00,https://www.zacks.com/stock/news/1963456/modine-mod-q1-earnings-and-revenues-top-estimates,Zacks Investment Research,0.22499999999999998,0.35000000000000003,positive,0.22499999999999998,True,False,False,False,False,False,False,False,0.0,235,"['MOD', 'CTOS']",CTOS,2022-08-03
+Commercial Vehicle Group (CVGI) Lags Q2 Earnings Estimates,"Commercial Vehicle Group (CVGI) delivered earnings and revenue surprises of -23.53% and 2.55%, respectively, for the quarter ended June 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-08-04 22:15:11+00:00,https://www.zacks.com/stock/news/1964319/commercial-vehicle-group-cvgi-lags-q2-earnings-estimates,Zacks Investment Research,0.0,0.03333333333333333,neutral,0.0,True,False,False,False,False,False,False,False,0.0,261,"['CVGI', 'CTOS']",CTOS,2022-08-04
+Adient (ADNT) Q3 Earnings and Revenues Beat Estimates,"Adient (ADNT) delivered earnings and revenue surprises of 500% and 3.30%, respectively, for the quarter ended June 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-08-05 14:45:02+00:00,https://www.zacks.com/stock/news/1964823/adient-adnt-q3-earnings-and-revenues-beat-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,235,"['ADNT', 'CTOS']",CTOS,2022-08-05
+"Custom Truck One Source, Inc. (CTOS) Beats Q2 Earnings Estimates","Custom Truck One Source, Inc. (CTOS) delivered earnings and revenue surprises of 400% and 4.64%, respectively, for the quarter ended June 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-08-09 22:45:10+00:00,https://www.zacks.com/stock/news/1966344/custom-truck-one-source-inc-ctos-beats-q2-earnings-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,269,"['CTOS', 'CAAS']",CTOS,2022-08-09
+Combat Choppy Market With These 4 Low-Beta Stocks,"It is imperative to build a portfolio of low-beta stocks to sail through a choppy market. Otter Tail (OTTR), Ardmore Shipping (ASC), Scorpio Tankers (STNG) and Custom Truck (CTOS) are well-poised to gain.",2022-08-12 12:56:00+00:00,https://www.zacks.com/stock/news/1967634/combat-choppy-market-with-these-4-low-beta-stocks,Zacks Investment Research,-0.2,0.2,negative,0.2,False,False,False,False,False,False,False,False,0.0,255,"['OTTR', 'ASC', 'STNG', 'CTOS']",CTOS,2022-08-12
+"Wall Street Analysts Predict a 36% Upside in Custom Truck One Source, Inc. (CTOS): Here's What You Should Know","The average of price targets set by Wall Street analysts indicates a potential upside of 36% in Custom Truck One Source, Inc. (CTOS). While the effectiveness of this highly sought-after metric is questionable, the positive trend in earnings estimate revisions might translate into an upside in the stock.",2022-08-12 13:55:15+00:00,https://www.zacks.com/stock/news/1967755/wall-street-analysts-predict-a-36-upside-in-custom-truck-one-source-inc-ctos-heres-what-you-should-know,Zacks Investment Research,-0.05254545454545454,0.6970909090909091,neutral,0.05254545454545454,True,False,False,False,False,False,False,False,0.0,416,['CTOS'],CTOS,2022-08-12
+"Zacks.com featured highlights include Otter Tail, Ardmore Shipping, Scorpio Tankers and Custom Truck One Source","Tail, Ardmore Shipping, Scorpio Tankers and Custom Truck One Source are part of Zacks Screen of the Week article.",2022-08-15 11:30:00+00:00,https://www.zacks.com/stock/news/1968046/zackscom-featured-highlights-include-otter-tail-ardmore-shipping-scorpio-tankers-and-custom-truck-one-source,Zacks Investment Research,0.0,0.0,neutral,0.0,False,False,False,False,False,False,False,False,0.0,226,"['OTTR', 'ASC', 'STNG', 'CTOS']",CTOS,2022-08-15
+"Here's Why Custom Truck One Source, Inc. (CTOS) is a Great Momentum Stock to Buy","Does Custom Truck One Source, Inc. (CTOS) have what it takes to be a top stock pick for momentum investors? Let's find out.",2022-08-15 16:00:07+00:00,https://www.zacks.com/stock/news/1968256/heres-why-custom-truck-one-source-inc-ctos-is-a-great-momentum-stock-to-buy,Zacks Investment Research,0.65,0.625,positive,0.65,False,True,False,False,False,False,False,False,0.0,205,['CTOS'],CTOS,2022-08-15
+"How Much Upside is Left in Custom Truck One Source, Inc. (CTOS)? Wall Street Analysts Think 43%","The consensus price target hints at a 42.7% upside potential for Custom Truck One Source, Inc. (CTOS). While empirical research shows that this sought-after metric is hardly effective, an upward trend in earnings estimate revisions could mean that the stock will witness an upside in the near term.",2022-08-29 13:55:28+00:00,https://www.zacks.com/stock/news/1973409/how-much-upside-is-left-in-custom-truck-one-source-inc-ctos-wall-street-analysts-think-43,Zacks Investment Research,0.09821428571428571,0.45535714285714285,neutral,0.09821428571428571,True,False,False,False,False,False,False,False,0.0,395,['CTOS'],CTOS,2022-08-29
+"Will Custom Truck One Source, Inc. (CTOS) Gain on Rising Earnings Estimates?","Custom Truck One Source, Inc. (CTOS) shares have started gaining and might continue moving higher in the near term, as indicated by solid earnings estimate revisions.",2022-08-30 16:20:06+00:00,https://www.zacks.com/stock/news/1974183/will-custom-truck-one-source-inc-ctos-gain-on-rising-earnings-estimates,Zacks Investment Research,0.11666666666666665,0.3333333333333333,positive,0.11666666666666665,True,False,False,False,False,False,False,False,0.0,244,['CTOS'],CTOS,2022-08-30
+Garrett Motion (GTX) Q3 Earnings Lag Estimates,"Garrett Motion (GTX) delivered earnings and revenue surprises of -4.55% and 4.08%, respectively, for the quarter ended September 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-10-26 12:35:04+00:00,https://www.zacks.com/stock/news/1997385/garrett-motion-gtx-q3-earnings-lag-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,242,"['GTX', 'CTOS']",CTOS,2022-10-26
+Dana (DAN) Beats Q3 Earnings and Revenue Estimates,"Dana (DAN) delivered earnings and revenue surprises of 14.29% and 2.37%, respectively, for the quarter ended September 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-10-27 12:35:08+00:00,https://www.zacks.com/stock/news/1998320/dana-dan-beats-q3-earnings-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,236,"['DAN', 'CTOS']",CTOS,2022-10-27
+"Take the Zacks Approach to Beat the Market: Caterpillar, Amgen, Inventiva in Focus",Our time-tested methodologies were at work to help investors navigate the market well last week. Here are some of our key performance data from the past three months.,2022-10-31 11:58:00+00:00,https://www.zacks.com/stock/news/2010979/take-the-zacks-approach-to-beat-the-market-caterpillar-amgen-inventiva-in-focus,Zacks Investment Research,-0.08333333333333333,0.4388888888888889,neutral,0.08333333333333333,False,False,False,False,False,False,False,False,0.0,250,"['AAPL', 'CAT', 'AMGN', 'TSCO', 'ABC', 'SJM', 'KOP', 'AXON', 'NOBL', 'IVA', 'CTOS', 'KNBE']",CTOS,2022-10-31
+"Custom Truck One Source, Inc. (CTOS) Reports Q3 Loss, Lags Revenue Estimates","Custom Truck One Source, Inc. (CTOS) delivered earnings and revenue surprises of -116.67% and 8.97%, respectively, for the quarter ended September 2022. Do the numbers hold clues to what lies ahead for the stock?",2022-11-08 23:45:11+00:00,https://www.zacks.com/stock/news/2015774/custom-truck-one-source-inc-ctos-reports-q3-loss-lags-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,290,"['CTOS', 'LOTZ']",CTOS,2022-11-08
+"Benzinga's Top Ratings Upgrades, Downgrades For December 13, 2022","Upgrades
+For Equinix Inc (NASDAQ:EQIX), Cowen & Co. upgraded the previous rating of Market Perform to Outperform. In the third quarter, Equinix showed an EPS of $7.73, compared to $6.94 from the year-ago quarter. The stock has a 52-week-high of $853.42 and a 52-week-low of $494.89. At the end of the last trading period, Equinix closed at $680.37.   
+Goldman Sachs upgraded the previous rating for Humana Inc (NYSE:HUM) from Neutral to Buy. In the third quarter, Humana showed an EPS of $6.88, compared to $4.83 from the year-ago quarter. The stock has a 52-week-high of $571.30 and a 52-week-low of $351.20. At the end of the last trading period, Humana closed at $529.99.   
+According to JP Morgan, the prior rating for First Hawaiian Inc (NASDAQ:FHB) was changed from Underweight to Neutral. First Hawaiian earned $0.54 in the third quarter, compared to $0.51 in the year-ago quarter. The stock has a 52-week-high of $31.16 and a 52-week-low of $21.21. At the end of the last trading period, First Hawaiian closed at $25.32.   
+According to Keefe, Bruyette & Woods, the prior rating for U.S. Bancorp (NYSE:USB) was changed from Market Perform to Outperform. For the third quarter, U.S. Bancorp had an EPS of $1.18, compared to year-ago quarter EPS of $1.30. At the moment, the stock has a 52-week-high of $63.57 and a 52-week-low of $38.39. U.S. Bancorp closed at $43.46 at the end of the last trading period.   
+For Coherent Corp (NASDAQ:COHR), Morgan Stanley upgraded the previous rating of Equal-Weight to Overweight. For the first quarter, Coherent had an EPS of $1.04, compared to year-ago quarter EPS of $2.32.  
+According to Citigroup, the prior rating for Phreesia Inc (NYSE:PHR) was changed from Neutral to Buy. In the third quarter, Phreesia showed an EPS of $0.76, compared to $0.46 from the year-ago quarter. The current stock performance of Phreesia shows a 52-week-high of $45.83 and a 52-week-low of $13.19. Moreover, at the end of the last trading period, the closing price was at $32.28.   
+According to B of A Securities, the prior rating for Molina Healthcare Inc (NYSE:MOH) was changed from Underperform to Neutral. Molina Healthcare earned $4.36 in the third quarter, compared to $2.83 in the year-ago quarter. At the moment, the stock has a 52-week-high of $374.00 and a 52-week-low of $249.78. Molina Healthcare closed at $353.06 at the end of the last trading period.   
+B of A Securities upgraded the previous rating for Playtika Holding Corp (NASDAQ:PLTK) from Underperform to Neutral. Playtika Holding earned $0.17 in the third quarter, compared to $0.20 in the year-ago quarter. The stock has a 52-week-high of $21.45 and a 52-week-low of $7.81. At the end of the last trading period, Playtika Holding closed at $8.48.   
+China Renaissance upgraded the previous rating for HUYA Inc (NYSE:HUYA) from Hold to Buy. In the third quarter, HUYA showed an EPS of $0.06, compared to $0.12 from the year-ago quarter. The stock has a 52-week-high of $7.94 and a 52-week-low of $1.64. At the end of the last trading period, HUYA closed at $2.84.   
+For Coupa Software Inc (NASDAQ:COUP), RBC Capital upgraded the previous rating of Underperform to Sector Perform. For the third quarter, Coupa Software had an EPS of $0.15, compared to year-ago quarter EPS of $0.31. The stock has a 52-week-high of $166.91 and a 52-week-low of $40.30. At the end of the last trading period, Coupa Software closed at $78.65.   
+According to Goldman Sachs, the prior rating for Inspire Medical Systems Inc (NYSE:INSP) was changed from Neutral to Buy. In the third quarter, Inspire Medical Systems showed an EPS of $0.60, compared to $0.38 from the year-ago quarter. The current stock performance of Inspire Medical Systems shows a 52-week-high of $272.04 and a 52-week-low of $142.74. Moreover, at the end of the last trading period, the closing price was at $236.47.   
+For Pfizer Inc (NYSE:PFE), Goldman Sachs upgraded the previous rating of Neutral to Buy. In the third quarter, Pfizer showed an EPS of $1.78, compared to $1.34 from the year-ago quarter. The current stock performance of Pfizer shows a 52-week-high of $61.71 and a 52-week-low of $41.45. Moreover, at the end of the last trading period, the closing price was at $52.16.   
+Piper Sandler upgraded the previous rating for Pinterest Inc (NYSE:PINS) from Neutral to Overweight. For the third quarter, Pinterest had an EPS of $0.11, compared to year-ago quarter EPS of $0.28. The stock has a 52-week-high of $39.33 and a 52-week-low of $16.14. At the end of the last trading period, Pinterest closed at $23.61.   
+Citigroup upgraded the previous rating for Weber Inc (NYSE:WEBR) from Sell to Neutral. In the third quarter, Weber showed an EPS of $0.07, compared to $157.84 from the year-ago quarter. The stock has a 52-week-high of $13.28 and a 52-week-low of $4.82. At the end of the last trading period, Weber closed at $8.01.   
+According to Credit Suisse, the prior rating for Coupa Software Inc (NASDAQ:COUP) was changed from Underperform to Neutral. Coupa Software earned $0.15 in the third quarter, compared to $0.31 in the year-ago quarter. The stock has a 52-week-high of $166.91 and a 52-week-low of $40.30. At the end of the last trading period, Coupa Software closed at $78.65.   
+See all analyst ratings upgrades.
+Downgrades
+According to Citigroup, the prior rating for MultiPlan Corp (NYSE:MPLN) was changed from Buy to Neutral. MultiPlan earned $0.03 in the third quarter, compared to $0.12 in the year-ago quarter. At the moment, the stock has a 52-week-high of $6.19 and a 52-week-low of $1.40. MultiPlan closed at $1.55 at the end of the last trading period.   
+For Horizon Therapeutics PLC (NASDAQ:HZNP), BMO Capital downgraded the previous rating of Outperform to Market Perform. For the third quarter, Horizon Therapeutics had an EPS of $1.25, compared to year-ago quarter EPS of $1.75. At the moment, the stock has a 52-week-high of $117.49 and a 52-week-low of $57.84. Horizon Therapeutics closed at $112.36 at the end of the last trading period.   
+For Centene Corp (NYSE:CNC), B of A Securities downgraded the previous rating of Neutral to Underperform. In the third quarter, Centene showed an EPS of $1.30, compared to $1.26 from the year-ago quarter. At the moment, the stock has a 52-week-high of $98.53 and a 52-week-low of $73.19. Centene closed at $86.89 at the end of the last trading period.   
+Goldman Sachs downgraded the previous rating for Bright Health Group Inc (NYSE:BHG) from Neutral to Sell. Bright Health Gr earned $0.31 in the third quarter, compared to $0.48 in the year-ago quarter. The stock has a 52-week-high of $4.55 and a 52-week-low of $0.80. At the end of the last trading period, Bright Health Gr closed at $0.87.   
+JP Morgan downgraded the previous rating for KeyCorp (NYSE:KEY) from Neutral to Underweight. For the third quarter, KeyCorp had an EPS of $0.55, compared to year-ago quarter EPS of $0.65. The current stock performance of KeyCorp shows a 52-week-high of $27.17 and a 52-week-low of $15.26. Moreover, at the end of the last trading period, the closing price was at $17.56.   
+According to JP Morgan, the prior rating for Huntington Bancshares Inc (NASDAQ:HBAN) was changed from Neutral to Underweight. In the third quarter, Huntington Bancshares showed an EPS of $0.39, compared to $0.35 from the year-ago quarter. The stock has a 52-week-high of $17.79 and a 52-week-low of $11.67. At the end of the last trading period, Huntington Bancshares closed at $14.61.   
+For Live Oak Bancshares Inc (NASDAQ:LOB), JP Morgan downgraded the previous rating of Neutral to Underweight. Live Oak Bancshares earned $0.96 in the third quarter, compared to $0.76 in the year-ago quarter. The current stock performance of Live Oak Bancshares shows a 52-week-high of $92.73 and a 52-week-low of $28.28. Moreover, at the end of the last trading period, the closing price was at $32.59.   
+According to Raymond James, the prior rating for KeyCorp (NYSE:KEY) was changed from Strong Buy to Outperform. In the third quarter, KeyCorp showed an EPS of $0.55, compared to $0.65 from the year-ago quarter. At the moment, the stock has a 52-week-high of $27.17 and a 52-week-low of $15.26. KeyCorp closed at $17.56 at the end of the last trading period.   
+Truist Securities downgraded the previous rating for Coupa Software Inc (NASDAQ:COUP) from Buy to Hold. For the third quarter, Coupa Software had an EPS of $0.15, compared to year-ago quarter EPS of $0.31. At the moment, the stock has a 52-week-high of $166.91 and a 52-week-low of $40.30. Coupa Software closed at $78.65 at the end of the last trading period.   
+According to Citigroup, the prior rating for Robinhood Markets Inc (NASDAQ:HOOD) was changed from Buy to Neutral. In the third quarter, Robinhood Markets showed an EPS of $0.20, compared to $2.02 from the year-ago quarter. At the moment, the stock has a 52-week-high of $21.81 and a 52-week-low of $6.81. Robinhood Markets closed at $9.58 at the end of the last trading period.   
+Raymond James downgraded the previous rating for UserTesting Inc (NYSE:USER) from Strong Buy to Market Perform. For the third quarter, UserTesting had an EPS of $0.04, compared to year-ago quarter EPS of $0.45. The stock has a 52-week-high of $11.99 and a 52-week-low of $3.31. At the end of the last trading period, UserTesting closed at $7.46.   
+According to Raymond James, the prior rating for Trimble Inc (NASDAQ:TRMB) was changed from Outperform to Market Perform. For the third quarter, Trimble had an EPS of $0.66, compared to year-ago quarter EPS of $0.66. The current stock performance of Trimble shows a 52-week-high of $88.90 and a 52-week-low of $49.99. Moreover, at the end of the last trading period, the closing price was at $58.78.   
+According to Guggenheim, the prior rating for Horizon Therapeutics PLC (NASDAQ:HZNP) was changed from Buy to Neutral. Horizon Therapeutics earned $1.25 in the third quarter, compared to $1.75 in the year-ago quarter. At the moment, the stock has a 52-week-high of $117.49 and a 52-week-low of $57.84. Horizon Therapeutics closed at $112.36 at the end of the last trading period.   
+According to B of A Securities, the prior rating for Discover Financial Services (NYSE:DFS) was changed from Buy to Underperform. In the third quarter, Discover Financial showed an EPS of $3.54, compared to $3.54 from the year-ago quarter. The stock has a 52-week-high of $130.81 and a 52-week-low of $87.64. At the end of the last trading period, Discover Financial closed at $105.28.   
+According to B of A Securities, the prior rating for Synchrony Financial (NYSE:SYF) was changed from Buy to Neutral. In the third quarter, Synchrony Finl showed an EPS of $1.47, compared to $2.00 from the year-ago quarter. The stock has a 52-week-high of $50.20 and a 52-week-low of $27.21. At the end of the last trading period, Synchrony Finl closed at $35.57.   
+For Affirm Holdings Inc (NASDAQ:AFRM), B of A Securities downgraded the previous rating of Buy to Neutral. For the first quarter, Affirm Holdings had an EPS of $0.86, compared to year-ago quarter EPS of $1.13. The current stock performance of Affirm Holdings shows a 52-week-high of $122.00 and a 52-week-low of $10.69. Moreover, at the end of the last trading period, the closing price was at $12.27.   
+For NetApp Inc (NASDAQ:NTAP), Morgan Stanley downgraded the previous rating of Equal-Weight to Underweight. For the second quarter, NetApp had an EPS of $1.48, compared to year-ago quarter EPS of $1.28. At the moment, the stock has a 52-week-high of $96.82 and a 52-week-low of $60.56. NetApp closed at $65.29 at the end of the last trading period.   
+For Coupa Software Inc (NASDAQ:COUP), Wolfe Research downgraded the previous rating of Outperform to Peer Perform. Coupa Software earned $0.15 in the third quarter, compared to $0.31 in the year-ago quarter. The stock has a 52-week-high of $166.91 and a 52-week-low of $40.30. At the end of the last trading period, Coupa Software closed at $78.65.   
+For Sabra Health Care REIT Inc (NASDAQ:SBRA), JMP Securities downgraded the previous rating ...Full story available on Benzinga.com",2022-12-13 15:01:29+00:00,https://www.benzinga.com/analyst-ratings/upgrades/22/12/30060421/benzingas-top-ratings-upgrades-downgrades-for-december-13-2022,Benzinga,0.004525648643295701,0.13137254901960782,neutral,0.004525648643295701,False,True,True,False,False,False,False,False,0.0,12207,"['DOV', 'CARR', 'NCLH', 'PRDS', 'INDB', 'SYF', 'FNB', 'VNT', 'HZNP', 'SPRY', 'INSP', 'MBLY', 'MBLY', 'HUM', 'MPLN', 'BHB', 'BEAM', 'MAIN', 'NVT', 'JBL', 'AFRM', 'SAR', 'ANGI', 'MOFG', 'W', 'KEY', 'HAYW', 'UMH', 'PLTK', 'NTAP', 'IAC', 'MOH', 'CTOS', 'AMNB', 'VECT', 'SHBI', 'GDDY', 'OB', 'SQSP', 'CBNK', 'PINS', 'SWIM', 'ETSY', 'PFE', 'BHG', 'CGNX', 'BARK', 'TRMB', 'VRSN', 'OKTA', 'PHR', 'HOOD', 'COHR', 'NCLH', 'ZBRA', 'PFC', 'RIO', 'WEBR', 'EBAY', 'KNOP', 'APH', 'FHB', 'TDY', 'COEP', 'EQIX', 'CRTO', 'BAM', 'TTD', 'TEL', 'ZD', 'FORM', 'COUP', 'CMA', 'RDFN', 'USB', 'ZD', 'HBAN', 'COUP', 'CNC', 'BFST', 'WSM', 'USER', 'HOMB', 'TPVG', 'CUZ', 'HUYA', 'MSCI', 'SSU', 'HTLF', 'TPVG', 'DFS', 'AMTB', 'SBRA', 'MOND', 'IBCP', 'LOB']",CTOS,2022-12-13
+"GreenPower Motor Company Inc. (GP) Reports Q3 Loss, Tops Revenue Estimates","GreenPower Motor Company Inc. (GP) delivered earnings and revenue surprises of 0% and 60.72%, respectively, for the quarter ended December 2022. Do the numbers hold clues to what lies ahead for the stock?",2023-02-14 00:25:02+00:00,https://www.zacks.com/stock/news/2053739/greenpower-motor-company-inc-gp-reports-q3-loss-tops-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,280,"['GP', 'CTOS']",CTOS,2023-02-14
+"Custom Truck One Source, Inc. (CTOS) Soars 5.6%: Is Further Upside Left in the Stock?","Custom Truck One Source, Inc. (CTOS) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",2023-02-17 11:37:00+00:00,https://www.zacks.com/stock/news/2055717/custom-truck-one-source-inc-ctos-soars-56-is-further-upside-left-in-the-stock,Zacks Investment Research,0.05740740740740741,0.37592592592592594,neutral,0.05740740740740741,True,False,False,False,False,False,False,False,0.0,311,"['CTOS', 'CVGI']",CTOS,2023-02-17
+"Custom Truck One Source, Inc. (CTOS) Q4 Earnings and Revenues Top Estimates","Custom Truck One Source, Inc. (CTOS) delivered earnings and revenue surprises of 36.36% and 12.69%, respectively, for the quarter ended December 2022. Do the numbers hold clues to what lies ahead for the stock?",2023-03-14 22:45:03+00:00,https://www.zacks.com/stock/news/2065805/custom-truck-one-source-inc-ctos-q4-earnings-and-revenues-top-estimates,Zacks Investment Research,0.25,0.3,positive,0.25,True,False,False,False,False,False,False,False,0.0,287,"['CTOS', 'DOOO']",CTOS,2023-03-14
+"Custom Truck One Source, Inc. (CTOS) Tops Q1 Earnings and Revenue Estimates","Custom Truck One Source, Inc. (CTOS) delivered earnings and revenue surprises of 50% and 15.40%, respectively, for the quarter ended March 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-05-09 23:45:10+00:00,https://www.zacks.com/stock/news/2092937/custom-truck-one-source-inc-ctos-tops-q1-earnings-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,281,"['CTOS', 'BEEM']",CTOS,2023-05-09
+"Innoviz Technologies Ltd. (INVZ) Reports Q2 Loss, Tops Revenue Estimates","Innoviz Technologies Ltd. (INVZ) delivered earnings and revenue surprises of -27.78% and 144.33%, respectively, for the quarter ended June 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-08-02 12:35:13+00:00,https://www.zacks.com/stock/news/2130972/innoviz-technologies-ltd-invz-reports-q2-loss-tops-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,278,"['INVZ', 'CTOS']",CTOS,2023-08-02
+"Custom Truck One Source, Inc. (CTOS) Tops Q2 Earnings and Revenue Estimates","Custom Truck One Source, Inc. (CTOS) delivered earnings and revenue surprises of 150% and 16.43%, respectively, for the quarter ended June 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-08-08 23:15:16+00:00,https://www.zacks.com/stock/news/2134032/custom-truck-one-source-inc-ctos-tops-q2-earnings-and-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,281,"['CTOS', 'BLBD']",CTOS,2023-08-08
+Analyst Expectations for Custom Truck One Source's Future,"Within the last quarter, Custom Truck One Source (NYSE:CTOS) has observed the following analyst ratings: 
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+3
+1
+0
+0
+0
+
+
+Last 30D
+1
+0
+0
+0
+0
+
+
+1M Ago
+0
+0
+0
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+2
+1
+0
+0
+0
+
+
+
+These 4 analysts have an average price target of $9.25 versus the current price of Custom Truck One Source at $6.0, implying  upside.
+Below is a summary of how these 4 analysts rated Custom Truck One Source over the past 3 months. The greater the number of bullish ratings, the more ...Full story available on Benzinga.com",2023-10-13 12:00:31+00:00,https://www.benzinga.com/analyst-ratings/23/10/35238810/analyst-expectations-for-custom-truck-one-sources-future,Benzinga,0.09090909090909091,0.3234848484848485,neutral,0.09090909090909091,False,False,False,False,False,False,False,False,0.0,662,['CTOS'],CTOS,2023-10-13
+Gentex (GNTX) Q3 Earnings and Revenues Top Estimates,"Gentex (GNTX) delivered earnings and revenue surprises of 7.14% and 2.99%, respectively, for the quarter ended September 2023. Do the numbers hold clues to what lies ahead for the stock?",2023-10-27 13:15:03+00:00,https://www.zacks.com/stock/news/2173632/gentex-gntx-q3-earnings-and-revenues-top-estimates,Zacks Investment Research,0.25,0.3,positive,0.25,True,False,False,False,False,False,False,False,0.0,240,"['GNTX', 'CTOS']",CTOS,2023-10-27
+Why Toast Shares Are Trading Lower By Around 17%? Here Are Other Stocks Moving In Wednesday's Mid-Day Session,"Gainers
+
+Heart Test Laboratories, Inc. (NASDAQ: HSCS) shares climbed 96% to $0.2921 after falling over 7% on Tuesday.
+GAN Limited  (NASDAQ: GAN) shares surged 83.9% to $1.64 as the company agreed to be acquired by Sega Sammy Creation for $1.97 per share in cash.
+MSP Recovery, Inc.  (NASDAQ: LIFW) shares climbed 54% to $9.55.
+Novo Integrated Sciences, Inc. (NASDAQ: NVOS) gained 37.3% to $2.0592. Novo Integrated Sciences recently announced a 1-for-10 reverse stock split of its common stock.
+Pineapple Energy Inc. (NASDAQ: PEGY) jumped 29% to $0.96. Pineapple Energy is expected to report third-quarter results on Nov. 10.
+Blade Air Mobility, Inc. (NASDAQ: BLDE) surged 27.3% to $2.89 as the company reported third-quarter FY23 revenue growth of 56.3% year-over-year to $71.44 million, beating the consensus of $66.94 million.
+ContextLogic Inc. (NASDAQ: WISH) rose 26% to $5.31 following strong quarterly sales.
+The RealReal, Inc.  (NASDAQ: REAL) climbed 25.5% to $2.02 following strong third-quarter results.
+American Public Education, Inc. (NASDAQ: APEI) rose 22.3% to $5.26 following upbeat third-quarter results.
+Roblox Corporation (NYSE: RBLX) climbed 19% to $41.72 after the company reported third-quarter financial results.
+Agiliti, Inc. (NYSE: AGTI) gained 18.6% to $7.25 following strong sales.
+AvidXchange Holdings, Inc. (NASDAQ: AVDX) climbed 16.9% to $9.39 following upbeat results.
+GoPro, Inc. (NASDAQ: GPRO) rose 16.4% to $3.12 after the company reported third-quarter financial results.
+Wearable Devices Ltd. (NASDAQ: WLDS) gained 16.1% to $1.08.
+Nuvei Corporation (NASDAQ: NVEI) climbed 15.4% to $18.16 following strong sales.
+Society Pass Incorporated (NASDAQ: SOPA) rose 15.3% to $0.3399. NusaTrip, the online travel arm of Society Pass, disclosed a strategic partnership with China-based Guangzhou Junwei International Travel Service Co. Ltd. to enhance travel options and experience for customers in both SEA and the People’s Republic of China.
+National CineMedia, Inc. (NASDAQ: NCMI) rose 15.2% to $4.48 following third-quarter results.
+Turtle Beach Corporation (NASDAQ: HEAR) climbed 15.1% to $10.02 following upbeat quarterly results.
+James Hardie Industries plc (NYSE: JHX) climbed 15.1% to $30.53 after the company reported a year-over-year increase in second-quarter financial results.
+Clear Secure, Inc. (NYSE: YOU) surged 14.4% to $20.28 following upbeat results.
+Enovix Corporation (NASDAQ: ENVX) gained 14.3% to $11.70 after the company reported better-than-expected third-quarter financial results.
+Target Hospitality Corp. ...",2023-11-08 18:41:58+00:00,https://www.benzinga.com/news/23/11/35681359/why-toast-shares-are-trading-lower-by-around-17-here-are-other-stocks-moving-in-wednesdays-mid-day-s,Benzinga,0.14657287157287155,0.3515512265512264,positive,0.14657287157287155,True,True,True,True,False,True,False,False,0.0,2671,"['NVOS', 'FTCI', 'ADNT', 'MOBV', 'SNBR', 'FLYW', 'SHLS', 'WLDS', 'LIFW', 'EOLS', 'AIP', 'YOU', 'TH', 'LQR', 'AGS', 'GAN', 'KIND', 'AGTI', 'CAUD', 'ESTA', 'ROI', 'HOOD', 'UPST', 'CREV', 'UPWK', 'APEI', 'ENVX', 'PRCH', 'LUMO', 'ARRY', 'NRDY', 'MGIC', 'VRM', 'DRRX', 'WRBY', 'LEJU', 'HEAR', 'PCT', 'EBAY', 'TOST', 'GPRO', 'MRVI', 'INSP', 'NVEI', 'MQ', 'RBLX', 'MRCY', 'SOPA', 'RILY', 'PBLA', 'NCMI', 'KD', 'AVDX', 'BLDE', 'JHX', 'EXFY', 'WISH', 'OSCR', 'SPR', 'PEGY', 'THAR', 'CPNG', 'WBD', 'JGGC', 'UONE', 'CTOS', 'REAL', 'HSCS']",CTOS,2023-11-08
+Is Custom Truck One Source (CTOS) Stock Undervalued Right Now?,"Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.",2024-01-03 14:40:12+00:00,https://www.zacks.com/stock/news/2204998/is-custom-truck-one-source-ctos-stock-undervalued-right-now,Zacks Investment Research,0.24380952380952378,0.7638095238095238,positive,0.24380952380952378,True,False,False,False,False,False,False,False,0.0,327,"['CTOS', 'DRVN']",CTOS,2024-01-03
+"The Lion Electric Company (LEV) Reports Q4 Loss, Misses Revenue Estimates","The Lion Electric Company (LEV) delivered earnings and revenue surprises of -33.33% and 35.29%, respectively, for the quarter ended December 2023. Do the numbers hold clues to what lies ahead for the stock?",2024-02-29 13:40:05+00:00,https://www.zacks.com/stock/news/2233700/the-lion-electric-company-lev-reports-q4-loss-misses-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,281,"['LEV', 'CTOS']",CTOS,2024-02-29
+"Custom Truck One Source, Inc. (CTOS) Misses Q4 Earnings Estimates","Custom Truck One Source, Inc. (CTOS) delivered earnings and revenue surprises of -36.36% and 11.08%, respectively, for the quarter ended December 2023. Do the numbers hold clues to what lies ahead for the stock?",2024-03-07 23:30:04+00:00,https://www.zacks.com/stock/news/2237701/custom-truck-one-source-inc-ctos-misses-q4-earnings-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,278,"['CTOS', 'BEEM']",CTOS,2024-03-07
+Why Marvell Technology Shares Are Trading Lower By 10%? Here Are Other Stocks Moving In Friday's Mid-Day Session,"Shares of  Marvell Technology, Inc. (NASDAQ: MRVL) fell sharply during Friday’s session after the company reported fourth-quarter financial results and issued weak Q1 guidance.
+Marvell said fourth-quarter revenue increased 1% year-over-year to $1.427 billion, which beat the consensus estimate of $1.42 billion. The chip designer reported quarterly earnings of 46 cents per share, which was in line with analyst estimates.
+Marvell sees first-quarter revenue of $1.15 billion, plus or minus 5%, versus estimates of $1.371 billion. The company sees first-quarter adjusted earnings of 23 cents per share, plus or minus 5 cents per share, versus estimates of 40 cents per share. The company authorized a $3 billion buyback.
+Marvell Technology shares dipped 9.6% to $76.91 on Friday.
+Here are some other stocks moving in today's mid-day session.
+Gainers
+Ainos, Inc.  (NASDAQ: AIMD) jumped 140% to $2.6899 after dipping 18% on Thursday.
+Psyence Biomedical Ltd.  (NASDAQ: PBM) shares climbed 139% to $3.0350. Psyence Biomedical recently announced its subsidiary, Psyence Australia, received Human Research Ethics Committee approval to initiate its Phase IIb study.
+Safe and Green Development Corporation (NASDAQ: SGD) shares jumped 138% to $1.57 after the company announced financing for the Norman Berry Expansion in Atlanta, Georgia.
+MIRA Pharmaceuticals, Inc. (NASDAQ: MIRA) shares climbed 48.5% to $1.36. MIRA Pharmaceuticals, last month, announced a research collaboration with Pharmaseed to research and evaluate Ketamir for patients with major depressive disorder and post-traumatic stress disorder.
+CERo Therapeutics Holdings, Inc. (NASDAQ: CERO) shares climbed 35.4% to $4.17 after surging over 20% on Thursday. CERo Therapeutics recently announced the publication of preclinical research analyzing CER-1236 in targeting Acute Myelogenous Leukemia tumor cells from human patients.
+Willdan Group, Inc. (NASDAQ: WLDN) gained 30.4% to $25.89 after the company reported better-than-expected fourth-quarter financial results and issued FY24 guidance above estimates. Also, the company secured a contract worth approximately $30 million to $50 million over three years.
+The Joint Corp. (NASDAQ: JYNT) gained 29% to $11.80 following fourth-quarter results.
+Smith & Wesson Brands, Inc. (NASDAQ: SWBI) jumped 25.8% to $16.91 after the company reported better-than-expected third-quarter financial results.
+Research Frontiers Incorporated ...",2024-03-08 18:47:01+00:00,https://www.benzinga.com/news/24/03/37565242/why-marvell-technology-shares-are-trading-lower-by-10-here-are-other-stocks-moving-in-fridays-mid-da,Benzinga,-0.003977272727272726,0.2814393939393939,neutral,0.003977272727272726,True,True,True,True,False,True,False,False,0.0,2548,"['MIRA', 'PBR', 'SWBI', 'AIRE', 'GRFS', 'ASLE', 'DDI', 'SGD', 'PRCH', 'NXU', 'IOT', 'EGOX', 'HCI', 'VIRX', 'PBM', 'MOBX', 'DKL', 'AEVA', 'COST', 'CERO', 'JYNT', 'CTOS', 'CRMT', 'ADAP', 'AIMD', 'GIFI', 'DOMO', 'GROM', 'MRVL', 'MAX', 'COOK', 'PRTS', 'NXL', 'RWAY', 'RDNT', 'IMRN', 'PIK', 'REFR', 'RDFN', 'BBAI', 'WLDN', 'AMLX', 'SWVL', 'SMR', 'CCL', 'MDB', 'BREA', 'GCO', 'DOGZ', 'CRML', 'IEP', 'AQST']",CTOS,2024-03-08
+"Analysts Estimate Custom Truck One Source, Inc. (CTOS) to Report a Decline in Earnings: What to Look Out for",Custom Truck One Source (CTOS) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.,2024-04-25 14:02:10+00:00,https://www.zacks.com/stock/news/2262318/analysts-estimate-custom-truck-one-source-inc-ctos-to-report-a-decline-in-earnings-what-to-look-out-for,Zacks Investment Research,0.07142857142857142,0.8839285714285714,neutral,0.07142857142857142,True,False,False,False,False,False,False,False,0.0,296,"['CTOS', 'LEA']",CTOS,2024-04-25
+"Custom Truck One Source, Inc. (CTOS) Reports Q1 Loss, Misses Revenue Estimates","Custom Truck One Source (CTOS) delivered earnings and revenue surprises of -500% and 11.09%, respectively, for the quarter ended March 2024. Do the numbers hold clues to what lies ahead for the stock?",2024-05-02 22:10:04+00:00,https://www.zacks.com/stock/news/2267505/custom-truck-one-source-inc-ctos-reports-q1-loss-misses-revenue-estimates,Zacks Investment Research,0.0,0.1,neutral,0.0,True,False,False,False,False,False,False,False,0.0,280,"['CTOS', 'WKHS']",CTOS,2024-05-02
+Expert Ratings For Custom Truck One Source,"6 analysts have shared their evaluations of Custom Truck One Source (NYSE:CTOS) during the recent three months, expressing a mix of bullish and bearish perspectives.
+The table below offers a condensed view of their recent ratings, showcasing the changing sentiments over the past 30 days and comparing them to the preceding months.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+1
+4
+1
+0
+0
+
+
+Last 30D
+0
+1
+0
+0
+0
+
+
+1M Ago
+0
+1
+1
+0
+0
+
+
+2M Ago
+0
+0
+0
+0
+0
+
+
+3M Ago
+1
+2
+0
+0
+0
+
+
+
+Analysts' evaluations of 12-month price targets offer additional insights, showcasing an average target of $8.0, with a high estimate of $12.00 and a low estimate of $6.00. This current average has decreased by 7.73% from the previous average price target of $8.67. 
+
+Analyzing Analyst Ratings: A Detailed Breakdown
+A clear picture of Custom Truck One Source's perception among financial experts is painted with a thorough analysis of recent analyst actions. The summary below outlines key analysts, their recent evaluations, and adjustments to ratings and price targets.
+
+
+
+Analyst
+Analyst Firm
+Action Taken
+Rating
+Current Price Target
+Prior Price Target
+
+
+
+
+Scott Schneeberger
+Oppenheimer
+Lowers
+Outperform
+$7.00
+$8.00
+
+
+Tami Zakaria
+JP Morgan
+Lowers
+Neutral
+$6.00
+$7.00
+
+
+Justin Hauke
+Baird
+Lowers
+Outperform
+$7.00
+$8.00
+
+
+Michael Shlisky
+DA Davidson
+Maintains
+Buy
+$12.00
+$12.00
+
+
+Scott Schneeberger
+Oppenheimer
+Maintains
+Outperform
+$8.00
+$8.00
+
+
+Justin Hauke
+Baird
+Lowers
+Outperform
+$8.00
+$9.00
+
+
+
+Key Insights:
+
+Action Taken: Analysts adapt their recommendations to changing market conditions and company performance. Whether they 'Maintain', 'Raise' or 'Lower' their stance, it reflects their response to recent developments related to Custom Truck ...Full story available on Benzinga.com",2024-05-13 19:00:32+00:00,https://www.benzinga.com/insights/analyst-ratings/24/05/38798713/expert-ratings-for-custom-truck-one-source,Benzinga,-0.0036781609195402267,0.3640229885057471,neutral,0.0036781609195402267,False,True,False,False,False,False,False,False,0.0,1845,['CTOS'],CTOS,2024-05-13
+New Strong Sell Stocks for June 10th,"CTOS, ARW and DSDVY have been added to the Zacks Rank #5 (Strong Sell) List on May 17, 2024.",2024-06-10 09:58:00+00:00,https://www.zacks.com/stock/news/2285765/new-strong-sell-stocks-for-june-10th,Zacks Investment Research,0.05075757575757571,0.7053030303030303,neutral,0.05075757575757571,False,False,False,False,False,False,False,False,0.0,130,"['ARW', 'DSDVY', 'CTOS']",CTOS,2024-06-10
+Unveiling 4 Analyst Insights On Custom Truck One Source,"4 analysts have expressed a variety of opinions on Custom Truck One Source (NYSE:CTOS) over the past quarter, offering a diverse set of opinions from bullish to bearish.
+Summarizing their recent assessments, the table below illustrates the evolving sentiments in the past 30 days and compares them to the preceding months.
+
+
+
+
+Bullish
+Somewhat Bullish
+Indifferent
+Somewhat Bearish
+Bearish
+
+
+
+
+Total Ratings
+0
+2
+2
+0
+0
+
+
+Last 30D
+0
+0
+1
+0
+0
+
+
+1M Ago
+0
+0
+0
+0
+0
+
+
+2M Ago
+0
+2
+1
+0
+0
+
+
+3M Ago
+0
+0
+0
+0
+0
+
+
+
+The 12-month price targets, analyzed by analysts, offer insights with an average target of $6.38, a high estimate of $7.00, and a low estimate of $5.50. A 16.82% drop is evident in the current average compared to the previous average price target of $7.67. 
+
+Investigating Analyst Ratings: An Elaborate Study
+The standing of Custom Truck One Source among financial experts becomes clear with a thorough analysis of recent analyst actions. The summary below outlines key analysts, their recent evaluations, and adjustments to ratings and price targets.
+
+
+
+Analyst
+Analyst Firm
+Action Taken
+Rating
+Current Price Target
+Prior Price Target
+
+
+
+
+Brian Brophy
+Stifel
+Announces
+Hold
+$5.50
+-
+
+
+Scott Schneeberger
+Oppenheimer
+Lowers
+Outperform
+$7.00
+$8.00
+
+
+Tami Zakaria
+JP Morgan
+Lowers
+Neutral
+$6.00
+$7.00
+
+
+Justin Hauke
+Baird
+Lowers
+Outperform
+$7.00
+$8.00
+
+
+
+Key Insights:
+
+Action Taken: Responding to changing market dynamics and company performance, analysts update their recommendations. Whether they 'Maintain', 'Raise', or 'Lower' their stance, it signifies their response to recent developments related to Custom Truck One Source. This offers insight into analysts' perspectives on the current state ...Full story available on Benzinga.com",2024-06-14 14:01:12+00:00,https://www.benzinga.com/insights/analyst-ratings/24/06/39333445/unveiling-4-analyst-insights-on-custom-truck-one-source,Benzinga,0.013111111111111113,0.35855555555555557,neutral,0.013111111111111113,False,False,False,False,False,False,False,False,0.0,1793,['CTOS'],CTOS,2024-06-14
+Breaking Down Custom Truck One Source: 5 Analysts Share Their Views - Benzinga,"Five analysts have recently evaluated Custom Truck One Source, providing a range of opinions from bullish to bearish. The average 12-month price target is $6.1, with a high of $7.00 and a low of $5.00, indicating a 15.86% decline from the prior average. The analysis highlights challenges in the company's financials, including a negative revenue trend, low net margin, and subpar return on equity and assets.",2024-07-10 21:00:51+00:00,https://www.benzinga.com/insights/analyst-ratings/24/07/39719278/breaking-down-custom-truck-one-source-5-analysts-share-their-views,Benzinga,-0.05955555555555556,0.28788888888888886,neutral,0.05955555555555556,True,False,False,False,False,False,False,False,0.2,489,['CTOS'],CTOS,2024-07-10

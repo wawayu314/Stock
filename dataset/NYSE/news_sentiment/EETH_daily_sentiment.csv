@@ -1,0 +1,13 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2023-11-02,0.0622,,1,0.0622,0.0,0,0,1,0,1,0,1,0,992.0,EETH
+2023-11-10,0.0,,1,0.0,0.0,0,0,0,0,1,0,0,0,119.0,EETH
+2024-03-04,0.8333,,1,0.8333,0.0,0,0,0,0,0,0,0,0,182.0,EETH
+2024-03-06,0.0,,1,0.0,0.0,0,0,0,0,0,0,0,0,199.0,EETH
+2024-03-12,0.0,,1,0.0,0.2,0,0,0,0,1,0,0,0,340.0,EETH
+2024-04-19,0.0713,,1,0.0713,0.0,1,1,1,0,1,0,1,0,1113.0,EETH
+2024-04-21,0.2417,,1,0.2417,0.0,0,1,0,0,0,0,0,0,749.0,EETH
+2024-05-22,0.0091,,1,0.0091,0.0,0,0,1,0,0,0,0,0,229.0,EETH
+2024-05-28,0.1667,,1,0.1667,0.0,0,0,0,0,0,0,0,0,131.0,EETH
+2024-05-31,0.2048,,1,0.2048,0.0,1,0,0,0,0,0,0,0,242.0,EETH
+2024-06-25,0.0933,,1,0.0933,0.0,0,0,0,0,0,0,0,0,190.0,EETH
+2024-06-27,0.1667,,1,0.1667,0.0,0,0,1,0,0,0,0,0,107.0,EETH

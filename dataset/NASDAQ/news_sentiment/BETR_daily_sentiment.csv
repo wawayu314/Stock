@@ -1,0 +1,12 @@
+date,sentiment_polarity_mean,sentiment_polarity_std,sentiment_polarity_count,sentiment_confidence_mean,urgency_score_mean,keywords_earnings_sum,keywords_acquisition_sum,keywords_regulation_sum,keywords_partnership_sum,keywords_product_sum,keywords_financial_sum,keywords_leadership_sum,keywords_lawsuit_sum,text_length_mean,ticker
+2023-08-25,0.2246,0.1571,3,0.2246,0.0,1,2,2,0,0,0,1,0,1315.6667,BETR
+2023-08-28,0.1281,,1,0.1281,0.0,1,1,1,0,0,0,0,0,558.0,BETR
+2023-08-30,0.0906,,1,0.0906,0.0,0,0,1,0,0,0,0,0,621.0,BETR
+2023-08-31,0.3259,,1,0.3259,0.0,0,1,0,0,0,0,0,0,983.0,BETR
+2023-09-13,0.8125,,1,0.8125,0.0,0,1,0,0,0,0,0,0,247.0,BETR
+2023-09-19,-0.006,,1,0.006,0.0,1,0,0,0,0,0,0,0,603.0,BETR
+2023-10-19,0.73,,1,0.73,0.0,0,1,0,0,0,0,0,0,250.0,BETR
+2023-10-27,-0.0417,,1,0.0417,0.0,1,0,0,0,0,0,0,0,611.0,BETR
+2023-12-15,0.2625,,1,0.2625,0.0,0,1,0,0,0,0,0,0,261.0,BETR
+2024-01-08,0.2,,1,0.2,0.0,0,1,0,0,0,0,0,0,627.0,BETR
+2024-03-28,-0.12,,1,0.12,0.0,1,0,0,0,0,0,0,0,791.0,BETR
