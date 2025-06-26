@@ -1,0 +1,32 @@
+Using device: cpu
+Loading data from: ../dataset\SP500
+原始SP500数据形状: (464, 1148, 5) (股票数: 464, 天数: 1148, 特征数: 5)
+使用全部5年数据 (2020-2024)，数据形状: (464, 1148, 5)
+Warning: Initial stock_num (1026) does not match SP500.npy shape (464). Adjusting stock_num.
+Market is SP500. stock_num adjusted to: 464. Data shapes: eod_data=(464, 1148, 5), price_data=(464, 1148), gt_data=(464, 1148), mask_data=(464, 1148)
+市场为 SP500，实际加载股票数量更新为: 464
+总交易天数: 1148
+根据 60%/20%/_ 分割比例 (已调整为满足最小数据集要求):
+训练集天数 (0-indexed, up to valid_index-1): 688 (实际比例: 59.9%)
+验证集天数 (valid_index to test_index-1): 230 (实际比例: 20.0%)
+测试集天数 (test_index to end): 230 (实际比例: 20.0%)
+验证集起始索引 (valid_index): 688
+测试集起始索引 (test_index): 918
+✅ 数据集分割检查通过
+Starting STHAN-SR training...
+Epoch 1/100 ##########################################################
+Train: loss:9.7649e-01 = 9.7648e-01 + alpha*1.0720e-04
+Valid: loss:9.7390e-01 = 9.7389e-01 + alpha*9.8965e-05 | IC: -0.0064, RIC: -0.0487, Prec@10: 0.5174, SR: 0.6264
+Test (at best valid): loss:9.7704e-01 = 9.7704e-01 + alpha*9.1329e-05 | IC: 0.0046, RIC: 0.0411, Prec@10: 0.5357, SR: 0.4803
+
+Epoch 2/100 ##########################################################
+Train: loss:9.7320e-01 = 9.7319e-01 + alpha*1.1978e-04
+Valid: loss:9.7390e-01 = 9.7389e-01 + alpha*9.8971e-05 | IC: -0.0064, RIC: -0.0487, Prec@10: 0.5174, SR: 0.6264
+Test (at best valid): loss:9.7704e-01 = 9.7703e-01 + alpha*9.1334e-05 | IC: 0.0046, RIC: 0.0411, Prec@10: 0.5357, SR: 0.4803
+
+Epoch 3/100 ##########################################################
+Train: loss:9.7320e-01 = 9.7319e-01 + alpha*1.1979e-04
+Valid: loss:9.7390e-01 = 9.7389e-01 + alpha*9.8972e-05 | IC: -0.0064, RIC: -0.0487, Prec@10: 0.5174, SR: 0.6264
+Test (at best valid): loss:9.7704e-01 = 9.7703e-01 + alpha*9.1335e-05 | IC: 0.0046, RIC: 0.0411, Prec@10: 0.5357, SR: 0.4803
+
+Epoch 4/100 ##########################################################

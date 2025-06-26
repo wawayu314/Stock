@@ -1,0 +1,41 @@
+原始SP500数据形状: (464, 1148, 5) (股票数: 464, 天数: 1148, 特征数: 5)
+使用全部5年数据 (2020-2024)，数据形状: (464, 1148, 5)
+市场为 SP500，实际加载股票数量更新为: 464
+总交易天数: 1148
+根据 60%/20%/_ 分割比例 (已调整为满足最小数据集要求):
+训练集天数 (0-indexed, up to valid_index-1): 688 (实际比例: 59.9%)
+验证集天数 (valid_index to test_index-1): 230 (实际比例: 20.0%)
+测试集天数 (test_index to end): 230 (实际比例: 20.0%)
+验证集起始索引 (valid_index): 688
+测试集起始索引 (test_index): 918
+✅ 数据集分割检查通过
+✅ EOD数据已使用训练集的均值和标准差进行标准化
+C:\ProgramData\anaconda3\envs\mypytorch\lib\site-packages\torch\optim\lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+epoch1##########################################################
+Train : loss:5.80e-01  =  5.80e-01 + alpha*2.37e-03
+train.py:205: DeprecationWarning: __array__ implementation doesn't accept a copy keyword, so passing copy=False failed. __array__ must implement 'dtype' and 'copy' keyword arguments.
+  cur_valid_pred[:, cur_offset - (start_index - lookback_length - steps + 1)] = cur_rr[:, 0].cpu()
+train.py:206: DeprecationWarning: __array__ implementation doesn't accept a copy keyword, so passing copy=False failed. __array__ must implement 'dtype' and 'copy' keyword arguments.
+  cur_valid_gt[:, cur_offset - (start_index - lookback_length - steps + 1)] = gt_batch[:, 0].cpu()
+train.py:207: DeprecationWarning: __array__ implementation doesn't accept a copy keyword, so passing copy=False failed. __array__ must implement 'dtype' and 'copy' keyword arguments.
+  cur_valid_mask[:, cur_offset - (start_index - lookback_length - steps + 1)] = mask_batch[:, 0].cpu()
+Valid : loss:2.21e-01  =  2.20e-01 + alpha*3.10e-03
+Test: loss:2.59e-01  =  2.58e-01 + alpha*3.06e-03
+Valid performance:
+ mse:2.20e-01, IC:-8.92e-03, RIC:-7.08e-02, prec@10:5.07e-01, SR:1.40e-01
+Test performance:
+ mse:2.58e-01, IC:1.02e-02, RIC:8.51e-02, prec@10:5.10e-01, SR:4.07e-01 
+
+
+epoch2##########################################################
+Train : loss:1.23e-01  =  1.22e-01 + alpha*2.81e-03
+Valid : loss:8.63e-02  =  8.59e-02 + alpha*2.05e-03
+Test: loss:1.08e-01  =  1.08e-01 + alpha*2.36e-03
+Valid performance:
+ mse:8.59e-02, IC:-6.59e-03, RIC:-7.03e-02, prec@10:5.26e-01, SR:6.19e-01
+Test performance:
+ mse:1.08e-01, IC:9.72e-03, RIC:1.06e-01, prec@10:5.17e-01, SR:9.53e-01 
+
+
+epoch3##########################################################

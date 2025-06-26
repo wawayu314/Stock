@@ -1,0 +1,285 @@
+import random
+import numpy as np
+import os
+import torch as torch
+import torch.nn as nn # Added for activation function classes
+import openpyxl # 新增导入
+from openpyxl.utils import get_column_letter # 新增导入
+from load_data import load_EOD_data
+from evaluator import evaluate
+from model import get_loss # Keep get_loss for now, alpha can be adjusted
+from lstm_model import LSTMStockPredictor # Import LSTM model
+import pickle
+import math # 新增导入，用于计算分割点
+
+
+np.random.seed(123456789)
+torch.random.manual_seed(12345678)
+device = torch.device("cuda") if torch.cuda.is_available() else 'cpu'
+
+data_path = '../dataset'
+market_name = 'A_SHARE'
+# relation_name = 'wikidata' # Not used in original train.py for NASDAQ
+stock_num = 1026 # 将在数据加载后动态更新
+lookback_length = 24  # 增加序列长度，从16增加到24，捕获更长期依赖
+epochs = 80  # 适度增加训练轮次，从100减少到80以防过拟合
+# valid_index 和 test_index 将在数据加载后动态计算
+fea_num = 5 # This will be input_dim for LSTM
+steps = 1
+learning_rate = 0.0005  # 降低学习率，从0.001到0.0005，提高训练稳定性
+alpha = 0.05  # 大幅降低排序损失权重，从0.1到0.05，重点关注MSE损失
+
+# LSTM specific hyperparameters - 针对A股市场优化
+lstm_hidden_dim = 96  # 增加隐藏层维度，从64到96，提升模型表达能力
+lstm_num_layers = 3   # 增加层数，从2到3，提升模型复杂度
+lstm_dropout_prob = 0.2  # 增加dropout，从0.1到0.2，提高泛化能力
+
+# Activation function string is not directly used by LSTM model init, but get_loss might use it if it were more complex.
+# For simplicity, removing activation_str and its logic for LSTM train script.
+
+dataset_path = '../dataset/' + market_name
+if market_name == "SP500":
+    data = np.load('../dataset/SP500/SP500.npy')
+    print(f"原始SP500数据形状: {data.shape} (股票数: {data.shape[0]}, 天数: {data.shape[1]}, 特征数: {data.shape[2]})")
+    
+    # 使用全部5年数据，不再进行切片
+    print(f"使用全部5年数据 (2020-2024)，数据形状: {data.shape}")
+    
+    stock_num = data.shape[0]
+    print(f"市场为 SP500，实际加载股票数量更新为: {stock_num}")
+    price_data = data[:, :, -1]
+    mask_data = np.ones((data.shape[0], data.shape[1]))
+    eod_data = data
+    gt_data = np.zeros((data.shape[0], data.shape[1]))
+    for ticket in range(0, data.shape[0]):
+        for row in range(1, data.shape[1]):
+            gt_data[ticket][row] = (data[ticket][row][-1] - data[ticket][row - steps][-1]) / \
+                                   (data[ticket][row - steps][-1] + 1e-8) # 防止除零
+else:
+    with open(os.path.join(dataset_path, "eod_data.pkl"), "rb") as f:
+        eod_data = pickle.load(f)
+    with open(os.path.join(dataset_path, "mask_data.pkl"), "rb") as f:
+        mask_data = pickle.load(f)
+    with open(os.path.join(dataset_path, "gt_data.pkl"), "rb") as f:
+        gt_data = pickle.load(f)
+    with open(os.path.join(dataset_path, "price_data.pkl"), "rb") as f:
+        price_data = pickle.load(f)
+
+# --- 通用设置和动态分割 ---
+stock_num = eod_data.shape[0] # 从加载的数据动态更新股票数量
+trade_dates = mask_data.shape[1] # 交易日数
+
+print(f"市场为 {market_name}，实际加载股票数量更新为: {stock_num}")
+print(f"总交易天数: {trade_dates}")
+
+# 动态计算数据集分割点
+train_ratio = 0.60
+valid_ratio = 0.20
+# 测试集比例由 (1 - train_ratio - valid_ratio) 隐式确定
+
+# 确保最小数据集大小
+min_valid_days = max(50, lookback_length + steps + 10)  # 验证集最少50天或lookback+steps+10天
+min_test_days = max(50, lookback_length + steps + 10)   # 测试集最少50天或lookback+steps+10天
+min_train_days = max(100, lookback_length + steps + 20) # 训练集最少100天或lookback+steps+20天
+
+# 计算分割点
+valid_index = max(min_train_days, math.floor(trade_dates * train_ratio))
+test_index = max(valid_index + min_valid_days, math.floor(trade_dates * (train_ratio + valid_ratio)))
+
+# 确保测试集也有足够的数据
+if trade_dates - test_index < min_test_days:
+    # 如果测试集太小，向前调整
+    test_index = trade_dates - min_test_days
+    if test_index <= valid_index:
+        # 如果还是不够，重新分配
+        available_days = trade_dates - min_train_days
+        if available_days >= min_valid_days + min_test_days:
+            valid_index = min_train_days
+            test_index = trade_dates - min_test_days
+        else:
+            print(f"错误：数据集太小({trade_dates}天)，无法进行有效的训练/验证/测试分割")
+            print(f"最少需要: {min_train_days + min_valid_days + min_test_days}天")
+            exit(1)
+
+print(f"根据 {train_ratio:.0%}/{valid_ratio:.0%}/_ 分割比例 (已调整为满足最小数据集要求):")
+print(f"训练集天数 (0-indexed, up to valid_index-1): {valid_index} (实际比例: {valid_index/trade_dates:.1%})")
+print(f"验证集天数 (valid_index to test_index-1): {test_index - valid_index} (实际比例: {(test_index-valid_index)/trade_dates:.1%})")
+print(f"测试集天数 (test_index to end): {trade_dates - test_index} (实际比例: {(trade_dates-test_index)/trade_dates:.1%})")
+print(f"验证集起始索引 (valid_index): {valid_index}")
+print(f"测试集起始索引 (test_index): {test_index}")
+
+# 最终安全检查
+if valid_index >= test_index or test_index >= trade_dates:
+    print(f"错误：分割索引无效 - valid_index:{valid_index}, test_index:{test_index}, trade_dates:{trade_dates}")
+    exit(1)
+    
+if test_index - valid_index <= 0:
+    print(f"错误：验证集大小为0 - valid_index:{valid_index}, test_index:{test_index}")
+    exit(1)
+    
+if trade_dates - test_index <= 0:
+    print(f"错误：测试集大小为0 - test_index:{test_index}, trade_dates:{trade_dates}")
+    exit(1)
+
+print("✅ 数据集分割检查通过")
+# --- 结束通用逻辑 ---
+
+# Initialize LSTMStockPredictor model
+model = LSTMStockPredictor(
+    input_dim=fea_num,
+    hidden_dim=lstm_hidden_dim,
+    num_layers=lstm_num_layers,
+    output_dim=1, # Predicting a single value
+    dropout_prob=lstm_dropout_prob
+).to(device)
+
+optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)
+best_valid_loss = np.inf
+best_valid_perf = None
+best_test_perf = None
+best_epoch_num = 0 # 初始化最佳轮次编号
+batch_offsets = np.arange(start=0, stop=valid_index, dtype=int)
+
+
+def validate(start_index, end_index):
+    with torch.no_grad():
+        cur_valid_pred = np.zeros([stock_num, end_index - start_index], dtype=float)
+        cur_valid_gt = np.zeros([stock_num, end_index - start_index], dtype=float)
+        cur_valid_mask = np.zeros([stock_num, end_index - start_index], dtype=float)
+        loss = 0.
+        reg_loss = 0.
+        rank_loss = 0.
+        for cur_offset in range(start_index - lookback_length - steps + 1, end_index - lookback_length - steps + 1):
+            data_batch, mask_batch, price_batch, gt_batch = map(
+                lambda x: torch.Tensor(x).to(device),
+                get_batch(cur_offset)
+            )
+            # LSTM expects (batch, seq, feature)
+            # data_batch is (stock_num, lookback_length, fea_num) which is correct for batch_first=True LSTM
+            prediction = model(data_batch)
+            cur_loss, cur_reg_loss, cur_rank_loss, cur_rr = get_loss(prediction, gt_batch, price_batch, mask_batch, stock_num, alpha)
+            loss += cur_loss.item()
+            reg_loss += cur_reg_loss.item()
+            rank_loss += cur_rank_loss.item()
+            cur_valid_pred[:, cur_offset - (start_index - lookback_length - steps + 1)] = cur_rr[:, 0].cpu()
+            cur_valid_gt[:, cur_offset - (start_index - lookback_length - steps + 1)] = gt_batch[:, 0].cpu()
+            cur_valid_mask[:, cur_offset - (start_index - lookback_length - steps + 1)] = mask_batch[:, 0].cpu()
+        loss = loss / (end_index - start_index)
+        reg_loss = reg_loss / (end_index - start_index)
+        rank_loss = rank_loss / (end_index - start_index)
+        cur_valid_perf = evaluate(cur_valid_pred, cur_valid_gt, cur_valid_mask)
+    return loss, reg_loss, rank_loss, cur_valid_perf
+
+
+def get_batch(offset=None):
+    if offset is None:
+        offset = random.randrange(0, valid_index)
+    seq_len = lookback_length
+    eod_data_batch = eod_data[:, offset:offset + seq_len, :]
+    mask_batch = mask_data[:, offset: offset + seq_len + steps]
+    mask_batch = np.min(mask_batch, axis=1)
+    
+    return (
+        eod_data_batch, # Shape: (stock_num, lookback_length, fea_num) - Correct for LSTM
+        np.expand_dims(mask_batch, axis=1),
+        np.expand_dims(price_data[:, offset + seq_len - 1], axis=1),
+        np.expand_dims(gt_data[:, offset + seq_len + steps - 1], axis=1)
+    )
+
+# Start training loop
+for epoch in range(epochs):
+    print("epoch{}##########################################################".format(epoch + 1))
+    np.random.shuffle(batch_offsets)
+    tra_loss = 0.0
+    tra_reg_loss = 0.0
+    tra_rank_loss = 0.0
+    for j in range(valid_index - lookback_length - steps + 1):
+        data_batch, mask_batch, price_batch, gt_batch = map(
+            lambda x: torch.Tensor(x).to(device),
+            get_batch(batch_offsets[j])
+        )
+        optimizer.zero_grad()
+        prediction = model(data_batch) # LSTM forward pass
+        cur_loss, cur_reg_loss, cur_rank_loss, _ = get_loss(prediction, gt_batch, price_batch, mask_batch, stock_num, alpha)
+        cur_loss.backward()
+        optimizer.step()
+
+        tra_loss += cur_loss.item()
+        tra_reg_loss += cur_reg_loss.item()
+        tra_rank_loss += cur_rank_loss.item()
+    
+    tra_loss = tra_loss / (valid_index - lookback_length - steps + 1)
+    tra_reg_loss = tra_reg_loss / (valid_index - lookback_length - steps + 1)
+    tra_rank_loss = tra_rank_loss / (valid_index - lookback_length - steps + 1)
+    print('Train : loss:{:.2e}  =  {:.2e} + alpha*{:.2e}'.format(tra_loss, tra_reg_loss, tra_rank_loss))
+
+    val_loss, val_reg_loss, val_rank_loss, val_perf = validate(valid_index, test_index)
+    print('Valid : loss:{:.2e}  =  {:.2e} + alpha*{:.2e}'.format(val_loss, val_reg_loss, val_rank_loss))
+
+    test_loss, test_reg_loss, test_rank_loss, test_perf = validate(test_index, trade_dates)
+    print('Test: loss:{:.2e}  =  {:.2e} + alpha*{:.2e}'.format(test_loss, test_reg_loss, test_rank_loss))
+
+    if val_loss < best_valid_loss:
+        best_valid_loss = val_loss
+        best_valid_perf = val_perf
+        best_test_perf = test_perf
+        best_epoch_num = epoch + 1 # 记录最佳轮次
+
+    print('Valid performance:\n', 'mse:{:.2e}, IC:{:.2e}, RIC:{:.2e}, prec@10:{:.2e}, SR:{:.2e}'.format(val_perf['mse'], val_perf['IC'],
+                                                     val_perf['RIC'], val_perf['prec_10'], val_perf['sharpe5']))
+    print('Test performance:\n', 'mse:{:.2e}, IC:{:.2e}, RIC:{:.2e}, prec@10:{:.2e}, SR:{:.2e}'.format(test_perf['mse'], test_perf['IC'],
+                                                                            test_perf['RIC'], test_perf['prec_10'], test_perf['sharpe5']), '\n\n')
+
+print("Training finished.")
+print("Best Validation Performance (based on lowest validation loss):")
+print('mse:{:.2e}, IC:{:.2e}, RIC:{:.2e}, prec@10:{:.2e}, SR:{:.2e}'.format(best_valid_perf['mse'], best_valid_perf['IC'],
+                                                                            best_valid_perf['RIC'], best_valid_perf['prec_10'], best_valid_perf['sharpe5']))
+print("Corresponding Test Performance:")
+print('mse:{:.2e}, IC:{:.2e}, RIC:{:.2e}, prec@10:{:.2e}, SR:{:.2e}'.format(best_test_perf['mse'], best_test_perf['IC'],
+                                                                            best_test_perf['RIC'], best_test_perf['prec_10'], best_test_perf['sharpe5']))
+
+# --- 开始写入Excel的逻辑 ---
+if best_valid_perf and best_test_perf: # 确保有数据可写
+    model_name_for_excel = "LSTM"
+    excel_file_path = '../training_results.xlsx'
+    header = ["Model", "Dataset", "Best Epoch", # Best Epoch 占位符, LSTM脚本当前未记录
+              "Valid MSE", "Valid IC", "Valid RIC", "Valid Prec@10", "Valid SR",
+              "Test MSE", "Test IC", "Test RIC", "Test Prec@10", "Test SR"]
+    
+    # LSTM 脚本没有显式记录 best_epoch_num, 这里用 N/A 占位
+    # 如果需要，您可以在 LSTM 训练逻辑中添加 best_epoch_num 的记录
+    data_row = [model_name_for_excel, market_name, best_epoch_num, 
+                best_valid_perf.get('mse', float('nan')), 
+                best_valid_perf.get('IC', float('nan')),
+                best_valid_perf.get('RIC', float('nan')),
+                best_valid_perf.get('prec_10', float('nan')),
+                best_valid_perf.get('sharpe5', float('nan')),
+                best_test_perf.get('mse', float('nan')),
+                best_test_perf.get('IC', float('nan')),
+                best_test_perf.get('RIC', float('nan')),
+                best_test_perf.get('prec_10', float('nan')),
+                best_test_perf.get('sharpe5', float('nan'))
+               ]
+
+    try:
+        if not os.path.exists(excel_file_path):
+            workbook = openpyxl.Workbook()
+            sheet = workbook.active
+            sheet.title = "Training Results"
+            sheet.append(header)
+            # 自动调整列宽
+            for col_idx, column_cells in enumerate(sheet.columns):
+                length = max(len(str(cell.value)) for cell in column_cells)
+                sheet.column_dimensions[get_column_letter(col_idx + 1)].width = length + 2
+        else:
+            workbook = openpyxl.load_workbook(excel_file_path)
+            sheet = workbook.active
+        
+        sheet.append(data_row)
+        workbook.save(excel_file_path)
+        print(f"Results appended to {excel_file_path}")
+    except Exception as e:
+        print(f"Error writing to Excel: {e}")
+else:
+    print("No best performance data to write to Excel for LSTM.")
+# --- 结束写入Excel的逻辑 --- 

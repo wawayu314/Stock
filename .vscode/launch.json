@@ -1,0 +1,87 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "在src下运行 Train.py in ",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/train.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/src"
+        },
+        {
+            "name": "在src下运行 Lstm_Train.py ",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/lstm_train.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/src"
+        },
+        {
+            "name": "在src下运行 gcn_Train.py ",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/gcn_train.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/src"
+        },
+        {
+            "name": "在src下运行 sthan_sr_train.py ",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/sthan_sr_train.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/src"
+        },
+        {
+            "name": "在src下运行 linear_train.py ",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/linear_train.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/src"
+        }, {
+            "name": "在src下运行 prepare_ashare_data.py ",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/prepare_ashare_data.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/src"
+        },{
+            "name": "在src下运行 prepare_sp500_data_polygo",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/prepare_sp500_data_polygon.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/src"
+        },{
+            "name": "在src下运行 prepare_nasdaq_data_polygon",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/prepare_nasdaq_data_polygon.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/src"
+        },{
+            "name": "在src下运行 prepare_nyse_data_polygon",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/prepare_nyse_data_polygon.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/src"
+        },{
+            "name": "消融实验",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/train_ablation.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/src"
+        },{
+            "name": "在src下运行 run_all_models",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/run_all_models.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/src"
+        }
+    ]
+}

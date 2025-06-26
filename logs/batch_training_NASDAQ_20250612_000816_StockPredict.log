@@ -1,0 +1,48 @@
+Traceback (most recent call last):
+  File "c:\Users\Administrator\.cursor\extensions\ms-python.debugpy-2024.6.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_trace_dispatch_regular.py", line 394, in __call__
+    abs_path_canonical_path_and_base = NORM_PATHS_AND_BASE_CONTAINER[frame.f_code.co_filename]
+KeyError: 'C:\\ProgramData\\anaconda3\\envs\\mypytorch\\lib\\site-packages\\torch\\masked\\maskedtensor\\unary.py'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\Administrator\.cursor\extensions\ms-python.debugpy-2024.6.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd_file_utils.py", line 912, in get_abs_path_real_path_and_base_from_frame
+    return NORM_PATHS_AND_BASE_CONTAINER[frame.f_code.co_filename]
+KeyError: 'C:\\ProgramData\\anaconda3\\envs\\mypytorch\\lib\\site-packages\\torch\\masked\\maskedtensor\\unary.py'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\Administrator\.cursor\extensions\ms-python.debugpy-2024.6.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd_file_utils.py", line 876, in get_abs_path_real_path_and_base_from_file
+    return NORM_PATHS_AND_BASE_CONTAINER[filename]
+KeyError: 'C:\\ProgramData\\anaconda3\\envs\\mypytorch\\lib\\site-packages\\torch\\masked\\maskedtensor\\unary.py'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\Administrator\.cursor\extensions\ms-python.debugpy-2024.6.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd_file_utils.py", line 430, in _abs_and_canonical_path
+    return NORM_PATHS_CONTAINER[filename]
+KeyError: 'C:\\ProgramData\\anaconda3\\envs\\mypytorch\\lib\\site-packages\\torch\\masked\\maskedtensor\\unary.py'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\Administrator\.cursor\extensions\ms-python.debugpy-2024.6.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd_file_utils.py", line 340, in normcase
+    return NORMCASE_CACHE[s]
+KeyError: 'C:\\ProgramData\\anaconda3\\envs\\mypytorch\\Lib\\site-packages\\torch\\masked\\maskedtensor\\unary.py'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\Administrator\.cursor\extensions\ms-python.debugpy-2024.6.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_trace_dispatch_regular.py", line 396, in __call__
+  File "c:\Users\Administrator\.cursor\extensions\ms-python.debugpy-2024.6.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd_file_utils.py", line 930, in get_abs_path_real_path_and_base_from_frame
+    ret = get_abs_path_real_path_and_base_from_file(f)
+  File "c:\Users\Administrator\.cursor\extensions\ms-python.debugpy-2024.6.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd_file_utils.py", line 897, in get_abs_path_real_path_and_base_from_file
+    abs_path, canonical_normalized_filename = _abs_and_canonical_path(f)
+  File "c:\Users\Administrator\.cursor\extensions\ms-python.debugpy-2024.6.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd_file_utils.py", line 456, in _abs_and_canonical_path
+    real_path = _apply_func_and_normalize_case(filename, os_path_real_path, isabs, normalize)
+  File "c:\Users\Administrator\.cursor\extensions\ms-python.debugpy-2024.6.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd_file_utils.py", line 515, in _apply_func_and_normalize_case
+    r = normcase(r)
+  File "c:\Users\Administrator\.cursor\extensions\ms-python.debugpy-2024.6.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd_file_utils.py", line 342, in normcase
+    normalized = NORMCASE_CACHE[s] = _default_normcase(s)
+MemoryError

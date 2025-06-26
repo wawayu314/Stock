@@ -1,0 +1,131 @@
+原始SP500数据形状: (464, 1148, 5) (股票数: 464, 天数: 1148, 特征数: 5)
+使用全部5年数据 (2020-2024)，数据形状: (464, 1148, 5)
+市场为 SP500，实际加载股票数量更新为: 464
+市场为 SP500，实际加载股票数量更新为: 464
+总交易天数: 1148
+根据 60%/20%/_ 分割比例 (已调整为满足最小数据集要求):
+训练集天数 (0-indexed, up to valid_index-1): 688 (实际比例: 59.9%)
+验证集天数 (valid_index to test_index-1): 230 (实际比例: 20.0%)
+测试集天数 (test_index to end): 230 (实际比例: 20.0%)
+验证集起始索引 (valid_index): 688
+测试集起始索引 (test_index): 918
+✅ 数据集分割检查通过
+epoch1##########################################################
+Train : loss:6.06e-01  =  6.05e-01 + alpha*2.56e-03
+lstm_train.py:164: DeprecationWarning: __array__ implementation doesn't accept a copy keyword, so passing copy=False failed. __array__ must implement 'dtype' and 'copy' keyword arguments.
+  cur_valid_pred[:, cur_offset - (start_index - lookback_length - steps + 1)] = cur_rr[:, 0].cpu()
+lstm_train.py:165: DeprecationWarning: __array__ implementation doesn't accept a copy keyword, so passing copy=False failed. __array__ must implement 'dtype' and 'copy' keyword arguments.
+  cur_valid_gt[:, cur_offset - (start_index - lookback_length - steps + 1)] = gt_batch[:, 0].cpu()
+lstm_train.py:166: DeprecationWarning: __array__ implementation doesn't accept a copy keyword, so passing copy=False failed. __array__ must implement 'dtype' and 'copy' keyword arguments.
+  cur_valid_mask[:, cur_offset - (start_index - lookback_length - steps + 1)] = mask_batch[:, 0].cpu()
+Valid : loss:5.05e-01  =  5.05e-01 + alpha*3.16e-03
+Test: loss:5.38e-01  =  5.38e-01 + alpha*2.92e-03
+Valid performance:
+ mse:5.05e-01, IC:-6.40e-03, RIC:-4.87e-02, prec@10:5.17e-01, SR:6.26e-01
+Test performance:
+ mse:5.38e-01, IC:4.56e-03, RIC:4.11e-02, prec@10:5.35e-01, SR:5.04e-01 
+
+
+epoch2##########################################################
+Train : loss:4.95e-01  =  4.95e-01 + alpha*4.09e-03
+Valid : loss:4.99e-01  =  4.99e-01 + alpha*3.42e-03
+Test: loss:5.29e-01  =  5.28e-01 + alpha*3.16e-03
+Valid performance:
+ mse:4.99e-01, IC:-6.40e-03, RIC:-4.87e-02, prec@10:5.17e-01, SR:6.26e-01
+Test performance:
+ mse:5.28e-01, IC:4.56e-03, RIC:4.11e-02, prec@10:5.35e-01, SR:4.73e-01 
+
+
+epoch3##########################################################
+Train : loss:4.95e-01  =  4.94e-01 + alpha*4.19e-03
+Valid : loss:5.00e-01  =  4.99e-01 + alpha*3.39e-03
+Test: loss:5.30e-01  =  5.29e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.99e-01, IC:-6.40e-03, RIC:-4.87e-02, prec@10:5.17e-01, SR:6.26e-01
+Test performance:
+ mse:5.29e-01, IC:4.56e-03, RIC:4.11e-02, prec@10:5.35e-01, SR:5.18e-01 
+
+
+epoch4##########################################################
+Train : loss:4.95e-01  =  4.95e-01 + alpha*4.16e-03
+Valid : loss:5.00e-01  =  4.99e-01 + alpha*3.39e-03
+Test: loss:5.30e-01  =  5.29e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.99e-01, IC:-6.40e-03, RIC:-4.87e-02, prec@10:5.17e-01, SR:6.26e-01
+Test performance:
+ mse:5.29e-01, IC:4.56e-03, RIC:4.11e-02, prec@10:5.36e-01, SR:4.80e-01 
+
+
+epoch5##########################################################
+Train : loss:4.94e-01  =  4.94e-01 + alpha*4.17e-03
+Valid : loss:4.99e-01  =  4.98e-01 + alpha*3.45e-03
+Test: loss:5.28e-01  =  5.28e-01 + alpha*3.19e-03
+Valid performance:
+ mse:4.98e-01, IC:-6.40e-03, RIC:-4.87e-02, prec@10:5.17e-01, SR:6.26e-01
+Test performance:
+ mse:5.28e-01, IC:4.56e-03, RIC:4.11e-02, prec@10:5.36e-01, SR:4.73e-01 
+
+
+epoch6##########################################################
+Train : loss:4.95e-01  =  4.94e-01 + alpha*4.17e-03
+Valid : loss:4.99e-01  =  4.99e-01 + alpha*3.42e-03
+Test: loss:5.29e-01  =  5.28e-01 + alpha*3.16e-03
+Valid performance:
+ mse:4.99e-01, IC:-6.40e-03, RIC:-4.87e-02, prec@10:5.17e-01, SR:6.26e-01
+Test performance:
+ mse:5.28e-01, IC:4.56e-03, RIC:4.11e-02, prec@10:5.35e-01, SR:4.80e-01 
+
+
+epoch7##########################################################
+Train : loss:4.95e-01  =  4.94e-01 + alpha*4.16e-03
+Valid : loss:4.99e-01  =  4.98e-01 + alpha*3.45e-03
+Test: loss:5.28e-01  =  5.28e-01 + alpha*3.18e-03
+Valid performance:
+ mse:4.98e-01, IC:-6.40e-03, RIC:-4.87e-02, prec@10:5.17e-01, SR:6.26e-01
+Test performance:
+ mse:5.28e-01, IC:4.56e-03, RIC:4.11e-02, prec@10:5.36e-01, SR:5.04e-01 
+
+
+epoch8##########################################################
+Train : loss:4.94e-01  =  4.94e-01 + alpha*4.19e-03
+Valid : loss:4.99e-01  =  4.98e-01 + alpha*3.44e-03
+Test: loss:5.28e-01  =  5.28e-01 + alpha*3.18e-03
+Valid performance:
+ mse:4.98e-01, IC:-6.40e-03, RIC:-4.87e-02, prec@10:5.17e-01, SR:6.26e-01
+Test performance:
+ mse:5.28e-01, IC:4.56e-03, RIC:4.11e-02, prec@10:5.36e-01, SR:4.73e-01 
+
+
+epoch9##########################################################
+Train : loss:4.95e-01  =  4.95e-01 + alpha*4.18e-03
+Valid : loss:4.99e-01  =  4.99e-01 + alpha*3.42e-03
+Test: loss:5.29e-01  =  5.29e-01 + alpha*3.15e-03
+Valid performance:
+ mse:4.99e-01, IC:-6.40e-03, RIC:-4.87e-02, prec@10:5.17e-01, SR:6.26e-01
+Test performance:
+ mse:5.29e-01, IC:4.56e-03, RIC:4.11e-02, prec@10:5.36e-01, SR:5.04e-01 
+
+
+epoch10##########################################################
+Train : loss:4.95e-01  =  4.95e-01 + alpha*4.16e-03
+Valid : loss:4.99e-01  =  4.99e-01 + alpha*3.44e-03
+Test: loss:5.28e-01  =  5.28e-01 + alpha*3.17e-03
+Valid performance:
+ mse:4.99e-01, IC:-6.40e-03, RIC:-4.87e-02, prec@10:5.17e-01, SR:6.26e-01
+Test performance:
+ mse:5.28e-01, IC:4.56e-03, RIC:4.11e-02, prec@10:5.36e-01, SR:4.87e-01 
+
+
+epoch11##########################################################
+Train : loss:4.95e-01  =  4.94e-01 + alpha*4.19e-03
+Valid : loss:4.98e-01  =  4.98e-01 + alpha*3.48e-03
+Test: loss:5.27e-01  =  5.27e-01 + alpha*3.21e-03
+Valid performance:
+ mse:4.98e-01, IC:-6.40e-03, RIC:-4.87e-02, prec@10:5.17e-01, SR:6.26e-01
+Test performance:
+ mse:5.27e-01, IC:4.56e-03, RIC:4.11e-02, prec@10:5.36e-01, SR:4.80e-01 
+
+
+epoch12##########################################################
+Train : loss:4.95e-01  =  4.94e-01 + alpha*4.16e-03
+Valid : loss:4.98e-01  =  4.98e-01 + alpha*3.49e-03

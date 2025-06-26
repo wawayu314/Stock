@@ -1,0 +1,13 @@
+# 新闻情绪分析功能依赖包
+textblob>=0.17.1
+vaderSentiment>=3.3.2
+transformers>=4.21.0
+torch>=1.12.0
+pandas>=1.4.0
+numpy>=1.21.0
+requests>=2.28.0
+tqdm>=4.64.0
+
+# 可选的高级情绪分析模型
+# sentence-transformers>=2.2.0  # 用于更先进的文本嵌入
+# finbert-utils>=0.1.0          # 专门的金融情绪分析模型 

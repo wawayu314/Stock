@@ -1,0 +1,1526 @@
+原始SP500数据形状: (464, 1148, 5) (股票数: 464, 天数: 1148, 特征数: 5)
+使用全部5年数据 (2020-2024)，数据形状: (464, 1148, 5)
+市场为 SP500，实际加载股票数量更新为: 464
+总交易天数: 1148
+根据 60%/20%/_ 分割比例 (已调整为满足最小数据集要求):
+训练集天数 (0-indexed, up to valid_index-1): 688 (实际比例: 59.9%)
+验证集天数 (valid_index to test_index-1): 230 (实际比例: 20.0%)
+测试集天数 (test_index to end): 230 (实际比例: 20.0%)
+验证集起始索引 (valid_index): 688
+测试集起始索引 (test_index): 918
+✅ 数据集分割检查通过
+✅ EOD数据已使用训练集的均值和标准差进行标准化
+C:\ProgramData\anaconda3\envs\mypytorch\lib\site-packages\torch\optim\lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+epoch1##########################################################
+Train : loss:9.84e-01  =  9.84e-01 + alpha*7.48e-05
+train.py:204: DeprecationWarning: __array__ implementation doesn't accept a copy keyword, so passing copy=False failed. __array__ must implement 'dtype' and 'copy' keyword arguments.
+  cur_valid_pred[:, cur_offset - (start_index - lookback_length - steps + 1)] = cur_rr[:, 0].cpu()
+train.py:205: DeprecationWarning: __array__ implementation doesn't accept a copy keyword, so passing copy=False failed. __array__ must implement 'dtype' and 'copy' keyword arguments.
+  cur_valid_gt[:, cur_offset - (start_index - lookback_length - steps + 1)] = gt_batch[:, 0].cpu()
+train.py:206: DeprecationWarning: __array__ implementation doesn't accept a copy keyword, so passing copy=False failed. __array__ must implement 'dtype' and 'copy' keyword arguments.
+  cur_valid_mask[:, cur_offset - (start_index - lookback_length - steps + 1)] = mask_batch[:, 0].cpu()
+Valid : loss:9.68e-01  =  9.68e-01 + alpha*1.21e-04
+Test: loss:9.72e-01  =  9.72e-01 + alpha*1.12e-04
+Valid performance:
+ mse:9.68e-01, IC:-6.59e-03, RIC:-5.02e-02, prec@10:5.15e-01, SR:1.01e+00
+Test performance:
+ mse:9.72e-01, IC:5.22e-03, RIC:4.70e-02, prec@10:5.38e-01, SR:1.03e+00 
+
+
+epoch2##########################################################
+Train : loss:9.45e-01  =  9.45e-01 + alpha*2.43e-04
+Valid : loss:9.23e-01  =  9.23e-01 + alpha*2.94e-04
+Test: loss:9.31e-01  =  9.31e-01 + alpha*2.71e-04
+Valid performance:
+ mse:9.23e-01, IC:-6.77e-03, RIC:-5.18e-02, prec@10:5.17e-01, SR:2.16e-01
+Test performance:
+ mse:9.31e-01, IC:4.39e-03, RIC:3.97e-02, prec@10:5.38e-01, SR:3.93e-01 
+
+
+epoch3##########################################################
+Train : loss:8.87e-01  =  8.87e-01 + alpha*5.07e-04
+Valid : loss:8.57e-01  =  8.57e-01 + alpha*5.61e-04
+Test: loss:8.72e-01  =  8.72e-01 + alpha*5.18e-04
+Valid performance:
+ mse:8.57e-01, IC:-6.30e-03, RIC:-4.81e-02, prec@10:5.17e-01, SR:5.60e-01
+Test performance:
+ mse:8.72e-01, IC:4.74e-03, RIC:4.29e-02, prec@10:5.35e-01, SR:7.53e-01 
+
+
+epoch4##########################################################
+Train : loss:8.08e-01  =  8.07e-01 + alpha*9.02e-04
+Valid : loss:7.73e-01  =  7.72e-01 + alpha*9.41e-04
+Test: loss:7.96e-01  =  7.96e-01 + alpha*8.69e-04
+Valid performance:
+ mse:7.72e-01, IC:-6.58e-03, RIC:-5.03e-02, prec@10:5.19e-01, SR:8.36e-01
+Test performance:
+ mse:7.96e-01, IC:4.85e-03, RIC:4.36e-02, prec@10:5.29e-01, SR:2.74e-01 
+
+
+epoch5##########################################################
+Train : loss:7.17e-01  =  7.17e-01 + alpha*1.42e-03
+Valid : loss:6.82e-01  =  6.82e-01 + alpha*1.43e-03
+Test: loss:7.13e-01  =  7.13e-01 + alpha*1.32e-03
+Valid performance:
+ mse:6.82e-01, IC:-6.74e-03, RIC:-5.15e-02, prec@10:5.19e-01, SR:5.11e-01
+Test performance:
+ mse:7.13e-01, IC:4.67e-03, RIC:4.23e-02, prec@10:5.37e-01, SR:5.35e-01 
+
+
+epoch6##########################################################
+Train : loss:6.27e-01  =  6.26e-01 + alpha*2.05e-03
+Valid : loss:6.00e-01  =  6.00e-01 + alpha*1.99e-03
+Test: loss:6.36e-01  =  6.36e-01 + alpha*1.83e-03
+Valid performance:
+ mse:6.00e-01, IC:-6.93e-03, RIC:-5.29e-02, prec@10:5.14e-01, SR:2.37e-01
+Test performance:
+ mse:6.36e-01, IC:4.90e-03, RIC:4.42e-02, prec@10:5.38e-01, SR:4.08e-01 
+
+
+epoch7##########################################################
+Train : loss:5.56e-01  =  5.56e-01 + alpha*2.74e-03
+Valid : loss:5.43e-01  =  5.42e-01 + alpha*2.54e-03
+Test: loss:5.79e-01  =  5.79e-01 + alpha*2.34e-03
+Valid performance:
+ mse:5.42e-01, IC:-6.29e-03, RIC:-4.80e-02, prec@10:5.13e-01, SR:4.92e-01
+Test performance:
+ mse:5.79e-01, IC:4.32e-03, RIC:3.91e-02, prec@10:5.38e-01, SR:7.29e-01 
+
+
+epoch8##########################################################
+Train : loss:5.15e-01  =  5.15e-01 + alpha*3.38e-03
+Valid : loss:5.14e-01  =  5.13e-01 + alpha*3.00e-03
+Test: loss:5.48e-01  =  5.47e-01 + alpha*2.76e-03
+Valid performance:
+ mse:5.13e-01, IC:-6.94e-03, RIC:-5.28e-02, prec@10:5.08e-01, SR:5.54e-01
+Test performance:
+ mse:5.47e-01, IC:4.56e-03, RIC:4.12e-02, prec@10:5.34e-01, SR:2.09e-01 
+
+
+epoch9##########################################################
+Train : loss:5.00e-01  =  4.99e-01 + alpha*3.81e-03
+Valid : loss:5.04e-01  =  5.04e-01 + alpha*3.26e-03
+Test: loss:5.36e-01  =  5.35e-01 + alpha*3.00e-03
+Valid performance:
+ mse:5.04e-01, IC:-6.18e-03, RIC:-4.72e-02, prec@10:5.16e-01, SR:1.00e+00
+Test performance:
+ mse:5.35e-01, IC:4.80e-03, RIC:4.33e-02, prec@10:5.35e-01, SR:3.17e-01 
+
+
+epoch10##########################################################
+Train : loss:4.96e-01  =  4.95e-01 + alpha*4.02e-03
+Valid : loss:5.02e-01  =  5.01e-01 + alpha*3.37e-03
+Test: loss:5.32e-01  =  5.32e-01 + alpha*3.10e-03
+Valid performance:
+ mse:5.01e-01, IC:-6.93e-03, RIC:-5.27e-02, prec@10:5.11e-01, SR:8.58e-01
+Test performance:
+ mse:5.32e-01, IC:4.55e-03, RIC:4.11e-02, prec@10:5.26e-01, SR:5.04e-01 
+
+
+epoch11##########################################################
+Train : loss:4.95e-01  =  4.94e-01 + alpha*4.10e-03
+Valid : loss:5.00e-01  =  4.99e-01 + alpha*3.43e-03
+Test: loss:5.30e-01  =  5.29e-01 + alpha*3.16e-03
+Valid performance:
+ mse:4.99e-01, IC:-7.05e-03, RIC:-5.36e-02, prec@10:5.14e-01, SR:5.48e-01
+Test performance:
+ mse:5.29e-01, IC:4.09e-03, RIC:3.68e-02, prec@10:5.33e-01, SR:7.51e-01 
+
+
+epoch12##########################################################
+Train : loss:4.93e-01  =  4.92e-01 + alpha*4.12e-03
+Valid : loss:5.00e-01  =  4.99e-01 + alpha*3.45e-03
+Test: loss:5.29e-01  =  5.28e-01 + alpha*3.18e-03
+Valid performance:
+ mse:4.99e-01, IC:-7.21e-03, RIC:-5.48e-02, prec@10:5.12e-01, SR:3.12e-01
+Test performance:
+ mse:5.28e-01, IC:4.43e-03, RIC:3.95e-02, prec@10:5.35e-01, SR:5.25e-01 
+
+
+epoch13##########################################################
+Train : loss:4.92e-01  =  4.91e-01 + alpha*4.18e-03
+Valid : loss:5.00e-01  =  4.99e-01 + alpha*3.44e-03
+Test: loss:5.29e-01  =  5.28e-01 + alpha*3.17e-03
+Valid performance:
+ mse:4.99e-01, IC:-7.35e-03, RIC:-5.54e-02, prec@10:5.17e-01, SR:4.77e-01
+Test performance:
+ mse:5.28e-01, IC:4.14e-03, RIC:3.69e-02, prec@10:5.39e-01, SR:6.75e-01 
+
+
+epoch14##########################################################
+Train : loss:4.91e-01  =  4.90e-01 + alpha*4.14e-03
+Valid : loss:4.98e-01  =  4.97e-01 + alpha*3.44e-03
+Test: loss:5.27e-01  =  5.26e-01 + alpha*3.17e-03
+Valid performance:
+ mse:4.97e-01, IC:-7.10e-03, RIC:-5.36e-02, prec@10:5.18e-01, SR:5.04e-01
+Test performance:
+ mse:5.26e-01, IC:4.36e-03, RIC:3.88e-02, prec@10:5.31e-01, SR:1.27e-01 
+
+
+epoch15##########################################################
+Train : loss:4.88e-01  =  4.87e-01 + alpha*4.13e-03
+Valid : loss:4.96e-01  =  4.95e-01 + alpha*3.47e-03
+Test: loss:5.24e-01  =  5.23e-01 + alpha*3.20e-03
+Valid performance:
+ mse:4.95e-01, IC:-7.96e-03, RIC:-6.01e-02, prec@10:5.14e-01, SR:6.08e-01
+Test performance:
+ mse:5.23e-01, IC:4.28e-03, RIC:3.78e-02, prec@10:5.37e-01, SR:4.04e-01 
+
+
+epoch16##########################################################
+Train : loss:4.86e-01  =  4.85e-01 + alpha*4.14e-03
+Valid : loss:4.94e-01  =  4.93e-01 + alpha*3.48e-03
+Test: loss:5.22e-01  =  5.22e-01 + alpha*3.21e-03
+Valid performance:
+ mse:4.93e-01, IC:-7.91e-03, RIC:-5.96e-02, prec@10:5.14e-01, SR:6.82e-01
+Test performance:
+ mse:5.22e-01, IC:4.40e-03, RIC:3.88e-02, prec@10:5.37e-01, SR:1.03e+00 
+
+
+epoch17##########################################################
+Train : loss:4.85e-01  =  4.84e-01 + alpha*4.15e-03
+Valid : loss:4.92e-01  =  4.91e-01 + alpha*3.48e-03
+Test: loss:5.20e-01  =  5.19e-01 + alpha*3.21e-03
+Valid performance:
+ mse:4.91e-01, IC:-7.51e-03, RIC:-5.65e-02, prec@10:5.16e-01, SR:8.36e-01
+Test performance:
+ mse:5.19e-01, IC:4.46e-03, RIC:3.94e-02, prec@10:5.33e-01, SR:8.49e-01 
+
+
+epoch18##########################################################
+Train : loss:4.82e-01  =  4.81e-01 + alpha*4.13e-03
+Valid : loss:4.90e-01  =  4.89e-01 + alpha*3.50e-03
+Test: loss:5.18e-01  =  5.17e-01 + alpha*3.22e-03
+Valid performance:
+ mse:4.89e-01, IC:-8.18e-03, RIC:-6.14e-02, prec@10:5.17e-01, SR:4.24e-01
+Test performance:
+ mse:5.17e-01, IC:5.03e-03, RIC:4.41e-02, prec@10:5.38e-01, SR:5.88e-01 
+
+
+epoch19##########################################################
+Train : loss:4.81e-01  =  4.80e-01 + alpha*4.16e-03
+Valid : loss:4.87e-01  =  4.87e-01 + alpha*3.48e-03
+Test: loss:5.16e-01  =  5.15e-01 + alpha*3.22e-03
+Valid performance:
+ mse:4.87e-01, IC:-8.05e-03, RIC:-6.04e-02, prec@10:5.11e-01, SR:5.81e-01
+Test performance:
+ mse:5.15e-01, IC:4.29e-03, RIC:3.73e-02, prec@10:5.37e-01, SR:6.26e-01 
+
+
+epoch20##########################################################
+Train : loss:4.79e-01  =  4.78e-01 + alpha*4.15e-03
+Valid : loss:4.85e-01  =  4.84e-01 + alpha*3.49e-03
+Test: loss:5.13e-01  =  5.13e-01 + alpha*3.22e-03
+Valid performance:
+ mse:4.84e-01, IC:-8.35e-03, RIC:-6.26e-02, prec@10:5.10e-01, SR:8.43e-01
+Test performance:
+ mse:5.13e-01, IC:5.01e-03, RIC:4.38e-02, prec@10:5.44e-01, SR:6.16e-01 
+
+
+epoch21##########################################################
+Train : loss:4.77e-01  =  4.76e-01 + alpha*4.14e-03
+Valid : loss:4.82e-01  =  4.82e-01 + alpha*3.49e-03
+Test: loss:5.11e-01  =  5.10e-01 + alpha*3.23e-03
+Valid performance:
+ mse:4.82e-01, IC:-8.80e-03, RIC:-6.60e-02, prec@10:5.15e-01, SR:7.77e-01
+Test performance:
+ mse:5.10e-01, IC:4.85e-03, RIC:4.23e-02, prec@10:5.40e-01, SR:3.40e-01 
+
+
+epoch22##########################################################
+Train : loss:4.75e-01  =  4.75e-01 + alpha*4.16e-03
+Valid : loss:4.81e-01  =  4.80e-01 + alpha*3.49e-03
+Test: loss:5.09e-01  =  5.08e-01 + alpha*3.22e-03
+Valid performance:
+ mse:4.80e-01, IC:-8.50e-03, RIC:-6.35e-02, prec@10:5.11e-01, SR:6.72e-01
+Test performance:
+ mse:5.08e-01, IC:4.24e-03, RIC:3.69e-02, prec@10:5.33e-01, SR:2.27e-01 
+
+
+epoch23##########################################################
+Train : loss:4.74e-01  =  4.73e-01 + alpha*4.12e-03
+Valid : loss:4.79e-01  =  4.78e-01 + alpha*3.48e-03
+Test: loss:5.08e-01  =  5.07e-01 + alpha*3.23e-03
+Valid performance:
+ mse:4.78e-01, IC:-8.14e-03, RIC:-6.10e-02, prec@10:5.05e-01, SR:6.20e-01
+Test performance:
+ mse:5.07e-01, IC:4.63e-03, RIC:4.02e-02, prec@10:5.33e-01, SR:9.14e-01 
+
+
+epoch24##########################################################
+Train : loss:4.72e-01  =  4.71e-01 + alpha*4.11e-03
+Valid : loss:4.77e-01  =  4.77e-01 + alpha*3.48e-03
+Test: loss:5.06e-01  =  5.06e-01 + alpha*3.22e-03
+Valid performance:
+ mse:4.77e-01, IC:-8.38e-03, RIC:-6.30e-02, prec@10:5.17e-01, SR:6.48e-01
+Test performance:
+ mse:5.06e-01, IC:5.09e-03, RIC:4.43e-02, prec@10:5.41e-01, SR:1.65e-03 
+
+
+epoch25##########################################################
+Train : loss:4.70e-01  =  4.70e-01 + alpha*4.11e-03
+Valid : loss:4.75e-01  =  4.75e-01 + alpha*3.48e-03
+Test: loss:5.04e-01  =  5.03e-01 + alpha*3.22e-03
+Valid performance:
+ mse:4.75e-01, IC:-8.74e-03, RIC:-6.58e-02, prec@10:5.10e-01, SR:6.34e-01
+Test performance:
+ mse:5.03e-01, IC:4.36e-03, RIC:3.80e-02, prec@10:5.40e-01, SR:1.09e-01 
+
+
+epoch26##########################################################
+Train : loss:4.68e-01  =  4.67e-01 + alpha*4.11e-03
+Valid : loss:4.73e-01  =  4.72e-01 + alpha*3.47e-03
+Test: loss:5.02e-01  =  5.01e-01 + alpha*3.23e-03
+Valid performance:
+ mse:4.72e-01, IC:-8.96e-03, RIC:-6.74e-02, prec@10:5.17e-01, SR:5.73e-01
+Test performance:
+ mse:5.01e-01, IC:4.34e-03, RIC:3.76e-02, prec@10:5.37e-01, SR:2.38e-01 
+
+
+epoch27##########################################################
+Train : loss:4.65e-01  =  4.64e-01 + alpha*4.07e-03
+Valid : loss:4.69e-01  =  4.69e-01 + alpha*3.46e-03
+Test: loss:4.98e-01  =  4.97e-01 + alpha*3.21e-03
+Valid performance:
+ mse:4.69e-01, IC:-8.63e-03, RIC:-6.48e-02, prec@10:5.13e-01, SR:8.90e-01
+Test performance:
+ mse:4.97e-01, IC:4.90e-03, RIC:4.23e-02, prec@10:5.34e-01, SR:4.98e-01 
+
+
+epoch28##########################################################
+Train : loss:4.62e-01  =  4.62e-01 + alpha*4.07e-03
+Valid : loss:4.67e-01  =  4.67e-01 + alpha*3.45e-03
+Test: loss:4.96e-01  =  4.95e-01 + alpha*3.21e-03
+Valid performance:
+ mse:4.67e-01, IC:-8.39e-03, RIC:-6.32e-02, prec@10:5.13e-01, SR:7.89e-01
+Test performance:
+ mse:4.95e-01, IC:4.75e-03, RIC:4.13e-02, prec@10:5.40e-01, SR:3.63e-01 
+
+
+epoch29##########################################################
+Train : loss:4.61e-01  =  4.60e-01 + alpha*4.05e-03
+Valid : loss:4.66e-01  =  4.65e-01 + alpha*3.45e-03
+Test: loss:4.95e-01  =  4.95e-01 + alpha*3.21e-03
+Valid performance:
+ mse:4.65e-01, IC:-8.74e-03, RIC:-6.60e-02, prec@10:5.16e-01, SR:6.60e-01
+Test performance:
+ mse:4.95e-01, IC:4.52e-03, RIC:3.91e-02, prec@10:5.36e-01, SR:4.41e-01 
+
+
+epoch30##########################################################
+Train : loss:4.59e-01  =  4.59e-01 + alpha*4.04e-03
+Valid : loss:4.63e-01  =  4.63e-01 + alpha*3.43e-03
+Test: loss:4.93e-01  =  4.93e-01 + alpha*3.20e-03
+Valid performance:
+ mse:4.63e-01, IC:-9.06e-03, RIC:-6.82e-02, prec@10:5.11e-01, SR:1.02e-01
+Test performance:
+ mse:4.93e-01, IC:4.51e-03, RIC:3.90e-02, prec@10:5.38e-01, SR:6.19e-01 
+
+
+epoch31##########################################################
+Train : loss:4.58e-01  =  4.57e-01 + alpha*4.02e-03
+Valid : loss:4.61e-01  =  4.60e-01 + alpha*3.42e-03
+Test: loss:4.91e-01  =  4.91e-01 + alpha*3.19e-03
+Valid performance:
+ mse:4.60e-01, IC:-8.47e-03, RIC:-6.36e-02, prec@10:5.12e-01, SR:8.23e-01
+Test performance:
+ mse:4.91e-01, IC:4.54e-03, RIC:3.95e-02, prec@10:5.34e-01, SR:6.98e-01 
+
+
+epoch32##########################################################
+Train : loss:4.55e-01  =  4.54e-01 + alpha*4.01e-03
+Valid : loss:4.59e-01  =  4.59e-01 + alpha*3.42e-03
+Test: loss:4.89e-01  =  4.88e-01 + alpha*3.19e-03
+Valid performance:
+ mse:4.59e-01, IC:-8.88e-03, RIC:-6.68e-02, prec@10:5.10e-01, SR:8.46e-01
+Test performance:
+ mse:4.88e-01, IC:4.23e-03, RIC:3.66e-02, prec@10:5.41e-01, SR:4.52e-01 
+
+
+epoch33##########################################################
+Train : loss:4.53e-01  =  4.53e-01 + alpha*4.01e-03
+Valid : loss:4.57e-01  =  4.56e-01 + alpha*3.41e-03
+Test: loss:4.87e-01  =  4.86e-01 + alpha*3.18e-03
+Valid performance:
+ mse:4.56e-01, IC:-9.13e-03, RIC:-6.86e-02, prec@10:5.12e-01, SR:8.27e-01
+Test performance:
+ mse:4.86e-01, IC:4.58e-03, RIC:3.92e-02, prec@10:5.39e-01, SR:2.53e-01 
+
+
+epoch34##########################################################
+Train : loss:4.52e-01  =  4.51e-01 + alpha*4.01e-03
+Valid : loss:4.56e-01  =  4.55e-01 + alpha*3.40e-03
+Test: loss:4.86e-01  =  4.85e-01 + alpha*3.18e-03
+Valid performance:
+ mse:4.55e-01, IC:-9.21e-03, RIC:-6.95e-02, prec@10:5.14e-01, SR:5.49e-01
+Test performance:
+ mse:4.85e-01, IC:4.72e-03, RIC:4.06e-02, prec@10:5.41e-01, SR:5.29e-01 
+
+
+epoch35##########################################################
+Train : loss:4.50e-01  =  4.50e-01 + alpha*3.98e-03
+Valid : loss:4.55e-01  =  4.54e-01 + alpha*3.40e-03
+Test: loss:4.85e-01  =  4.84e-01 + alpha*3.18e-03
+Valid performance:
+ mse:4.54e-01, IC:-8.66e-03, RIC:-6.52e-02, prec@10:5.10e-01, SR:4.28e-01
+Test performance:
+ mse:4.84e-01, IC:4.27e-03, RIC:3.68e-02, prec@10:5.37e-01, SR:5.64e-01 
+
+
+epoch36##########################################################
+Train : loss:4.49e-01  =  4.48e-01 + alpha*3.99e-03
+Valid : loss:4.53e-01  =  4.53e-01 + alpha*3.40e-03
+Test: loss:4.83e-01  =  4.82e-01 + alpha*3.17e-03
+Valid performance:
+ mse:4.53e-01, IC:-9.34e-03, RIC:-7.04e-02, prec@10:5.12e-01, SR:4.36e-01
+Test performance:
+ mse:4.82e-01, IC:4.44e-03, RIC:3.82e-02, prec@10:5.38e-01, SR:5.69e-01 
+
+
+epoch37##########################################################
+Train : loss:4.48e-01  =  4.47e-01 + alpha*3.97e-03
+Valid : loss:4.52e-01  =  4.51e-01 + alpha*3.38e-03
+Test: loss:4.82e-01  =  4.81e-01 + alpha*3.17e-03
+Valid performance:
+ mse:4.51e-01, IC:-8.32e-03, RIC:-6.27e-02, prec@10:5.13e-01, SR:8.81e-01
+Test performance:
+ mse:4.81e-01, IC:4.49e-03, RIC:3.86e-02, prec@10:5.41e-01, SR:2.81e-02 
+
+
+epoch38##########################################################
+Train : loss:4.47e-01  =  4.46e-01 + alpha*3.95e-03
+Valid : loss:4.51e-01  =  4.50e-01 + alpha*3.38e-03
+Test: loss:4.81e-01  =  4.80e-01 + alpha*3.17e-03
+Valid performance:
+ mse:4.50e-01, IC:-8.94e-03, RIC:-6.75e-02, prec@10:5.17e-01, SR:8.90e-01
+Test performance:
+ mse:4.80e-01, IC:4.63e-03, RIC:3.98e-02, prec@10:5.38e-01, SR:1.80e-01 
+
+
+epoch39##########################################################
+Train : loss:4.45e-01  =  4.45e-01 + alpha*3.95e-03
+Valid : loss:4.50e-01  =  4.49e-01 + alpha*3.38e-03
+Test: loss:4.79e-01  =  4.79e-01 + alpha*3.17e-03
+Valid performance:
+ mse:4.49e-01, IC:-9.12e-03, RIC:-6.88e-02, prec@10:5.13e-01, SR:6.91e-01
+Test performance:
+ mse:4.79e-01, IC:4.32e-03, RIC:3.70e-02, prec@10:5.33e-01, SR:-4.97e-02 
+
+
+epoch40##########################################################
+Train : loss:4.45e-01  =  4.44e-01 + alpha*3.95e-03
+Valid : loss:4.49e-01  =  4.48e-01 + alpha*3.38e-03
+Test: loss:4.79e-01  =  4.78e-01 + alpha*3.16e-03
+Valid performance:
+ mse:4.48e-01, IC:-9.47e-03, RIC:-7.14e-02, prec@10:5.09e-01, SR:9.31e-01
+Test performance:
+ mse:4.78e-01, IC:4.36e-03, RIC:3.76e-02, prec@10:5.39e-01, SR:4.58e-01 
+
+
+epoch41##########################################################
+Train : loss:4.44e-01  =  4.44e-01 + alpha*3.95e-03
+Valid : loss:4.48e-01  =  4.48e-01 + alpha*3.38e-03
+Test: loss:4.78e-01  =  4.78e-01 + alpha*3.16e-03
+Valid performance:
+ mse:4.48e-01, IC:-9.17e-03, RIC:-6.90e-02, prec@10:5.13e-01, SR:6.89e-01
+Test performance:
+ mse:4.78e-01, IC:4.57e-03, RIC:3.94e-02, prec@10:5.40e-01, SR:2.88e-01 
+
+
+epoch42##########################################################
+Train : loss:4.44e-01  =  4.43e-01 + alpha*3.96e-03
+Valid : loss:4.48e-01  =  4.47e-01 + alpha*3.38e-03
+Test: loss:4.77e-01  =  4.77e-01 + alpha*3.15e-03
+Valid performance:
+ mse:4.47e-01, IC:-9.10e-03, RIC:-6.87e-02, prec@10:5.12e-01, SR:5.18e-01
+Test performance:
+ mse:4.77e-01, IC:4.87e-03, RIC:4.17e-02, prec@10:5.38e-01, SR:4.68e-01 
+
+
+epoch43##########################################################
+Train : loss:4.43e-01  =  4.42e-01 + alpha*3.94e-03
+Valid : loss:4.47e-01  =  4.46e-01 + alpha*3.37e-03
+Test: loss:4.77e-01  =  4.76e-01 + alpha*3.16e-03
+Valid performance:
+ mse:4.46e-01, IC:-9.19e-03, RIC:-6.93e-02, prec@10:5.14e-01, SR:9.09e-01
+Test performance:
+ mse:4.76e-01, IC:4.36e-03, RIC:3.74e-02, prec@10:5.37e-01, SR:3.18e-01 
+
+
+epoch44##########################################################
+Train : loss:4.42e-01  =  4.41e-01 + alpha*3.95e-03
+Valid : loss:4.47e-01  =  4.46e-01 + alpha*3.37e-03
+Test: loss:4.76e-01  =  4.76e-01 + alpha*3.16e-03
+Valid performance:
+ mse:4.46e-01, IC:-9.20e-03, RIC:-6.91e-02, prec@10:5.14e-01, SR:7.51e-01
+Test performance:
+ mse:4.76e-01, IC:3.71e-03, RIC:3.17e-02, prec@10:5.37e-01, SR:7.51e-02 
+
+
+epoch45##########################################################
+Train : loss:4.41e-01  =  4.41e-01 + alpha*3.93e-03
+Valid : loss:4.46e-01  =  4.45e-01 + alpha*3.36e-03
+Test: loss:4.76e-01  =  4.75e-01 + alpha*3.15e-03
+Valid performance:
+ mse:4.45e-01, IC:-9.36e-03, RIC:-7.07e-02, prec@10:5.10e-01, SR:7.33e-01
+Test performance:
+ mse:4.75e-01, IC:4.44e-03, RIC:3.80e-02, prec@10:5.39e-01, SR:-3.83e-03 
+
+
+epoch46##########################################################
+Train : loss:4.41e-01  =  4.40e-01 + alpha*3.93e-03
+Valid : loss:4.45e-01  =  4.44e-01 + alpha*3.36e-03
+Test: loss:4.75e-01  =  4.75e-01 + alpha*3.15e-03
+Valid performance:
+ mse:4.44e-01, IC:-9.08e-03, RIC:-6.83e-02, prec@10:5.09e-01, SR:6.11e-01
+Test performance:
+ mse:4.75e-01, IC:4.06e-03, RIC:3.47e-02, prec@10:5.38e-01, SR:1.35e-01 
+
+
+epoch47##########################################################
+Train : loss:4.40e-01  =  4.39e-01 + alpha*3.92e-03
+Valid : loss:4.45e-01  =  4.44e-01 + alpha*3.36e-03
+Test: loss:4.75e-01  =  4.74e-01 + alpha*3.15e-03
+Valid performance:
+ mse:4.44e-01, IC:-8.90e-03, RIC:-6.73e-02, prec@10:5.17e-01, SR:9.69e-01
+Test performance:
+ mse:4.74e-01, IC:4.05e-03, RIC:3.47e-02, prec@10:5.29e-01, SR:6.15e-01 
+
+
+epoch48##########################################################
+Train : loss:4.41e-01  =  4.40e-01 + alpha*3.93e-03
+Valid : loss:4.45e-01  =  4.44e-01 + alpha*3.37e-03
+Test: loss:4.74e-01  =  4.74e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.44e-01, IC:-9.11e-03, RIC:-6.88e-02, prec@10:5.10e-01, SR:7.79e-01
+Test performance:
+ mse:4.74e-01, IC:5.01e-03, RIC:4.26e-02, prec@10:5.35e-01, SR:5.69e-01 
+
+
+epoch49##########################################################
+Train : loss:4.40e-01  =  4.39e-01 + alpha*3.94e-03
+Valid : loss:4.44e-01  =  4.43e-01 + alpha*3.36e-03
+Test: loss:4.74e-01  =  4.74e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.43e-01, IC:-8.71e-03, RIC:-6.57e-02, prec@10:5.13e-01, SR:8.33e-01
+Test performance:
+ mse:4.74e-01, IC:4.49e-03, RIC:3.87e-02, prec@10:5.30e-01, SR:2.73e-01 
+
+
+epoch50##########################################################
+Train : loss:4.39e-01  =  4.39e-01 + alpha*3.93e-03
+Valid : loss:4.44e-01  =  4.44e-01 + alpha*3.36e-03
+Test: loss:4.74e-01  =  4.73e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.44e-01, IC:-9.23e-03, RIC:-6.96e-02, prec@10:5.12e-01, SR:8.67e-01
+Test performance:
+ mse:4.73e-01, IC:4.54e-03, RIC:3.91e-02, prec@10:5.38e-01, SR:2.27e-01 
+
+
+epoch51##########################################################
+Train : loss:4.39e-01  =  4.38e-01 + alpha*3.92e-03
+Valid : loss:4.44e-01  =  4.43e-01 + alpha*3.36e-03
+Test: loss:4.73e-01  =  4.73e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.43e-01, IC:-8.92e-03, RIC:-6.71e-02, prec@10:5.12e-01, SR:8.78e-01
+Test performance:
+ mse:4.73e-01, IC:4.37e-03, RIC:3.73e-02, prec@10:5.37e-01, SR:4.34e-01 
+
+
+epoch52##########################################################
+Train : loss:4.39e-01  =  4.38e-01 + alpha*3.94e-03
+Valid : loss:4.43e-01  =  4.43e-01 + alpha*3.36e-03
+Test: loss:4.73e-01  =  4.72e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.43e-01, IC:-9.48e-03, RIC:-7.15e-02, prec@10:5.17e-01, SR:8.48e-01
+Test performance:
+ mse:4.72e-01, IC:4.31e-03, RIC:3.69e-02, prec@10:5.39e-01, SR:6.95e-01 
+
+
+epoch53##########################################################
+Train : loss:4.39e-01  =  4.38e-01 + alpha*3.93e-03
+Valid : loss:4.43e-01  =  4.42e-01 + alpha*3.36e-03
+Test: loss:4.73e-01  =  4.73e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.42e-01, IC:-9.36e-03, RIC:-7.01e-02, prec@10:5.08e-01, SR:7.97e-01
+Test performance:
+ mse:4.73e-01, IC:5.07e-03, RIC:4.32e-02, prec@10:5.37e-01, SR:5.36e-01 
+
+
+epoch54##########################################################
+Train : loss:4.38e-01  =  4.38e-01 + alpha*3.93e-03
+Valid : loss:4.44e-01  =  4.43e-01 + alpha*3.36e-03
+Test: loss:4.73e-01  =  4.72e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.43e-01, IC:-9.59e-03, RIC:-7.23e-02, prec@10:5.11e-01, SR:7.43e-01
+Test performance:
+ mse:4.72e-01, IC:4.89e-03, RIC:4.19e-02, prec@10:5.39e-01, SR:5.19e-01 
+
+
+epoch55##########################################################
+Train : loss:4.39e-01  =  4.38e-01 + alpha*3.92e-03
+Valid : loss:4.43e-01  =  4.42e-01 + alpha*3.35e-03
+Test: loss:4.73e-01  =  4.72e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.42e-01, IC:-9.03e-03, RIC:-6.82e-02, prec@10:5.16e-01, SR:6.54e-01
+Test performance:
+ mse:4.72e-01, IC:4.87e-03, RIC:4.15e-02, prec@10:5.34e-01, SR:-3.00e-01 
+
+
+epoch56##########################################################
+Train : loss:4.38e-01  =  4.37e-01 + alpha*3.92e-03
+Valid : loss:4.43e-01  =  4.42e-01 + alpha*3.36e-03
+Test: loss:4.72e-01  =  4.72e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.42e-01, IC:-9.49e-03, RIC:-7.15e-02, prec@10:5.08e-01, SR:6.55e-01
+Test performance:
+ mse:4.72e-01, IC:4.83e-03, RIC:4.14e-02, prec@10:5.38e-01, SR:4.65e-01 
+
+
+epoch57##########################################################
+Train : loss:4.38e-01  =  4.38e-01 + alpha*3.92e-03
+Valid : loss:4.42e-01  =  4.42e-01 + alpha*3.35e-03
+Test: loss:4.72e-01  =  4.72e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.42e-01, IC:-8.85e-03, RIC:-6.67e-02, prec@10:5.11e-01, SR:8.40e-01
+Test performance:
+ mse:4.72e-01, IC:4.79e-03, RIC:4.09e-02, prec@10:5.33e-01, SR:7.50e-01 
+
+
+epoch58##########################################################
+Train : loss:4.38e-01  =  4.37e-01 + alpha*3.93e-03
+Valid : loss:4.42e-01  =  4.41e-01 + alpha*3.36e-03
+Test: loss:4.73e-01  =  4.72e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-9.24e-03, RIC:-6.96e-02, prec@10:5.10e-01, SR:7.52e-01
+Test performance:
+ mse:4.72e-01, IC:4.21e-03, RIC:3.60e-02, prec@10:5.38e-01, SR:5.79e-01 
+
+
+epoch59##########################################################
+Train : loss:4.38e-01  =  4.37e-01 + alpha*3.90e-03
+Valid : loss:4.42e-01  =  4.42e-01 + alpha*3.36e-03
+Test: loss:4.72e-01  =  4.72e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.42e-01, IC:-1.00e-02, RIC:-7.52e-02, prec@10:5.10e-01, SR:4.15e-01
+Test performance:
+ mse:4.72e-01, IC:4.26e-03, RIC:3.63e-02, prec@10:5.37e-01, SR:2.45e-01 
+
+
+epoch60##########################################################
+Train : loss:4.38e-01  =  4.37e-01 + alpha*3.91e-03
+Valid : loss:4.43e-01  =  4.42e-01 + alpha*3.36e-03
+Test: loss:4.73e-01  =  4.72e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.42e-01, IC:-9.40e-03, RIC:-7.08e-02, prec@10:5.16e-01, SR:2.92e-01
+Test performance:
+ mse:4.72e-01, IC:4.05e-03, RIC:3.49e-02, prec@10:5.38e-01, SR:9.06e-02 
+
+
+epoch61##########################################################
+Train : loss:4.38e-01  =  4.37e-01 + alpha*3.93e-03
+Valid : loss:4.42e-01  =  4.42e-01 + alpha*3.35e-03
+Test: loss:4.72e-01  =  4.72e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.42e-01, IC:-8.92e-03, RIC:-6.71e-02, prec@10:5.13e-01, SR:6.14e-01
+Test performance:
+ mse:4.72e-01, IC:4.53e-03, RIC:3.88e-02, prec@10:5.36e-01, SR:8.24e-01 
+
+
+epoch62##########################################################
+Train : loss:4.38e-01  =  4.37e-01 + alpha*3.93e-03
+Valid : loss:4.42e-01  =  4.42e-01 + alpha*3.36e-03
+Test: loss:4.72e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.42e-01, IC:-9.18e-03, RIC:-6.90e-02, prec@10:5.16e-01, SR:9.24e-01
+Test performance:
+ mse:4.71e-01, IC:4.48e-03, RIC:3.83e-02, prec@10:5.36e-01, SR:-6.70e-02 
+
+
+epoch63##########################################################
+Train : loss:4.38e-01  =  4.37e-01 + alpha*3.93e-03
+Valid : loss:4.42e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.72e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-9.09e-03, RIC:-6.86e-02, prec@10:5.11e-01, SR:1.02e+00
+Test performance:
+ mse:4.71e-01, IC:4.27e-03, RIC:3.65e-02, prec@10:5.38e-01, SR:2.90e-01 
+
+
+epoch64##########################################################
+Train : loss:4.38e-01  =  4.37e-01 + alpha*3.91e-03
+Valid : loss:4.41e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.72e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-9.37e-03, RIC:-7.05e-02, prec@10:5.05e-01, SR:7.74e-01
+Test performance:
+ mse:4.71e-01, IC:4.47e-03, RIC:3.81e-02, prec@10:5.45e-01, SR:-7.45e-02 
+
+
+epoch65##########################################################
+Train : loss:4.38e-01  =  4.37e-01 + alpha*3.92e-03
+Valid : loss:4.42e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.72e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-9.16e-03, RIC:-6.88e-02, prec@10:5.12e-01, SR:9.38e-01
+Test performance:
+ mse:4.71e-01, IC:3.95e-03, RIC:3.37e-02, prec@10:5.33e-01, SR:3.19e-01 
+
+
+epoch66##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.90e-03
+Valid : loss:4.42e-01  =  4.41e-01 + alpha*3.36e-03
+Test: loss:4.72e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-9.86e-03, RIC:-7.44e-02, prec@10:5.08e-01, SR:5.85e-01
+Test performance:
+ mse:4.71e-01, IC:4.64e-03, RIC:3.97e-02, prec@10:5.35e-01, SR:4.84e-01 
+
+
+epoch67##########################################################
+Train : loss:4.38e-01  =  4.37e-01 + alpha*3.93e-03
+Valid : loss:4.42e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.72e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-8.97e-03, RIC:-6.77e-02, prec@10:5.14e-01, SR:6.32e-01
+Test performance:
+ mse:4.71e-01, IC:4.50e-03, RIC:3.86e-02, prec@10:5.36e-01, SR:1.73e-01 
+
+
+epoch68##########################################################
+Train : loss:4.37e-01  =  4.37e-01 + alpha*3.90e-03
+Valid : loss:4.42e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.72e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-9.13e-03, RIC:-6.88e-02, prec@10:5.13e-01, SR:7.35e-01
+Test performance:
+ mse:4.71e-01, IC:4.78e-03, RIC:4.06e-02, prec@10:5.37e-01, SR:9.73e-02 
+
+
+epoch69##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.90e-03
+Valid : loss:4.42e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.72e-01  =  4.71e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.41e-01, IC:-9.47e-03, RIC:-7.14e-02, prec@10:5.13e-01, SR:6.16e-01
+Test performance:
+ mse:4.71e-01, IC:5.43e-03, RIC:4.65e-02, prec@10:5.41e-01, SR:4.07e-01 
+
+
+epoch70##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.91e-03
+Valid : loss:4.42e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.72e-01  =  4.72e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-9.02e-03, RIC:-6.79e-02, prec@10:5.07e-01, SR:7.94e-01
+Test performance:
+ mse:4.72e-01, IC:4.81e-03, RIC:4.13e-02, prec@10:5.37e-01, SR:3.96e-01 
+
+
+epoch71##########################################################
+Train : loss:4.37e-01  =  4.37e-01 + alpha*3.92e-03
+Valid : loss:4.41e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.72e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-9.06e-03, RIC:-6.83e-02, prec@10:5.18e-01, SR:1.06e+00
+Test performance:
+ mse:4.71e-01, IC:4.34e-03, RIC:3.71e-02, prec@10:5.36e-01, SR:4.59e-02 
+
+
+epoch72##########################################################
+Train : loss:4.38e-01  =  4.37e-01 + alpha*3.92e-03
+Valid : loss:4.41e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.72e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-9.18e-03, RIC:-6.92e-02, prec@10:5.13e-01, SR:5.72e-01
+Test performance:
+ mse:4.71e-01, IC:4.35e-03, RIC:3.72e-02, prec@10:5.40e-01, SR:1.61e-01 
+
+
+epoch73##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.92e-03
+Valid : loss:4.41e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.71e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.41e-01, IC:-9.35e-03, RIC:-7.06e-02, prec@10:5.14e-01, SR:7.53e-01
+Test performance:
+ mse:4.71e-01, IC:5.21e-03, RIC:4.43e-02, prec@10:5.36e-01, SR:4.88e-01 
+
+
+epoch74##########################################################
+Train : loss:4.37e-01  =  4.37e-01 + alpha*3.92e-03
+Valid : loss:4.41e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-8.47e-03, RIC:-6.37e-02, prec@10:5.11e-01, SR:9.87e-01
+Test performance:
+ mse:4.71e-01, IC:4.14e-03, RIC:3.53e-02, prec@10:5.39e-01, SR:-1.53e-01 
+
+
+epoch75##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.92e-03
+Valid : loss:4.42e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.72e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-9.08e-03, RIC:-6.83e-02, prec@10:5.14e-01, SR:7.39e-01
+Test performance:
+ mse:4.71e-01, IC:4.58e-03, RIC:3.90e-02, prec@10:5.43e-01, SR:4.49e-01 
+
+
+epoch76##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.92e-03
+Valid : loss:4.41e-01  =  4.40e-01 + alpha*3.34e-03
+Test: loss:4.72e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.40e-01, IC:-8.94e-03, RIC:-6.75e-02, prec@10:5.12e-01, SR:1.05e+00
+Test performance:
+ mse:4.71e-01, IC:4.39e-03, RIC:3.74e-02, prec@10:5.40e-01, SR:4.07e-01 
+
+
+epoch77##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.92e-03
+Valid : loss:4.41e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.72e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-9.26e-03, RIC:-7.00e-02, prec@10:5.12e-01, SR:9.56e-01
+Test performance:
+ mse:4.71e-01, IC:4.63e-03, RIC:3.97e-02, prec@10:5.34e-01, SR:5.03e-02 
+
+
+epoch78##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.92e-03
+Valid : loss:4.42e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.72e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-9.47e-03, RIC:-7.14e-02, prec@10:5.11e-01, SR:9.86e-01
+Test performance:
+ mse:4.71e-01, IC:4.41e-03, RIC:3.77e-02, prec@10:5.41e-01, SR:5.99e-01 
+
+
+epoch79##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.90e-03
+Valid : loss:4.41e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.72e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-9.19e-03, RIC:-6.95e-02, prec@10:5.13e-01, SR:3.18e-01
+Test performance:
+ mse:4.71e-01, IC:4.47e-03, RIC:3.82e-02, prec@10:5.33e-01, SR:1.02e-01 
+
+
+epoch80##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.92e-03
+Valid : loss:4.41e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.72e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-8.89e-03, RIC:-6.70e-02, prec@10:5.12e-01, SR:5.48e-01
+Test performance:
+ mse:4.71e-01, IC:4.68e-03, RIC:4.00e-02, prec@10:5.40e-01, SR:9.73e-02 
+
+
+epoch81##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.92e-03
+Valid : loss:4.41e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.72e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-9.13e-03, RIC:-6.89e-02, prec@10:5.09e-01, SR:4.78e-01
+Test performance:
+ mse:4.71e-01, IC:4.84e-03, RIC:4.14e-02, prec@10:5.34e-01, SR:6.60e-01 
+
+
+epoch82##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.92e-03
+Valid : loss:4.42e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-8.80e-03, RIC:-6.64e-02, prec@10:5.16e-01, SR:9.26e-01
+Test performance:
+ mse:4.71e-01, IC:4.22e-03, RIC:3.60e-02, prec@10:5.36e-01, SR:6.31e-02 
+
+
+epoch83##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.91e-03
+Valid : loss:4.41e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-9.49e-03, RIC:-7.17e-02, prec@10:5.13e-01, SR:8.65e-01
+Test performance:
+ mse:4.71e-01, IC:4.34e-03, RIC:3.70e-02, prec@10:5.40e-01, SR:2.89e-01 
+
+
+epoch84##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.91e-03
+Valid : loss:4.41e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.70e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-8.88e-03, RIC:-6.69e-02, prec@10:5.10e-01, SR:6.82e-01
+Test performance:
+ mse:4.70e-01, IC:4.59e-03, RIC:3.92e-02, prec@10:5.38e-01, SR:3.93e-01 
+
+
+epoch85##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.92e-03
+Valid : loss:4.41e-01  =  4.40e-01 + alpha*3.36e-03
+Test: loss:4.71e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.40e-01, IC:-9.72e-03, RIC:-7.30e-02, prec@10:5.10e-01, SR:4.11e-01
+Test performance:
+ mse:4.71e-01, IC:5.02e-03, RIC:4.27e-02, prec@10:5.40e-01, SR:8.04e-01 
+
+
+epoch86##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.90e-03
+Valid : loss:4.41e-01  =  4.40e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.40e-01, IC:-9.14e-03, RIC:-6.90e-02, prec@10:5.11e-01, SR:7.74e-01
+Test performance:
+ mse:4.71e-01, IC:3.99e-03, RIC:3.40e-02, prec@10:5.37e-01, SR:3.01e-01 
+
+
+epoch87##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.91e-03
+Valid : loss:4.41e-01  =  4.41e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.41e-01, IC:-9.09e-03, RIC:-6.87e-02, prec@10:5.15e-01, SR:9.99e-01
+Test performance:
+ mse:4.71e-01, IC:4.03e-03, RIC:3.46e-02, prec@10:5.34e-01, SR:3.45e-01 
+
+
+epoch88##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.91e-03
+Valid : loss:4.41e-01  =  4.40e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.70e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.40e-01, IC:-9.61e-03, RIC:-7.27e-02, prec@10:5.12e-01, SR:7.09e-01
+Test performance:
+ mse:4.70e-01, IC:4.39e-03, RIC:3.74e-02, prec@10:5.35e-01, SR:2.21e-01 
+
+
+epoch89##########################################################
+Train : loss:4.36e-01  =  4.36e-01 + alpha*3.93e-03
+Valid : loss:4.41e-01  =  4.40e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.71e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.40e-01, IC:-9.64e-03, RIC:-7.27e-02, prec@10:5.11e-01, SR:8.66e-01
+Test performance:
+ mse:4.71e-01, IC:4.53e-03, RIC:3.88e-02, prec@10:5.38e-01, SR:4.93e-01 
+
+
+epoch90##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.92e-03
+Valid : loss:4.41e-01  =  4.40e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.70e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.40e-01, IC:-1.01e-02, RIC:-7.56e-02, prec@10:5.12e-01, SR:6.11e-01
+Test performance:
+ mse:4.70e-01, IC:4.85e-03, RIC:4.13e-02, prec@10:5.37e-01, SR:3.38e-01 
+
+
+epoch91##########################################################
+Train : loss:4.36e-01  =  4.36e-01 + alpha*3.89e-03
+Valid : loss:4.40e-01  =  4.40e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.70e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.40e-01, IC:-9.30e-03, RIC:-7.00e-02, prec@10:5.09e-01, SR:1.01e+00
+Test performance:
+ mse:4.70e-01, IC:4.90e-03, RIC:4.20e-02, prec@10:5.37e-01, SR:2.77e-01 
+
+
+epoch92##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.91e-03
+Valid : loss:4.41e-01  =  4.40e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.70e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.40e-01, IC:-8.84e-03, RIC:-6.67e-02, prec@10:5.12e-01, SR:7.57e-01
+Test performance:
+ mse:4.70e-01, IC:4.82e-03, RIC:4.13e-02, prec@10:5.33e-01, SR:5.11e-01 
+
+
+epoch93##########################################################
+Train : loss:4.37e-01  =  4.36e-01 + alpha*3.92e-03
+Valid : loss:4.41e-01  =  4.40e-01 + alpha*3.34e-03
+Test: loss:4.70e-01  =  4.70e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.40e-01, IC:-8.78e-03, RIC:-6.63e-02, prec@10:5.16e-01, SR:9.85e-01
+Test performance:
+ mse:4.70e-01, IC:4.35e-03, RIC:3.72e-02, prec@10:5.33e-01, SR:2.04e-01 
+
+
+epoch94##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.90e-03
+Valid : loss:4.41e-01  =  4.40e-01 + alpha*3.34e-03
+Test: loss:4.71e-01  =  4.70e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.40e-01, IC:-8.99e-03, RIC:-6.78e-02, prec@10:5.14e-01, SR:9.11e-01
+Test performance:
+ mse:4.70e-01, IC:4.58e-03, RIC:3.90e-02, prec@10:5.34e-01, SR:2.79e-01 
+
+
+epoch95##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.91e-03
+Valid : loss:4.41e-01  =  4.40e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.70e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.40e-01, IC:-9.15e-03, RIC:-6.92e-02, prec@10:5.16e-01, SR:6.90e-01
+Test performance:
+ mse:4.70e-01, IC:4.63e-03, RIC:3.94e-02, prec@10:5.37e-01, SR:6.30e-02 
+
+
+epoch96##########################################################
+Train : loss:4.36e-01  =  4.36e-01 + alpha*3.91e-03
+Valid : loss:4.40e-01  =  4.39e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.70e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.72e-03, RIC:-7.33e-02, prec@10:5.10e-01, SR:4.88e-01
+Test performance:
+ mse:4.70e-01, IC:4.33e-03, RIC:3.68e-02, prec@10:5.36e-01, SR:3.00e-01 
+
+
+epoch97##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.89e-03
+Valid : loss:4.41e-01  =  4.40e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.70e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.40e-01, IC:-9.28e-03, RIC:-7.00e-02, prec@10:5.10e-01, SR:8.01e-01
+Test performance:
+ mse:4.70e-01, IC:4.66e-03, RIC:3.99e-02, prec@10:5.38e-01, SR:7.45e-02 
+
+
+epoch98##########################################################
+Train : loss:4.36e-01  =  4.36e-01 + alpha*3.90e-03
+Valid : loss:4.40e-01  =  4.40e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.70e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.40e-01, IC:-9.50e-03, RIC:-7.14e-02, prec@10:5.11e-01, SR:6.78e-01
+Test performance:
+ mse:4.70e-01, IC:4.70e-03, RIC:4.01e-02, prec@10:5.39e-01, SR:3.13e-01 
+
+
+epoch99##########################################################
+Train : loss:4.36e-01  =  4.36e-01 + alpha*3.91e-03
+Valid : loss:4.40e-01  =  4.40e-01 + alpha*3.35e-03
+Test: loss:4.70e-01  =  4.69e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.40e-01, IC:-9.13e-03, RIC:-6.87e-02, prec@10:5.14e-01, SR:7.16e-01
+Test performance:
+ mse:4.69e-01, IC:5.17e-03, RIC:4.40e-02, prec@10:5.32e-01, SR:8.70e-01 
+
+
+epoch100##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.90e-03
+Valid : loss:4.41e-01  =  4.40e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.70e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.40e-01, IC:-9.30e-03, RIC:-7.02e-02, prec@10:5.12e-01, SR:9.68e-01
+Test performance:
+ mse:4.70e-01, IC:4.38e-03, RIC:3.74e-02, prec@10:5.40e-01, SR:9.25e-03 
+
+
+epoch101##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.91e-03
+Valid : loss:4.41e-01  =  4.40e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.70e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.40e-01, IC:-9.40e-03, RIC:-7.09e-02, prec@10:5.17e-01, SR:7.82e-01
+Test performance:
+ mse:4.70e-01, IC:4.01e-03, RIC:3.43e-02, prec@10:5.38e-01, SR:4.67e-02 
+
+
+epoch102##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.90e-03
+Valid : loss:4.41e-01  =  4.40e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.70e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.40e-01, IC:-9.14e-03, RIC:-6.89e-02, prec@10:5.16e-01, SR:9.95e-01
+Test performance:
+ mse:4.70e-01, IC:4.14e-03, RIC:3.52e-02, prec@10:5.30e-01, SR:8.61e-02 
+
+
+epoch103##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.91e-03
+Valid : loss:4.41e-01  =  4.40e-01 + alpha*3.35e-03
+Test: loss:4.70e-01  =  4.70e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.40e-01, IC:-9.26e-03, RIC:-7.00e-02, prec@10:5.13e-01, SR:6.23e-01
+Test performance:
+ mse:4.70e-01, IC:4.22e-03, RIC:3.61e-02, prec@10:5.31e-01, SR:8.70e-01 
+
+
+epoch104##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.92e-03
+Valid : loss:4.40e-01  =  4.39e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.70e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.26e-03, RIC:-6.98e-02, prec@10:5.14e-01, SR:8.04e-01
+Test performance:
+ mse:4.70e-01, IC:4.73e-03, RIC:4.05e-02, prec@10:5.38e-01, SR:2.98e-01 
+
+
+epoch105##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.90e-03
+Valid : loss:4.40e-01  =  4.40e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.70e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.40e-01, IC:-9.77e-03, RIC:-7.35e-02, prec@10:5.10e-01, SR:5.33e-01
+Test performance:
+ mse:4.70e-01, IC:4.11e-03, RIC:3.52e-02, prec@10:5.33e-01, SR:-2.23e-01 
+
+
+epoch106##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.91e-03
+Valid : loss:4.40e-01  =  4.39e-01 + alpha*3.35e-03
+Test: loss:4.70e-01  =  4.69e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.97e-03, RIC:-7.48e-02, prec@10:5.07e-01, SR:7.22e-01
+Test performance:
+ mse:4.69e-01, IC:4.17e-03, RIC:3.57e-02, prec@10:5.37e-01, SR:4.07e-01 
+
+
+epoch107##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.91e-03
+Valid : loss:4.40e-01  =  4.39e-01 + alpha*3.34e-03
+Test: loss:4.70e-01  =  4.70e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.09e-03, RIC:-6.85e-02, prec@10:5.08e-01, SR:8.54e-01
+Test performance:
+ mse:4.70e-01, IC:4.80e-03, RIC:4.09e-02, prec@10:5.37e-01, SR:3.32e-01 
+
+
+epoch108##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.92e-03
+Valid : loss:4.40e-01  =  4.40e-01 + alpha*3.35e-03
+Test: loss:4.71e-01  =  4.70e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.40e-01, IC:-9.25e-03, RIC:-6.95e-02, prec@10:5.10e-01, SR:4.68e-01
+Test performance:
+ mse:4.70e-01, IC:4.56e-03, RIC:3.90e-02, prec@10:5.41e-01, SR:4.44e-01 
+
+
+epoch109##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.90e-03
+Valid : loss:4.40e-01  =  4.39e-01 + alpha*3.35e-03
+Test: loss:4.70e-01  =  4.70e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.17e-03, RIC:-6.92e-02, prec@10:5.11e-01, SR:9.69e-01
+Test performance:
+ mse:4.70e-01, IC:4.60e-03, RIC:3.92e-02, prec@10:5.36e-01, SR:2.75e-01 
+
+
+epoch110##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.91e-03
+Valid : loss:4.40e-01  =  4.39e-01 + alpha*3.35e-03
+Test: loss:4.70e-01  =  4.69e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.61e-03, RIC:-7.23e-02, prec@10:5.13e-01, SR:9.08e-01
+Test performance:
+ mse:4.69e-01, IC:4.77e-03, RIC:4.06e-02, prec@10:5.37e-01, SR:3.19e-02 
+
+
+epoch111##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.89e-03
+Valid : loss:4.40e-01  =  4.39e-01 + alpha*3.34e-03
+Test: loss:4.70e-01  =  4.69e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.35e-03, RIC:-7.03e-02, prec@10:5.07e-01, SR:8.25e-01
+Test performance:
+ mse:4.69e-01, IC:4.57e-03, RIC:3.92e-02, prec@10:5.40e-01, SR:-1.21e-01 
+
+
+epoch112##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.90e-03
+Valid : loss:4.40e-01  =  4.39e-01 + alpha*3.34e-03
+Test: loss:4.70e-01  =  4.69e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.03e-03, RIC:-6.83e-02, prec@10:5.15e-01, SR:1.06e+00
+Test performance:
+ mse:4.69e-01, IC:4.25e-03, RIC:3.63e-02, prec@10:5.40e-01, SR:7.63e-01 
+
+
+epoch113##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.91e-03
+Valid : loss:4.40e-01  =  4.40e-01 + alpha*3.35e-03
+Test: loss:4.70e-01  =  4.70e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.40e-01, IC:-9.59e-03, RIC:-7.21e-02, prec@10:5.09e-01, SR:7.58e-01
+Test performance:
+ mse:4.70e-01, IC:4.76e-03, RIC:4.06e-02, prec@10:5.32e-01, SR:5.51e-01 
+
+
+epoch114##########################################################
+Train : loss:4.35e-01  =  4.35e-01 + alpha*3.90e-03
+Valid : loss:4.40e-01  =  4.39e-01 + alpha*3.34e-03
+Test: loss:4.70e-01  =  4.69e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.36e-03, RIC:-7.05e-02, prec@10:5.11e-01, SR:8.75e-01
+Test performance:
+ mse:4.69e-01, IC:4.13e-03, RIC:3.53e-02, prec@10:5.39e-01, SR:2.01e-01 
+
+
+epoch115##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.90e-03
+Valid : loss:4.40e-01  =  4.39e-01 + alpha*3.34e-03
+Test: loss:4.70e-01  =  4.69e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.09e-03, RIC:-6.85e-02, prec@10:5.08e-01, SR:1.07e+00
+Test performance:
+ mse:4.69e-01, IC:3.99e-03, RIC:3.42e-02, prec@10:5.37e-01, SR:1.81e-01 
+
+
+epoch116##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.92e-03
+Valid : loss:4.39e-01  =  4.39e-01 + alpha*3.35e-03
+Test: loss:4.70e-01  =  4.69e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.53e-03, RIC:-7.15e-02, prec@10:5.14e-01, SR:1.02e+00
+Test performance:
+ mse:4.69e-01, IC:4.75e-03, RIC:4.07e-02, prec@10:5.37e-01, SR:3.11e-01 
+
+
+epoch117##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.92e-03
+Valid : loss:4.40e-01  =  4.39e-01 + alpha*3.35e-03
+Test: loss:4.70e-01  =  4.69e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.54e-03, RIC:-7.18e-02, prec@10:5.10e-01, SR:7.58e-01
+Test performance:
+ mse:4.69e-01, IC:5.17e-03, RIC:4.39e-02, prec@10:5.36e-01, SR:-1.94e-02 
+
+
+epoch118##########################################################
+Train : loss:4.35e-01  =  4.34e-01 + alpha*3.92e-03
+Valid : loss:4.40e-01  =  4.39e-01 + alpha*3.34e-03
+Test: loss:4.70e-01  =  4.69e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.26e-03, RIC:-6.94e-02, prec@10:5.11e-01, SR:9.99e-01
+Test performance:
+ mse:4.69e-01, IC:4.80e-03, RIC:4.10e-02, prec@10:5.33e-01, SR:5.97e-01 
+
+
+epoch119##########################################################
+Train : loss:4.35e-01  =  4.34e-01 + alpha*3.91e-03
+Valid : loss:4.40e-01  =  4.39e-01 + alpha*3.35e-03
+Test: loss:4.70e-01  =  4.69e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.42e-03, RIC:-7.07e-02, prec@10:5.17e-01, SR:6.75e-01
+Test performance:
+ mse:4.69e-01, IC:4.53e-03, RIC:3.89e-02, prec@10:5.40e-01, SR:7.89e-01 
+
+
+epoch120##########################################################
+Train : loss:4.36e-01  =  4.35e-01 + alpha*3.90e-03
+Valid : loss:4.39e-01  =  4.39e-01 + alpha*3.35e-03
+Test: loss:4.70e-01  =  4.69e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.26e-03, RIC:-6.95e-02, prec@10:5.10e-01, SR:6.76e-01
+Test performance:
+ mse:4.69e-01, IC:4.13e-03, RIC:3.53e-02, prec@10:5.33e-01, SR:2.16e-01 
+
+
+epoch121##########################################################
+Train : loss:4.35e-01  =  4.35e-01 + alpha*3.91e-03
+Valid : loss:4.40e-01  =  4.39e-01 + alpha*3.35e-03
+Test: loss:4.70e-01  =  4.69e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.46e-03, RIC:-7.14e-02, prec@10:5.08e-01, SR:8.12e-01
+Test performance:
+ mse:4.69e-01, IC:4.69e-03, RIC:4.01e-02, prec@10:5.37e-01, SR:5.34e-01 
+
+
+epoch122##########################################################
+Train : loss:4.35e-01  =  4.35e-01 + alpha*3.90e-03
+Valid : loss:4.39e-01  =  4.39e-01 + alpha*3.35e-03
+Test: loss:4.70e-01  =  4.69e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.45e-03, RIC:-7.10e-02, prec@10:5.15e-01, SR:7.69e-01
+Test performance:
+ mse:4.69e-01, IC:4.11e-03, RIC:3.50e-02, prec@10:5.41e-01, SR:5.76e-01 
+
+
+epoch123##########################################################
+Train : loss:4.35e-01  =  4.34e-01 + alpha*3.88e-03
+Valid : loss:4.40e-01  =  4.39e-01 + alpha*3.35e-03
+Test: loss:4.70e-01  =  4.69e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.66e-03, RIC:-7.30e-02, prec@10:5.10e-01, SR:7.49e-01
+Test performance:
+ mse:4.69e-01, IC:4.01e-03, RIC:3.42e-02, prec@10:5.30e-01, SR:4.59e-01 
+
+
+epoch124##########################################################
+Train : loss:4.35e-01  =  4.34e-01 + alpha*3.90e-03
+Valid : loss:4.40e-01  =  4.39e-01 + alpha*3.35e-03
+Test: loss:4.70e-01  =  4.69e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.08e-03, RIC:-6.83e-02, prec@10:5.13e-01, SR:6.54e-01
+Test performance:
+ mse:4.69e-01, IC:4.70e-03, RIC:4.01e-02, prec@10:5.40e-01, SR:1.47e-01 
+
+
+epoch125##########################################################
+Train : loss:4.35e-01  =  4.34e-01 + alpha*3.88e-03
+Valid : loss:4.40e-01  =  4.39e-01 + alpha*3.35e-03
+Test: loss:4.70e-01  =  4.69e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.11e-03, RIC:-6.87e-02, prec@10:5.17e-01, SR:8.36e-01
+Test performance:
+ mse:4.69e-01, IC:4.26e-03, RIC:3.64e-02, prec@10:5.37e-01, SR:3.05e-01 
+
+
+epoch126##########################################################
+Train : loss:4.35e-01  =  4.34e-01 + alpha*3.89e-03
+Valid : loss:4.40e-01  =  4.39e-01 + alpha*3.35e-03
+Test: loss:4.70e-01  =  4.69e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.10e-03, RIC:-6.84e-02, prec@10:5.11e-01, SR:7.14e-01
+Test performance:
+ mse:4.69e-01, IC:4.19e-03, RIC:3.59e-02, prec@10:5.40e-01, SR:6.94e-01 
+
+
+epoch127##########################################################
+Train : loss:4.35e-01  =  4.34e-01 + alpha*3.92e-03
+Valid : loss:4.39e-01  =  4.39e-01 + alpha*3.34e-03
+Test: loss:4.70e-01  =  4.69e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.39e-01, IC:-8.82e-03, RIC:-6.65e-02, prec@10:5.10e-01, SR:5.73e-01
+Test performance:
+ mse:4.69e-01, IC:4.26e-03, RIC:3.63e-02, prec@10:5.38e-01, SR:1.53e-01 
+
+
+epoch128##########################################################
+Train : loss:4.34e-01  =  4.34e-01 + alpha*3.87e-03
+Valid : loss:4.40e-01  =  4.39e-01 + alpha*3.35e-03
+Test: loss:4.69e-01  =  4.69e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.64e-03, RIC:-7.25e-02, prec@10:5.08e-01, SR:1.10e+00
+Test performance:
+ mse:4.69e-01, IC:4.58e-03, RIC:3.93e-02, prec@10:5.37e-01, SR:4.13e-01 
+
+
+epoch129##########################################################
+Train : loss:4.35e-01  =  4.34e-01 + alpha*3.90e-03
+Valid : loss:4.39e-01  =  4.39e-01 + alpha*3.34e-03
+Test: loss:4.69e-01  =  4.68e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.18e-03, RIC:-6.96e-02, prec@10:5.11e-01, SR:9.09e-01
+Test performance:
+ mse:4.68e-01, IC:4.52e-03, RIC:3.87e-02, prec@10:5.40e-01, SR:3.35e-01 
+
+
+epoch130##########################################################
+Train : loss:4.35e-01  =  4.34e-01 + alpha*3.90e-03
+Valid : loss:4.39e-01  =  4.38e-01 + alpha*3.34e-03
+Test: loss:4.69e-01  =  4.69e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.38e-01, IC:-8.85e-03, RIC:-6.65e-02, prec@10:5.11e-01, SR:1.28e+00
+Test performance:
+ mse:4.69e-01, IC:4.58e-03, RIC:3.90e-02, prec@10:5.38e-01, SR:8.23e-02 
+
+
+epoch131##########################################################
+Train : loss:4.35e-01  =  4.34e-01 + alpha*3.90e-03
+Valid : loss:4.39e-01  =  4.38e-01 + alpha*3.34e-03
+Test: loss:4.69e-01  =  4.69e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.38e-01, IC:-9.16e-03, RIC:-6.90e-02, prec@10:5.15e-01, SR:2.93e-01
+Test performance:
+ mse:4.69e-01, IC:3.90e-03, RIC:3.33e-02, prec@10:5.34e-01, SR:5.69e-02 
+
+
+epoch132##########################################################
+Train : loss:4.35e-01  =  4.34e-01 + alpha*3.90e-03
+Valid : loss:4.39e-01  =  4.38e-01 + alpha*3.34e-03
+Test: loss:4.69e-01  =  4.68e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.38e-01, IC:-9.13e-03, RIC:-6.87e-02, prec@10:5.10e-01, SR:8.60e-01
+Test performance:
+ mse:4.68e-01, IC:4.86e-03, RIC:4.13e-02, prec@10:5.35e-01, SR:2.15e-01 
+
+
+epoch133##########################################################
+Train : loss:4.35e-01  =  4.34e-01 + alpha*3.90e-03
+Valid : loss:4.39e-01  =  4.38e-01 + alpha*3.34e-03
+Test: loss:4.69e-01  =  4.69e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.38e-01, IC:-9.40e-03, RIC:-7.10e-02, prec@10:5.14e-01, SR:8.50e-01
+Test performance:
+ mse:4.69e-01, IC:4.46e-03, RIC:3.79e-02, prec@10:5.36e-01, SR:5.90e-01 
+
+
+epoch134##########################################################
+Train : loss:4.35e-01  =  4.34e-01 + alpha*3.90e-03
+Valid : loss:4.39e-01  =  4.38e-01 + alpha*3.34e-03
+Test: loss:4.69e-01  =  4.69e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.38e-01, IC:-9.07e-03, RIC:-6.84e-02, prec@10:5.13e-01, SR:9.44e-01
+Test performance:
+ mse:4.69e-01, IC:4.85e-03, RIC:4.14e-02, prec@10:5.36e-01, SR:6.07e-01 
+
+
+epoch135##########################################################
+Train : loss:4.35e-01  =  4.34e-01 + alpha*3.90e-03
+Valid : loss:4.38e-01  =  4.38e-01 + alpha*3.34e-03
+Test: loss:4.69e-01  =  4.69e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.38e-01, IC:-9.23e-03, RIC:-6.94e-02, prec@10:5.15e-01, SR:1.12e+00
+Test performance:
+ mse:4.69e-01, IC:4.34e-03, RIC:3.70e-02, prec@10:5.45e-01, SR:2.68e-01 
+
+
+epoch136##########################################################
+Train : loss:4.35e-01  =  4.34e-01 + alpha*3.89e-03
+Valid : loss:4.39e-01  =  4.38e-01 + alpha*3.34e-03
+Test: loss:4.69e-01  =  4.69e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.38e-01, IC:-9.17e-03, RIC:-6.93e-02, prec@10:5.10e-01, SR:8.13e-01
+Test performance:
+ mse:4.69e-01, IC:4.72e-03, RIC:4.02e-02, prec@10:5.36e-01, SR:6.56e-01 
+
+
+epoch137##########################################################
+Train : loss:4.35e-01  =  4.34e-01 + alpha*3.88e-03
+Valid : loss:4.39e-01  =  4.39e-01 + alpha*3.35e-03
+Test: loss:4.69e-01  =  4.68e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.57e-03, RIC:-7.18e-02, prec@10:5.13e-01, SR:7.94e-01
+Test performance:
+ mse:4.68e-01, IC:4.38e-03, RIC:3.74e-02, prec@10:5.41e-01, SR:3.26e-01 
+
+
+epoch138##########################################################
+Train : loss:4.35e-01  =  4.34e-01 + alpha*3.90e-03
+Valid : loss:4.39e-01  =  4.39e-01 + alpha*3.34e-03
+Test: loss:4.69e-01  =  4.68e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.39e-01, IC:-9.02e-03, RIC:-6.81e-02, prec@10:5.17e-01, SR:5.07e-01
+Test performance:
+ mse:4.68e-01, IC:4.22e-03, RIC:3.61e-02, prec@10:5.33e-01, SR:6.24e-01 
+
+
+epoch139##########################################################
+Train : loss:4.35e-01  =  4.34e-01 + alpha*3.91e-03
+Valid : loss:4.39e-01  =  4.38e-01 + alpha*3.35e-03
+Test: loss:4.69e-01  =  4.68e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.38e-01, IC:-9.49e-03, RIC:-7.15e-02, prec@10:5.12e-01, SR:7.52e-01
+Test performance:
+ mse:4.68e-01, IC:4.60e-03, RIC:3.93e-02, prec@10:5.30e-01, SR:2.93e-01 
+
+
+epoch140##########################################################
+Train : loss:4.35e-01  =  4.34e-01 + alpha*3.91e-03
+Valid : loss:4.39e-01  =  4.38e-01 + alpha*3.34e-03
+Test: loss:4.69e-01  =  4.69e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.38e-01, IC:-9.55e-03, RIC:-7.21e-02, prec@10:5.15e-01, SR:5.83e-01
+Test performance:
+ mse:4.69e-01, IC:4.78e-03, RIC:4.07e-02, prec@10:5.37e-01, SR:1.44e-01 
+
+
+epoch141##########################################################
+Train : loss:4.34e-01  =  4.34e-01 + alpha*3.91e-03
+Valid : loss:4.39e-01  =  4.38e-01 + alpha*3.34e-03
+Test: loss:4.69e-01  =  4.68e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.38e-01, IC:-9.22e-03, RIC:-6.92e-02, prec@10:5.07e-01, SR:7.70e-01
+Test performance:
+ mse:4.68e-01, IC:4.68e-03, RIC:4.00e-02, prec@10:5.40e-01, SR:3.73e-01 
+
+
+epoch142##########################################################
+Train : loss:4.34e-01  =  4.34e-01 + alpha*3.90e-03
+Valid : loss:4.39e-01  =  4.38e-01 + alpha*3.34e-03
+Test: loss:4.69e-01  =  4.68e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.38e-01, IC:-9.36e-03, RIC:-7.04e-02, prec@10:5.12e-01, SR:7.67e-01
+Test performance:
+ mse:4.68e-01, IC:4.28e-03, RIC:3.65e-02, prec@10:5.37e-01, SR:-1.08e-01 
+
+
+epoch143##########################################################
+Train : loss:4.34e-01  =  4.34e-01 + alpha*3.90e-03
+Valid : loss:4.38e-01  =  4.38e-01 + alpha*3.34e-03
+Test: loss:4.69e-01  =  4.68e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.38e-01, IC:-9.02e-03, RIC:-6.79e-02, prec@10:5.17e-01, SR:7.30e-01
+Test performance:
+ mse:4.68e-01, IC:4.17e-03, RIC:3.56e-02, prec@10:5.45e-01, SR:-1.05e-02 
+
+
+epoch144##########################################################
+Train : loss:4.34e-01  =  4.34e-01 + alpha*3.91e-03
+Valid : loss:4.39e-01  =  4.38e-01 + alpha*3.35e-03
+Test: loss:4.69e-01  =  4.68e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.38e-01, IC:-1.01e-02, RIC:-7.59e-02, prec@10:5.14e-01, SR:6.65e-01
+Test performance:
+ mse:4.68e-01, IC:4.33e-03, RIC:3.70e-02, prec@10:5.42e-01, SR:-9.36e-02 
+
+
+epoch145##########################################################
+Train : loss:4.34e-01  =  4.33e-01 + alpha*3.88e-03
+Valid : loss:4.39e-01  =  4.38e-01 + alpha*3.35e-03
+Test: loss:4.68e-01  =  4.67e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.38e-01, IC:-9.54e-03, RIC:-7.16e-02, prec@10:5.07e-01, SR:8.61e-01
+Test performance:
+ mse:4.67e-01, IC:4.60e-03, RIC:3.93e-02, prec@10:5.35e-01, SR:7.39e-01 
+
+
+epoch146##########################################################
+Train : loss:4.34e-01  =  4.34e-01 + alpha*3.89e-03
+Valid : loss:4.39e-01  =  4.38e-01 + alpha*3.34e-03
+Test: loss:4.69e-01  =  4.68e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.38e-01, IC:-9.61e-03, RIC:-7.23e-02, prec@10:5.16e-01, SR:4.94e-01
+Test performance:
+ mse:4.68e-01, IC:4.32e-03, RIC:3.68e-02, prec@10:5.40e-01, SR:2.61e-01 
+
+
+epoch147##########################################################
+Train : loss:4.34e-01  =  4.33e-01 + alpha*3.91e-03
+Valid : loss:4.39e-01  =  4.38e-01 + alpha*3.34e-03
+Test: loss:4.69e-01  =  4.68e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.38e-01, IC:-9.23e-03, RIC:-6.96e-02, prec@10:5.15e-01, SR:9.23e-01
+Test performance:
+ mse:4.68e-01, IC:4.59e-03, RIC:3.93e-02, prec@10:5.36e-01, SR:-1.07e-01 
+
+
+epoch148##########################################################
+Train : loss:4.34e-01  =  4.34e-01 + alpha*3.91e-03
+Valid : loss:4.38e-01  =  4.37e-01 + alpha*3.34e-03
+Test: loss:4.68e-01  =  4.68e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.37e-01, IC:-9.79e-03, RIC:-7.40e-02, prec@10:5.12e-01, SR:9.61e-01
+Test performance:
+ mse:4.68e-01, IC:4.29e-03, RIC:3.66e-02, prec@10:5.37e-01, SR:7.78e-02 
+
+
+epoch149##########################################################
+Train : loss:4.34e-01  =  4.33e-01 + alpha*3.90e-03
+Valid : loss:4.38e-01  =  4.37e-01 + alpha*3.34e-03
+Test: loss:4.68e-01  =  4.68e-01 + alpha*3.13e-03
+Valid performance:
+ mse:4.37e-01, IC:-9.48e-03, RIC:-7.17e-02, prec@10:5.14e-01, SR:7.44e-01
+Test performance:
+ mse:4.68e-01, IC:4.56e-03, RIC:3.89e-02, prec@10:5.43e-01, SR:3.83e-01 
+
+
+epoch150##########################################################
+Train : loss:4.34e-01  =  4.34e-01 + alpha*3.90e-03
+Valid : loss:4.38e-01  =  4.38e-01 + alpha*3.34e-03
+Test: loss:4.68e-01  =  4.68e-01 + alpha*3.14e-03
+Valid performance:
+ mse:4.38e-01, IC:-9.55e-03, RIC:-7.20e-02, prec@10:5.13e-01, SR:9.76e-01
+Test performance:
+ mse:4.68e-01, IC:4.33e-03, RIC:3.69e-02, prec@10:5.37e-01, SR:1.62e-01 
+
+
+Training finished.
+Best Validation Performance (based on highest validation IC):
+mse:5.04e-01, IC:-6.18e-03, RIC:-4.72e-02, prec@10:5.16e-01, SR:1.00e+00
+Corresponding Test Performance:
+mse:5.35e-01, IC:4.80e-03, RIC:4.33e-02, prec@10:5.35e-01, SR:3.17e-01
+Results appended to ../training_results.xlsx

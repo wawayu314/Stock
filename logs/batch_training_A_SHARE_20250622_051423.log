@@ -1,0 +1,43 @@
+2025-06-22 05:14:23,259 - INFO - 🎯 股票预测模型批量训练系统
+2025-06-22 05:14:23,260 - INFO - ================================================================================
+2025-06-22 05:14:23,260 - INFO - 📊 目标数据集: A_SHARE
+2025-06-22 05:14:23,260 - INFO - 🔧 运行模式: parallel
+2025-06-22 05:14:23,260 - INFO - 📝 要运行的模型: ['StockPredict', 'GCN', 'LSTM', 'LinearModel', 'STHAN-SR']
+2025-06-22 05:14:23,260 - INFO - 📝 总模型数量: 5
+2025-06-22 05:14:23,261 - INFO - 📁 工作目录: C:\Users\Administrator\Desktop\Stock\src
+2025-06-22 05:14:23,261 - INFO - ================================================================================
+2025-06-22 05:14:23,261 - INFO - 
+🔍 步骤0: 环境检查
+2025-06-22 05:14:23,262 - INFO - 🔍 检查运行环境...
+2025-06-22 05:14:27,916 - INFO - ✅ 检测到 1 个GPU
+2025-06-22 05:14:27,916 - INFO - ✅ 环境检查通过
+2025-06-22 05:14:27,916 - INFO - 
+📝 步骤1: 更新数据集设置
+2025-06-22 05:14:27,916 - INFO - 🔄 开始更新脚本的数据集设置为: A_SHARE
+2025-06-22 05:14:27,916 - INFO - 📁 已备份: train.py -> ../backup_original_files\train.py.backup_20250622_051427
+2025-06-22 05:14:27,916 - INFO - 📁 已备份: gcn_train.py -> ../backup_original_files\gcn_train.py.backup_20250622_051427
+2025-06-22 05:14:27,930 - INFO - 📁 已备份: lstm_train.py -> ../backup_original_files\lstm_train.py.backup_20250622_051427
+2025-06-22 05:14:27,932 - INFO - 📁 已备份: linear_train.py -> ../backup_original_files\linear_train.py.backup_20250622_051427
+2025-06-22 05:14:27,933 - INFO - 📁 已备份: sthan_sr_train.py -> ../backup_original_files\sthan_sr_train.py.backup_20250622_051427
+2025-06-22 05:14:27,935 - INFO - ✅ 已更新 train.py 中的market_name为: A_SHARE
+2025-06-22 05:14:27,936 - INFO - ✅ 已更新 gcn_train.py 中的market_name为: A_SHARE
+2025-06-22 05:14:27,937 - INFO - ✅ 已更新 lstm_train.py 中的market_name为: A_SHARE
+2025-06-22 05:14:27,939 - INFO - ✅ 已更新 linear_train.py 中的market_name为: A_SHARE
+2025-06-22 05:14:27,940 - INFO - ✅ 已更新 sthan_sr_train.py 中的market_name为: A_SHARE
+2025-06-22 05:14:27,940 - INFO - ✅ 成功更新 5/5 个脚本
+2025-06-22 05:14:27,940 - INFO - 
+🚀 步骤2: 开始parallel训练
+2025-06-22 05:14:28,946 - INFO - 🚀 开始并行训练所有模型...
+2025-06-22 05:14:28,946 - WARNING - ⚠️  并行模式可能需要大量GPU内存!
+2025-06-22 05:14:28,946 - INFO - 🚀 启动 StockPredict 训练线程...
+2025-06-22 05:14:28,946 - INFO - 🚀 开始训练 StockPredict...
+2025-06-22 05:14:29,953 - INFO - 🚀 启动 GCN 训练线程...
+2025-06-22 05:14:29,953 - INFO - 🚀 开始训练 GCN...
+2025-06-22 05:14:30,968 - INFO - 🚀 启动 LSTM 训练线程...
+2025-06-22 05:14:30,968 - INFO - 🚀 开始训练 LSTM...
+2025-06-22 05:14:31,968 - INFO - 🚀 启动 LinearModel 训练线程...
+2025-06-22 05:14:31,968 - INFO - 🚀 开始训练 LinearModel...
+2025-06-22 05:14:32,981 - INFO - 🚀 启动 STHAN-SR 训练线程...
+2025-06-22 05:14:32,981 - INFO - 🚀 开始训练 STHAN-SR...
+2025-06-22 05:14:51,625 - ERROR - ❌ LSTM 训练失败! 退出码: 3221225477
+2025-06-22 05:14:51,625 - ERROR - 📄 错误日志: ../logs\batch_training_A_SHARE_20250622_051423_LSTM.log
