@@ -1,77 +1,126 @@
 # Stock Prediction with Multi-Modal Fusion
 
-A multi-modal stock prediction system combining price features, technical indicators, and news sentiment analysis, designed for multi-market stock prediction.
+基于多尺度时间特征与情绪分析的股价预测系统，融合价格特征、技术指标与新闻情绪分析，支持多市场股票预测。
 
-## Project Overview
+## 项目概述
 
-This project implements an advanced stock prediction model featuring:
+本项目实现了一个高级股价预测模型，具有以下特性：
 
-- **Multi-Market Support**: Specialized optimization for NYSE, NASDAQ, SP500, and A-Share markets
-- **Multi-Scale Temporal Features**: Multi-scale convolution to capture patterns at different time scales
-- **Sparse Industry Attention**: Industry-based sparse attention mechanism for improved computational efficiency
-- **News Sentiment Integration**: FinBERT-based sentiment analysis fused with price features via gated multimodal architecture
-- **Intelligent Parameter Configuration**: Automatic hyperparameter tuning based on market characteristics
+- **多市场支持**: 针对 NYSE、NASDAQ、SP500、A-Share 市场的专门优化
+- **多尺度时间特征**: 多尺度卷积捕获不同时间尺度的模式
+- **稀疏行业注意力**: 基于行业的稀疏注意力机制，提升计算效率
+- **新闻情绪融合**: 基于 FinBERT 的情绪分析，通过门控多模态架构与价格特征融合
+- **智能参数配置**: 基于市场特征的自动超参数调优
+- **多种融合策略**: 支持拼接融合、门控融合等多种多模态融合方法
 
-## Key Features
+## 核心创新
 
-### Multi-Market Configuration System
-| Market | Description | Optimization Focus |
-|--------|-------------|-------------------|
-| NYSE | Mature market | Stability & ranking quality |
-| NASDAQ | Tech stock market | Fast-changing dynamics |
-| SP500 | Large-cap blue chips | Long-term trends |
-| A-Share | Chinese A-shares | High volatility handling |
+1. **多尺度时间混合器 (Multi-Scale Time Mixer)**: 通过三角上 (TriU) 网络融合原始尺度与多卷积尺度 (stride 2, 4, 8...) 的时间特征
 
-### Core Innovations
+2. **稀疏行业注意力 (Sparse Industry Attention)**: 通过限制在同行业组内的注意力，将 O(n²) 复杂度降至 O(k²×m)
 
-1. **Multi-Scale Time Mixer**: Combines original scale with multiple convolutional scales (stride 2, 4, 8...) via a Triangular Upper (TriU) network for temporal fusion
+3. **门控多模态融合 (Gated Multimodal Fusion)**: 使用三层 MLP 门网络动态学习价格特征与情绪特征的权重
 
-2. **Sparse Industry Attention**: Reduces O(n²) attention complexity to O(k²×m) by restricting attention to within industry groups
+4. **宏观自适应门控 (Macro-Adaptive Gating)**: 结合 VIX 和国债收益率信号，在市场压力期间自适应控制模态融合
 
-3. **Gated Multimodal Fusion**: Dynamically learns to weight price features vs. sentiment features using a three-layer MLP gate network
+5. **情绪分析辅助 (Sentiment-Augmented Prediction)**: 利用 FinBERT 对财经新闻进行情绪分析，作为预测的辅助特征
 
-4. **Macro-Adaptive Gating**: Incorporates VIX and Treasury Yield signals to adaptively control modality fusion during market stress
-
-## Project Structure
+## 项目结构
 
 ```
 Stock/
 ├── src/
-│   ├── model.py                   # Core model: MultiScaleTimeMixer, StockPredict
-│   ├── train.py                   # Main training script (price-only)
-│   ├── gated_multimodal_train.py  # Gated multimodal fusion training
-│   ├── sentiment_lstm_train.py    # Sentiment-enhanced LSTM training
-│   ├── news_sentiment_preprocessor.py  # News sentiment preprocessing
-│   ├── evaluator.py              # Performance metrics (IC, RIC, Sharpe, etc.)
-│   └── load_data.py              # Data loading utilities
-├── dataset/                       # Dataset directory (excluded from git)
+│   ├── model.py                       # 核心模型: MultiScaleTimeMixer, StockPredict
+│   ├── train.py                       # 基础训练脚本 (仅价格特征)
+│   ├── evaluator.py                   # 性能评估指标 (IC, RIC, Sharpe等)
+│   ├── load_data.py                   # 数据加载工具
+│   ├── config.py                      # 配置文件
+│   │
+│   ├── 训练脚本 (Training Scripts)
+│   │   ├── gated_multimodal_train.py  # 门控多模态融合训练
+│   │   ├── concat_fusion_train.py     # 拼接融合训练
+│   │   ├── unimodal_train.py          # 单模态基线训练
+│   │   ├── sentiment_lstm_train.py    # 情绪增强LSTM训练
+│   │   ├── lstm_train.py              # LSTM基线训练
+│   │   ├── linear_train.py            # 线性模型训练
+│   │   ├── gcn_train.py               # 图卷积网络训练
+│   │   ├── sthan_sr_train.py          # STHAN-SR模型训练
+│   │   └── train_ablation.py          # 消融实验训练
+│   │
+│   ├── 情绪分析 (Sentiment Analysis)
+│   │   ├── news_sentiment_preprocessor.py  # 新闻情绪预处理
+│   │   └── quick_start_sentiment.py        # 快速开始情绪分析
+│   │
+│   ├── 数据检查 (Data Checking)
+│   │   ├── check_nyse_data.py         # 检查NYSE数据
+│   │   ├── check_sentiment_data.py    # 检查情绪数据
+│   │   └── quick_check.py             # 快速数据检查
+│   │
+│   └── 辅助工具 (Utilities)
+│       ├── run_all_models.py           # 运行所有模型
+│       ├── run_all_news_collection.py # 运行所有新闻收集
+│       └── benchmark_flops.py          # 基准测试
+│
+├── dataset/                            # 数据集目录 (不纳入git)
 │   ├── SP500/
 │   ├── NASDAQ/
-│   └── NYSE/
-├── requirements.txt              # Core dependencies
-├── requirements_sentiment.txt    # Sentiment analysis dependencies
+│   ├── NYSE/
+│   └── A_SHARE/
+│
+├── requirements.txt                    # 核心依赖
+├── requirements_sentiment.txt          # 情绪分析依赖
 └── README.md
 ```
 
-## Installation
+## 核心模块说明
 
-### 1. Environment Requirements
+### 多模态融合训练
+
+| 脚本 | 说明 |
+|------|------|
+| `gated_multimodal_train.py` | 门控多模态融合，使用 MLP 门网络动态调节价格与情绪特征的融合权重 |
+| `concat_fusion_train.py` | 拼接融合，将价格特征与情绪特征直接拼接后输入预测器 |
+| `unimodal_train.py` | 单模态训练，仅使用价格特征的基线模型 |
+| `sentiment_lstm_train.py` | 情绪增强 LSTM，将情绪特征与价格特征一同输入 LSTM |
+
+### 情绪分析模块
+
+| 脚本 | 说明 |
+|------|------|
+| `news_sentiment_preprocessor.py` | 使用 FinBERT 对财经新闻进行情感分析，生成每日情感得分 |
+| `quick_start_sentiment.py` | 快速开始脚本，用于快速验证情绪分析流程 |
+
+### 基线对比模型
+
+| 脚本 | 模型类型 |
+|------|----------|
+| `train.py` | 多尺度时间混合器 (本项目核心模型) |
+| `lstm_train.py` | 长短期记忆网络 |
+| `linear_train.py` | 线性回归模型 |
+| `gcn_train.py` | 图卷积网络 |
+| `sthan_sr_train.py` | STHAN-SR 模型 |
+
+## 安装
+
+### 1. 环境要求
+
 - Python 3.8+
-- CUDA 11.0+ (optional, for GPU acceleration)
+- CUDA 11.0+ (可选，用于GPU加速)
 
-### 2. Install Dependencies
+### 2. 安装依赖
 
 ```bash
-# Core dependencies
+# 核心依赖
 pip install -r requirements.txt
 
-# Sentiment analysis dependencies (includes FinBERT)
+# 情绪分析依赖 (包含 FinBERT)
 pip install -r requirements_sentiment.txt
 ```
 
-### 3. Data Preparation
+### 3. 数据准备
 
-The dataset directory should be organized as follows:
+数据集目录结构如下：
+
 ```
 dataset/
 ├── NYSE/
@@ -82,13 +131,12 @@ dataset/
 │   ├── nyse_ticker.csv
 │   └── nyse_industry_data.json
 ├── NASDAQ/
-│   ├── eod_data.pkl
 │   └── ...
 ├── SP500/
 │   ├── SP500.npy
 │   ├── sp500_ticker.csv
-│   └── sp500_industry_data.json
-│   └── news_sentiment/          # News sentiment data
+│   ├── sp500_industry_data.json
+│   └── news_sentiment/          # 新闻情绪数据
 │       ├── AAPL_daily_sentiment.csv
 │       ├── AAPL_news_detailed.csv
 │       └── ...
@@ -96,70 +144,101 @@ dataset/
     └── ...
 ```
 
-## Usage
+## 使用方法
 
-### 1. Basic Training (Price Features Only)
+### 1. 基础训练 (仅价格特征)
 
 ```bash
 cd src
 python train.py
 ```
 
-### 2. Gated Multimodal Fusion Training (Price + Sentiment)
+### 2. 门控多模态融合训练 (价格 + 情绪)
 
 ```bash
 cd src
 python gated_multimodal_train.py
 ```
 
-### 3. Switch Markets
+### 3. 拼接融合训练
 
-Modify the `MARKET_NAME` variable in the training script:
-
-```python
-MARKET_NAME = 'SP500'  # Options: 'NYSE', 'NASDAQ', 'SP500', 'A_SHARE'
+```bash
+cd src
+python concat_fusion_train.py
 ```
 
-### 4. Custom Parameters
+### 4. 单模态基线对比
 
-The system automatically selects optimal parameters per market:
+```bash
+cd src
+python unimodal_train.py
+```
 
-| Parameter | NYSE | NASDAQ | SP500 | A_SHARE |
-|-----------|------|---------|-------|---------|
+### 5. 情绪分析数据生成
+
+```bash
+cd src
+python news_sentiment_preprocessor.py
+```
+
+### 6. 切换市场
+
+修改训练脚本中的 `MARKET_NAME` 变量：
+
+```python
+MARKET_NAME = 'SP500'  # 选项: 'NYSE', 'NASDAQ', 'SP500', 'A_SHARE'
+```
+
+### 7. 自定义参数
+
+系统会自动根据市场选择最优参数：
+
+| 参数 | NYSE | NASDAQ | SP500 | A_SHARE |
+|------|------|--------|-------|---------|
 | lookback_length | 32 | 64 | 32 | 36 |
 | epochs | 60 | 60 | 60 | 150 |
 | learning_rate | 5e-5 | 1e-4 | 2e-5 | 8e-5 |
-| alpha (rank loss) | 0.75 | 0.8 | 0.5 | 0.2 |
+| alpha (排名损失) | 0.75 | 0.8 | 0.5 | 0.2 |
 | scale_factor | 3 | 3 | 4 | 1 |
 
-## Performance Metrics
+### 8. 运行所有模型对比
 
-- **IC (Information Coefficient)**: Correlation between predictions and actual returns
-- **RIC (Rank Information Coefficient)**: Quality of ranking predictions
-- **Precision@10**: Prediction accuracy for top 10% stocks
-- **Sharpe Ratio**: Risk-adjusted return metric
+```bash
+cd src
+python run_all_models.py
+```
 
-## Model Architecture
+## 性能指标
 
-### Multi-Scale Time Mixer
-- Extracts features at multiple temporal scales using 1D convolutions
-- Fuses scales via Triangular Upper (TriU) network
-- Preserves temporal ordering with causal attention
+- **IC (信息系数)**: 预测与实际收益的相关性
+- **RIC (排名信息系数)**: 排名预测质量
+- **Precision@10**: 前10%股票的预测准确率
+- **夏普比率**: 风险调整收益指标
 
-### Industry Sparse Attention
-- Loads SIC-based industry classification
-- Restricts attention within industry groups
-- 2-5x computational speedup depending on industry distribution
+## 模型架构
 
-### Gated Multimodal Fusion
-- **Price Encoder**: LSTM on price/technical features
-- **Sentiment Encoder**: LSTM on news sentiment features
-- **Gate Network**: 3-layer MLP predicting modality weights
-- **Macro Controller**: VIX + Treasury Yield signal to modulate gating
+### 多尺度时间混合器
 
-## Citation
+- 使用1D卷积在多个时间尺度上提取特征
+- 通过三角上 (TriU) 网络融合不同尺度
+- 使用因果注意力保持时间顺序
 
-If this work is helpful for your research, please cite:
+### 行业稀疏注意力
+
+- 加载基于SIC的行业分类
+- 限制注意力在同行业组内
+- 根据行业分布实现2-5倍计算加速
+
+### 门控多模态融合
+
+- **价格编码器**: 对价格/技术特征使用LSTM
+- **情绪编码器**: 对新闻情绪特征使用LSTM
+- **门网络**: 3层MLP预测模态权重
+- **宏观控制器**: VIX + 国债收益率信号调制门控
+
+## 引用
+
+如果本项目对你的研究有帮助，请引用：
 
 ```
 @misc{stock_prediction_2025,
@@ -169,10 +248,10 @@ If this work is helpful for your research, please cite:
 }
 ```
 
-## License
+## 许可证
 
 MIT License
 
 ---
 
-**Risk Warning**: This project is for educational and research purposes only. It does not constitute investment advice. Stock investments involve risk; invest with caution.
+**风险提示**: 本项目仅用于教育和研究目的，不构成投资建议。股票投资有风险，请谨慎操作。
