@@ -49,32 +49,100 @@ torch.random.manual_seed(12345678)
 device = torch.device("cuda") if torch.cuda.is_available() else 'cpu' # 如果CUDA可用则使用GPU，否则使用CPU
 
 data_path = '../dataset' # 数据路径
-market_name = 'NYSE' # 明确设置为SP500市场
+market_name = 'SP500' # 明确设置为SP500市场
 relation_name = 'wikidata' # 关系名称 (似乎未使用)
 stock_num = 1026 # 股票数量 (此值将在数据加载后被动态覆盖)
 
-# --- 模型超参数调优 (A_SHARE) - "延时慢炖"最终尝试 ---
-# 目标: 在极简模型基础上，通过延长训练时间和微调正则化，做提升RIC的最后一次尝试
-# 策略: 给予成功的极简模型更长的训练时间，并适度放松约束，看其是否能释放全部潜力
-# 1. 延长训练: 大幅增加epochs，进行充分的"慢炖"
-# 2. 微调正则化: 略微降低正则化强度，允许模型在更长的训练中学习更精细的模式
-# 3. 优化学习节奏: 采用与长训练周期匹配的、带一次重启的平滑学习率曲线
-# ------------------------------------
+# ============================================
+# 🎯 根据不同市场配置参数
+# ============================================
+if market_name.upper() == 'NYSE':
+    # 🏛️ 纽约证券交易所 - 成熟市场配置
+    lookback_length = 32
+    epochs = 60
+    learning_rate = 0.00005
+    alpha = 0.75  # 较低的alpha，重视排名损失
+    scale_factor = 3
+    activation_str = 'GELU'
+    attention_heads = 8
+    attention_dropout = 0.1
+    weight_decay = 0.0001
+    attention_ffn_dim_multiplier = 6
+    print("🏛️ 使用NYSE市场配置 - 成熟市场，注重稳定性和排名质量")
+    
+elif market_name.upper() == 'NASDAQ':
+    # 🚀 纳斯达克 - 科技股配置
+    lookback_length = 64
+    epochs = 60
+    learning_rate = 0.0001
+    alpha = 0.8  # 更低的alpha，科技股波动大需要更好的排名
+    scale_factor = 3
+    activation_str = 'Hardswish'
+    attention_heads = 5
+    attention_dropout = 0.5
+    weight_decay = 0.0005
+    attention_ffn_dim_multiplier = 4
+    print("🚀 使用NASDAQ市场配置 - 科技股市场，更高复杂度模型适应快速变化")
+    
+elif market_name.upper() == 'SP500':
+    # 📈 标普500 - 大盘蓝筹配置
+    lookback_length = 32
+    epochs = 60
+    learning_rate = 0.00002
+    alpha = 0.5  # 适中的alpha，平衡回归和排名
+    scale_factor = 4
+    activation_str = 'GELU'
+    attention_heads = 6
+    attention_dropout = 0.2
+    weight_decay = 4e-4
+    attention_ffn_dim_multiplier = 4
+    print("📈 使用SP500市场配置 - 大盘蓝筹，长期趋势明显，需要更长回看窗口")
+    
+elif market_name.upper() == 'A_SHARE':
+    # 🇨🇳 A股市场 - 特殊配置
+    lookback_length = 36
+    epochs = 150
+    learning_rate = 8e-5
+    alpha = 0.2   # 最低的alpha，A股市场需要特别注重排名
+    scale_factor = 1
+    activation_str = 'GELU'
+    attention_heads = 4
+    attention_dropout = 0.35
+    weight_decay = 8e-4
+    attention_ffn_dim_multiplier = 3
+    print("🇨🇳 使用A_SHARE市场配置 - A股市场，高波动性，需要更强的正则化")
+    
+else:
+    # 🔧 默认配置 - 通用设置
+    lookback_length = 48
+    epochs = 80
+    learning_rate = 5e-5
+    alpha = 0.3
+    scale_factor = 2
+    activation_str = 'GELU'
+    attention_heads = 6
+    attention_dropout = 0.25
+    weight_decay = 5e-4
+    attention_ffn_dim_multiplier = 4
+    print("🔧 使用默认配置 - 通用设置，适用于未特别优化的市场")
 
-lookback_length = 48 # 增加回看长度，捕捉更稳定的长期模式
-epochs = 80 # 大幅增加训练轮次，进行充分的"慢炖"
-# valid_index 和 test_index 将在数据加载后动态计算
+# 固定参数
 fea_num = 5 # 特征数量
 steps = 1 # 预测步长
-learning_rate = 8e-6 # 微调学习率以匹配新容量
-alpha = 0.8 # 极大地增加排序损失的权重，主攻IC/RIC指标
-scale_factor = 2 # 大幅降低多尺度分析层级，简化模型
-activation_str = 'GELU' # 使用GELU激活函数，通常在Transformer架构中表现更好
-attention_heads = 12 # 匹配新的embed_dim(72)，并简化注意力机制
-attention_dropout = 0.2 # 略微降低正则化
-weight_decay = 9.5e-4 # 略微降低正则化
 
-# Determine activation function class based on the string
+print(f"📊 {market_name} 市场参数配置:")
+print(f"   回看长度: {lookback_length} 天")
+print(f"   训练轮数: {epochs} epochs")
+print(f"   学习率: {learning_rate:.1e}")
+print(f"   Alpha (损失权重): {alpha}")
+print(f"   模型复杂度: scale_factor={scale_factor}")
+print(f"   注意力头数: {attention_heads}")
+print(f"   注意力dropout: {attention_dropout}")
+print(f"   权重衰减: {weight_decay:.1e}")
+print(f"   FFN维度乘子: {attention_ffn_dim_multiplier}")
+print("="*60)
+
+# 确定激活函数类
 if activation_str == 'GELU':
     activation_fn_to_pass = nn.GELU
 elif activation_str == 'Hardswish': 
@@ -82,7 +150,7 @@ elif activation_str == 'Hardswish':
 elif activation_str == 'ReLU':
     activation_fn_to_pass = nn.ReLU
 else:
-    # Default to GELU or raise an error if an unsupported activation is specified
+    # 如果指定了不支持的激活函数，默认使用GELU或报错
     print(f"Warning: Unsupported activation '{activation_str}', defaulting to GELU.")
     activation_fn_to_pass = nn.GELU
 
@@ -209,7 +277,7 @@ for i in range(num_conv_scales_to_add):
         break
 
 # 定义注意力模块中FFN的维度乘子
-attention_ffn_dim_multiplier = 5 # 微量增加FFN维度，专注提升IC
+ # 微量增加FFN维度，专注提升IC
 attention_ffn_dim_to_pass = calculated_concat_time_dim * attention_ffn_dim_multiplier
 
 model = StockPredict(
@@ -267,7 +335,7 @@ optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate, weight_decay
                                betas=(0.9, 0.98), eps=1e-8) # 使用AdamW优化器，更好的正则化和收敛
 # 使用Cosine Annealing学习率调度，更好的收敛性能
 scheduler = torch.optim.lr_scheduler.CosineAnnealingWarmRestarts(
-    optimizer, T_0=40, T_mult=2, eta_min=1e-7, verbose=True
+    optimizer, T_0=40, T_mult=2, eta_min=1e-7
 )
 # --- 梯度累积配置 ---
 gradient_accumulation_steps = 4  # 梯度累积步数，模拟更大的batch size
